@@ -102979,7 +102979,7 @@ msgid "IDS_PSPT008_533_NUMANCIA"
 msgstr "533 mm MkIV* ES"
 
 msgid "IDS_PSSC101"
-msgstr "木星"
+msgstr "朱比特"
 
 msgid "IDS_PSSC101_DESCR"
 msgstr ""
@@ -102989,7 +102989,7 @@ msgstr ""
 "導致叛軍主力艦 España 沉沒。"
 
 msgid "IDS_PSSC101_FULL"
-msgstr "木星"
+msgstr "朱比特"
 
 msgid "IDS_PSSC101_NUMBER"
 msgstr "4"
