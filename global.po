@@ -134814,7 +134814,7 @@ msgstr "ARIA"
 
 msgid "IDS_PCEE654_ARIA_FLAG_DESCRIPTION"
 msgstr ""
-"成立於20世界80年代中期的傳奇蘇聯和俄羅斯音樂團體，曲風為重金屬流派。\n"
+"成立於20世紀80年代中期的傳奇蘇聯和俄羅斯音樂團體，曲風為重金屬流派。\n"
 "ARIA在她的生涯中錄製了數十首深受其粉絲和大眾喜愛的歌曲"
 
 msgid "IDS_PCZC883_ARIA_1_1"
@@ -134969,3 +134969,11 @@ msgstr "Гость из царства теней (來自暗影王國的客人)
 
 msgid "IDS_PCZC902_ARIA_4_5_DESCRIPTION"
 msgstr "一場長達數年的巡演，含有表演元素的演唱會"
+
+msgid "IDS_DOGTAG_PCNB394_NAME"
+msgstr "ARIA"
+
+msgid "IDS_DOGTAG_PCNB394_DESCRIPTION"
+msgstr ""
+"成立於20世紀80年代中期的傳奇蘇聯和俄羅斯音樂團體，曲風為重金屬流派。\n"
+"ARIA在她的生涯中錄製了數十首深受其粉絲和大眾喜愛的歌曲"
