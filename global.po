@@ -54501,7 +54501,7 @@ msgid "IDS_PBPT990_CYCLOPS"
 msgstr "533 mm Mk IXM"
 
 msgid "IDS_PBSA106"
-msgstr "Furious"
+msgstr "暴怒"
 
 msgid "IDS_PBSA106_DESCR"
 msgstr ""
@@ -54511,7 +54511,7 @@ msgstr ""
 "助狩獵藏身於挪威狹灣中的 Tirpitz。"
 
 msgid "IDS_PBSA106_FULL"
-msgstr "Furious"
+msgstr "暴怒"
 
 msgid "IDS_PBSA106_NUMBER"
 msgstr "1"
@@ -54520,7 +54520,7 @@ msgid "IDS_PBSA106_YEAR"
 msgstr "1917"
 
 msgid "IDS_PBSA108"
-msgstr "Implacable"
+msgstr "怨仇"
 
 msgid "IDS_PBSA108_DESCR"
 msgstr ""
@@ -54530,7 +54530,7 @@ msgstr ""
 "援沖繩島登陸，以及在本州附近對抗日本航空隊的行動。"
 
 msgid "IDS_PBSA108_FULL"
-msgstr "Implacable"
+msgstr "怨仇"
 
 msgid "IDS_PBSA108_NUMBER"
 msgstr "2"
@@ -54539,7 +54539,7 @@ msgid "IDS_PBSA108_YEAR"
 msgstr "1945"
 
 msgid "IDS_PBSA111"
-msgstr "Eagle"
+msgstr "鷹"
 
 msgid "IDS_PBSA111_DESCR"
 msgstr ""
@@ -54549,7 +54549,7 @@ msgstr ""
 "修，她獲得了角度增加的傾斜飛行甲板，以及防空飛彈系統。總排水量因此超過了 54,000 噸。"
 
 msgid "IDS_PBSA111_FULL"
-msgstr "Eagle"
+msgstr "鷹"
 
 msgid "IDS_PBSA111_NUMBER"
 msgstr "1"
@@ -54558,7 +54558,7 @@ msgid "IDS_PBSA111_YEAR"
 msgstr "1951"
 
 msgid "IDS_PBSA204"
-msgstr "Hermes"
+msgstr "競技神"
 
 msgid "IDS_PBSA204_DESCR"
 msgstr ""
@@ -54569,7 +54569,7 @@ msgstr ""
 "艦的飛機擊沉。"
 
 msgid "IDS_PBSA204_FULL"
-msgstr "Hermes"
+msgstr "競技神"
 
 msgid "IDS_PBSA204_NUMBER"
 msgstr "1"
@@ -54636,7 +54636,7 @@ msgid "IDS_PBSA510_YEAR"
 msgstr "1945"
 
 msgid "IDS_PBSA518"
-msgstr "Ark Royal"
+msgstr "皇家方舟"
 
 msgid "IDS_PBSA518_DESCR"
 msgstr ""
@@ -54646,7 +54646,7 @@ msgstr ""
 "枚魚雷擊中，經過長時間的生存鬥爭後受命棄船，此航空母艦最終翻覆並消失在水下。"
 
 msgid "IDS_PBSA518_FULL"
-msgstr "Ark Royal"
+msgstr "皇家方舟"
 
 msgid "IDS_PBSA518_NUMBER"
 msgstr "1"
@@ -54674,13 +54674,13 @@ msgid "IDS_PBSA528_YEAR"
 msgstr "1944"
 
 msgid "IDS_PBSA910"
-msgstr "[Audacious]"
+msgstr "[大膽]"
 
 msgid "IDS_PBSA910_DESCR"
 msgstr "這艘艦艇為 Audacious 的複製品，僅作測試用途。"
 
 msgid "IDS_PBSA910_FULL"
-msgstr "[Audacious]"
+msgstr "[大膽]"
 
 msgid "IDS_PBSA910_NUMBER"
 msgstr "1"
@@ -54689,7 +54689,7 @@ msgid "IDS_PBSA910_YEAR"
 msgstr "1945"
 
 msgid "IDS_PBSB002"
-msgstr "Warspite"
+msgstr "厭戰"
 
 msgid "IDS_PBSB002_DESCR"
 msgstr ""
@@ -54700,7 +54700,7 @@ msgstr ""
 "陸西西里島和諾曼第。"
 
 msgid "IDS_PBSB002_FULL"
-msgstr "Warspite"
+msgstr "厭戰"
 
 msgid "IDS_PBSB002_NUMBER"
 msgstr "5"
@@ -54709,7 +54709,7 @@ msgid "IDS_PBSB002_YEAR"
 msgstr "1915"
 
 msgid "IDS_PBSB103"
-msgstr "Bellerophon"
+msgstr "貝勒羅豐"
 
 msgid "IDS_PBSB103_DESCR"
 msgstr ""
@@ -54718,7 +54718,7 @@ msgstr ""
 "本土艦隊。第一次世界大戰期間，她隸屬於大艦隊的第四主力艦中隊，並參與了日德蘭海戰。"
 
 msgid "IDS_PBSB103_FULL"
-msgstr "Bellerophon"
+msgstr "貝勒羅豐"
 
 msgid "IDS_PBSB103_NUMBER"
 msgstr "3"
@@ -54727,7 +54727,7 @@ msgid "IDS_PBSB103_YEAR"
 msgstr "1909"
 
 msgid "IDS_PBSB104"
-msgstr "Orion"
+msgstr "獵戶座"
 
 msgid "IDS_PBSB104_DESCR"
 msgstr ""
@@ -54737,7 +54737,7 @@ msgstr ""
 "約》退役。"
 
 msgid "IDS_PBSB104_FULL"
-msgstr "Orion"
+msgstr "獵戶座"
 
 msgid "IDS_PBSB104_NUMBER"
 msgstr "4"
@@ -54746,7 +54746,7 @@ msgid "IDS_PBSB104_YEAR"
 msgstr "1912"
 
 msgid "IDS_PBSB105"
-msgstr "Iron Duke"
+msgstr "鐵公爵"
 
 msgid "IDS_PBSB105_DESCR"
 msgstr ""
@@ -54756,7 +54756,7 @@ msgstr ""
 "在 1939 年轉移至斯卡帕灣，最終在 1939 年 10 月 17 日遭德國空襲擊毀並鑿沉。"
 
 msgid "IDS_PBSB105_FULL"
-msgstr "Iron Duke"
+msgstr "鐵公爵"
 
 msgid "IDS_PBSB105_NUMBER"
 msgstr "4"
@@ -54765,7 +54765,7 @@ msgid "IDS_PBSB105_YEAR"
 msgstr "1914"
 
 msgid "IDS_PBSB106"
-msgstr "Queen Elizabeth"
+msgstr "伊麗莎白女王"
 
 msgid "IDS_PBSB106_DESCR"
 msgstr ""
@@ -54775,7 +54775,7 @@ msgstr ""
 "成為東方艦隊的旗艦。"
 
 msgid "IDS_PBSB106_FULL"
-msgstr "Queen Elizabeth"
+msgstr "伊麗莎白女王"
 
 msgid "IDS_PBSB106_NUMBER"
 msgstr "5"
@@ -54784,7 +54784,7 @@ msgid "IDS_PBSB106_YEAR"
 msgstr "1915"
 
 msgid "IDS_PBSB107"
-msgstr "King George V"
+msgstr "英王喬治五世"
 
 msgid "IDS_PBSB107_DESCR"
 msgstr ""
@@ -54795,7 +54795,7 @@ msgstr ""
 "1943 年轉移至地中海，掩護盟軍部隊登陸西西里島。"
 
 msgid "IDS_PBSB107_FULL"
-msgstr "King George V"
+msgstr "英王喬治五世"
 
 msgid "IDS_PBSB107_NUMBER"
 msgstr "5"
@@ -54804,7 +54804,7 @@ msgid "IDS_PBSB107_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSB108"
-msgstr "Monarch"
+msgstr "君主"
 
 msgid "IDS_PBSB108_DESCR"
 msgstr ""
@@ -54813,7 +54813,7 @@ msgstr ""
 "重重量。"
 
 msgid "IDS_PBSB108_FULL"
-msgstr "Monarch"
+msgstr "君主"
 
 msgid "IDS_PBSB108_NUMBER"
 msgstr "0"
@@ -54822,7 +54822,7 @@ msgid "IDS_PBSB108_YEAR"
 msgstr "1935"
 
 msgid "IDS_PBSB109"
-msgstr "Lion"
+msgstr "獅"
 
 msgid "IDS_PBSB109_DESCR"
 msgstr ""
@@ -54832,7 +54832,7 @@ msgstr ""
 "工作在第二次世界大戰爆發期間遭推遲隨後取消。"
 
 msgid "IDS_PBSB109_FULL"
-msgstr "Lion"
+msgstr "獅"
 
 msgid "IDS_PBSB109_NUMBER"
 msgstr "2"
@@ -54875,7 +54875,7 @@ msgid "IDS_PBSB111_YEAR"
 msgstr "1952"
 
 msgid "IDS_PBSB203"
-msgstr "Indefatigable"
+msgstr "不倦"
 
 msgid "IDS_PBSB203_DESCR"
 msgstr ""
@@ -54885,7 +54885,7 @@ msgstr ""
 "返回本土艦隊。次年在日德蘭海戰期間，她在彈藥庫殉爆後沉沒。"
 
 msgid "IDS_PBSB203_FULL"
-msgstr "Indefatigable"
+msgstr "不倦"
 
 msgid "IDS_PBSB203_NUMBER"
 msgstr "3"
@@ -54894,7 +54894,7 @@ msgid "IDS_PBSB203_YEAR"
 msgstr "1911"
 
 msgid "IDS_PBSB204"
-msgstr "Queen Mary"
+msgstr "瑪麗女王"
 
 msgid "IDS_PBSB204_DESCR"
 msgstr ""
@@ -54904,7 +54904,7 @@ msgstr ""
 "火中，並在彈藥庫殉爆後沉沒。"
 
 msgid "IDS_PBSB204_FULL"
-msgstr "Queen Mary"
+msgstr "瑪麗女王"
 
 msgid "IDS_PBSB204_NUMBER"
 msgstr "1"
@@ -54913,7 +54913,7 @@ msgid "IDS_PBSB204_YEAR"
 msgstr "1913"
 
 msgid "IDS_PBSB205"
-msgstr "Tiger"
+msgstr "虎"
 
 msgid "IDS_PBSB205_DESCR"
 msgstr ""
@@ -54924,7 +54924,7 @@ msgstr ""
 "且未受到嚴重傷害。"
 
 msgid "IDS_PBSB205_FULL"
-msgstr "Tiger"
+msgstr "虎"
 
 msgid "IDS_PBSB205_NUMBER"
 msgstr "1"
@@ -54933,7 +54933,7 @@ msgid "IDS_PBSB205_YEAR"
 msgstr "1914"
 
 msgid "IDS_PBSB206"
-msgstr "Renown"
+msgstr "聲望"
 
 msgid "IDS_PBSB206_DESCR"
 msgstr ""
@@ -54943,7 +54943,7 @@ msgstr ""
 "交用途供 Winston Churchill 乘坐。她在 1944 年作為東方艦隊的一員參與了戰爭的最後階段。"
 
 msgid "IDS_PBSB206_FULL"
-msgstr "Renown"
+msgstr "聲望"
 
 msgid "IDS_PBSB206_NUMBER"
 msgstr "2"
@@ -54952,7 +54952,7 @@ msgid "IDS_PBSB206_YEAR"
 msgstr "1916"
 
 msgid "IDS_PBSB207"
-msgstr "Rooke"
+msgstr "魯克"
 
 msgid "IDS_PBSB207_DESCR"
 msgstr ""
@@ -54961,7 +54961,7 @@ msgstr ""
 "可使用任何適用於 Hood 的碼頭，並能通過蘇伊士運河和巴拿馬運河。"
 
 msgid "IDS_PBSB207_FULL"
-msgstr "Rooke"
+msgstr "魯克"
 
 msgid "IDS_PBSB207_NUMBER"
 msgstr "1"
@@ -54970,7 +54970,7 @@ msgid "IDS_PBSB207_YEAR"
 msgstr "1920"
 
 msgid "IDS_PBSB208"
-msgstr "Hawke"
+msgstr "霍克"
 
 msgid "IDS_PBSB208_DESCR"
 msgstr ""
@@ -54979,7 +54979,7 @@ msgstr ""
 "徑縮小到 406 毫米，這將有助於縮小艦艇尺寸。但英國海軍部拒絕了這項提議，而計畫最終未能實現。"
 
 msgid "IDS_PBSB208_FULL"
-msgstr "Hawke"
+msgstr "霍克"
 
 msgid "IDS_PBSB208_NUMBER"
 msgstr "0"
@@ -54988,7 +54988,7 @@ msgid "IDS_PBSB208_YEAR"
 msgstr "1943"
 
 msgid "IDS_PBSB209"
-msgstr "Duncan"
+msgstr "鄧肯"
 
 msgid "IDS_PBSB209_DESCR"
 msgstr ""
@@ -54997,7 +54997,7 @@ msgstr ""
 "甲。同年 10 月，在此計畫下訂造了四艘艦艇，但因華盛頓會議召開而中止，最終遵循會議結果而取消。"
 
 msgid "IDS_PBSB209_FULL"
-msgstr "Duncan"
+msgstr "鄧肯"
 
 msgid "IDS_PBSB209_NUMBER"
 msgstr "1"
@@ -55024,7 +55024,7 @@ msgid "IDS_PBSB210_YEAR"
 msgstr "1920"
 
 msgid "IDS_PBSB503"
-msgstr "Dreadnought"
+msgstr "無畏"
 
 msgid "IDS_PBSB503_DESCR"
 msgstr ""
@@ -55035,7 +55035,7 @@ msgstr ""
 "成功衝撞使得 U-29 潛水艦沉沒。"
 
 msgid "IDS_PBSB503_FULL"
-msgstr "Dreadnought"
+msgstr "無畏"
 
 msgid "IDS_PBSB503_NUMBER"
 msgstr "1"
@@ -55044,7 +55044,7 @@ msgid "IDS_PBSB503_YEAR"
 msgstr "1906"
 
 msgid "IDS_PBSB505"
-msgstr "Agincourt"
+msgstr "阿金科特"
 
 msgid "IDS_PBSB505_DESCR"
 msgstr ""
@@ -55054,7 +55054,7 @@ msgstr ""
 "在 1916 年參加了日德蘭海戰，期間她數次成功擊中德國艦艇。"
 
 msgid "IDS_PBSB505_FULL"
-msgstr "Agincourt"
+msgstr "阿金科特"
 
 msgid "IDS_PBSB505_NUMBER"
 msgstr "1"
@@ -55063,7 +55063,7 @@ msgid "IDS_PBSB505_YEAR"
 msgstr "1914"
 
 msgid "IDS_PBSB507"
-msgstr "Hood"
+msgstr "胡德"
 
 msgid "IDS_PBSB507_DESCR"
 msgstr ""
@@ -55074,7 +55074,7 @@ msgstr ""
 "並在其彈藥庫殉爆後沉沒。"
 
 msgid "IDS_PBSB507_FULL"
-msgstr "Hood"
+msgstr "胡德"
 
 msgid "IDS_PBSB507_NUMBER"
 msgstr "1"
@@ -55083,7 +55083,7 @@ msgid "IDS_PBSB507_YEAR"
 msgstr "1920"
 
 msgid "IDS_PBSB508"
-msgstr "Vanguard"
+msgstr "前衛"
 
 msgid "IDS_PBSB508_DESCR"
 msgstr ""
@@ -55092,7 +55092,7 @@ msgstr ""
 "世界上最後一艘被建造的主力艦。此艦艇在服役期間被用於外交巡航和演習。"
 
 msgid "IDS_PBSB508_FULL"
-msgstr "Vanguard"
+msgstr "前衛"
 
 msgid "IDS_PBSB508_NUMBER"
 msgstr "1"
@@ -55101,7 +55101,7 @@ msgid "IDS_PBSB508_YEAR"
 msgstr "1946"
 
 msgid "IDS_PBSB509"
-msgstr "Marlborough"
+msgstr "馬爾堡"
 
 msgid "IDS_PBSB509_DESCR"
 msgstr ""
@@ -55110,7 +55110,7 @@ msgstr ""
 "法並未得到貫徹。"
 
 msgid "IDS_PBSB509_FULL"
-msgstr "Marlborough"
+msgstr "馬爾堡"
 
 msgid "IDS_PBSB509_NUMBER"
 msgstr "1"
@@ -55119,7 +55119,7 @@ msgid "IDS_PBSB509_YEAR"
 msgstr "1947"
 
 msgid "IDS_PBSB510"
-msgstr "Thunderer"
+msgstr "雷神"
 
 msgid "IDS_PBSB510_DESCR"
 msgstr ""
@@ -55127,7 +55127,7 @@ msgstr ""
 "457 毫米火炮，該火炮是在第一次世界大戰後，為 N 和 G 計畫的主力艦和戰鬥巡洋艦所開發。"
 
 msgid "IDS_PBSB510_FULL"
-msgstr "Thunderer"
+msgstr "雷神"
 
 msgid "IDS_PBSB510_NUMBER"
 msgstr "1"
@@ -55136,7 +55136,7 @@ msgid "IDS_PBSB510_YEAR"
 msgstr "1949"
 
 msgid "IDS_PBSB517"
-msgstr "Nelson"
+msgstr "納爾遜"
 
 msgid "IDS_PBSB517_DESCR"
 msgstr ""
@@ -55146,7 +55146,7 @@ msgstr ""
 "1941 年轉移至地中海，護衛馬爾他船團，並掩護盟軍部隊在北非、西西里島和之後在諾曼第的登陸行動。"
 
 msgid "IDS_PBSB517_FULL"
-msgstr "Nelson"
+msgstr "納爾遜"
 
 msgid "IDS_PBSB517_NUMBER"
 msgstr "2"
@@ -55155,7 +55155,7 @@ msgid "IDS_PBSB517_YEAR"
 msgstr "1927"
 
 msgid "IDS_PBSB526"
-msgstr "Repulse"
+msgstr "反擊"
 
 msgid "IDS_PBSB526_DESCR"
 msgstr ""
@@ -55165,7 +55165,7 @@ msgstr ""
 "本應遏制日本侵略遠東地區的 Z 部隊。Repulse 於 1941 年 12 月 10 日在南海遭日本飛機擊沉。"
 
 msgid "IDS_PBSB526_FULL"
-msgstr "Repulse"
+msgstr "反擊"
 
 msgid "IDS_PBSB526_NUMBER"
 msgstr "2"
@@ -55174,7 +55174,7 @@ msgid "IDS_PBSB526_YEAR"
 msgstr "1916"
 
 msgid "IDS_PBSB527"
-msgstr "Duke of York"
+msgstr "約克公爵"
 
 msgid "IDS_PBSB527_DESCR"
 msgstr ""
@@ -55184,7 +55184,7 @@ msgstr ""
 "本土艦隊的旗艦。"
 
 msgid "IDS_PBSB527_FULL"
-msgstr "Duke of York"
+msgstr "約克公爵"
 
 msgid "IDS_PBSB527_NUMBER"
 msgstr "5"
@@ -55193,7 +55193,7 @@ msgid "IDS_PBSB527_YEAR"
 msgstr "1941"
 
 msgid "IDS_PBSB536"
-msgstr "Repulse B"
+msgstr "反擊 B"
 
 msgid "IDS_PBSB536_DESCR"
 msgstr ""
@@ -55203,7 +55203,7 @@ msgstr ""
 "本應遏制日本侵略遠東地區的 Z 部隊。Repulse 於 1941 年 12 月 10 日在南海遭日本飛機擊沉。"
 
 msgid "IDS_PBSB536_FULL"
-msgstr "Repulse B"
+msgstr "反擊 B"
 
 msgid "IDS_PBSB536_NUMBER"
 msgstr "2"
@@ -55212,7 +55212,7 @@ msgid "IDS_PBSB536_YEAR"
 msgstr "1916"
 
 msgid "IDS_PBSB537"
-msgstr "Collingwood"
+msgstr "哥寧伍"
 
 msgid "IDS_PBSB537_DESCR"
 msgstr ""
@@ -55221,7 +55221,7 @@ msgstr ""
 "造限制導致該計畫遭取消。"
 
 msgid "IDS_PBSB537_FULL"
-msgstr "Collingwood"
+msgstr "哥寧伍"
 
 msgid "IDS_PBSB537_NUMBER"
 msgstr "1"
@@ -55230,7 +55230,7 @@ msgid "IDS_PBSB537_YEAR"
 msgstr "1942"
 
 msgid "IDS_PBSB547"
-msgstr "Renown '44"
+msgstr "聲望 '44"
 
 msgid "IDS_PBSB547_DESCR"
 msgstr ""
@@ -55240,7 +55240,7 @@ msgstr ""
 "了第二次世界大戰的最後階段。"
 
 msgid "IDS_PBSB547_FULL"
-msgstr "Renown '44"
+msgstr "聲望 '44"
 
 msgid "IDS_PBSB547_NUMBER"
 msgstr "2"
@@ -55249,13 +55249,13 @@ msgid "IDS_PBSB547_YEAR"
 msgstr "1916"
 
 msgid "IDS_PBSB609"
-msgstr "S. Thunder"
+msgstr "猩紅雷霆"
 
 msgid "IDS_PBSB609_DESCR"
 msgstr "Scarlet Thunder 艦艇採用復古未來主義設計，為體現最新技術發展的工程奇蹟。"
 
 msgid "IDS_PBSB609_FULL"
-msgstr "Scarlet Thunder"
+msgstr "猩紅雷霆"
 
 msgid "IDS_PBSB609_NUMBER"
 msgstr "2"
@@ -55264,7 +55264,7 @@ msgid "IDS_PBSB609_YEAR"
 msgstr "1949"
 
 msgid "IDS_PBSB610"
-msgstr "Incomparable"
+msgstr "無比"
 
 msgid "IDS_PBSB610_DESCR"
 msgstr ""
@@ -55274,7 +55274,7 @@ msgstr ""
 "Incomparable 則是其進一步開發的代表。"
 
 msgid "IDS_PBSB610_FULL"
-msgstr "Incomparable"
+msgstr "無比"
 
 msgid "IDS_PBSB610_NUMBER"
 msgstr "1"
@@ -55283,13 +55283,13 @@ msgid "IDS_PBSB610_YEAR"
 msgstr "1915"
 
 msgid "IDS_PBSB810"
-msgstr "Cumberland"
+msgstr "坎伯蘭"
 
 msgid "IDS_PBSB810_DESCR"
 msgstr "測試艦。"
 
 msgid "IDS_PBSB810_FULL"
-msgstr "Cumberland"
+msgstr "坎伯蘭"
 
 msgid "IDS_PBSB810_NUMBER"
 msgstr "1"
@@ -55298,13 +55298,13 @@ msgid "IDS_PBSB810_YEAR"
 msgstr "1947"
 
 msgid "IDS_PBSB910"
-msgstr "[Conqueror]"
+msgstr "[康殼]"
 
 msgid "IDS_PBSB910_DESCR"
 msgstr "這艘艦艇為 Conqueror 的複製品，並且只適用於公會戰鬥"
 
 msgid "IDS_PBSB910_FULL"
-msgstr "[Conqueror]"
+msgstr "[康殼]"
 
 msgid "IDS_PBSB910_NUMBER"
 msgstr "1"
@@ -55313,7 +55313,7 @@ msgid "IDS_PBSB910_YEAR"
 msgstr "1949"
 
 msgid "IDS_PBSB911"
-msgstr "Conqueror"
+msgstr "征服者"
 
 msgid "IDS_PBSB911_DESCR"
 msgstr ""
@@ -55321,7 +55321,7 @@ msgstr ""
 "設計。其中一個選項是切換至三聯裝炮塔，並將口徑增至 419 毫米。"
 
 msgid "IDS_PBSB911_FULL"
-msgstr "Conqueror"
+msgstr "征服者"
 
 msgid "IDS_PBSB911_NUMBER"
 msgstr "1"
@@ -55330,13 +55330,13 @@ msgid "IDS_PBSB911_YEAR"
 msgstr "1949"
 
 msgid "IDS_PBSB998"
-msgstr "St. Lawrence"
+msgstr "聖勞倫斯"
 
 msgid "IDS_PBSB998_DESCR"
 msgstr "測試艦。"
 
 msgid "IDS_PBSB998_FULL"
-msgstr "St. Lawrence"
+msgstr "聖勞倫斯"
 
 msgid "IDS_PBSB998_NUMBER"
 msgstr "1"
@@ -55345,7 +55345,7 @@ msgid "IDS_PBSB998_YEAR"
 msgstr "1920"
 
 msgid "IDS_PBSC101"
-msgstr "Black Swan"
+msgstr "黑天鵝"
 
 msgid "IDS_PBSC101_DESCR"
 msgstr ""
@@ -55355,7 +55355,7 @@ msgstr ""
 "期間此艦艇與朝鮮人民共和國魚雷艇對戰。"
 
 msgid "IDS_PBSC101_FULL"
-msgstr "Black Swan"
+msgstr "黑天鵝"
 
 msgid "IDS_PBSC101_NUMBER"
 msgstr "39"
@@ -55364,7 +55364,7 @@ msgid "IDS_PBSC101_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC102"
-msgstr "Weymouth"
+msgstr "韋茅斯"
 
 msgid "IDS_PBSC102_DESCR"
 msgstr ""
@@ -55374,7 +55374,7 @@ msgstr ""
 "1917 年間，她在亞得里亞海和英國水域行動。"
 
 msgid "IDS_PBSC102_FULL"
-msgstr "Weymouth"
+msgstr "韋茅斯"
 
 msgid "IDS_PBSC102_NUMBER"
 msgstr "4"
@@ -55383,7 +55383,7 @@ msgid "IDS_PBSC102_YEAR"
 msgstr "1911"
 
 msgid "IDS_PBSC103"
-msgstr "Caledon"
+msgstr "卡利登"
 
 msgid "IDS_PBSC103_DESCR"
 msgstr ""
@@ -55394,7 +55394,7 @@ msgstr ""
 "爆發而恢復服役。"
 
 msgid "IDS_PBSC103_FULL"
-msgstr "Caledon"
+msgstr "卡利登"
 
 msgid "IDS_PBSC103_NUMBER"
 msgstr "4"
@@ -55403,7 +55403,7 @@ msgid "IDS_PBSC103_YEAR"
 msgstr "1917"
 
 msgid "IDS_PBSC104"
-msgstr "Danae"
+msgstr "達那厄"
 
 msgid "IDS_PBSC104_DESCR"
 msgstr ""
@@ -55413,7 +55413,7 @@ msgstr ""
 "1943 年維修後返回英國支援盟軍部隊登陸諾曼第。Danae 在 1944 年移交給波蘭海軍並更名為 Conrad。"
 
 msgid "IDS_PBSC104_FULL"
-msgstr "Danae"
+msgstr "達那厄"
 
 msgid "IDS_PBSC104_NUMBER"
 msgstr "8"
@@ -55422,7 +55422,7 @@ msgid "IDS_PBSC104_YEAR"
 msgstr "1918"
 
 msgid "IDS_PBSC105"
-msgstr "Emerald"
+msgstr "綠寶石"
 
 msgid "IDS_PBSC105_DESCR"
 msgstr ""
@@ -55432,7 +55432,7 @@ msgstr ""
 "1942 年至 1943 年間進行維修後，她參與了盟軍部隊在諾曼第的登陸行動，隨後被重新歸類為靶艦。"
 
 msgid "IDS_PBSC105_FULL"
-msgstr "Emerald"
+msgstr "綠寶石"
 
 msgid "IDS_PBSC105_NUMBER"
 msgstr "2"
@@ -55441,7 +55441,7 @@ msgid "IDS_PBSC105_YEAR"
 msgstr "1926"
 
 msgid "IDS_PBSC106"
-msgstr "Leander"
+msgstr "利安得"
 
 msgid "IDS_PBSC106_DESCR"
 msgstr ""
@@ -55451,7 +55451,7 @@ msgstr ""
 "洋艦在 1943 年的科隆班加拉島戰役期間遭魚雷擊中，隨後持續進行維修直至戰爭結束。"
 
 msgid "IDS_PBSC106_FULL"
-msgstr "Leander"
+msgstr "利安得"
 
 msgid "IDS_PBSC106_NUMBER"
 msgstr "5"
@@ -55460,7 +55460,7 @@ msgid "IDS_PBSC106_YEAR"
 msgstr "1933"
 
 msgid "IDS_PBSC107"
-msgstr "Fiji"
+msgstr "斐濟"
 
 msgid "IDS_PBSC107_DESCR"
 msgstr ""
@@ -55470,7 +55470,7 @@ msgstr ""
 "在 5 月 22 日遭兩架德國轟炸機擊中並沉沒。"
 
 msgid "IDS_PBSC107_FULL"
-msgstr "Fiji"
+msgstr "斐濟"
 
 msgid "IDS_PBSC107_NUMBER"
 msgstr "11"
@@ -55479,7 +55479,7 @@ msgid "IDS_PBSC107_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC108"
-msgstr "Edinburgh"
+msgstr "愛丁堡"
 
 msgid "IDS_PBSC108_DESCR"
 msgstr ""
@@ -55490,7 +55490,7 @@ msgstr ""
 "仍被擊毀。"
 
 msgid "IDS_PBSC108_FULL"
-msgstr "Edinburgh"
+msgstr "愛丁堡"
 
 msgid "IDS_PBSC108_NUMBER"
 msgstr "2"
@@ -55499,7 +55499,7 @@ msgid "IDS_PBSC108_YEAR"
 msgstr "1939"
 
 msgid "IDS_PBSC109"
-msgstr "Neptune"
+msgstr "海王星"
 
 msgid "IDS_PBSC109_DESCR"
 msgstr ""
@@ -55509,7 +55509,7 @@ msgstr ""
 "師重新開始尋找新的解決方案。"
 
 msgid "IDS_PBSC109_FULL"
-msgstr "Neptune"
+msgstr "海王星"
 
 msgid "IDS_PBSC109_NUMBER"
 msgstr "0"
@@ -55555,7 +55555,7 @@ msgid "IDS_PBSC111_YEAR"
 msgstr "1975"
 
 msgid "IDS_PBSC205"
-msgstr "Hawkins"
+msgstr "霍金斯"
 
 msgid "IDS_PBSC205_DESCR"
 msgstr ""
@@ -55566,7 +55566,7 @@ msgstr ""
 "非洲與印度。"
 
 msgid "IDS_PBSC205_FULL"
-msgstr "Hawkins"
+msgstr "霍金斯"
 
 msgid "IDS_PBSC205_NUMBER"
 msgstr "5"
@@ -55575,7 +55575,7 @@ msgid "IDS_PBSC205_YEAR"
 msgstr "1919"
 
 msgid "IDS_PBSC206"
-msgstr "Devonshire"
+msgstr "德文郡"
 
 msgid "IDS_PBSC206_DESCR"
 msgstr ""
@@ -55586,7 +55586,7 @@ msgstr ""
 "前往澳洲。"
 
 msgid "IDS_PBSC206_FULL"
-msgstr "Devonshire"
+msgstr "德文郡"
 
 msgid "IDS_PBSC206_NUMBER"
 msgstr "4"
@@ -55595,7 +55595,7 @@ msgid "IDS_PBSC206_YEAR"
 msgstr "1929"
 
 msgid "IDS_PBSC207"
-msgstr "Surrey"
+msgstr "薩里郡"
 
 msgid "IDS_PBSC207_DESCR"
 msgstr ""
@@ -55604,7 +55604,7 @@ msgstr ""
 "會議召開之前，中止了這些艦艇的龍骨安放，隨後更因英國海軍改變建軍優先順序而遭取消。"
 
 msgid "IDS_PBSC207_FULL"
-msgstr "Surrey"
+msgstr "薩里郡"
 
 msgid "IDS_PBSC207_NUMBER"
 msgstr "1"
@@ -55613,7 +55613,7 @@ msgid "IDS_PBSC207_YEAR"
 msgstr "1929"
 
 msgid "IDS_PBSC208"
-msgstr "Albemarle"
+msgstr "阿爾伯馬爾"
 
 msgid "IDS_PBSC208_DESCR"
 msgstr ""
@@ -55623,7 +55623,7 @@ msgstr ""
 "們的低航速感到不滿，因此決定放棄此計畫，而改為大量建造輕型巡洋艦。"
 
 msgid "IDS_PBSC208_FULL"
-msgstr "Albemarle"
+msgstr "阿爾伯馬爾"
 
 msgid "IDS_PBSC208_NUMBER"
 msgstr "1"
@@ -55632,7 +55632,7 @@ msgid "IDS_PBSC208_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC209"
-msgstr "Drake"
+msgstr "德雷克"
 
 msgid "IDS_PBSC209_DESCR"
 msgstr ""
@@ -55641,7 +55641,7 @@ msgstr ""
 "（儘管這些艦艇的戰鬥特性較差），最終仍延後了前述計畫的推動。"
 
 msgid "IDS_PBSC209_FULL"
-msgstr "Drake"
+msgstr "德雷克"
 
 msgid "IDS_PBSC209_NUMBER"
 msgstr "1"
@@ -55668,7 +55668,7 @@ msgid "IDS_PBSC210_YEAR"
 msgstr "1949"
 
 msgid "IDS_PBSC505"
-msgstr "Exeter"
+msgstr "艾希特"
 
 msgid "IDS_PBSC505_DESCR"
 msgstr ""
@@ -55679,7 +55679,7 @@ msgstr ""
 "役中遭擊沉。"
 
 msgid "IDS_PBSC505_FULL"
-msgstr "Exeter"
+msgstr "艾希特"
 
 msgid "IDS_PBSC505_NUMBER"
 msgstr "2"
@@ -55688,7 +55688,7 @@ msgid "IDS_PBSC505_YEAR"
 msgstr "1931"
 
 msgid "IDS_PBSC507"
-msgstr "Belfast"
+msgstr "貝爾法斯特"
 
 msgid "IDS_PBSC507_DESCR"
 msgstr ""
@@ -55698,7 +55698,7 @@ msgstr ""
 "艦參與了韓戰。1978 年起，Belfast 作為帝國戰爭博物館的分館之一，停泊在泰晤士河的倫敦塔橋附近。"
 
 msgid "IDS_PBSC507_FULL"
-msgstr "Belfast"
+msgstr "貝爾法斯特"
 
 msgid "IDS_PBSC507_NUMBER"
 msgstr "2"
@@ -55707,7 +55707,7 @@ msgid "IDS_PBSC507_YEAR"
 msgstr "1939"
 
 msgid "IDS_PBSC508"
-msgstr "Cheshire"
+msgstr "柴郡"
 
 msgid "IDS_PBSC508_DESCR"
 msgstr ""
@@ -55716,7 +55716,7 @@ msgstr ""
 "洋艦與 234 毫米火炮間的折衷作法便是在這類巡洋艦上安裝雙聯裝主炮塔。"
 
 msgid "IDS_PBSC508_FULL"
-msgstr "Cheshire"
+msgstr "柴郡"
 
 msgid "IDS_PBSC508_NUMBER"
 msgstr "1"
@@ -55725,7 +55725,7 @@ msgid "IDS_PBSC508_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC510"
-msgstr "Plymouth"
+msgstr "普利茅斯"
 
 msgid "IDS_PBSC510_DESCR"
 msgstr ""
@@ -55734,7 +55734,7 @@ msgstr ""
 "此決定催生了 Edinburgh 級巡洋艦。"
 
 msgid "IDS_PBSC510_FULL"
-msgstr "Plymouth"
+msgstr "普利茅斯"
 
 msgid "IDS_PBSC510_NUMBER"
 msgstr "1"
@@ -55743,7 +55743,7 @@ msgid "IDS_PBSC510_YEAR"
 msgstr "1936"
 
 msgid "IDS_PBSC516"
-msgstr "London"
+msgstr "倫敦"
 
 msgid "IDS_PBSC516_DESCR"
 msgstr ""
@@ -55753,7 +55753,7 @@ msgstr ""
 "站服役。"
 
 msgid "IDS_PBSC516_FULL"
-msgstr "London"
+msgstr "倫敦"
 
 msgid "IDS_PBSC516_NUMBER"
 msgstr "4"
@@ -55762,7 +55762,7 @@ msgid "IDS_PBSC516_YEAR"
 msgstr "1929"
 
 msgid "IDS_PBSC518"
-msgstr "Tiger '59"
+msgstr "虎 '59"
 
 msgid "IDS_PBSC518_DESCR"
 msgstr ""
@@ -55772,7 +55772,7 @@ msgstr ""
 "1968 年至 1972 年間，她又改裝成直升機航空母艦。"
 
 msgid "IDS_PBSC518_FULL"
-msgstr "Tiger '59"
+msgstr "虎 '59"
 
 msgid "IDS_PBSC518_NUMBER"
 msgstr "3"
@@ -55781,7 +55781,7 @@ msgid "IDS_PBSC518_YEAR"
 msgstr "1959"
 
 msgid "IDS_PBSC526"
-msgstr "Dido"
+msgstr "黛朵"
 
 msgid "IDS_PBSC526_DESCR"
 msgstr ""
@@ -55791,7 +55791,7 @@ msgstr ""
 "的西西里島登陸，並於 1944 年在南法海岸服役。1945 年，她護送北極船團並支援挪威海岸的打擊任務。"
 
 msgid "IDS_PBSC526_FULL"
-msgstr "Dido"
+msgstr "黛朵"
 
 msgid "IDS_PBSC526_NUMBER"
 msgstr "11"
@@ -55800,7 +55800,7 @@ msgid "IDS_PBSC526_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC528"
-msgstr "Belfast '43"
+msgstr "貝爾法斯特 '43"
 
 msgid "IDS_PBSC528_DESCR"
 msgstr ""
@@ -55810,7 +55810,7 @@ msgstr ""
 "了韓戰。1971 年起，Belfast 轉型為博物館艦艇，並在 1978 年起成為帝國戰爭博物館的分館之一。"
 
 msgid "IDS_PBSC528_FULL"
-msgstr "Belfast '43"
+msgstr "貝爾法斯特 '43"
 
 msgid "IDS_PBSC528_NUMBER"
 msgstr "2"
@@ -55819,7 +55819,7 @@ msgid "IDS_PBSC528_YEAR"
 msgstr "1939"
 
 msgid "IDS_PBSC538"
-msgstr "Hampshire"
+msgstr "漢普郡"
 
 msgid "IDS_PBSC538_DESCR"
 msgstr ""
@@ -55828,7 +55828,7 @@ msgstr ""
 "炮塔並著重於裝甲。此決定也在日後催生的 Surrey 級巡洋艦。"
 
 msgid "IDS_PBSC538_FULL"
-msgstr "Hampshire"
+msgstr "漢普郡"
 
 msgid "IDS_PBSC538_NUMBER"
 msgstr "1"
@@ -55837,7 +55837,7 @@ msgid "IDS_PBSC538_YEAR"
 msgstr "1944"
 
 msgid "IDS_PBSC548"
-msgstr "Nottingham"
+msgstr "諾丁漢"
 
 msgid "IDS_PBSC548_DESCR"
 msgstr ""
@@ -55848,7 +55848,7 @@ msgstr ""
 "Thurston 的想法更保守，而其計畫並未被納入考量。"
 
 msgid "IDS_PBSC548_FULL"
-msgstr "Nottingham"
+msgstr "諾丁漢"
 
 msgid "IDS_PBSC548_NUMBER"
 msgstr "1"
@@ -55857,14 +55857,14 @@ msgid "IDS_PBSC548_YEAR"
 msgstr "1926"
 
 msgid "IDS_PBSC558"
-msgstr "AL Cheshire"
+msgstr "AL 柴郡貓貓"
 
 msgid "IDS_PBSC558_DESCR"
 msgstr ""
 "Cheshire 是皇家海軍的重型巡洋艦。穿著女僕裝的 Cheshire 忠誠而開朗。她長得像笑臉貓一樣。"
 
 msgid "IDS_PBSC558_FULL"
-msgstr "AL Cheshire"
+msgstr "AL 柴郡貓貓"
 
 msgid "IDS_PBSC558_NUMBER"
 msgstr "1"
@@ -55873,7 +55873,7 @@ msgid "IDS_PBSC558_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC610"
-msgstr "Gibraltar"
+msgstr "直布羅陀"
 
 msgid "IDS_PBSC610_DESCR"
 msgstr ""
@@ -55882,7 +55882,7 @@ msgstr ""
 "裝選項為安裝三門四聯裝炮塔。"
 
 msgid "IDS_PBSC610_FULL"
-msgstr "Gibraltar"
+msgstr "直布羅陀"
 
 msgid "IDS_PBSC610_NUMBER"
 msgstr "1"
@@ -55891,7 +55891,7 @@ msgid "IDS_PBSC610_YEAR"
 msgstr "1947"
 
 msgid "IDS_PBSC710"
-msgstr "Monmouth"
+msgstr "蒙茅斯"
 
 msgid "IDS_PBSC710_DESCR"
 msgstr ""
@@ -55901,7 +55901,7 @@ msgstr ""
 "類似的武裝選項。"
 
 msgid "IDS_PBSC710_FULL"
-msgstr "Monmouth"
+msgstr "蒙茅斯"
 
 msgid "IDS_PBSC710_NUMBER"
 msgstr "1"
@@ -55910,7 +55910,7 @@ msgid "IDS_PBSC710_YEAR"
 msgstr "1947"
 
 msgid "IDS_PBSC810"
-msgstr "Defence"
+msgstr "防衛"
 
 msgid "IDS_PBSC810_DESCR"
 msgstr ""
@@ -55918,7 +55918,7 @@ msgstr ""
 "被認為是對日本海軍實力增強的回應。她的主要目的是對抗敵方重型巡洋艦。"
 
 msgid "IDS_PBSC810_FULL"
-msgstr "Defence"
+msgstr "防衛"
 
 msgid "IDS_PBSC810_NUMBER"
 msgstr "1"
@@ -55927,7 +55927,7 @@ msgid "IDS_PBSC810_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC888"
-msgstr "STAR Edinburgh"
+msgstr "星之愛丁堡"
 
 msgid "IDS_PBSC888_DESCR"
 msgstr ""
@@ -55935,7 +55935,7 @@ msgstr ""
 "的行為變得更加不可預測，她的化身逐漸意識到自己的個性並試圖斷開與它的聯繫。"
 
 msgid "IDS_PBSC888_FULL"
-msgstr "STAR Edinburgh"
+msgstr "星之愛丁堡"
 
 msgid "IDS_PBSC888_NUMBER"
 msgstr "2"
@@ -55944,14 +55944,14 @@ msgid "IDS_PBSC888_YEAR"
 msgstr "1939"
 
 msgid "IDS_PBSC910"
-msgstr "Cyclops"
+msgstr "獨眼巨人"
 
 msgid "IDS_PBSC910_DESCR"
 msgstr ""
 "這艘重型巡洋艦擁有十二門主炮和強大的裝甲防護，以及在 1940 年代末常被英國海軍採用的防空武器。"
 
 msgid "IDS_PBSC910_FULL"
-msgstr "Cyclops"
+msgstr "獨眼巨人"
 
 msgid "IDS_PBSC910_NUMBER"
 msgstr "1"
@@ -55960,7 +55960,7 @@ msgid "IDS_PBSC910_YEAR"
 msgstr "1949"
 
 msgid "IDS_PBSD102"
-msgstr "Medea"
+msgstr "米迪亞"
 
 msgid "IDS_PBSD102_DESCR"
 msgstr ""
@@ -55971,7 +55971,7 @@ msgstr ""
 "隊。"
 
 msgid "IDS_PBSD102_FULL"
-msgstr "Medea"
+msgstr "米迪亞"
 
 msgid "IDS_PBSD102_NUMBER"
 msgstr "4"
@@ -55980,7 +55980,7 @@ msgid "IDS_PBSD102_YEAR"
 msgstr "1915"
 
 msgid "IDS_PBSD103"
-msgstr "Valkyrie"
+msgstr "女武神"
 
 msgid "IDS_PBSD103_DESCR"
 msgstr ""
@@ -55990,7 +55990,7 @@ msgstr ""
 "艦隊的一員，並在英國干預蘇聯俄羅斯期間於波羅的海執行任務。"
 
 msgid "IDS_PBSD103_FULL"
-msgstr "Valkyrie"
+msgstr "女武神"
 
 msgid "IDS_PBSD103_NUMBER"
 msgstr "5"
@@ -55999,7 +55999,7 @@ msgid "IDS_PBSD103_YEAR"
 msgstr "1917"
 
 msgid "IDS_PBSD104"
-msgstr "Wakeful"
+msgstr "清醒"
 
 msgid "IDS_PBSD104_DESCR"
 msgstr ""
@@ -56009,7 +56009,7 @@ msgstr ""
 "快艇 S-30 的兩發魚雷擊沉。"
 
 msgid "IDS_PBSD104_FULL"
-msgstr "Wakeful"
+msgstr "清醒"
 
 msgid "IDS_PBSD104_NUMBER"
 msgstr "19"
@@ -56018,7 +56018,7 @@ msgid "IDS_PBSD104_YEAR"
 msgstr "1917"
 
 msgid "IDS_PBSD105"
-msgstr "Acasta"
+msgstr "阿卡斯塔"
 
 msgid "IDS_PBSD105_DESCR"
 msgstr ""
@@ -56029,7 +56029,7 @@ msgstr ""
 "Glorious。"
 
 msgid "IDS_PBSD105_FULL"
-msgstr "Acasta"
+msgstr "阿卡斯塔"
 
 msgid "IDS_PBSD105_NUMBER"
 msgstr "10"
@@ -56038,7 +56038,7 @@ msgid "IDS_PBSD105_YEAR"
 msgstr "1930"
 
 msgid "IDS_PBSD106"
-msgstr "Icarus"
+msgstr "伊卡洛斯"
 
 msgid "IDS_PBSD106_DESCR"
 msgstr ""
@@ -56047,7 +56047,7 @@ msgstr ""
 "擊沉四艘德國潛水艦。"
 
 msgid "IDS_PBSD106_FULL"
-msgstr "Icarus"
+msgstr "伊卡洛斯"
 
 msgid "IDS_PBSD106_NUMBER"
 msgstr "12"
@@ -56056,7 +56056,7 @@ msgid "IDS_PBSD106_YEAR"
 msgstr "1937"
 
 msgid "IDS_PBSD107"
-msgstr "Jervis"
+msgstr "傑維斯"
 
 msgid "IDS_PBSD107_DESCR"
 msgstr ""
@@ -56066,7 +56066,7 @@ msgstr ""
 "利潛水破壞艦重創。此艦艇參與了亞平寧半島與南斯拉夫的行動，也曾參與知名的諾曼第登陸。"
 
 msgid "IDS_PBSD107_FULL"
-msgstr "Jervis"
+msgstr "傑維斯"
 
 msgid "IDS_PBSD107_NUMBER"
 msgstr "8"
@@ -56075,7 +56075,7 @@ msgid "IDS_PBSD107_YEAR"
 msgstr "1939"
 
 msgid "IDS_PBSD108"
-msgstr "Lightning"
+msgstr "雷電"
 
 msgid "IDS_PBSD108_DESCR"
 msgstr ""
@@ -56085,7 +56085,7 @@ msgstr ""
 "行動中，遭德國摩托快艇的兩發魚雷命中並沉沒。"
 
 msgid "IDS_PBSD108_FULL"
-msgstr "Lightning"
+msgstr "雷電"
 
 msgid "IDS_PBSD108_NUMBER"
 msgstr "8"
@@ -56094,7 +56094,7 @@ msgid "IDS_PBSD108_YEAR"
 msgstr "1941"
 
 msgid "IDS_PBSD109"
-msgstr "Jutland"
+msgstr "日德蘭"
 
 msgid "IDS_PBSD109_DESCR"
 msgstr ""
@@ -56104,7 +56104,7 @@ msgstr ""
 "隊。1953 年，Jutland 在英女王 Queen Elizabeth II 加冕期間，參與了海軍閱兵。"
 
 msgid "IDS_PBSD109_FULL"
-msgstr "Jutland"
+msgstr "日德蘭"
 
 msgid "IDS_PBSD109_NUMBER"
 msgstr "42"
@@ -56132,7 +56132,7 @@ msgid "IDS_PBSD110_YEAR"
 msgstr "1952"
 
 msgid "IDS_PBSD503"
-msgstr "Campbeltown"
+msgstr "坎貝爾頓"
 
 msgid "IDS_PBSD503_DESCR"
 msgstr ""
@@ -56143,7 +56143,7 @@ msgstr ""
 "的乾塢沉箱，此驅逐艦也因此付之一炬。"
 
 msgid "IDS_PBSD503_FULL"
-msgstr "Campbeltown"
+msgstr "坎貝爾頓"
 
 msgid "IDS_PBSD503_NUMBER"
 msgstr "111"
@@ -56152,7 +56152,7 @@ msgid "IDS_PBSD503_YEAR"
 msgstr "1919"
 
 msgid "IDS_PBSD506"
-msgstr "Gallant"
+msgstr "勇敢"
 
 msgid "IDS_PBSD506_DESCR"
 msgstr ""
@@ -56163,7 +56163,7 @@ msgstr ""
 "敵方從水道登陸。"
 
 msgid "IDS_PBSD506_FULL"
-msgstr "Gallant"
+msgstr "勇敢"
 
 msgid "IDS_PBSD506_NUMBER"
 msgstr "24"
@@ -56191,7 +56191,7 @@ msgid "IDS_PBSD510_YEAR"
 msgstr "1952"
 
 msgid "IDS_PBSD517"
-msgstr "Cossack"
+msgstr "哥薩克"
 
 msgid "IDS_PBSD517_DESCR"
 msgstr ""
@@ -56202,7 +56202,7 @@ msgstr ""
 "的山姆」的暱稱，隨後再登上航空母艦 Ark Royal，並於該艦艇沉沒後再次存活下來。"
 
 msgid "IDS_PBSD517_FULL"
-msgstr "Cossack"
+msgstr "哥薩克"
 
 msgid "IDS_PBSD517_NUMBER"
 msgstr "27"
@@ -56211,7 +56211,7 @@ msgid "IDS_PBSD517_YEAR"
 msgstr "1938"
 
 msgid "IDS_PBSD519"
-msgstr "Somme"
+msgstr "索姆河"
 
 msgid "IDS_PBSD519_DESCR"
 msgstr ""
@@ -56221,7 +56221,7 @@ msgstr ""
 "投入服役且無人認領。最終還未完工便遭拆解。"
 
 msgid "IDS_PBSD519_FULL"
-msgstr "Somme"
+msgstr "索姆河"
 
 msgid "IDS_PBSD519_NUMBER"
 msgstr "0"
@@ -56230,7 +56230,7 @@ msgid "IDS_PBSD519_YEAR"
 msgstr "1943"
 
 msgid "IDS_PBSD598"
-msgstr "Cossack B"
+msgstr "哥薩克 B"
 
 msgid "IDS_PBSD598_DESCR"
 msgstr ""
@@ -56241,7 +56241,7 @@ msgstr ""
 "的山姆」的暱稱，隨後再登上航空母艦 Ark Royal，並於該艦艇沉沒後再次存活下來。"
 
 msgid "IDS_PBSD598_FULL"
-msgstr "Cossack B"
+msgstr "哥薩克 B"
 
 msgid "IDS_PBSD598_NUMBER"
 msgstr "27"
@@ -56250,7 +56250,7 @@ msgid "IDS_PBSD598_YEAR"
 msgstr "1938"
 
 msgid "IDS_PBSD605"
-msgstr "Anthony"
+msgstr "安東尼"
 
 msgid "IDS_PBSD605_DESCR"
 msgstr ""
@@ -56260,7 +56260,7 @@ msgstr ""
 "達加斯加、北非、西西里島的登陸中提供火力支援。"
 
 msgid "IDS_PBSD605_FULL"
-msgstr "Anthony"
+msgstr "安東尼"
 
 msgid "IDS_PBSD605_NUMBER"
 msgstr "8"
@@ -56269,7 +56269,7 @@ msgid "IDS_PBSD605_YEAR"
 msgstr "1930"
 
 msgid "IDS_PBSS106"
-msgstr "Undine"
+msgstr "溫蒂妮"
 
 msgid "IDS_PBSS106_DESCR"
 msgstr ""
@@ -56279,7 +56279,7 @@ msgstr ""
 "雷艦擊沉。"
 
 msgid "IDS_PBSS106_FULL"
-msgstr "Undine"
+msgstr "溫蒂妮"
 
 msgid "IDS_PBSS106_NUMBER"
 msgstr "49"
@@ -56288,7 +56288,7 @@ msgid "IDS_PBSS106_YEAR"
 msgstr "1938"
 
 msgid "IDS_PBSS108"
-msgstr "Sturdy"
+msgstr "牢固"
 
 msgid "IDS_PBSS108_DESCR"
 msgstr ""
@@ -56297,7 +56297,7 @@ msgstr ""
 "建於伯肯赫德。戰爭期間，此艦艇大多時間都位於太平洋，擊沉超過 30 艘日本艦艇。"
 
 msgid "IDS_PBSS108_FULL"
-msgstr "Sturdy"
+msgstr "牢固"
 
 msgid "IDS_PBSS108_NUMBER"
 msgstr "50"
@@ -56326,7 +56326,7 @@ msgid "IDS_PBSS110_YEAR"
 msgstr "1941"
 
 msgid "IDS_PBSS508"
-msgstr "Alliance"
+msgstr "聯盟"
 
 msgid "IDS_PBSS508_DESCR"
 msgstr ""
@@ -56336,7 +56336,7 @@ msgstr ""
 "Alliance 已是一座位於哥斯波特的紀念博物館艦艇。"
 
 msgid "IDS_PBSS508_FULL"
-msgstr "Alliance"
+msgstr "聯盟"
 
 msgid "IDS_PBSS508_NUMBER"
 msgstr "18"
