@@ -1026,7 +1026,7 @@ msgid "IDS_000_024_UNSTOPPABLE_TASK_END_F_NO_FRIENDS"
 msgstr "停下引擎！隊友離得太遠了。"
 
 msgid "IDS_000_026_ALL_ALIVE_TASK_END_F"
-msgstr "阿巴阿巴阿巴"
+msgstr "第一位隊友已被擊毀，我們正遭受損失。"
 
 msgid "IDS_0W0"
 msgstr "Detroit"
