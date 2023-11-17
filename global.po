@@ -56288,7 +56288,7 @@ msgid "IDS_PBSS106_YEAR"
 msgstr "1938"
 
 msgid "IDS_PBSS108"
-msgstr "牢固"
+msgstr "強健"
 
 msgid "IDS_PBSS108_DESCR"
 msgstr ""
@@ -56297,7 +56297,7 @@ msgstr ""
 "建於伯肯赫德。戰爭期間，此艦艇大多時間都位於太平洋，擊沉超過 30 艘日本艦艇。"
 
 msgid "IDS_PBSS108_FULL"
-msgstr "牢固"
+msgstr "強健"
 
 msgid "IDS_PBSS108_NUMBER"
 msgstr "50"
