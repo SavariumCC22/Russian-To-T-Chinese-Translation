@@ -47211,7 +47211,7 @@ msgid "IDS_PASA108_YEAR"
 msgstr "1927"
 
 msgid "IDS_PASA110"
-msgstr "Midway"
+msgstr "中途島"
 
 msgid "IDS_PASA110_DESCR"
 msgstr ""
@@ -47221,7 +47221,7 @@ msgstr ""
 "亞哥找到了最後的家，她在那改造成了博物館艦艇。"
 
 msgid "IDS_PASA110_FULL"
-msgstr "Midway"
+msgstr "中途島"
 
 msgid "IDS_PASA110_NUMBER"
 msgstr "3"
@@ -47230,7 +47230,7 @@ msgid "IDS_PASA110_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASA111"
-msgstr "United States"
+msgstr "合眾國"
 
 msgid "IDS_PASA111_DESCR"
 msgstr ""
@@ -47240,7 +47240,7 @@ msgstr ""
 "然停工。"
 
 msgid "IDS_PASA111_FULL"
-msgstr "United States"
+msgstr "合眾國"
 
 msgid "IDS_PASA111_NUMBER"
 msgstr "1"
@@ -47640,7 +47640,7 @@ msgid "IDS_PASB109_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASB110"
-msgstr "Vermont"
+msgstr "佛蒙特"
 
 msgid "IDS_PASB110_DESCR"
 msgstr ""
@@ -47649,7 +47649,7 @@ msgstr ""
 "守。此主力艦搭載了安置在四座炮塔中的十二門大口徑火炮，速度相當快，裝甲也非常堅固。"
 
 msgid "IDS_PASB110_FULL"
-msgstr "Vermont"
+msgstr "佛蒙特"
 
 msgid "IDS_PASB110_NUMBER"
 msgstr "1"
@@ -47713,7 +47713,7 @@ msgid "IDS_PASB209_YEAR"
 msgstr "1949"
 
 msgid "IDS_PASB210"
-msgstr "Louisiana"
+msgstr "路易斯安那"
 
 msgid "IDS_PASB210_DESCR"
 msgstr ""
@@ -47721,7 +47721,7 @@ msgstr ""
 "行甲板。這只能透過拆除第三座炮塔來完成。為保留戰鬥力，有人建議將第四座炮塔更換為四聯裝炮塔。"
 
 msgid "IDS_PASB210_FULL"
-msgstr "Louisiana"
+msgstr "路易斯安那"
 
 msgid "IDS_PASB210_NUMBER"
 msgstr "1"
@@ -48359,7 +48359,7 @@ msgid "IDS_PASC014_YEAR"
 msgstr "1934"
 
 msgid "IDS_PASC016"
-msgstr "Worcester"
+msgstr "伍斯特"
 
 msgid "IDS_PASC016_DESCR"
 msgstr ""
@@ -48369,7 +48369,7 @@ msgstr ""
 "戰後服役數年。她於 1958 年除役。"
 
 msgid "IDS_PASC016_FULL"
-msgstr "Worcester"
+msgstr "伍斯特"
 
 msgid "IDS_PASC016_NUMBER"
 msgstr "2"
@@ -48411,7 +48411,7 @@ msgid "IDS_PASC019_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASC020"
-msgstr "Des Moines"
+msgstr "得梅因"
 
 msgid "IDS_PASC020_DESCR"
 msgstr ""
@@ -48421,7 +48421,7 @@ msgstr ""
 "Moines 執行了各種外交和代表任務。她還被用來訓練學員和參加海軍演習。"
 
 msgid "IDS_PASC020_FULL"
-msgstr "Des Moines"
+msgstr "得梅因"
 
 msgid "IDS_PASC020_NUMBER"
 msgstr "4"
@@ -49144,7 +49144,7 @@ msgid "IDS_PASD008_YEAR"
 msgstr "1940"
 
 msgid "IDS_PASD013"
-msgstr "Gearing"
+msgstr "基靈"
 
 msgid "IDS_PASD013_DESCR"
 msgstr ""
@@ -49154,7 +49154,7 @@ msgstr ""
 "1950 年代期間曾被用於訓練行動。"
 
 msgid "IDS_PASD013_FULL"
-msgstr "Gearing"
+msgstr "基靈"
 
 msgid "IDS_PASD013_NUMBER"
 msgstr "105"
@@ -49602,7 +49602,7 @@ msgid "IDS_PASS208_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASS210"
-msgstr "Balao"
+msgstr "巴勞鱵"
 
 msgid "IDS_PASS210_DESCR"
 msgstr ""
@@ -49612,7 +49612,7 @@ msgstr ""
 "行了十次作戰任務並擊沉了十艘敵方艦艇。"
 
 msgid "IDS_PASS210_FULL"
-msgstr "Balao"
+msgstr "巴勞鱵"
 
 msgid "IDS_PASS210_NUMBER"
 msgstr "122"
@@ -54578,7 +54578,7 @@ msgid "IDS_PBSA204_YEAR"
 msgstr "1924"
 
 msgid "IDS_PBSA210"
-msgstr "Audacious"
+msgstr "大膽"
 
 msgid "IDS_PBSA210_DESCR"
 msgstr ""
@@ -54588,7 +54588,7 @@ msgstr ""
 "不變。"
 
 msgid "IDS_PBSA210_FULL"
-msgstr "Audacious"
+msgstr "大膽"
 
 msgid "IDS_PBSA210_NUMBER"
 msgstr "1"
@@ -54597,7 +54597,7 @@ msgid "IDS_PBSA210_YEAR"
 msgstr "1945"
 
 msgid "IDS_PBSA508"
-msgstr "Indomitable"
+msgstr "不撓"
 
 msgid "IDS_PBSA508_DESCR"
 msgstr ""
@@ -54607,7 +54607,7 @@ msgstr ""
 "加，並參與了基石行動。Indomitable 在戰後取代主力艦 Vanguard 成為本土艦隊的旗艦。"
 
 msgid "IDS_PBSA508_FULL"
-msgstr "Indomitable"
+msgstr "不撓"
 
 msgid "IDS_PBSA508_NUMBER"
 msgstr "4"
@@ -54616,7 +54616,7 @@ msgid "IDS_PBSA508_YEAR"
 msgstr "1941"
 
 msgid "IDS_PBSA510"
-msgstr "Malta"
+msgstr "馬爾他"
 
 msgid "IDS_PBSA510_DESCR"
 msgstr ""
@@ -54627,7 +54627,7 @@ msgstr ""
 "第二次世界大戰的結束而停擺。"
 
 msgid "IDS_PBSA510_FULL"
-msgstr "Malta"
+msgstr "馬爾他"
 
 msgid "IDS_PBSA510_NUMBER"
 msgstr "1"
@@ -54655,7 +54655,7 @@ msgid "IDS_PBSA518_YEAR"
 msgstr "1938"
 
 msgid "IDS_PBSA528"
-msgstr "Colossus"
+msgstr "巨像"
 
 msgid "IDS_PBSA528_DESCR"
 msgstr ""
@@ -54665,7 +54665,7 @@ msgstr ""
 "員，此航空母艦參與了位於中南半島的作戰行動和蘇伊士危機。"
 
 msgid "IDS_PBSA528_FULL"
-msgstr "Colossus"
+msgstr "巨像"
 
 msgid "IDS_PBSA528_NUMBER"
 msgstr "10"
@@ -54841,7 +54841,7 @@ msgid "IDS_PBSB109_YEAR"
 msgstr "1938"
 
 msgid "IDS_PBSB110"
-msgstr "Conqueror"
+msgstr "征服者"
 
 msgid "IDS_PBSB110_DESCR"
 msgstr ""
@@ -54849,7 +54849,7 @@ msgstr ""
 "設計。其中一個選項是切換至三聯裝炮塔，並將口徑增至 419 毫米。"
 
 msgid "IDS_PBSB110_FULL"
-msgstr "Conqueror"
+msgstr "征服者"
 
 msgid "IDS_PBSB110_NUMBER"
 msgstr "1"
@@ -54858,7 +54858,7 @@ msgid "IDS_PBSB110_YEAR"
 msgstr "1949"
 
 msgid "IDS_PBSB111"
-msgstr "Devastation"
+msgstr "毀滅"
 
 msgid "IDS_PBSB111_DESCR"
 msgstr ""
@@ -54866,7 +54866,7 @@ msgstr ""
 "與主力艦 Vanguard 相近，並與 Audacious 級航空母艦使用類似的渦輪發動機。"
 
 msgid "IDS_PBSB111_FULL"
-msgstr "Devastation"
+msgstr "毀滅"
 
 msgid "IDS_PBSB111_NUMBER"
 msgstr "1"
@@ -55006,7 +55006,7 @@ msgid "IDS_PBSB209_YEAR"
 msgstr "1921"
 
 msgid "IDS_PBSB210"
-msgstr "St. Vincent"
+msgstr "san文san特"
 
 msgid "IDS_PBSB210_DESCR"
 msgstr ""
@@ -55015,7 +55015,7 @@ msgstr ""
 "更快，然而其排水量和艦艇尺寸不符合海軍部的需求，因此得重新設計。"
 
 msgid "IDS_PBSB210_FULL"
-msgstr "St. Vincent"
+msgstr "聖文森特"
 
 msgid "IDS_PBSB210_NUMBER"
 msgstr "0"
@@ -55518,7 +55518,7 @@ msgid "IDS_PBSC109_YEAR"
 msgstr "1944"
 
 msgid "IDS_PBSC110"
-msgstr "Minotaur"
+msgstr "米諾陶"
 
 msgid "IDS_PBSC110_DESCR"
 msgstr ""
@@ -55528,7 +55528,7 @@ msgstr ""
 "Minotaur。然而，由於財務問題和航空母艦的優先權，該計畫因而進行了修改。"
 
 msgid "IDS_PBSC110_FULL"
-msgstr "Minotaur"
+msgstr "米諾陶"
 
 msgid "IDS_PBSC110_NUMBER"
 msgstr "0"
@@ -55537,7 +55537,7 @@ msgid "IDS_PBSC110_YEAR"
 msgstr "1947"
 
 msgid "IDS_PBSC111"
-msgstr "Edgar"
+msgstr "埃德加"
 
 msgid "IDS_PBSC111_DESCR"
 msgstr ""
@@ -55546,7 +55546,7 @@ msgstr ""
 "使此想法遭放棄。"
 
 msgid "IDS_PBSC111_FULL"
-msgstr "Edgar"
+msgstr "埃德加"
 
 msgid "IDS_PBSC111_NUMBER"
 msgstr "0"
@@ -55650,7 +55650,7 @@ msgid "IDS_PBSC209_YEAR"
 msgstr "1939"
 
 msgid "IDS_PBSC210"
-msgstr "Goliath"
+msgstr "歌利亞"
 
 msgid "IDS_PBSC210_DESCR"
 msgstr ""
@@ -55659,7 +55659,7 @@ msgstr ""
 "203 至 234 毫米火炮的艦艇。此艦艇被認為過於昂貴，因此導致計畫遭取消。"
 
 msgid "IDS_PBSC210_FULL"
-msgstr "Goliath"
+msgstr "歌利亞"
 
 msgid "IDS_PBSC210_NUMBER"
 msgstr "1"
@@ -56113,7 +56113,7 @@ msgid "IDS_PBSD109_YEAR"
 msgstr "1947"
 
 msgid "IDS_PBSD110"
-msgstr "Daring"
+msgstr "勇敢"
 
 msgid "IDS_PBSD110_DESCR"
 msgstr ""
@@ -56123,7 +56123,7 @@ msgstr ""
 "逢地震之凱法利尼亞島的居民援救行動。"
 
 msgid "IDS_PBSD110_FULL"
-msgstr "Daring"
+msgstr "勇敢"
 
 msgid "IDS_PBSD110_NUMBER"
 msgstr "12"
@@ -56172,7 +56172,7 @@ msgid "IDS_PBSD506_YEAR"
 msgstr "1935"
 
 msgid "IDS_PBSD510"
-msgstr "Druid"
+msgstr "德魯伊"
 
 msgid "IDS_PBSD510_DESCR"
 msgstr ""
@@ -56182,7 +56182,7 @@ msgstr ""
 "儘管此計畫從未進入設計草圖階段，但草案仍被用來作為建造 County 級導引飛彈巡洋艦的基礎。"
 
 msgid "IDS_PBSD510_FULL"
-msgstr "Druid"
+msgstr "德魯伊"
 
 msgid "IDS_PBSD510_NUMBER"
 msgstr "1"
@@ -56306,7 +56306,7 @@ msgid "IDS_PBSS108_YEAR"
 msgstr "1943"
 
 msgid "IDS_PBSS110"
-msgstr "Thrasher"
+msgstr "長尾鯊"
 
 msgid "IDS_PBSS110_DESCR"
 msgstr ""
@@ -56317,7 +56317,7 @@ msgstr ""
 "敵方艦艇。"
 
 msgid "IDS_PBSS110_FULL"
-msgstr "Thrasher"
+msgstr "長尾鯊"
 
 msgid "IDS_PBSS110_NUMBER"
 msgstr "53"
@@ -76963,7 +76963,7 @@ msgid "IDS_PFSB109_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB110"
-msgstr "République"
+msgstr "共和國"
 
 msgid "IDS_PFSB110_DESCR"
 msgstr ""
@@ -77366,7 +77366,7 @@ msgid "IDS_PFSC109_YEAR"
 msgstr "1940"
 
 msgid "IDS_PFSC110"
-msgstr "Henri IV"
+msgstr "亨利四世"
 
 msgid "IDS_PFSC110_DESCR"
 msgstr ""
@@ -77437,7 +77437,7 @@ msgid "IDS_PFSC209_YEAR"
 msgstr "1944"
 
 msgid "IDS_PFSC210"
-msgstr "Marseille"
+msgstr "馬賽"
 
 msgid "IDS_PFSC210_DESCR"
 msgstr ""
@@ -77762,7 +77762,7 @@ msgid "IDS_PFSD109_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSD110"
-msgstr "Kléber"
+msgstr "克勒貝爾"
 
 msgid "IDS_PFSD110_DESCR"
 msgstr ""
@@ -80814,7 +80814,7 @@ msgid "IDS_PGSA108_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA110"
-msgstr "M. Richthofen"
+msgstr "曼弗雷德·馮·里希特霍芬"
 
 msgid "IDS_PGSA110_DESCR"
 msgstr ""
@@ -80823,7 +80823,7 @@ msgstr ""
 "為世界上最大型的艦艇之一，僅次於日本的 Shinano。"
 
 msgid "IDS_PGSA110_FULL"
-msgstr "Manfred von Richthofen"
+msgstr "曼弗雷德·阿爾布雷希特·馮·里希特霍芬男爵"
 
 msgid "IDS_PGSA110_NUMBER"
 msgstr "1"
@@ -81301,7 +81301,7 @@ msgid "IDS_PGSB209_YEAR"
 msgstr "1944"
 
 msgid "IDS_PGSB210"
-msgstr "Schlieffen"
+msgstr "史里芬"
 
 msgid "IDS_PGSB210_DESCR"
 msgstr ""
@@ -81310,7 +81310,7 @@ msgstr ""
 "計畫是德國主力艦中尺寸最大、火力最強的代表艦艇。"
 
 msgid "IDS_PGSB210_FULL"
-msgstr "Schlieffen"
+msgstr "史里芬"
 
 msgid "IDS_PGSB210_NUMBER"
 msgstr "1"
@@ -81319,7 +81319,7 @@ msgid "IDS_PGSB210_YEAR"
 msgstr "1944"
 
 msgid "IDS_PGSB310"
-msgstr "Preussen"
+msgstr "普魯士"
 
 msgid "IDS_PGSB310_DESCR"
 msgstr ""
@@ -81329,7 +81329,7 @@ msgstr ""
 "海軍建造的重點轉向了潛水艦，便不再因海軍需求為新艦艇安放龍骨。"
 
 msgid "IDS_PGSB310_FULL"
-msgstr "Preussen"
+msgstr "普魯士"
 
 msgid "IDS_PGSB310_NUMBER"
 msgstr "1"
@@ -81802,7 +81802,7 @@ msgid "IDS_PGSC109_YEAR"
 msgstr "1938"
 
 msgid "IDS_PGSC110"
-msgstr "Hindenburg"
+msgstr "興登堡"
 
 msgid "IDS_PGSC110_DESCR"
 msgstr ""
@@ -81812,7 +81812,7 @@ msgstr ""
 "艇。"
 
 msgid "IDS_PGSC110_FULL"
-msgstr "Hindenburg"
+msgstr "興登堡"
 
 msgid "IDS_PGSC110_NUMBER"
 msgstr "0"
@@ -82369,7 +82369,7 @@ msgid "IDS_PGSD209_YEAR"
 msgstr "1938"
 
 msgid "IDS_PGSD210"
-msgstr "Elbing"
+msgstr "埃爾賓"
 
 msgid "IDS_PGSD210_DESCR"
 msgstr ""
@@ -82378,7 +82378,7 @@ msgstr ""
 "艇，也能戰勝比她弱小的敵人。1941 年，有 3 艘此艦級巡洋艦獲訂，但於次年停工。"
 
 msgid "IDS_PGSD210_FULL"
-msgstr "Elbing"
+msgstr "埃爾賓"
 
 msgid "IDS_PGSD210_NUMBER"
 msgstr "1"
@@ -85023,7 +85023,7 @@ msgid "IDS_PHSC109_YEAR"
 msgstr "1945"
 
 msgid "IDS_PHSC110"
-msgstr "Gouden Leeuw"
+msgstr "金獅"
 
 msgid "IDS_PHSC110_DESCR"
 msgstr ""
@@ -85033,7 +85033,7 @@ msgstr ""
 "5 月德國部隊入侵荷蘭領土，此計畫從未完工。"
 
 msgid "IDS_PHSC110_FULL"
-msgstr "Gouden Leeuw"
+msgstr "金獅"
 
 msgid "IDS_PHSC110_NUMBER"
 msgstr "1"
@@ -85042,7 +85042,7 @@ msgid "IDS_PHSC110_YEAR"
 msgstr "1940"
 
 msgid "IDS_PHSC508"
-msgstr "De 7 Provinciën"
+msgstr "七省"
 
 msgid "IDS_PHSC508_DESCR"
 msgstr ""
@@ -85053,7 +85053,7 @@ msgstr ""
 "那裡服役至 1999 年。"
 
 msgid "IDS_PHSC508_FULL"
-msgstr "De Zeven Provinciën"
+msgstr "七省"
 
 msgid "IDS_PHSC508_NUMBER"
 msgstr "2"
@@ -86279,7 +86279,7 @@ msgid "IDS_PISB109_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISB110"
-msgstr "C. Colombo"
+msgstr "克里斯多福·哥倫布"
 
 msgid "IDS_PISB110_DESCR"
 msgstr ""
@@ -86288,7 +86288,7 @@ msgstr ""
 "381 毫米火炮的四聯裝炮塔。"
 
 msgid "IDS_PISB110_FULL"
-msgstr "Cristoforo Colombo"
+msgstr "克里斯多福·哥倫布"
 
 msgid "IDS_PISB110_NUMBER"
 msgstr "1"
@@ -86604,7 +86604,7 @@ msgid "IDS_PISC109_YEAR"
 msgstr "1941"
 
 msgid "IDS_PISC110"
-msgstr "Venezia"
+msgstr "威尼斯"
 
 msgid "IDS_PISC110_DESCR"
 msgstr ""
@@ -86612,7 +86612,7 @@ msgstr ""
 "了重型巡洋艦將朝著把主炮數量增至十五的方向發展。"
 
 msgid "IDS_PISC110_FULL"
-msgstr "Venezia"
+msgstr "威尼斯"
 
 msgid "IDS_PISC110_NUMBER"
 msgstr "1"
@@ -86621,7 +86621,7 @@ msgid "IDS_PISC110_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISC111"
-msgstr "Piemonte"
+msgstr "皮埃蒙特"
 
 msgid "IDS_PISC111_DESCR"
 msgstr ""
@@ -86630,7 +86630,7 @@ msgstr ""
 "37 節。第二次世界大戰爆發後，這艘未完工的戰鬥巡洋艦遭義大利政府徵用，並安裝上義大利的武器。"
 
 msgid "IDS_PISC111_FULL"
-msgstr "Piemonte"
+msgstr "皮埃蒙特"
 
 msgid "IDS_PISC111_NUMBER"
 msgstr "1"
@@ -86956,7 +86956,7 @@ msgid "IDS_PISD109_YEAR"
 msgstr "1945"
 
 msgid "IDS_PISD110"
-msgstr "A. Regolo"
+msgstr "阿蒂利烏斯·雷古魯斯"
 
 msgid "IDS_PISD110_DESCR"
 msgstr ""
@@ -86966,7 +86966,7 @@ msgstr ""
 "艇向盟軍投降。戰爭結束後，Attilio Regolo 作為賠償移交法國，並更名為「Chateaurenault」。"
 
 msgid "IDS_PISD110_FULL"
-msgstr "Attilio Regolo"
+msgstr "阿蒂利烏斯·雷古魯斯"
 
 msgid "IDS_PISD110_NUMBER"
 msgstr "12"
@@ -90115,7 +90115,7 @@ msgid "IDS_PJSA108_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSA110"
-msgstr "Hakuryū"
+msgstr "白龍"
 
 msgid "IDS_PJSA110_DESCR"
 msgstr ""
@@ -90124,7 +90124,7 @@ msgstr ""
 "航空母艦。此計畫在 1943 年被完全放棄。"
 
 msgid "IDS_PJSA110_FULL"
-msgstr "Hakuryū"
+msgstr "白龍"
 
 msgid "IDS_PJSA110_NUMBER"
 msgstr "0"
@@ -90403,7 +90403,7 @@ msgid "IDS_PJSB013_YEAR"
 msgstr "1919"
 
 msgid "IDS_PJSB018"
-msgstr "Yamato"
+msgstr "大和"
 
 msgid "IDS_PJSB018_DESCR"
 msgstr ""
@@ -90497,7 +90497,7 @@ msgid "IDS_PJSB209_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSB210"
-msgstr "Bungo"
+msgstr "豐後"
 
 msgid "IDS_PJSB210_DESCR"
 msgstr ""
@@ -91198,7 +91198,7 @@ msgid "IDS_PJSC026_YEAR"
 msgstr "1916"
 
 msgid "IDS_PJSC034"
-msgstr "Zaō"
+msgstr "藏王"
 
 msgid "IDS_PJSC034_DESCR"
 msgstr ""
@@ -91207,7 +91207,7 @@ msgstr ""
 "HE 彈的攻擊。後來艦艇數量減為 4 艘，隨後又完全取消建造。"
 
 msgid "IDS_PJSC034_FULL"
-msgstr "Zaō"
+msgstr "藏王"
 
 msgid "IDS_PJSC034_NUMBER"
 msgstr "0"
@@ -91360,7 +91360,7 @@ msgid "IDS_PJSC209_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSC210"
-msgstr "Yodo"
+msgstr "淀"
 
 msgid "IDS_PJSC210_DESCR"
 msgstr ""
@@ -91368,7 +91368,7 @@ msgstr ""
 "炮。此艦艇本應搭載飛機，可能是一項設計用於領導潛水艦艦隊的巡洋艦計畫。"
 
 msgid "IDS_PJSC210_FULL"
-msgstr "Yodo"
+msgstr "淀"
 
 msgid "IDS_PJSC210_NUMBER"
 msgstr "1"
@@ -91926,7 +91926,7 @@ msgid "IDS_PJSD010_YEAR"
 msgstr "1939"
 
 msgid "IDS_PJSD012"
-msgstr "Shimakaze"
+msgstr "島風"
 
 msgid "IDS_PJSD012_DESCR"
 msgstr ""
@@ -91936,7 +91936,7 @@ msgstr ""
 "1943 年至 1944 年間護送船團，亦曾參與雷伊泰灣與奧爾莫克灣海戰。"
 
 msgid "IDS_PJSD012_FULL"
-msgstr "Shimakaze"
+msgstr "島風"
 
 msgid "IDS_PJSD012_NUMBER"
 msgstr "1"
@@ -92212,7 +92212,7 @@ msgid "IDS_PJSD209_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSD210"
-msgstr "Harugumo"
+msgstr "春雲"
 
 msgid "IDS_PJSD210_DESCR"
 msgstr ""
@@ -92221,7 +92221,7 @@ msgstr ""
 "式 40 毫米火炮，是 Bofors 炮的版本之一，可使用從荷蘭與英國部隊繳獲的火炮重建而成。"
 
 msgid "IDS_PJSD210_FULL"
-msgstr "Harugumo"
+msgstr "春雲"
 
 msgid "IDS_PJSD210_NUMBER"
 msgstr "0"
@@ -103154,7 +103154,7 @@ msgid "IDS_PSSC109_YEAR"
 msgstr "1938"
 
 msgid "IDS_PSSC110"
-msgstr "Castilla"
+msgstr "卡斯提亞"
 
 msgid "IDS_PSSC110_DESCR"
 msgstr ""
@@ -103163,7 +103163,7 @@ msgstr ""
 "爾造船廠出廠的「超級華盛頓」巡洋艦。"
 
 msgid "IDS_PSSC110_FULL"
-msgstr "Castilla"
+msgstr "卡斯提亞"
 
 msgid "IDS_PSSC110_NUMBER"
 msgstr "1"
@@ -104655,7 +104655,7 @@ msgid "IDS_PVSC109_YEAR"
 msgstr "1948"
 
 msgid "IDS_PVSC110"
-msgstr "San Martín"
+msgstr "聖·馬丁"
 
 msgid "IDS_PVSC110_DESCR"
 msgstr ""
@@ -105798,7 +105798,7 @@ msgid "IDS_PWSD109_YEAR"
 msgstr "1958"
 
 msgid "IDS_PWSD110"
-msgstr "Halland"
+msgstr "哈蘭"
 
 msgid "IDS_PWSD110_DESCR"
 msgstr ""
@@ -105817,7 +105817,7 @@ msgid "IDS_PWSD110_YEAR"
 msgstr "1955"
 
 msgid "IDS_PWSD111"
-msgstr "Dalarna"
+msgstr "達拉納"
 
 msgid "IDS_PWSD111_DESCR"
 msgstr ""
@@ -105827,7 +105827,7 @@ msgstr ""
 "艦的計畫能裝備三座 120 毫米雙聯裝炮座和兩座魚雷發射器。"
 
 msgid "IDS_PWSD111_FULL"
-msgstr "Dalarna"
+msgstr "達拉納"
 
 msgid "IDS_PWSD111_NUMBER"
 msgstr "1"
@@ -105939,7 +105939,7 @@ msgid "IDS_PWSD209_YEAR"
 msgstr "1929"
 
 msgid "IDS_PWSD210"
-msgstr "Gdańsk"
+msgstr "格但斯克"
 
 msgid "IDS_PWSD210_DESCR"
 msgstr ""
@@ -105950,7 +105950,7 @@ msgstr ""
 "統、雷達和魚雷。"
 
 msgid "IDS_PWSD210_FULL"
-msgstr "Gdańsk"
+msgstr "格但斯克"
 
 msgid "IDS_PWSD210_NUMBER"
 msgstr "1"
@@ -106018,7 +106018,7 @@ msgid "IDS_PWSD509_YEAR"
 msgstr "1943"
 
 msgid "IDS_PWSD510"
-msgstr "Friesland"
+msgstr "菲士蘭"
 
 msgid "IDS_PWSD510_DESCR"
 msgstr ""
@@ -106028,7 +106028,7 @@ msgstr ""
 "為 Friesland 級艦艇。1951 年至 1958 年期間，此艦級建造了八艘艦艇，而 Friesland 是當中的領艦。"
 
 msgid "IDS_PWSD510_FULL"
-msgstr "Friesland"
+msgstr "菲士蘭"
 
 msgid "IDS_PWSD510_NUMBER"
 msgstr "8"
@@ -106056,7 +106056,7 @@ msgid "IDS_PWSD519_YEAR"
 msgstr "1917"
 
 msgid "IDS_PWSD610"
-msgstr "Småland"
+msgstr "斯莫蘭"
 
 msgid "IDS_PWSD610_DESCR"
 msgstr ""
@@ -106066,7 +106066,7 @@ msgstr ""
 "中除名。1987 年，此艦艇作為博物館艦艇被轉移到哥德堡海事中心，至今仍停泊在那裡。"
 
 msgid "IDS_PWSD610_FULL"
-msgstr "Småland"
+msgstr "斯莫蘭"
 
 msgid "IDS_PWSD610_NUMBER"
 msgstr "2"
@@ -106075,7 +106075,7 @@ msgid "IDS_PWSD610_YEAR"
 msgstr "1956"
 
 msgid "IDS_PWSD710"
-msgstr "Ragnar"
+msgstr "拉格納"
 
 msgid "IDS_PWSD710_DESCR"
 msgstr ""
@@ -106085,7 +106085,7 @@ msgstr ""
 "兩門 152 毫米高平兩用炮。"
 
 msgid "IDS_PWSD710_FULL"
-msgstr "Ragnar"
+msgstr "拉格納"
 
 msgid "IDS_PWSD710_NUMBER"
 msgstr "1"
