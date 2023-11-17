@@ -6,7 +6,7 @@ Welcome！歡迎來到俄服繁體中文翻譯基地 目前該翻譯檔案由東
 
 ![image](https://github.com/SavariumCC22/-/assets/151144873/55661c67-185d-43d3-95ee-c302390ee299)
 
-若要更新翻譯檔，請下載global.mo檔案 然後替換\Korabli\bin\\<版本號>\res_mods\texts\zh\LC_MESSAGES 內的global.mo即可
+若要更新翻譯檔，請下載global.mo檔案 然後替換\Korabli\bin\ \<版本號>\res_mods\texts\zh\LC_MESSAGES 內的global.mo即可
 
 當遊戲版本更新時，只需將上個版本內的翻譯文件 ( texts 文件夾 和 locale_config ) 複製到遊戲新版的res_mods資料夾即可
 
