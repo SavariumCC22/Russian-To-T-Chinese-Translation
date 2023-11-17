@@ -12249,13 +12249,13 @@ msgid "IDS_CONVERTED_TO_ELITE_XP"
 msgstr "已轉換為精英指揮官經驗"
 
 msgid "IDS_CONVERT_CREDITS"
-msgstr "兌換銀幣"
+msgstr "當個超級大盤子"
 
 msgid "IDS_CONVERT_EXP"
-msgstr "轉換經驗"
+msgstr "當個盤子"
 
 msgid "IDS_CONVERT_FREE_EXPERIENCE"
-msgstr "轉換經驗"
+msgstr "當個盤子"
 
 msgid "IDS_CONVERT_RATE"
 msgstr "兌換率"
@@ -46989,13 +46989,13 @@ msgstr ""
 "HEREBY ACKNOWLEDGED:"
 
 msgid "IDS_PASA002"
-msgstr "Bogue (old)"
+msgstr "博格 (舊版)"
 
 msgid "IDS_PASA002_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA002_FULL"
-msgstr "Bogue (< 23.01.2019)"
+msgstr "博格 (< 23.01.2019)"
 
 msgid "IDS_PASA002_NUMBER"
 msgstr "11"
@@ -47004,13 +47004,13 @@ msgid "IDS_PASA002_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASA004"
-msgstr "Langley (old)"
+msgstr "蘭利 (舊版)"
 
 msgid "IDS_PASA004_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA004_FULL"
-msgstr "Langley (< 23.01.2019)"
+msgstr "蘭利 (< 23.01.2019)"
 
 msgid "IDS_PASA004_NUMBER"
 msgstr "1"
@@ -47019,13 +47019,13 @@ msgid "IDS_PASA004_YEAR"
 msgstr "1922"
 
 msgid "IDS_PASA006"
-msgstr "Independence (old)"
+msgstr "獨立 (舊)"
 
 msgid "IDS_PASA006_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA006_FULL"
-msgstr "Independence (< 23.01.2019)"
+msgstr "獨立 (< 23.01.2019)"
 
 msgid "IDS_PASA006_NUMBER"
 msgstr "9"
@@ -47034,13 +47034,13 @@ msgid "IDS_PASA006_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASA010"
-msgstr "Ranger (old)"
+msgstr "遊騎兵 (舊)"
 
 msgid "IDS_PASA010_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA010_FULL"
-msgstr "Ranger (< 23.01.2019)"
+msgstr "遊騎兵 (< 23.01.2019)"
 
 msgid "IDS_PASA010_NUMBER"
 msgstr "1"
@@ -47049,13 +47049,13 @@ msgid "IDS_PASA010_YEAR"
 msgstr "1934"
 
 msgid "IDS_PASA012"
-msgstr "Lexington (old)"
+msgstr "列星頓 (old)"
 
 msgid "IDS_PASA012_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA012_FULL"
-msgstr "Lexington (< 23.01.2019)"
+msgstr "列星頓 (< 23.01.2019)"
 
 msgid "IDS_PASA012_NUMBER"
 msgstr "2"
@@ -47064,13 +47064,13 @@ msgid "IDS_PASA012_YEAR"
 msgstr "1927"
 
 msgid "IDS_PASA013"
-msgstr "Essex (old)"
+msgstr "埃塞克斯 (old)"
 
 msgid "IDS_PASA013_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA013_FULL"
-msgstr "Essex (< 23.01.2019)"
+msgstr "埃塞克斯 (< 23.01.2019)"
 
 msgid "IDS_PASA013_NUMBER"
 msgstr "26"
@@ -47079,13 +47079,13 @@ msgid "IDS_PASA013_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASA015"
-msgstr "Midway (old)"
+msgstr "中出島 (old)"
 
 msgid "IDS_PASA015_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA015_FULL"
-msgstr "Midway (< 23.01.2019)"
+msgstr "中途島 (< 23.01.2019)"
 
 msgid "IDS_PASA015_NUMBER"
 msgstr "3"
@@ -47094,7 +47094,7 @@ msgid "IDS_PASA015_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASA020"
-msgstr "Essex"
+msgstr "埃塞克斯"
 
 msgid "IDS_PASA020_DESCR"
 msgstr ""
@@ -47104,10 +47104,10 @@ msgstr ""
 "兩年，為美國海軍在太平洋取得戰果發揮了關鍵作用。"
 
 msgid "IDS_PASA020_Essex"
-msgstr "Essex"
+msgstr "埃塞克斯"
 
 msgid "IDS_PASA020_FULL"
-msgstr "Essex"
+msgstr "埃塞克斯"
 
 msgid "IDS_PASA020_NUMBER"
 msgstr "24"
@@ -47116,7 +47116,7 @@ msgid "IDS_PASA020_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASA026"
-msgstr "Independence"
+msgstr "獨立"
 
 msgid "IDS_PASA026_DESCR"
 msgstr ""
@@ -47125,7 +47125,7 @@ msgstr ""
 "型航空母艦並肩作戰，在美國所有主要行動中扮演著積極的角色。"
 
 msgid "IDS_PASA026_FULL"
-msgstr "Independence"
+msgstr "獨立"
 
 msgid "IDS_PASA026_NUMBER"
 msgstr "9"
@@ -47134,7 +47134,7 @@ msgid "IDS_PASA026_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASA028"
-msgstr "Yorktown"
+msgstr "約克鎮"
 
 msgid "IDS_PASA028_DESCR"
 msgstr ""
@@ -47144,7 +47144,7 @@ msgstr ""
 "要打擊力量。"
 
 msgid "IDS_PASA028_FULL"
-msgstr "Yorktown"
+msgstr "約克鎮"
 
 msgid "IDS_PASA028_NUMBER"
 msgstr "3"
@@ -47153,7 +47153,7 @@ msgid "IDS_PASA028_YEAR"
 msgstr "1937"
 
 msgid "IDS_PASA104"
-msgstr "Langley"
+msgstr "蘭利"
 
 msgid "IDS_PASA104_DESCR"
 msgstr ""
@@ -47163,7 +47163,7 @@ msgstr ""
 "被日本飛機嚴重損壞，之後被己方護航艦艇所擊沉。"
 
 msgid "IDS_PASA104_FULL"
-msgstr "Langley"
+msgstr "蘭利"
 
 msgid "IDS_PASA104_NUMBER"
 msgstr "1"
@@ -47172,7 +47172,7 @@ msgid "IDS_PASA104_YEAR"
 msgstr "1922"
 
 msgid "IDS_PASA106"
-msgstr "Ranger"
+msgstr "遊騎兵"
 
 msgid "IDS_PASA106_DESCR"
 msgstr ""
@@ -47182,7 +47182,7 @@ msgstr ""
 "島，隨後被用作於飛機運輸，協助登陸非洲的陸軍單位進行部署。"
 
 msgid "IDS_PASA106_FULL"
-msgstr "Ranger"
+msgstr "遊騎兵"
 
 msgid "IDS_PASA106_NUMBER"
 msgstr "1"
@@ -47191,7 +47191,7 @@ msgid "IDS_PASA106_YEAR"
 msgstr "1934"
 
 msgid "IDS_PASA108"
-msgstr "Lexington"
+msgstr "列星頓"
 
 msgid "IDS_PASA108_DESCR"
 msgstr ""
@@ -47202,7 +47202,7 @@ msgstr ""
 "魚雷擊沉 Lexington。"
 
 msgid "IDS_PASA108_FULL"
-msgstr "Lexington"
+msgstr "列星頓"
 
 msgid "IDS_PASA108_NUMBER"
 msgstr "2"
@@ -47249,13 +47249,13 @@ msgid "IDS_PASA111_YEAR"
 msgstr "1952"
 
 msgid "IDS_PASA507"
-msgstr "Saipan (old)"
+msgstr "塞班 (舊版)"
 
 msgid "IDS_PASA507_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA507_FULL"
-msgstr "Saipan (< 23.01.2019)"
+msgstr "塞班 (< 23.01.2019)"
 
 msgid "IDS_PASA507_NUMBER"
 msgstr "2"
@@ -47264,13 +47264,13 @@ msgid "IDS_PASA507_YEAR"
 msgstr "1946"
 
 msgid "IDS_PASA508"
-msgstr "Enterprise (old)"
+msgstr "企業 (舊)"
 
 msgid "IDS_PASA508_DESCR"
 msgstr "此艦艇在 0.8.0 版本更新以前可用。"
 
 msgid "IDS_PASA508_FULL"
-msgstr "Enterprise (< 23.01.2019)"
+msgstr "企業 (< 23.01.2019)"
 
 msgid "IDS_PASA508_NUMBER"
 msgstr "2"
@@ -47279,7 +47279,7 @@ msgid "IDS_PASA508_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASA510"
-msgstr "F.D. Roosevelt"
+msgstr "羅斯福"
 
 msgid "IDS_PASA510_DESCR"
 msgstr ""
@@ -47288,7 +47288,7 @@ msgstr ""
 "來，她又服役於地中海和東南亞地區。"
 
 msgid "IDS_PASA510_FULL"
-msgstr "Franklin D. Roosevelt"
+msgstr "富蘭克林·德拉諾·羅斯福"
 
 msgid "IDS_PASA510_NUMBER"
 msgstr "3"
@@ -47297,7 +47297,7 @@ msgid "IDS_PASA510_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASA518"
-msgstr "Enterprise"
+msgstr "企業"
 
 msgid "IDS_PASA518_DESCR"
 msgstr ""
@@ -47308,7 +47308,7 @@ msgstr ""
 "獲勳最多的美國海軍艦艇。"
 
 msgid "IDS_PASA518_FULL"
-msgstr "Enterprise"
+msgstr "企業"
 
 msgid "IDS_PASA518_NUMBER"
 msgstr "3"
@@ -47317,7 +47317,7 @@ msgid "IDS_PASA518_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASA528"
-msgstr "Saipan"
+msgstr "塞班"
 
 msgid "IDS_PASA528_DESCR"
 msgstr ""
@@ -47327,7 +47327,7 @@ msgstr ""
 "練、訓練演習，以及巡邏和外交任務。"
 
 msgid "IDS_PASA528_FULL"
-msgstr "Saipan"
+msgstr "塞班"
 
 msgid "IDS_PASA528_NUMBER"
 msgstr "2"
@@ -47336,7 +47336,7 @@ msgid "IDS_PASA528_YEAR"
 msgstr "1946"
 
 msgid "IDS_PASA538"
-msgstr "Hornet"
+msgstr "大黃蜂"
 
 msgid "IDS_PASA538_DESCR"
 msgstr ""
@@ -47346,7 +47346,7 @@ msgstr ""
 "艦仍然浮在水上，直到日本驅逐艦給予了最後一擊。"
 
 msgid "IDS_PASA538_FULL"
-msgstr "Hornet"
+msgstr "大黃蜂"
 
 msgid "IDS_PASA538_NUMBER"
 msgstr "3"
@@ -47355,7 +47355,7 @@ msgid "IDS_PASA538_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASA598"
-msgstr "Saipan B"
+msgstr "塞班 B"
 
 msgid "IDS_PASA598_DESCR"
 msgstr ""
@@ -47365,7 +47365,7 @@ msgstr ""
 "習，以及巡邏和外交任務。"
 
 msgid "IDS_PASA598_FULL"
-msgstr "Saipan B"
+msgstr "塞班 B"
 
 msgid "IDS_PASA598_NUMBER"
 msgstr "2"
@@ -47374,10 +47374,10 @@ msgid "IDS_PASA598_YEAR"
 msgstr "1946"
 
 msgid "IDS_PASA906"
-msgstr "Ranger"
+msgstr "遊騎兵"
 
 msgid "IDS_PASA908"
-msgstr "Concord Bridge"
+msgstr "康科德橋"
 
 msgid "IDS_PASA908_DESCR"
 msgstr ""
@@ -47385,7 +47385,7 @@ msgstr ""
 "於布置雷區。"
 
 msgid "IDS_PASA908_FULL"
-msgstr "Concord Bridge"
+msgstr "康科德橋"
 
 msgid "IDS_PASA908_NUMBER"
 msgstr "0"
@@ -47394,7 +47394,7 @@ msgid "IDS_PASA908_YEAR"
 msgstr "1927"
 
 msgid "IDS_PASA910"
-msgstr "Essex"
+msgstr "埃塞克斯"
 
 msgid "IDS_PASA910_DESCR"
 msgstr ""
@@ -47404,7 +47404,7 @@ msgstr ""
 "並在在韓戰期間提供空中支援。在其服役期間，USS Essex 獲頒了 17 枚戰鬥之星。"
 
 msgid "IDS_PASA910_FULL"
-msgstr "Essex"
+msgstr "埃塞克斯"
 
 msgid "IDS_PASA910_NUMBER"
 msgstr "24"
@@ -47413,13 +47413,13 @@ msgid "IDS_PASA910_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASA915"
-msgstr "[Midway]"
+msgstr "[中途島]"
 
 msgid "IDS_PASA915_DESCR"
 msgstr "這艘艦艇為 Midway 的複製品，僅作測試用途。"
 
 msgid "IDS_PASA915_FULL"
-msgstr "[Midway]"
+msgstr "[中途島]"
 
 msgid "IDS_PASA915_NUMBER"
 msgstr "3"
@@ -47428,7 +47428,7 @@ msgid "IDS_PASA915_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASB001"
-msgstr "S. Carolina"
+msgstr "南卡羅萊納"
 
 msgid "IDS_PASB001_DESCR"
 msgstr ""
@@ -47438,7 +47438,7 @@ msgstr ""
 "艦護送部隊船團前往法國。戰爭結束後，她參與了將部隊運送回美國的工作。"
 
 msgid "IDS_PASB001_FULL"
-msgstr "South Carolina"
+msgstr "南卡羅萊納"
 
 msgid "IDS_PASB001_NUMBER"
 msgstr "2"
@@ -47447,7 +47447,7 @@ msgid "IDS_PASB001_YEAR"
 msgstr "1910"
 
 msgid "IDS_PASB004"
-msgstr "Wyoming"
+msgstr "懷俄明"
 
 msgid "IDS_PASB004_DESCR"
 msgstr ""
@@ -47458,7 +47458,7 @@ msgstr ""
 "巡邏任務。"
 
 msgid "IDS_PASB004_FULL"
-msgstr "Wyoming"
+msgstr "懷俄明"
 
 msgid "IDS_PASB004_NUMBER"
 msgstr "2"
@@ -47467,7 +47467,7 @@ msgid "IDS_PASB004_YEAR"
 msgstr "1912"
 
 msgid "IDS_PASB006"
-msgstr "New York"
+msgstr "紐約"
 
 msgid "IDS_PASB006_DESCR"
 msgstr ""
@@ -47477,7 +47477,7 @@ msgstr ""
 "負責護送船團和支援部隊登陸北非、硫磺島，以及沖繩島。"
 
 msgid "IDS_PASB006_FULL"
-msgstr "New York"
+msgstr "紐約"
 
 msgid "IDS_PASB006_NUMBER"
 msgstr "2"
@@ -47486,7 +47486,7 @@ msgid "IDS_PASB006_YEAR"
 msgstr "1914"
 
 msgid "IDS_PASB008"
-msgstr "Colorado"
+msgstr "科羅拉多"
 
 msgid "IDS_PASB008_DESCR"
 msgstr ""
@@ -47496,7 +47496,7 @@ msgstr ""
 "入侵瓜加林環礁和埃內韋塔克環礁提供入侵前的炮擊和火力支援，並協助登陸菲律賓和沖繩島。"
 
 msgid "IDS_PASB008_FULL"
-msgstr "Colorado"
+msgstr "科羅拉多"
 
 msgid "IDS_PASB008_NUMBER"
 msgstr "4"
@@ -47505,7 +47505,7 @@ msgid "IDS_PASB008_YEAR"
 msgstr "1923"
 
 msgid "IDS_PASB012"
-msgstr "N. Carolina"
+msgstr "北卡羅萊納"
 
 msgid "IDS_PASB012_DESCR"
 msgstr ""
@@ -47515,7 +47515,7 @@ msgstr ""
 "賓、 登陸沖繩島。此艦艇在戰爭期間獲頒了 12 枚戰鬥之星。"
 
 msgid "IDS_PASB012_FULL"
-msgstr "North Carolina"
+msgstr "北卡羅萊納"
 
 msgid "IDS_PASB012_NUMBER"
 msgstr "2"
@@ -47524,7 +47524,7 @@ msgid "IDS_PASB012_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB013"
-msgstr "Arkansas B"
+msgstr "阿肯色 Beta"
 
 msgid "IDS_PASB013_DESCR"
 msgstr ""
@@ -47535,7 +47535,7 @@ msgstr ""
 "參加了在比基尼環礁進行的核試爆。"
 
 msgid "IDS_PASB013_FULL"
-msgstr "Arkansas Beta"
+msgstr "阿肯色 Beta"
 
 msgid "IDS_PASB013_NUMBER"
 msgstr "2"
@@ -47544,7 +47544,7 @@ msgid "IDS_PASB013_YEAR"
 msgstr "1912"
 
 msgid "IDS_PASB017"
-msgstr "Montana"
+msgstr "蒙大拿"
 
 msgid "IDS_PASB017_DESCR"
 msgstr ""
@@ -47554,7 +47554,7 @@ msgstr ""
 "軍放棄了 Montana 級艦艇，轉而採用航空母艦、攻擊艦，以及反潛艦。"
 
 msgid "IDS_PASB017_FULL"
-msgstr "Montana"
+msgstr "蒙大拿"
 
 msgid "IDS_PASB017_NUMBER"
 msgstr "0"
@@ -47563,7 +47563,7 @@ msgid "IDS_PASB017_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB018"
-msgstr "Iowa"
+msgstr "愛荷華"
 
 msgid "IDS_PASB018_DESCR"
 msgstr ""
@@ -47574,7 +47574,7 @@ msgstr ""
 "德羅。"
 
 msgid "IDS_PASB018_FULL"
-msgstr "Iowa"
+msgstr "愛荷華"
 
 msgid "IDS_PASB018_NUMBER"
 msgstr "6"
@@ -47583,7 +47583,7 @@ msgid "IDS_PASB018_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASB034"
-msgstr "New Mexico"
+msgstr "新墨西哥"
 
 msgid "IDS_PASB034_DESCR"
 msgstr ""
@@ -47593,7 +47593,7 @@ msgstr ""
 "阿留申群島戰役；並為馬紹爾群島、馬里亞納群島、沖繩島，以及菲律賓的突擊登陸提供掩護。"
 
 msgid "IDS_PASB034_FULL"
-msgstr "New Mexico"
+msgstr "新墨西哥"
 
 msgid "IDS_PASB034_NUMBER"
 msgstr "3"
@@ -47602,7 +47602,7 @@ msgid "IDS_PASB034_YEAR"
 msgstr "1918"
 
 msgid "IDS_PASB108"
-msgstr "Kansas"
+msgstr "堪薩斯"
 
 msgid "IDS_PASB108_DESCR"
 msgstr ""
@@ -47612,7 +47612,7 @@ msgstr ""
 "面臨延誤。最終，根據華盛頓海軍會議期間所達成的協議，此建造完全取消。"
 
 msgid "IDS_PASB108_FULL"
-msgstr "Kansas"
+msgstr "堪薩斯"
 
 msgid "IDS_PASB108_NUMBER"
 msgstr "6"
@@ -47621,7 +47621,7 @@ msgid "IDS_PASB108_YEAR"
 msgstr "1918"
 
 msgid "IDS_PASB109"
-msgstr "Minnesota"
+msgstr "明尼蘇達"
 
 msgid "IDS_PASB109_DESCR"
 msgstr ""
@@ -47631,7 +47631,7 @@ msgstr ""
 "大戰爆發時建造並服役，那她們很有可能會進行類似的升級。"
 
 msgid "IDS_PASB109_FULL"
-msgstr "Minnesota"
+msgstr "明尼蘇達"
 
 msgid "IDS_PASB109_NUMBER"
 msgstr "1"
@@ -47658,7 +47658,7 @@ msgid "IDS_PASB110_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASB111"
-msgstr "Maine"
+msgstr "緬因"
 
 msgid "IDS_PASB111_DESCR"
 msgstr ""
@@ -47668,7 +47668,7 @@ msgstr ""
 "合理的選擇。"
 
 msgid "IDS_PASB111_FULL"
-msgstr "Maine"
+msgstr "緬因"
 
 msgid "IDS_PASB111_NUMBER"
 msgstr "1"
@@ -47677,7 +47677,7 @@ msgid "IDS_PASB111_YEAR"
 msgstr "1958"
 
 msgid "IDS_PASB208"
-msgstr "Nebraska"
+msgstr "內布拉斯加"
 
 msgid "IDS_PASB208_DESCR"
 msgstr ""
@@ -47695,7 +47695,7 @@ msgid "IDS_PASB208_YEAR"
 msgstr "1944"
 
 msgid "IDS_PASB209"
-msgstr "Delaware"
+msgstr "特拉華"
 
 msgid "IDS_PASB209_DESCR"
 msgstr ""
@@ -47704,7 +47704,7 @@ msgstr ""
 "艉並用雙聯裝炮塔代替以補償重量來滿足。"
 
 msgid "IDS_PASB209_FULL"
-msgstr "Delaware"
+msgstr "特拉華"
 
 msgid "IDS_PASB209_NUMBER"
 msgstr "1"
@@ -47730,7 +47730,7 @@ msgid "IDS_PASB210_YEAR"
 msgstr "1949"
 
 msgid "IDS_PASB505"
-msgstr "Oklahoma"
+msgstr "奧克拉荷馬"
 
 msgid "IDS_PASB505_DESCR"
 msgstr ""
@@ -47740,16 +47740,16 @@ msgstr ""
 "人死亡。"
 
 msgid "IDS_PASB505_FULL"
-msgstr "Oklahoma"
+msgstr "奧克拉荷馬"
 
 msgid "IDS_PASB505_NUMBER"
 msgstr "2"
 
 msgid "IDS_PASB505_YEAR"
-msgstr "1916"
+msgstr "1949"
 
 msgid "IDS_PASB506"
-msgstr "Arizona"
+msgstr "亞利桑那"
 
 msgid "IDS_PASB506_DESCR"
 msgstr ""
@@ -47760,7 +47760,7 @@ msgstr ""
 "幕。"
 
 msgid "IDS_PASB506_FULL"
-msgstr "Arizona"
+msgstr "亞利桑那"
 
 msgid "IDS_PASB506_NUMBER"
 msgstr "2"
@@ -47769,7 +47769,7 @@ msgid "IDS_PASB506_YEAR"
 msgstr "1916"
 
 msgid "IDS_PASB507"
-msgstr "W. Virginia '41"
+msgstr "西維吉尼亞 '41"
 
 msgid "IDS_PASB507_DESCR"
 msgstr ""
@@ -47780,7 +47780,7 @@ msgstr ""
 "了徹底的現代化改造。"
 
 msgid "IDS_PASB507_FULL"
-msgstr "W. Virginia '41"
+msgstr "西維吉尼亞 '41"
 
 msgid "IDS_PASB507_NUMBER"
 msgstr "4"
@@ -47789,7 +47789,7 @@ msgid "IDS_PASB507_YEAR"
 msgstr "1923"
 
 msgid "IDS_PASB508"
-msgstr "Alabama"
+msgstr "阿拉巴馬"
 
 msgid "IDS_PASB508_DESCR"
 msgstr ""
@@ -47799,7 +47799,7 @@ msgstr ""
 "州莫比爾灣的博物館艦艇。"
 
 msgid "IDS_PASB508_FULL"
-msgstr "Alabama"
+msgstr "阿拉巴馬"
 
 msgid "IDS_PASB508_NUMBER"
 msgstr "4"
@@ -47808,7 +47808,7 @@ msgid "IDS_PASB508_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASB509"
-msgstr "Missouri"
+msgstr "密蘇里"
 
 msgid "IDS_PASB509_DESCR"
 msgstr ""
@@ -47818,7 +47818,7 @@ msgstr ""
 "沙漠風暴行動。Missouri 在服役期間獲頒了 11 枚戰鬥之星，如今她是一艘位於珍珠港的博物館艦艇。"
 
 msgid "IDS_PASB509_FULL"
-msgstr "Missouri"
+msgstr "密蘇里"
 
 msgid "IDS_PASB509_NUMBER"
 msgstr "6"
@@ -47827,7 +47827,7 @@ msgid "IDS_PASB509_YEAR"
 msgstr "1944"
 
 msgid "IDS_PASB510"
-msgstr "Ohio"
+msgstr "俄亥俄"
 
 msgid "IDS_PASB510_DESCR"
 msgstr ""
@@ -47837,7 +47837,7 @@ msgstr ""
 "未完工的 Montana 級主力艦上。"
 
 msgid "IDS_PASB510_FULL"
-msgstr "Ohio"
+msgstr "俄亥俄"
 
 msgid "IDS_PASB510_NUMBER"
 msgstr "1"
@@ -47846,7 +47846,7 @@ msgid "IDS_PASB510_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB517"
-msgstr "Florida"
+msgstr "佛羅里達"
 
 msgid "IDS_PASB517_DESCR"
 msgstr ""
@@ -47856,7 +47856,7 @@ msgstr ""
 "現。"
 
 msgid "IDS_PASB517_FULL"
-msgstr "Florida"
+msgstr "佛羅里達"
 
 msgid "IDS_PASB517_NUMBER"
 msgstr "1"
@@ -47865,7 +47865,7 @@ msgid "IDS_PASB517_YEAR"
 msgstr "1936"
 
 msgid "IDS_PASB518"
-msgstr "Massachusetts"
+msgstr "麻薩諸塞"
 
 msgid "IDS_PASB518_DESCR"
 msgstr ""
@@ -47874,7 +47874,7 @@ msgstr ""
 "以及沖繩島突擊。時至今日此艦艇作為博物館停泊於麻薩諸塞州福爾河。"
 
 msgid "IDS_PASB518_FULL"
-msgstr "Massachusetts"
+msgstr "麻薩諸塞"
 
 msgid "IDS_PASB518_NUMBER"
 msgstr "4"
@@ -47883,7 +47883,7 @@ msgid "IDS_PASB518_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASB519"
-msgstr "Kearsarge"
+msgstr "奇爾沙治"
 
 msgid "IDS_PASB519_DESCR"
 msgstr ""
@@ -47892,7 +47892,7 @@ msgstr ""
 "然而，蘇聯方後來認識到要建造如此大型且昂貴的艦艇並不適合，此計畫因而宣告終止。"
 
 msgid "IDS_PASB519_FULL"
-msgstr "Kearsarge"
+msgstr "奇爾沙治"
 
 msgid "IDS_PASB519_NUMBER"
 msgstr "1"
@@ -47901,7 +47901,7 @@ msgid "IDS_PASB519_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASB527"
-msgstr "W. Virginia '44"
+msgstr "西維吉尼亞 '44"
 
 msgid "IDS_PASB527_DESCR"
 msgstr ""
@@ -47911,7 +47911,7 @@ msgstr ""
 "島戰役並在沖繩登陸。戰爭期間，West Virginia 獲頒五枚戰鬥之星。"
 
 msgid "IDS_PASB527_FULL"
-msgstr "West Virginia '44"
+msgstr "西維吉尼亞 '44"
 
 msgid "IDS_PASB527_NUMBER"
 msgstr "4"
@@ -47920,7 +47920,7 @@ msgid "IDS_PASB527_YEAR"
 msgstr "1923"
 
 msgid "IDS_PASB528"
-msgstr "Alabama VL"
+msgstr "阿拉巴馬 VL"
 
 msgid "IDS_PASB528_DESCR"
 msgstr ""
@@ -47930,7 +47930,7 @@ msgstr ""
 "州莫比爾灣的博物館艦艇。"
 
 msgid "IDS_PASB528_FULL"
-msgstr "Alabama VL"
+msgstr "阿拉巴馬 VL"
 
 msgid "IDS_PASB528_NUMBER"
 msgstr "4"
@@ -47939,7 +47939,7 @@ msgid "IDS_PASB528_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASB538"
-msgstr "Constellation"
+msgstr "星座"
 
 msgid "IDS_PASB538_DESCR"
 msgstr ""
@@ -47949,7 +47949,7 @@ msgstr ""
 "單在三年後因華盛頓海軍會議的結果而取消。"
 
 msgid "IDS_PASB538_FULL"
-msgstr "Constellation"
+msgstr "星座"
 
 msgid "IDS_PASB538_NUMBER"
 msgstr "6"
@@ -47958,7 +47958,7 @@ msgid "IDS_PASB538_YEAR"
 msgstr "1919"
 
 msgid "IDS_PASB539"
-msgstr "Illinois"
+msgstr "伊利諾伊"
 
 msgid "IDS_PASB539_DESCR"
 msgstr ""
@@ -47967,7 +47967,7 @@ msgstr ""
 "然而，此計畫從未實現。"
 
 msgid "IDS_PASB539_FULL"
-msgstr "Illinois"
+msgstr "伊利諾伊"
 
 msgid "IDS_PASB539_NUMBER"
 msgstr "1"
@@ -47976,7 +47976,7 @@ msgid "IDS_PASB539_YEAR"
 msgstr "1953"
 
 msgid "IDS_PASB598"
-msgstr "Massachusetts B"
+msgstr "麻薩諸塞 B"
 
 msgid "IDS_PASB598_DESCR"
 msgstr ""
@@ -47985,7 +47985,7 @@ msgstr ""
 "以及沖繩島突擊。時至今日此艦艇作為博物館停泊於麻薩諸塞州福爾河。"
 
 msgid "IDS_PASB598_FULL"
-msgstr "Massachusetts B"
+msgstr "麻薩諸塞 B"
 
 msgid "IDS_PASB598_NUMBER"
 msgstr "4"
@@ -47994,7 +47994,7 @@ msgid "IDS_PASB598_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASB599"
-msgstr "Kearsarge B"
+msgstr "奇爾沙治 B"
 
 msgid "IDS_PASB599_DESCR"
 msgstr ""
@@ -48003,7 +48003,7 @@ msgstr ""
 "然而，蘇聯方後來認識到要建造如此大型且昂貴的艦艇並不適合，此計畫因而宣告終止。"
 
 msgid "IDS_PASB599_FULL"
-msgstr "Kearsarge B"
+msgstr "奇爾沙治 B"
 
 msgid "IDS_PASB599_NUMBER"
 msgstr "1"
@@ -48012,7 +48012,7 @@ msgid "IDS_PASB599_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASB705"
-msgstr "Texas"
+msgstr "得克薩斯"
 
 msgid "IDS_PASB705_DESCR"
 msgstr ""
@@ -48022,7 +48022,7 @@ msgstr ""
 "國國家歷史地標地位的主力艦。"
 
 msgid "IDS_PASB705_FULL"
-msgstr "Texas"
+msgstr "得克薩斯"
 
 msgid "IDS_PASB705_NUMBER"
 msgstr "2"
@@ -48031,7 +48031,7 @@ msgid "IDS_PASB705_YEAR"
 msgstr "1914"
 
 msgid "IDS_PASB707"
-msgstr "California"
+msgstr "加利福尼亞"
 
 msgid "IDS_PASB707_DESCR"
 msgstr ""
@@ -48041,7 +48041,7 @@ msgstr ""
 "役、菲律賓戰役，以及沖繩島突擊。"
 
 msgid "IDS_PASB707_FULL"
-msgstr "California"
+msgstr "加利福尼亞"
 
 msgid "IDS_PASB707_NUMBER"
 msgstr "2"
@@ -48050,7 +48050,7 @@ msgid "IDS_PASB707_YEAR"
 msgstr "1921"
 
 msgid "IDS_PASB708"
-msgstr "Alabama ST"
+msgstr "阿拉巴馬 ST"
 
 msgid "IDS_PASB708_DESCR"
 msgstr ""
@@ -48060,7 +48060,7 @@ msgstr ""
 "州莫比爾灣的博物館艦艇。"
 
 msgid "IDS_PASB708_FULL"
-msgstr "Alabama ST"
+msgstr "阿拉巴馬 ST"
 
 msgid "IDS_PASB708_NUMBER"
 msgstr "4"
@@ -48069,7 +48069,7 @@ msgid "IDS_PASB708_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASB720"
-msgstr "Rhode Island"
+msgstr "羅德島"
 
 msgid "IDS_PASB720_DESCR"
 msgstr ""
@@ -48077,7 +48077,7 @@ msgstr ""
 "的四聯裝炮塔上裝備十二門 356 毫米主炮，此主炮最初計劃在 1937 年用於 North Carolina 級主力艦。"
 
 msgid "IDS_PASB720_FULL"
-msgstr "Rhode Island"
+msgstr "羅德島"
 
 msgid "IDS_PASB720_NUMBER"
 msgstr "1"
@@ -48086,7 +48086,7 @@ msgid "IDS_PASB720_YEAR"
 msgstr "1952"
 
 msgid "IDS_PASB729"
-msgstr "Georgia"
+msgstr "喬治亞"
 
 msgid "IDS_PASB729_DESCR"
 msgstr ""
@@ -48096,7 +48096,7 @@ msgstr ""
 "現。"
 
 msgid "IDS_PASB729_FULL"
-msgstr "Georgia"
+msgstr "喬治亞"
 
 msgid "IDS_PASB729_NUMBER"
 msgstr "1"
@@ -48105,19 +48105,19 @@ msgid "IDS_PASB729_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASB801"
-msgstr "South Carolina"
+msgstr "南卡羅萊納"
 
 msgid "IDS_PASB801_DESCR"
 msgstr "用於入門任務的主力艦 South Carolina"
 
 msgid "IDS_PASB802"
-msgstr "Michigan"
+msgstr "密歇根"
 
 msgid "IDS_PASB802_DESCR"
 msgstr "用於入門任務的主力艦 Michigan"
 
 msgid "IDS_PASB808"
-msgstr "N. Carolina CLR"
+msgstr "南卡羅萊納 CLR"
 
 msgid "IDS_PASB808_DESCR"
 msgstr ""
@@ -48127,7 +48127,7 @@ msgstr ""
 "賓、 登陸沖繩島。戰爭期間，此艦艇獲頒了 12 枚戰鬥之星。"
 
 msgid "IDS_PASB808_FULL"
-msgstr "North Carolina CLR"
+msgstr "北卡羅萊納 CLR"
 
 msgid "IDS_PASB808_NUMBER"
 msgstr "2"
@@ -48136,7 +48136,7 @@ msgid "IDS_PASB808_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB810"
-msgstr "Montana P"
+msgstr "蒙大拿 P"
 
 msgid "IDS_PASB810_DESCR"
 msgstr ""
@@ -48146,7 +48146,7 @@ msgstr ""
 "軍放棄了 Montana 級艦艇，轉而採用航空母艦、攻擊艦，以及反潛艦。"
 
 msgid "IDS_PASB810_FULL"
-msgstr "Montana P"
+msgstr "蒙大拿 P"
 
 msgid "IDS_PASB810_NUMBER"
 msgstr "0"
@@ -48155,13 +48155,13 @@ msgid "IDS_PASB810_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB910"
-msgstr "Connecticut"
+msgstr "康乃狄克"
 
 msgid "IDS_PASB910_DESCR"
 msgstr "強大的 70,000 噸級主力艦設計，航速中等，裝備了 457 毫米主炮。"
 
 msgid "IDS_PASB910_FULL"
-msgstr "Connecticut"
+msgstr "康乃狄克"
 
 msgid "IDS_PASB910_NUMBER"
 msgstr "1"
@@ -48170,13 +48170,13 @@ msgid "IDS_PASB910_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASB917"
-msgstr "[Montana]"
+msgstr "[拿拿醬]"
 
 msgid "IDS_PASB917_DESCR"
 msgstr "這艘艦艇為 Montana 的複製品，並且只適用於公會戰鬥"
 
 msgid "IDS_PASB917_FULL"
-msgstr "[Montana]"
+msgstr "[蒙大拿]"
 
 msgid "IDS_PASB917_NUMBER"
 msgstr "0"
@@ -48185,13 +48185,13 @@ msgid "IDS_PASB917_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB990"
-msgstr "Utah"
+msgstr "猶他"
 
 msgid "IDS_PASB990_DESCR"
 msgstr "強大的 70,000 噸級主力艦設計，航速中等，裝備了 457 毫米主炮。"
 
 msgid "IDS_PASB990_FULL"
-msgstr "Utah"
+msgstr "猶他"
 
 msgid "IDS_PASB990_NUMBER"
 msgstr "1"
@@ -48200,7 +48200,7 @@ msgid "IDS_PASB990_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASC001"
-msgstr "Erie"
+msgstr "伊利"
 
 msgid "IDS_PASC001_DESCR"
 msgstr ""
@@ -48210,7 +48210,7 @@ msgstr ""
 "USS Erie 保衛加勒比海不受德國潛水艦的襲擊。"
 
 msgid "IDS_PASC001_FULL"
-msgstr "Erie"
+msgstr "伊利"
 
 msgid "IDS_PASC001_NUMBER"
 msgstr "2"
@@ -48219,7 +48219,7 @@ msgid "IDS_PASC001_YEAR"
 msgstr "1936"
 
 msgid "IDS_PASC002"
-msgstr "Chester"
+msgstr "切斯特"
 
 msgid "IDS_PASC002_DESCR"
 msgstr ""
@@ -48229,7 +48229,7 @@ msgstr ""
 "護送船團和運輸部隊。"
 
 msgid "IDS_PASC002_FULL"
-msgstr "Chester"
+msgstr "切斯特"
 
 msgid "IDS_PASC002_NUMBER"
 msgstr "3"
@@ -48238,7 +48238,7 @@ msgid "IDS_PASC002_YEAR"
 msgstr "1908"
 
 msgid "IDS_PASC003"
-msgstr "Albany"
+msgstr "奧爾巴尼"
 
 msgid "IDS_PASC003_DESCR"
 msgstr ""
@@ -48248,7 +48248,7 @@ msgstr ""
 "一以 Albany 之名投入服役。此艦艇參加了美菲戰爭和後來的第一次世界大戰。"
 
 msgid "IDS_PASC003_FULL"
-msgstr "Albany"
+msgstr "奧爾巴尼"
 
 msgid "IDS_PASC003_NUMBER"
 msgstr "2"
@@ -48257,7 +48257,7 @@ msgid "IDS_PASC003_YEAR"
 msgstr "1900"
 
 msgid "IDS_PASC004"
-msgstr "St. Louis"
+msgstr "聖·路易斯"
 
 msgid "IDS_PASC004_DESCR"
 msgstr ""
@@ -48267,7 +48267,7 @@ msgstr ""
 "包括了護送部隊船團和運送高層人士。"
 
 msgid "IDS_PASC004_FULL"
-msgstr "St. Louis"
+msgstr "聖·路易斯"
 
 msgid "IDS_PASC004_NUMBER"
 msgstr "3"
@@ -48276,7 +48276,7 @@ msgid "IDS_PASC004_YEAR"
 msgstr "1906"
 
 msgid "IDS_PASC005"
-msgstr "Omaha"
+msgstr "奧馬哈"
 
 msgid "IDS_PASC005_DESCR"
 msgstr ""
@@ -48286,7 +48286,7 @@ msgstr ""
 "參加了法國南部的兩棲登陸作戰。"
 
 msgid "IDS_PASC005_FULL"
-msgstr "Omaha"
+msgstr "奧馬哈"
 
 msgid "IDS_PASC005_NUMBER"
 msgstr "10"
@@ -48295,7 +48295,7 @@ msgid "IDS_PASC005_YEAR"
 msgstr "1923"
 
 msgid "IDS_PASC006"
-msgstr "Atlanta"
+msgstr "亞特蘭大"
 
 msgid "IDS_PASC006_DESCR"
 msgstr ""
@@ -48305,7 +48305,7 @@ msgstr ""
 "的命令下於拖走時被擊沉。戰爭期間，此艦艇獲頒了五枚戰鬥之星。"
 
 msgid "IDS_PASC006_FULL"
-msgstr "Atlanta"
+msgstr "亞特蘭大"
 
 msgid "IDS_PASC006_NUMBER"
 msgstr "8"
@@ -48314,13 +48314,13 @@ msgid "IDS_PASC006_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASC007"
-msgstr "Cleveland (old)"
+msgstr "克里夫蘭 (舊版)"
 
 msgid "IDS_PASC007_DESCR"
 msgstr "此艦艇在 0.7.4 版本更新以前可用。"
 
 msgid "IDS_PASC007_FULL"
-msgstr "Cleveland (< 31.05.2018)"
+msgstr "克里夫蘭 (< 31.05.2018)"
 
 msgid "IDS_PASC007_NUMBER"
 msgstr "28"
@@ -48329,13 +48329,13 @@ msgid "IDS_PASC007_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASC012"
-msgstr "Pensacola (old)"
+msgstr "彭薩柯拉 (old)"
 
 msgid "IDS_PASC012_DESCR"
 msgstr "此艦艇在 0.7.4 版本更新以前可用。"
 
 msgid "IDS_PASC012_FULL"
-msgstr "Pensacola (< 31.05.2018)"
+msgstr "彭薩柯拉 (< 31.05.2018)"
 
 msgid "IDS_PASC012_NUMBER"
 msgstr "2"
@@ -48344,13 +48344,13 @@ msgid "IDS_PASC012_YEAR"
 msgstr "1930"
 
 msgid "IDS_PASC014"
-msgstr "New Orleans (old)"
+msgstr "新奧爾良 (old)"
 
 msgid "IDS_PASC014_DESCR"
 msgstr "此艦艇在 0.7.4 版本更新以前可用。"
 
 msgid "IDS_PASC014_FULL"
-msgstr "New Orleans (< 31.05.2018)"
+msgstr "新奧爾良 (< 31.05.2018)"
 
 msgid "IDS_PASC014_NUMBER"
 msgstr "7"
@@ -48378,13 +48378,13 @@ msgid "IDS_PASC016_YEAR"
 msgstr "1948"
 
 msgid "IDS_PASC017"
-msgstr "Baltimore (old)"
+msgstr "暴地魔 (old)"
 
 msgid "IDS_PASC017_DESCR"
 msgstr "此艦艇在 0.7.4 版本更新以前可用。"
 
 msgid "IDS_PASC017_FULL"
-msgstr "Baltimore (< 31.05.2018)"
+msgstr "暴地魔 (< 31.05.2018)"
 
 msgid "IDS_PASC017_NUMBER"
 msgstr "16"
@@ -48393,7 +48393,7 @@ msgid "IDS_PASC017_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASC019"
-msgstr "Buffalo"
+msgstr "水牛城"
 
 msgid "IDS_PASC019_DESCR"
 msgstr ""
@@ -48402,7 +48402,7 @@ msgstr ""
 "含了重型水下艦身裝甲。"
 
 msgid "IDS_PASC019_FULL"
-msgstr "Buffalo"
+msgstr "水牛城"
 
 msgid "IDS_PASC019_NUMBER"
 msgstr "0"
@@ -48430,7 +48430,7 @@ msgid "IDS_PASC020_YEAR"
 msgstr "1948"
 
 msgid "IDS_PASC024"
-msgstr "Phoenix"
+msgstr "鳳凰城"
 
 msgid "IDS_PASC024_DESCR"
 msgstr ""
@@ -48440,7 +48440,7 @@ msgstr ""
 "炮口安裝魚雷發射管。"
 
 msgid "IDS_PASC024_FULL"
-msgstr "Phoenix"
+msgstr "鳳凰城"
 
 msgid "IDS_PASC024_NUMBER"
 msgstr "0"
@@ -48449,17 +48449,17 @@ msgid "IDS_PASC024_YEAR"
 msgstr "1916"
 
 msgid "IDS_PASC039"
-msgstr "Pensacola 1930"
+msgstr "彭薩柯拉 1930"
 
 msgid "IDS_PASC039_DESCR"
 msgstr ""
 "第一艘在 1922 年華盛頓海軍條約限制下設計的美國重型巡洋艦。她配有不同於一般布局的主炮組，將三"
 "聯裝炮塔置於雙聯裝炮塔之上。這是因為三聯裝炮塔的炮塔座較寬而無法裝在她艦艏與艦艉的艦身線之"
-"內。在建造的過程中，Pensacola 裝備了兩座三聯裝 533 毫米魚雷發射管，於 1930 年代中期拆卸。她在"
+"內。在建造的過程中，彭薩柯拉 裝備了兩座三聯裝 533 毫米魚雷發射管，於 1930 年代中期拆卸。她在"
 "第二次世界大戰中存活下來，並在新式武器測試期間作為靶艦而沉沒。"
 
 msgid "IDS_PASC039_FULL"
-msgstr "Pensacola 1930"
+msgstr "彭薩柯拉 1930"
 
 msgid "IDS_PASC039_NUMBER"
 msgstr "2"
@@ -48468,7 +48468,7 @@ msgid "IDS_PASC039_YEAR"
 msgstr "1930"
 
 msgid "IDS_PASC044"
-msgstr "Marblehead"
+msgstr "馬布爾黑德"
 
 msgid "IDS_PASC044_DESCR"
 msgstr ""
@@ -48478,7 +48478,7 @@ msgstr ""
 "年夏季為船團護航。後來，她移往歐洲，參加了法國南部的登陸行動。"
 
 msgid "IDS_PASC044_FULL"
-msgstr "Marblehead"
+msgstr "馬布爾黑德"
 
 msgid "IDS_PASC044_NUMBER"
 msgstr "10"
@@ -48487,7 +48487,7 @@ msgid "IDS_PASC044_YEAR"
 msgstr "1924"
 
 msgid "IDS_PASC045"
-msgstr "Marblehead L"
+msgstr "馬布爾黑德 L"
 
 msgid "IDS_PASC045_DESCR"
 msgstr ""
@@ -48495,7 +48495,7 @@ msgstr ""
 "的其他艦艇。"
 
 msgid "IDS_PASC045_FULL"
-msgstr "Marblehead Lima"
+msgstr "馬布爾黑德 Lima"
 
 msgid "IDS_PASC045_NUMBER"
 msgstr "10"
@@ -48504,17 +48504,17 @@ msgid "IDS_PASC045_YEAR"
 msgstr "1924"
 
 msgid "IDS_PASC106"
-msgstr "Pensacola"
+msgstr "彭薩柯拉"
 
 msgid "IDS_PASC106_DESCR"
 msgstr ""
 "美國海軍第一艘根據《華盛頓海軍條約》概述的指導方針所建造的巡洋艦。為確保有足夠的火力，在四座"
 "炮塔中安置十門 203 毫米火炮。由於艦身狹窄，三聯裝炮塔安裝在較高的位置。第二次世界大戰期間，"
-"USS Pensacola 在中途島海戰中為 Yorktown 和 Enterprise 航空母艦護航發揮了重要作用。她後來參加"
-"了索羅門群島戰役，為航空母艦 Hornet 護航。戰爭期間，此艦艇獲頒了 13 枚戰鬥之星。"
+"USS 彭薩柯拉 在中途島海戰中為 Yorktown 和 Enterprise 航空母艦護航發揮了重要作用。她後來參加了"
+"索羅門群島戰役，為航空母艦 Hornet 護航。戰爭期間，此艦艇獲頒了 13 枚戰鬥之星。"
 
 msgid "IDS_PASC106_FULL"
-msgstr "Pensacola"
+msgstr "彭薩柯拉"
 
 msgid "IDS_PASC106_NUMBER"
 msgstr "2"
@@ -48523,7 +48523,7 @@ msgid "IDS_PASC106_YEAR"
 msgstr "1930"
 
 msgid "IDS_PASC107"
-msgstr "New Orleans"
+msgstr "新奧爾良"
 
 msgid "IDS_PASC107_DESCR"
 msgstr ""
@@ -48533,7 +48533,7 @@ msgstr ""
 "海戰、雷伊泰灣海戰，以及沖繩島入侵。戰爭期間，此艦艇獲頒了 17 枚戰鬥之星。"
 
 msgid "IDS_PASC107_FULL"
-msgstr "New Orleans"
+msgstr "新奧爾良"
 
 msgid "IDS_PASC107_NUMBER"
 msgstr "7"
@@ -48542,7 +48542,7 @@ msgid "IDS_PASC107_YEAR"
 msgstr "1934"
 
 msgid "IDS_PASC108"
-msgstr "Baltimore"
+msgstr "巴爾的摩"
 
 msgid "IDS_PASC108_DESCR"
 msgstr ""
@@ -48552,7 +48552,7 @@ msgstr ""
 "賓海海戰，也參與了沖繩島和硫磺島的入侵行動。"
 
 msgid "IDS_PASC108_FULL"
-msgstr "Baltimore"
+msgstr "巴爾的摩"
 
 msgid "IDS_PASC108_NUMBER"
 msgstr "16"
@@ -48561,7 +48561,7 @@ msgid "IDS_PASC108_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASC109"
-msgstr "Buffalo"
+msgstr "水牛城"
 
 msgid "IDS_PASC109_DESCR"
 msgstr ""
@@ -48571,7 +48571,7 @@ msgstr ""
 "了困難。此艦艇最終設計成僅能達到 33 節航速。結果，這些計畫被放棄了。"
 
 msgid "IDS_PASC109_FULL"
-msgstr "Buffalo"
+msgstr "水牛城"
 
 msgid "IDS_PASC109_NUMBER"
 msgstr "0"
@@ -48580,7 +48580,7 @@ msgid "IDS_PASC109_YEAR"
 msgstr "1940"
 
 msgid "IDS_PASC111"
-msgstr "Annapolis"
+msgstr "安納波利斯"
 
 msgid "IDS_PASC111_DESCR"
 msgstr ""
@@ -48589,7 +48589,7 @@ msgstr ""
 "76 毫米雙聯裝機炮。38 口徑 127 毫米火炮由 54 口徑長管火炮所取代。"
 
 msgid "IDS_PASC111_FULL"
-msgstr "Annapolis"
+msgstr "安納波利斯"
 
 msgid "IDS_PASC111_NUMBER"
 msgstr "0"
@@ -48598,7 +48598,7 @@ msgid "IDS_PASC111_YEAR"
 msgstr "1953"
 
 msgid "IDS_PASC206"
-msgstr "Dallas"
+msgstr "達拉斯"
 
 msgid "IDS_PASC206_DESCR"
 msgstr ""
@@ -48606,7 +48606,7 @@ msgstr ""
 "提出的選擇之一是一艘排水量為 8,000 噸、裝備了四座雙聯裝炮塔的艦艇。"
 
 msgid "IDS_PASC206_FULL"
-msgstr "Dallas"
+msgstr "達拉斯"
 
 msgid "IDS_PASC206_NUMBER"
 msgstr "0"
@@ -48615,7 +48615,7 @@ msgid "IDS_PASC206_YEAR"
 msgstr "1934"
 
 msgid "IDS_PASC207"
-msgstr "Helena"
+msgstr "海倫娜"
 
 msgid "IDS_PASC207_DESCR"
 msgstr ""
@@ -48625,7 +48625,7 @@ msgstr ""
 "戰和瓜達爾卡納爾島戰役等重要戰鬥；然而，此艦艇最終於 1943 年 7 月 6 日的庫拉灣海戰中沉沒。"
 
 msgid "IDS_PASC207_FULL"
-msgstr "Helena"
+msgstr "海倫娜"
 
 msgid "IDS_PASC207_NUMBER"
 msgstr "2"
@@ -48634,7 +48634,7 @@ msgid "IDS_PASC207_YEAR"
 msgstr "1939"
 
 msgid "IDS_PASC208"
-msgstr "Cleveland"
+msgstr "克里夫蘭"
 
 msgid "IDS_PASC208_DESCR"
 msgstr ""
@@ -48644,7 +48644,7 @@ msgstr ""
 "頒了 13 枚戰鬥之星。"
 
 msgid "IDS_PASC208_FULL"
-msgstr "Cleveland"
+msgstr "克里夫蘭"
 
 msgid "IDS_PASC208_NUMBER"
 msgstr "28"
@@ -48653,7 +48653,7 @@ msgid "IDS_PASC208_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASC209"
-msgstr "Seattle"
+msgstr "西雅圖"
 
 msgid "IDS_PASC209_DESCR"
 msgstr ""
@@ -48663,7 +48663,7 @@ msgstr ""
 "Worcester 級巡洋艦的設計基礎。"
 
 msgid "IDS_PASC209_FULL"
-msgstr "Seattle"
+msgstr "西雅圖"
 
 msgid "IDS_PASC209_NUMBER"
 msgstr "0"
@@ -48672,7 +48672,7 @@ msgid "IDS_PASC209_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASC210"
-msgstr "Worcester"
+msgstr "伍斯特"
 
 msgid "IDS_PASC210_DESCR"
 msgstr ""
@@ -48682,7 +48682,7 @@ msgstr ""
 "骨。儘管最初計劃建造十艘，但由於第二次世界大戰即將結束，實際上僅完成了其中兩艘。"
 
 msgid "IDS_PASC210_FULL"
-msgstr "Worcester"
+msgstr "伍斯特"
 
 msgid "IDS_PASC210_NUMBER"
 msgstr "3"
@@ -48691,7 +48691,7 @@ msgid "IDS_PASC210_YEAR"
 msgstr "1948"
 
 msgid "IDS_PASC503"
-msgstr "Charleston"
+msgstr "查爾斯頓"
 
 msgid "IDS_PASC503_DESCR"
 msgstr ""
@@ -48702,7 +48702,7 @@ msgstr ""
 "被拖到溫哥華島的科爾西灣，在那裡繼續發揮防波堤的作用。"
 
 msgid "IDS_PASC503_FULL"
-msgstr "Charleston"
+msgstr "查爾斯頓"
 
 msgid "IDS_PASC503_NUMBER"
 msgstr "3"
@@ -48728,7 +48728,7 @@ msgid "IDS_PASC505_YEAR"
 msgstr "1936"
 
 msgid "IDS_PASC507"
-msgstr "Indianapolis"
+msgstr "印第安納波利斯"
 
 msgid "IDS_PASC507_DESCR"
 msgstr ""
@@ -48739,7 +48739,7 @@ msgstr ""
 "間，此艦艇獲頒了十枚戰鬥之星。"
 
 msgid "IDS_PASC507_FULL"
-msgstr "Indianapolis"
+msgstr "印第安納波利斯"
 
 msgid "IDS_PASC507_NUMBER"
 msgstr "2"
@@ -48748,7 +48748,7 @@ msgid "IDS_PASC507_YEAR"
 msgstr "1932"
 
 msgid "IDS_PASC508"
-msgstr "Wichita"
+msgstr "威奇塔"
 
 msgid "IDS_PASC508_DESCR"
 msgstr ""
@@ -48757,7 +48757,7 @@ msgstr ""
 "在大西洋和太平洋戰區扮演著積極的角色。戰爭期間，此巡洋艦獲頒了 13 枚戰鬥之星。"
 
 msgid "IDS_PASC508_FULL"
-msgstr "Wichita"
+msgstr "威奇塔"
 
 msgid "IDS_PASC508_NUMBER"
 msgstr "1"
@@ -48766,7 +48766,7 @@ msgid "IDS_PASC508_YEAR"
 msgstr "1939"
 
 msgid "IDS_PASC509"
-msgstr "Vallejo"
+msgstr "瓦列霍"
 
 msgid "IDS_PASC509_DESCR"
 msgstr ""
@@ -48775,7 +48775,7 @@ msgstr ""
 "Worcester 級艦艇的發展。"
 
 msgid "IDS_PASC509_FULL"
-msgstr "Vallejo"
+msgstr "瓦列霍"
 
 msgid "IDS_PASC509_NUMBER"
 msgstr "1"
@@ -48784,7 +48784,7 @@ msgid "IDS_PASC509_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASC510"
-msgstr "Alaska"
+msgstr "阿拉斯加"
 
 msgid "IDS_PASC510_DESCR"
 msgstr ""
@@ -48794,7 +48794,7 @@ msgstr ""
 "航空母艦，並在硫磺島和沖繩島的登陸行動中負責掩護。此艦艇還參與過襲擊上海。"
 
 msgid "IDS_PASC510_FULL"
-msgstr "Alaska"
+msgstr "阿拉斯加"
 
 msgid "IDS_PASC510_NUMBER"
 msgstr "3"
@@ -48803,7 +48803,7 @@ msgid "IDS_PASC510_YEAR"
 msgstr "1944"
 
 msgid "IDS_PASC518"
-msgstr "Anchorage"
+msgstr "安克里奇"
 
 msgid "IDS_PASC518_DESCR"
 msgstr ""
@@ -48812,7 +48812,7 @@ msgstr ""
 "毫米四聯裝魚雷發射器 — 兩側各一座。"
 
 msgid "IDS_PASC518_FULL"
-msgstr "Anchorage"
+msgstr "安克里奇"
 
 msgid "IDS_PASC518_NUMBER"
 msgstr "1"
@@ -48821,7 +48821,7 @@ msgid "IDS_PASC518_YEAR"
 msgstr "1940"
 
 msgid "IDS_PASC519"
-msgstr "Tulsa"
+msgstr "塔爾薩"
 
 msgid "IDS_PASC519_DESCR"
 msgstr ""
@@ -48830,7 +48830,7 @@ msgstr ""
 "炮座。USS Tulsa 被設計成 Oregon City 級巡洋艦，但其建造工作於 1945 年 8 月取消。"
 
 msgid "IDS_PASC519_FULL"
-msgstr "Tulsa"
+msgstr "塔爾薩"
 
 msgid "IDS_PASC519_NUMBER"
 msgstr "1"
@@ -48839,7 +48839,7 @@ msgid "IDS_PASC519_YEAR"
 msgstr "1951"
 
 msgid "IDS_PASC528"
-msgstr "Congress"
+msgstr "國會"
 
 msgid "IDS_PASC528_DESCR"
 msgstr ""
@@ -48849,7 +48849,7 @@ msgstr ""
 "在三座炮塔中安置七門火炮 — 兩座雙聯裝炮塔和一座三聯裝炮塔。"
 
 msgid "IDS_PASC528_FULL"
-msgstr "Congress"
+msgstr "國會"
 
 msgid "IDS_PASC528_NUMBER"
 msgstr "1"
@@ -48858,7 +48858,7 @@ msgid "IDS_PASC528_YEAR"
 msgstr "1944"
 
 msgid "IDS_PASC538"
-msgstr "Rochester"
+msgstr "羅徹斯特"
 
 msgid "IDS_PASC538_DESCR"
 msgstr ""
@@ -48867,7 +48867,7 @@ msgstr ""
 "Arthur Struble 的旗艦參加了韓戰。在此期間，她負責支援登陸行動和海岸巡邏。"
 
 msgid "IDS_PASC538_FULL"
-msgstr "Rochester"
+msgstr "羅徹斯特"
 
 msgid "IDS_PASC538_NUMBER"
 msgstr "9"
@@ -48876,7 +48876,7 @@ msgid "IDS_PASC538_YEAR"
 msgstr "1946"
 
 msgid "IDS_PASC548"
-msgstr "San Diego"
+msgstr "聖地亞哥"
 
 msgid "IDS_PASC548_DESCR"
 msgstr ""
@@ -48887,7 +48887,7 @@ msgstr ""
 "期間，此艦艇獲頒了 18 枚戰鬥之星。"
 
 msgid "IDS_PASC548_FULL"
-msgstr "San Diego"
+msgstr "聖地亞哥"
 
 msgid "IDS_PASC548_NUMBER"
 msgstr "8"
@@ -48896,7 +48896,7 @@ msgid "IDS_PASC548_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASC587"
-msgstr "Atlanta B"
+msgstr "亞特蘭大 B"
 
 msgid "IDS_PASC587_DESCR"
 msgstr ""
@@ -48906,7 +48906,7 @@ msgstr ""
 "的命令下於拖走時被擊沉。戰爭期間，此艦艇獲頒了五枚戰鬥之星。"
 
 msgid "IDS_PASC587_FULL"
-msgstr "Atlanta B"
+msgstr "亞特蘭大 B"
 
 msgid "IDS_PASC587_NUMBER"
 msgstr "8"
@@ -48915,7 +48915,7 @@ msgid "IDS_PASC587_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASC597"
-msgstr "Boise"
+msgstr "波夕"
 
 msgid "IDS_PASC597_DESCR"
 msgstr ""
@@ -48925,7 +48925,7 @@ msgstr ""
 "戰。戰爭期間，此巡洋艦獲頒了 11 枚戰鬥之星。1951年，此艦艇出售給阿根廷。"
 
 msgid "IDS_PASC597_FULL"
-msgstr "Boise"
+msgstr "波夕"
 
 msgid "IDS_PASC597_NUMBER"
 msgstr "7"
@@ -48934,7 +48934,7 @@ msgid "IDS_PASC597_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASC599"
-msgstr "Alaska B"
+msgstr "阿拉斯加 B"
 
 msgid "IDS_PASC599_DESCR"
 msgstr ""
@@ -48944,7 +48944,7 @@ msgstr ""
 "航空母艦，並在硫磺島和沖繩島的登陸行動中負責掩護。此艦艇還參與過襲擊上海。"
 
 msgid "IDS_PASC599_FULL"
-msgstr "Alaska B"
+msgstr "阿拉斯加 B"
 
 msgid "IDS_PASC599_NUMBER"
 msgstr "3"
@@ -48953,7 +48953,7 @@ msgid "IDS_PASC599_YEAR"
 msgstr "1944"
 
 msgid "IDS_PASC610"
-msgstr "Puerto Rico"
+msgstr "波多黎各"
 
 msgid "IDS_PASC610_DESCR"
 msgstr ""
@@ -48963,7 +48963,7 @@ msgstr ""
 "案。在這些設計之中，尺寸最大且火力最強的艦艇配備了四座三聯裝主炮塔。"
 
 msgid "IDS_PASC610_FULL"
-msgstr "Puerto Rico"
+msgstr "波多黎各"
 
 msgid "IDS_PASC610_NUMBER"
 msgstr "1"
@@ -48972,7 +48972,7 @@ msgid "IDS_PASC610_YEAR"
 msgstr "1940"
 
 msgid "IDS_PASC707"
-msgstr "Flint"
+msgstr "弗林特"
 
 msgid "IDS_PASC707_DESCR"
 msgstr ""
@@ -48981,7 +48981,7 @@ msgstr ""
 "提供防空支援。第二次世界大戰結束後，USS Flint 將軍人從太平洋運送到美國。"
 
 msgid "IDS_PASC707_FULL"
-msgstr "Flint"
+msgstr "弗林特"
 
 msgid "IDS_PASC707_NUMBER"
 msgstr "8"
@@ -48990,7 +48990,7 @@ msgid "IDS_PASC707_YEAR"
 msgstr "1944"
 
 msgid "IDS_PASC710"
-msgstr "Salem"
+msgstr "塞勒姆"
 
 msgid "IDS_PASC710_DESCR"
 msgstr ""
@@ -48999,7 +48999,7 @@ msgstr ""
 "此巡洋艦退役並改裝成博物館艦艇，現位於馬薩諸塞州昆西。"
 
 msgid "IDS_PASC710_FULL"
-msgstr "Salem"
+msgstr "塞勒姆"
 
 msgid "IDS_PASC710_NUMBER"
 msgstr "4"
@@ -49008,7 +49008,7 @@ msgid "IDS_PASC710_YEAR"
 msgstr "1949"
 
 msgid "IDS_PASC718"
-msgstr "AL Montpelier"
+msgstr "碧藍航線 蒙特佩利爾"
 
 msgid "IDS_PASC718_DESCR"
 msgstr ""
@@ -49018,7 +49018,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PASC718_FULL"
-msgstr "AL Montpelier"
+msgstr "碧藍航線 蒙特佩利爾"
 
 msgid "IDS_PASC718_NUMBER"
 msgstr "28"
@@ -49027,31 +49027,31 @@ msgid "IDS_PASC718_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASC802"
-msgstr "Cimarron"
+msgstr "西馬隆"
 
 msgid "IDS_PASC802_DESCR"
 msgstr "用於入門任務的巡洋艦 Cimarron"
 
 msgid "IDS_PASC803"
-msgstr "Cimarron"
+msgstr "西馬隆"
 
 msgid "IDS_PASC803_DESCR"
 msgstr "用於入門任務的巡洋艦 Cimarron"
 
 msgid "IDS_PASC804"
-msgstr "Erie"
+msgstr "伊利"
 
 msgid "IDS_PASC804_DESCR"
 msgstr "用於入門任務的巡洋艦 Erie"
 
 msgid "IDS_PASC805"
-msgstr "Erie"
+msgstr "伊利"
 
 msgid "IDS_PASC805_DESCR"
 msgstr "用於入門任務的巡洋艦 Erie"
 
 msgid "IDS_PASC810"
-msgstr "Austin"
+msgstr "奧斯汀"
 
 msgid "IDS_PASC810_DESCR"
 msgstr ""
@@ -49060,7 +49060,7 @@ msgstr ""
 "艘巡洋艦；這些艦艇甚至被分配了艦身編號；然而，由於海軍預算削減，所以最終取消建造。"
 
 msgid "IDS_PASC810_FULL"
-msgstr "Austin"
+msgstr "奧斯汀"
 
 msgid "IDS_PASC810_NUMBER"
 msgstr "1"
@@ -49069,7 +49069,7 @@ msgid "IDS_PASC810_YEAR"
 msgstr "1944"
 
 msgid "IDS_PASD002"
-msgstr "Sampson"
+msgstr "桑普森"
 
 msgid "IDS_PASD002_DESCR"
 msgstr ""
@@ -49078,7 +49078,7 @@ msgstr ""
 "分遣隊一員，並用來護衛船團直到第一次世界大戰結束。"
 
 msgid "IDS_PASD002_FULL"
-msgstr "Sampson"
+msgstr "桑普森"
 
 msgid "IDS_PASD002_NUMBER"
 msgstr "6"
@@ -49087,7 +49087,7 @@ msgid "IDS_PASD002_YEAR"
 msgstr "1916"
 
 msgid "IDS_PASD005"
-msgstr "Farragut"
+msgstr "法拉格特"
 
 msgid "IDS_PASD005_DESCR"
 msgstr ""
@@ -49097,7 +49097,7 @@ msgstr ""
 "送航母群。第二次世界大戰期間，此艦艇獲頒了 14 枚戰鬥之星。"
 
 msgid "IDS_PASD005_FULL"
-msgstr "Farragut"
+msgstr "法拉格特"
 
 msgid "IDS_PASD005_NUMBER"
 msgstr "8"
@@ -49106,7 +49106,7 @@ msgid "IDS_PASD005_YEAR"
 msgstr "1934"
 
 msgid "IDS_PASD006"
-msgstr "Mahan"
+msgstr "馬漢"
 
 msgid "IDS_PASD006_DESCR"
 msgstr ""
@@ -49116,7 +49116,7 @@ msgstr ""
 "日，Mahan 在雷伊泰灣遭遇神風特攻隊襲擊，受損嚴重。"
 
 msgid "IDS_PASD006_FULL"
-msgstr "Mahan"
+msgstr "馬漢"
 
 msgid "IDS_PASD006_NUMBER"
 msgstr "18"
@@ -49125,7 +49125,7 @@ msgid "IDS_PASD006_YEAR"
 msgstr "1936"
 
 msgid "IDS_PASD008"
-msgstr "Benson"
+msgstr "班森"
 
 msgid "IDS_PASD008_DESCR"
 msgstr ""
@@ -49135,7 +49135,7 @@ msgstr ""
 "後來，她偕同航空母艦前往太平洋。戰爭期間，她獲頒了四枚戰鬥之星。"
 
 msgid "IDS_PASD008_FULL"
-msgstr "Benson"
+msgstr "班森"
 
 msgid "IDS_PASD008_NUMBER"
 msgstr "30"
@@ -49163,7 +49163,7 @@ msgid "IDS_PASD013_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASD014"
-msgstr "Nicholas"
+msgstr "尼古拉斯"
 
 msgid "IDS_PASD014_DESCR"
 msgstr ""
@@ -49173,7 +49173,7 @@ msgstr ""
 "建造此艦級。"
 
 msgid "IDS_PASD014_FULL"
-msgstr "Nicholas"
+msgstr "尼古拉斯"
 
 msgid "IDS_PASD014_NUMBER"
 msgstr "0"
@@ -49182,7 +49182,7 @@ msgid "IDS_PASD014_YEAR"
 msgstr "1919"
 
 msgid "IDS_PASD019"
-msgstr "Clemson"
+msgstr "克萊門森"
 
 msgid "IDS_PASD019_DESCR"
 msgstr ""
@@ -49191,7 +49191,7 @@ msgstr ""
 "母艦群，隨後參加了太平洋戰役。第二次世界大戰期間，此艦艇獲頒了九枚戰鬥之星。"
 
 msgid "IDS_PASD019_FULL"
-msgstr "Clemson"
+msgstr "克萊門森"
 
 msgid "IDS_PASD019_NUMBER"
 msgstr "156"
@@ -49200,7 +49200,7 @@ msgid "IDS_PASD019_YEAR"
 msgstr "1919"
 
 msgid "IDS_PASD021"
-msgstr "Fletcher"
+msgstr "弗萊徹"
 
 msgid "IDS_PASD021_DESCR"
 msgstr ""
@@ -49210,7 +49210,7 @@ msgstr ""
 "雷希多島登陸。第二次世界大戰期間，此艦艇獲頒了 15 枚戰鬥之星。"
 
 msgid "IDS_PASD021_FULL"
-msgstr "Fletcher"
+msgstr "弗萊徹"
 
 msgid "IDS_PASD021_NUMBER"
 msgstr "175"
@@ -49219,7 +49219,7 @@ msgid "IDS_PASD021_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASD027"
-msgstr "Wickes"
+msgstr "維克斯"
 
 msgid "IDS_PASD027_DESCR"
 msgstr ""
@@ -49228,7 +49228,7 @@ msgstr ""
 "加勒比海執行巡邏任務。此艦艇於 1940 年晚期移交給皇家海軍並更名為 HMS Montgomery。"
 
 msgid "IDS_PASD027_FULL"
-msgstr "Wickes"
+msgstr "維克斯"
 
 msgid "IDS_PASD027_NUMBER"
 msgstr "111"
@@ -49237,7 +49237,7 @@ msgid "IDS_PASD027_YEAR"
 msgstr "1918"
 
 msgid "IDS_PASD029"
-msgstr "Sims"
+msgstr "西姆斯"
 
 msgid "IDS_PASD029_DESCR"
 msgstr ""
@@ -49247,7 +49247,7 @@ msgstr ""
 "受到日本俯衝轟炸機的攻擊而沉沒。"
 
 msgid "IDS_PASD029_FULL"
-msgstr "Sims"
+msgstr "西姆斯"
 
 msgid "IDS_PASD029_NUMBER"
 msgstr "12"
@@ -49256,7 +49256,7 @@ msgid "IDS_PASD029_YEAR"
 msgstr "1939"
 
 msgid "IDS_PASD111"
-msgstr "J. Humphreys"
+msgstr "約書亞·漢弗莱斯"
 
 msgid "IDS_PASD111_DESCR"
 msgstr ""
@@ -49266,7 +49266,7 @@ msgstr ""
 "Bofors 炮會導致排水量明顯增加，因此就放棄了這個開發方案。"
 
 msgid "IDS_PASD111_FULL"
-msgstr "Joshua Humphreys"
+msgstr "約書亞·漢弗莱斯"
 
 msgid "IDS_PASD111_NUMBER"
 msgstr "1"
@@ -49275,7 +49275,7 @@ msgid "IDS_PASD111_YEAR"
 msgstr "1950"
 
 msgid "IDS_PASD502"
-msgstr "Smith"
+msgstr "史密斯"
 
 msgid "IDS_PASD502_DESCR"
 msgstr ""
@@ -49284,7 +49284,7 @@ msgstr ""
 "邏和護航任務。"
 
 msgid "IDS_PASD502_FULL"
-msgstr "Smith"
+msgstr "史密斯"
 
 msgid "IDS_PASD502_NUMBER"
 msgstr "5"
@@ -49293,7 +49293,7 @@ msgid "IDS_PASD502_YEAR"
 msgstr "1909"
 
 msgid "IDS_PASD505"
-msgstr "Hill"
+msgstr "希爾"
 
 msgid "IDS_PASD505_DESCR"
 msgstr ""
@@ -49302,7 +49302,7 @@ msgstr ""
 "案初稿時並未展現多大興趣，因此美國海軍最高指揮部將注意力轉向了 2,200 噸級的領導艦計畫。"
 
 msgid "IDS_PASD505_FULL"
-msgstr "Hill"
+msgstr "希爾"
 
 msgid "IDS_PASD505_NUMBER"
 msgstr "0"
@@ -49311,7 +49311,7 @@ msgid "IDS_PASD505_YEAR"
 msgstr "1918"
 
 msgid "IDS_PASD506"
-msgstr "Monaghan"
+msgstr "莫納漢"
 
 msgid "IDS_PASD506_DESCR"
 msgstr ""
@@ -49321,7 +49321,7 @@ msgstr ""
 "世界大戰期間，此艦艇獲頒了 12 枚戰鬥之星。"
 
 msgid "IDS_PASD506_FULL"
-msgstr "Monaghan"
+msgstr "莫納漢"
 
 msgid "IDS_PASD506_NUMBER"
 msgstr "8"
@@ -49330,7 +49330,7 @@ msgid "IDS_PASD506_YEAR"
 msgstr "1935"
 
 msgid "IDS_PASD508"
-msgstr "Kidd"
+msgstr "基德"
 
 msgid "IDS_PASD508_DESCR"
 msgstr ""
@@ -49340,7 +49340,7 @@ msgstr ""
 "魯治，改建為海軍博物館暨紀念館。"
 
 msgid "IDS_PASD508_FULL"
-msgstr "Kidd"
+msgstr "基德"
 
 msgid "IDS_PASD508_NUMBER"
 msgstr "175"
@@ -49349,7 +49349,7 @@ msgid "IDS_PASD508_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD509"
-msgstr "Benham"
+msgstr "班漢"
 
 msgid "IDS_PASD509_DESCR"
 msgstr ""
@@ -49359,7 +49359,7 @@ msgstr ""
 "1942 年 11 月 15 日瓜達爾卡納爾島戰役中，Benham 遭魚雷擊中，並在船員棄艦逃生後最終沉沒。"
 
 msgid "IDS_PASD509_FULL"
-msgstr "Benham"
+msgstr "班漢"
 
 msgid "IDS_PASD509_NUMBER"
 msgstr "10"
@@ -49368,7 +49368,7 @@ msgid "IDS_PASD509_YEAR"
 msgstr "1939"
 
 msgid "IDS_PASD510"
-msgstr "Somers"
+msgstr "索莫斯"
 
 msgid "IDS_PASD510_DESCR"
 msgstr ""
@@ -49377,7 +49377,7 @@ msgstr ""
 "諾曼第和南法的登陸行動。第二次世界大戰期間，此艦艇獲頒了 2 枚戰鬥之星。"
 
 msgid "IDS_PASD510_FULL"
-msgstr "Somers"
+msgstr "索莫斯"
 
 msgid "IDS_PASD510_NUMBER"
 msgstr "5"
@@ -49386,7 +49386,7 @@ msgid "IDS_PASD510_YEAR"
 msgstr "1937"
 
 msgid "IDS_PASD519"
-msgstr "Halford"
+msgstr "哈爾福德"
 
 msgid "IDS_PASD519_DESCR"
 msgstr ""
@@ -49396,7 +49396,7 @@ msgstr ""
 "她也曾參與菲律賓海與雷伊泰灣的海戰。第二次世界大戰期間，Halford 獲頒了 13 枚戰鬥之星。"
 
 msgid "IDS_PASD519_FULL"
-msgstr "Halford"
+msgstr "哈爾福德"
 
 msgid "IDS_PASD519_NUMBER"
 msgstr "175"
@@ -49405,7 +49405,7 @@ msgid "IDS_PASD519_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD529"
-msgstr "Black B"
+msgstr "布萊克 B"
 
 msgid "IDS_PASD529_DESCR"
 msgstr ""
@@ -49413,7 +49413,7 @@ msgstr ""
 "關島的登陸行動、雷伊泰灣海戰，以及襲擊沖繩島。第二次世界大期間，此艦艇獲頒了六枚戰鬥之星。"
 
 msgid "IDS_PASD529_FULL"
-msgstr "Black B"
+msgstr "布萊克 B"
 
 msgid "IDS_PASD529_NUMBER"
 msgstr "175"
@@ -49422,7 +49422,7 @@ msgid "IDS_PASD529_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD597"
-msgstr "Sims B"
+msgstr "西姆斯 B"
 
 msgid "IDS_PASD597_DESCR"
 msgstr ""
@@ -49432,7 +49432,7 @@ msgstr ""
 "受到日本俯衝轟炸機的攻擊而沉沒。"
 
 msgid "IDS_PASD597_FULL"
-msgstr "Sims B"
+msgstr "西姆斯 B"
 
 msgid "IDS_PASD597_NUMBER"
 msgstr "12"
@@ -49441,7 +49441,7 @@ msgid "IDS_PASD597_YEAR"
 msgstr "1939"
 
 msgid "IDS_PASD610"
-msgstr "F. Sherman"
+msgstr "福雷斯特·謝爾曼"
 
 msgid "IDS_PASD610_DESCR"
 msgstr ""
@@ -49450,7 +49450,7 @@ msgstr ""
 "Forrest Sherman 參加了訓練演習和典禮行動。"
 
 msgid "IDS_PASD610_FULL"
-msgstr "Forrest Sherman"
+msgstr "福雷斯特·謝爾曼"
 
 msgid "IDS_PASD610_NUMBER"
 msgstr "18"
@@ -49459,7 +49459,7 @@ msgid "IDS_PASD610_YEAR"
 msgstr "1955"
 
 msgid "IDS_PASD709"
-msgstr "Black"
+msgstr "布萊克"
 
 msgid "IDS_PASD709_DESCR"
 msgstr ""
@@ -49467,7 +49467,7 @@ msgstr ""
 "關島的登陸行動、雷伊泰灣海戰，以及襲擊沖繩島。第二次世界大期間，此艦艇獲頒了六枚戰鬥之星。"
 
 msgid "IDS_PASD709_FULL"
-msgstr "Black"
+msgstr "布萊克"
 
 msgid "IDS_PASD709_NUMBER"
 msgstr "175"
@@ -49476,13 +49476,13 @@ msgid "IDS_PASD709_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD801"
-msgstr "Sampson"
+msgstr "桑普森"
 
 msgid "IDS_PASD801_DESCR"
 msgstr "用於入門任務的驅逐艦 Sampson"
 
 msgid "IDS_PASD810"
-msgstr "Gearing P"
+msgstr "基靈 P"
 
 msgid "IDS_PASD810_DESCR"
 msgstr ""
@@ -49492,7 +49492,7 @@ msgstr ""
 "1950 年代期間曾被用於訓練行動。"
 
 msgid "IDS_PASD810_FULL"
-msgstr "Gearing P"
+msgstr "基靈 P"
 
 msgid "IDS_PASD810_NUMBER"
 msgstr "105"
@@ -49501,13 +49501,13 @@ msgid "IDS_PASD810_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASD913"
-msgstr "[Gearing]"
+msgstr "[gay 0]"
 
 msgid "IDS_PASD913_DESCR"
 msgstr "這艘艦艇為 Gearing 的複製品，並且只適用於公會戰鬥"
 
 msgid "IDS_PASD913_FULL"
-msgstr "[Gearing]"
+msgstr "[gay 0]"
 
 msgid "IDS_PASD913_NUMBER"
 msgstr "105"
@@ -49516,7 +49516,7 @@ msgid "IDS_PASD913_YEAR"
 msgstr "1945"
 
 msgid "IDS_PASS106"
-msgstr "Cachalot (old)"
+msgstr "抹香鯨 (舊)"
 
 msgid "IDS_PASS106_DESCR"
 msgstr ""
@@ -49524,7 +49524,7 @@ msgstr ""
 "的「艦隊型潛水艦」之前身。"
 
 msgid "IDS_PASS106_FULL"
-msgstr "Cachalot (< 04.10.2022)"
+msgstr "抹香鯨 (< 04.10.2022)"
 
 msgid "IDS_PASS106_NUMBER"
 msgstr "2"
@@ -49533,13 +49533,13 @@ msgid "IDS_PASS106_YEAR"
 msgstr "1933"
 
 msgid "IDS_PASS108"
-msgstr "Salmon (old)"
+msgstr "三文魚 (old)"
 
 msgid "IDS_PASS108_DESCR"
 msgstr "由 Cachalot 級潛水艦進一步開發而來。她裝備強化型武裝，在尺寸和速度上遠超其前輩。"
 
 msgid "IDS_PASS108_FULL"
-msgstr "Salmon (< 04.10.2022)"
+msgstr "三文魚 (< 04.10.2022)"
 
 msgid "IDS_PASS108_NUMBER"
 msgstr "6"
@@ -49548,7 +49548,7 @@ msgid "IDS_PASS108_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASS110"
-msgstr "Balao (old)"
+msgstr "巴勞鱵 (old)"
 
 msgid "IDS_PASS110_DESCR"
 msgstr ""
@@ -49556,7 +49556,7 @@ msgstr ""
 "深。"
 
 msgid "IDS_PASS110_FULL"
-msgstr "Balao (< 04.10.2022)"
+msgstr "巴勞鱵 (< 04.10.2022)"
 
 msgid "IDS_PASS110_NUMBER"
 msgstr "122"
@@ -49565,7 +49565,7 @@ msgid "IDS_PASS110_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASS206"
-msgstr "Cachalot"
+msgstr "抹香鯨"
 
 msgid "IDS_PASS206_DESCR"
 msgstr ""
@@ -49575,7 +49575,7 @@ msgstr ""
 "任務，擊傷了一艘日本油輪。"
 
 msgid "IDS_PASS206_FULL"
-msgstr "Cachalot"
+msgstr "抹香鯨"
 
 msgid "IDS_PASS206_NUMBER"
 msgstr "2"
@@ -49584,7 +49584,7 @@ msgid "IDS_PASS206_YEAR"
 msgstr "1933"
 
 msgid "IDS_PASS208"
-msgstr "Salmon"
+msgstr "鮭魚"
 
 msgid "IDS_PASS208_DESCR"
 msgstr ""
@@ -49593,7 +49593,7 @@ msgstr ""
 "11 次作戰任務，擊沉了五艘敵方艦艇，並獲頒了九枚戰鬥之星。"
 
 msgid "IDS_PASS208_FULL"
-msgstr "Salmon"
+msgstr "鮭魚"
 
 msgid "IDS_PASS208_NUMBER"
 msgstr "6"
@@ -49621,7 +49621,7 @@ msgid "IDS_PASS210_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASS510"
-msgstr "Gato"
+msgstr "貓鯊"
 
 msgid "IDS_PASS510_DESCR"
 msgstr ""
@@ -49632,7 +49632,7 @@ msgstr ""
 "執行了 13 次戰鬥任務，獲得了相同數量的戰鬥之星和總統部隊嘉許獎。"
 
 msgid "IDS_PASS510_FULL"
-msgstr "Gato"
+msgstr "貓鯊"
 
 msgid "IDS_PASS510_NUMBER"
 msgstr "77"
@@ -49653,7 +49653,7 @@ msgid "IDS_PASSWORD_RECOVERY"
 msgstr "您將被導往到密碼恢復頁面。"
 
 msgid "IDS_PASX001"
-msgstr "Cimarron"
+msgstr "西馬隆"
 
 msgid "IDS_PASX001_DESCR"
 msgstr ""
@@ -49662,7 +49662,7 @@ msgstr ""
 "活下來，最後於 1969 年拆解出售。"
 
 msgid "IDS_PASX001_FULL"
-msgstr "Cimarron"
+msgstr "西馬隆"
 
 msgid "IDS_PASX003"
 msgstr "Liberty"
@@ -51330,10 +51330,10 @@ msgid "IDS_PAUH506_MONAGHAN"
 msgstr "Monaghan (A)"
 
 msgid "IDS_PAUH507_PENSACOLA_A"
-msgstr "Pensacola (A)"
+msgstr "彭薩柯拉 (A)"
 
 msgid "IDS_PAUH508_PENSACOLA_B"
-msgstr "Pensacola (B)"
+msgstr "彭薩柯拉 (B)"
 
 msgid "IDS_PAUH509_MONAGHAN_B"
 msgstr "Monaghan (B)"
@@ -51378,13 +51378,13 @@ msgid "IDS_PAUH551_ARIZONA"
 msgstr "Arizona"
 
 msgid "IDS_PAUH601_PENSACOLA_1942"
-msgstr "Pensacola (A)"
+msgstr "彭薩柯拉 (A)"
 
 msgid "IDS_PAUH602_PENSACOLA_1944"
-msgstr "Pensacola (B)"
+msgstr "彭薩柯拉 (B)"
 
 msgid "IDS_PAUH603_PENSACOLA_1930"
-msgstr "Pensacola"
+msgstr "彭薩柯拉"
 
 msgid "IDS_PAUH604_HELENA_A"
 msgstr "Helena (A)"
@@ -60047,7 +60047,7 @@ msgstr "Brooklyn海軍基地"
 
 msgid "IDS_PCEE195_SEASONFLAG09_DESCRIPTION"
 msgstr ""
-"許多美國海軍著名艦艇均在布魯克林造船廠建造，包含巡洋艦 New Orleans、Pensacola、Brooklyn、"
+"許多美國海軍著名艦艇均在布魯克林造船廠建造，包含巡洋艦 New Orleans、彭薩柯拉、Brooklyn、"
 "Helena，以及主力艦 Iowa、Missouri、North Carolina、Arizona、New Mexio 和 New York。"
 
 msgid "IDS_PCEE195_SEASONFLAG09_EXTRA_DESCRIPTION"
@@ -68435,13 +68435,13 @@ msgstr "USS Salt Lake City 於 Komandorski群島周圍的戰鬥，1943年"
 msgid "IDS_PCZC179_AA_SALT_LAKE_CITY_DESCRIPTION"
 msgstr ""
 "USS Salt Lake City 以猶他州的首都命名，於 1927 年開始建造，她的建造速度很快，只花了兩年半的時"
-"間就開始服役，甚至比早幾個月開始建造的首艦 Pensacola 還要快速。\n"
+"間就開始服役，甚至比早幾個月開始建造的首艦 彭薩柯拉 還要快速。\n"
 "\n"
 "早期設計需要花費很多時間，1918 年萌生了建造 10000 噸級並裝備 203 毫米火炮的高速巡洋艦概念，直"
 "到 1926 年，大量不同武裝、裝甲和航速的艦艇版本被提上日程。\n"
 "\n"
-"Salt Lake City 和 Pensacola 於 1929 至 1930 年間開始服役，並裝備令人震驚的203毫米火炮，同時因"
-"為她們貧弱的裝甲，因此被定義為輕型巡洋艦，在 1931 年間，她們依據國際標準重新分類，Pensacola "
+"Salt Lake City 和 彭薩柯拉 於 1929 至 1930 年間開始服役，並裝備令人震驚的203毫米火炮，同時因"
+"為她們貧弱的裝甲，因此被定義為輕型巡洋艦，在 1931 年間，她們依據國際標準重新分類，彭薩柯拉 "
 "和 Salt Lake City 才變得更「重型」。\n"
 "\n"
 "USS Salt Lake City 在二戰中有非常激烈的服役紀錄，她的裝甲兩次接受了日本重型巡洋艦的測試，第一"
