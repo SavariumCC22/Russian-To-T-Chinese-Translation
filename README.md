@@ -1,4 +1,4 @@
-Welcome！歡迎來到俄服繁體中文翻譯基地 目前該翻譯檔案由東鹹和Gura維護， 若要使用 請下載res_mods.zip然後解壓縮至<硬盤路徑>:\Korabli\bin\<版本號>\res_mods內
+Welcome！歡迎來到俄服繁體中文翻譯基地 目前該翻譯檔案由東鹹和Gura維護， 若要使用 請下載res_mods.zip然後解壓縮至<硬盤路徑>:\Korabli\bin\\<版本號>\res_mods內
 
 
 
