@@ -2428,7 +2428,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_ALL_THREE_HALLOWEEN_COMPLETE"
 msgstr "在「拯救 Transylvania」、「黑暗中的光芒」和「深層恐懼」行動中贏得勝利並獲得 5 顆星星。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AMAUTEUR"
-msgstr "贏得 %(winCount)s 場隨機戰鬥。"
+msgstr "贏得 %(winCount)s 場坐牢模式。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ARSONIST"
 msgstr ""
@@ -2973,7 +2973,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV_POST_APOCALYPSE2019_WINNER"
 msgstr "贏得戰鬥並存活下來。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FIGHTER"
-msgstr "贏得 %(winCount)s 場隨機戰鬥。"
+msgstr "贏得 %(winCount)s 場坐牢模式。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_AZURLANE_COMPLETED"
 msgstr "完成「碧藍航線」收藏。"
@@ -3552,7 +3552,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_UNSINKABLE"
 msgstr "因進水受到至少為您艦艇基本血量 %(damageRatio_percent)s 的傷害，並存活下來。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_VETERAN"
-msgstr "贏得 %(winCount)s 場隨機戰鬥。"
+msgstr "贏得 %(winCount)s 場坐牢模式。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_VICTORY"
 msgstr "在「Victory」競賽中展現出勇氣、膽量和勝利意志。"
@@ -4218,10 +4218,10 @@ msgid "IDS_ACHIEVEMENT_RESTRICTIONS_OPERATIONS"
 msgstr "可在行動中完成。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED"
-msgstr "可在隨機戰鬥和排名戰中完成。"
+msgstr "可在坐牢模式和排名戰中完成。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED_SQUAD"
-msgstr "可在港口中組成分艦隊，在隨機戰鬥中完成。"
+msgstr "可在港口中組成分艦隊，在坐牢模式中完成。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RANKED_ONEPERSEASON"
 msgstr "可在排名戰中完成；每賽季頒發一次。"
@@ -4323,7 +4323,7 @@ msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_OPERATIONS"
 msgstr "行動"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_RANDOM_OR_RANK"
-msgstr "隨機戰鬥和排名戰"
+msgstr "坐牢模式和排名戰"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_SQUAD"
 msgstr "團隊"
@@ -6126,7 +6126,7 @@ msgid "IDS_ARC_EVENT_RULES_POINTS_SCENARIO_BATTLES_DESCRIPTION"
 msgstr "當您的隊伍獲勝時每個星星獲得10點。"
 
 msgid "IDS_ARC_EVENT_RULES_RESTRICTION"
-msgstr "您能以 V 階或以上的艦艇在聯合作戰、隨機戰鬥、公會戰鬥和行動中參與競賽。"
+msgstr "您能以 V 階或以上的艦艇在聯合作戰、坐牢模式、公會戰鬥和行動中參與競賽。"
 
 msgid "IDS_ARC_EVENT_RULES_RESTRICTION_HEADER"
 msgstr "參加條件"
@@ -9853,7 +9853,7 @@ msgid "IDS_CHOOSE_PVE_SCENARIO_MODAL_HEADER"
 msgstr "選擇行動"
 
 msgid "IDS_CHOOSE_RANDOMBATTLE"
-msgstr "選擇隨機戰鬥"
+msgstr "選擇坐牢模式"
 
 msgid "IDS_CHOOSE_RANKEDBATTLE"
 msgstr "選擇排名戰"
@@ -19527,7 +19527,7 @@ msgstr "每日任務可在隨機與排名戰中完成。每 24 小時會增加�
 
 msgid "IDS_DAILY_QUEST_WINDOW_INSTRUCTION_BIG"
 msgstr ""
-"完成戰鬥任務以獲得獎勵。點擊戰鬥任務面板的「加入戰鬥!」或「繼續」來進入隨機戰鬥或排名戰。"
+"完成戰鬥任務以獲得獎勵。點擊戰鬥任務面板的「加入戰鬥!」或「繼續」來進入坐牢模式或排名戰。"
 
 msgid "IDS_DAILY_REWARD_TOOLTIP_HEADER"
 msgstr "每日獎勵"
@@ -28048,7 +28048,7 @@ msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_COOPERATIVEBATTLE"
 msgstr "不允許使用特殊艦艇參加聯合作戰"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RANDOMBATTLE"
-msgstr "不允許使用特殊艦艇參加隨機戰鬥"
+msgstr "不允許使用特殊艦艇參加坐牢模式"
 
 msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RANKEDBATTLE"
 msgstr "不允許使用特殊艦艇參加排名戰。"
@@ -30896,10 +30896,10 @@ msgid "IDS_GUIDING_TIP_119_HEADER"
 msgstr "行動"
 
 msgid "IDS_GUIDING_TIP_11_DESC"
-msgstr "隨機戰鬥中的敵方隊伍由真實玩家組成，但若有必要，部分空位可能會分配給電腦。"
+msgstr "坐牢模式中的敵方隊伍由真實玩家組成，但若有必要，部分空位可能會分配給電腦。"
 
 msgid "IDS_GUIDING_TIP_11_HEADER"
-msgstr "隨機戰鬥"
+msgstr "坐牢模式"
 
 msgid "IDS_GUIDING_TIP_120_DESC"
 msgstr "在行動中，您會與其他玩家一同完成劇情任務，對抗機器人。行動將隨機選擇。"
@@ -31552,10 +31552,10 @@ msgid "IDS_GUIDING_TIP_76_HEADER"
 msgstr "選擇戰鬥類型"
 
 msgid "IDS_GUIDING_TIP_77_DESC"
-msgstr "隨機戰鬥中的敵方隊伍由真實玩家組成，但若有必要，部分空位可能會分配給電腦。"
+msgstr "坐牢模式中的敵方隊伍由真實玩家組成，但若有必要，部分空位可能會分配給電腦。"
 
 msgid "IDS_GUIDING_TIP_77_HEADER"
-msgstr "隨機戰鬥"
+msgstr "坐牢模式"
 
 msgid "IDS_GUIDING_TIP_79_DESC"
 msgstr "您可在艦艇上安裝旗幟。"
@@ -32758,7 +32758,7 @@ msgid "IDS_HINT_DEFAULT_GROUP"
 msgstr "這個群組不能被重新命名或移除"
 
 msgid "IDS_HINT_DOUBLECLICK_GO_TO_RANDOM_BATTLE"
-msgstr "開始隨機戰鬥"
+msgstr "開始坐牢模式"
 
 msgid "IDS_HINT_ENTER_CHANNEL_NAME"
 msgstr "輸入頻道名稱。頻道名稱必須介於 3 到 32 個字元之間。"
@@ -32788,7 +32788,7 @@ msgid "IDS_HINT_GO_TO_QUESTS"
 msgstr "前往戰鬥任務"
 
 msgid "IDS_HINT_GO_TO_RANDOM_BATTLE"
-msgstr "開始隨機戰鬥"
+msgstr "開始坐牢模式"
 
 msgid "IDS_HINT_GO_TO_SSE_CHALLENGE"
 msgstr "前往挑戰畫面"
@@ -33788,7 +33788,7 @@ msgid "IDS_IN_PVEBATTLE"
 msgstr "於行動"
 
 msgid "IDS_IN_RANDOMBATTLE"
-msgstr "於隨機戰鬥"
+msgstr "於坐牢模式"
 
 msgid "IDS_IN_RANKEDBATTLE"
 msgstr "於排名戰"
@@ -35151,7 +35151,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL2_1"
 msgstr "主炮組：雙擊 [KEY_LEFTMOUSE_DOUBLE] 來讓所有準備就緒的炮塔進行齊射。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_10"
-msgstr "您可以在隨機戰鬥中獲得更多的經驗點數 (經驗) 與銀幣。"
+msgstr "您可以在坐牢模式中獲得更多的經驗點數 (經驗) 與銀幣。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_11"
 msgstr "穿甲（AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
@@ -35266,7 +35266,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL3_1"
 msgstr "主炮組：雙擊 [KEY_LEFTMOUSE_DOUBLE] 來讓所有準備就緒的炮塔進行齊射。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_10"
-msgstr "您可以在隨機戰鬥中獲得更多的經驗點數 (經驗) 與銀幣。"
+msgstr "您可以在坐牢模式中獲得更多的經驗點數 (經驗) 與銀幣。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_11"
 msgstr "穿甲（AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
@@ -35439,7 +35439,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL4_1"
 msgstr "主炮組：雙擊 [KEY_LEFTMOUSE_DOUBLE] 來讓所有準備就緒的炮塔進行齊射。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_10"
-msgstr "您可以在隨機戰鬥中獲得更多的經驗點數 (經驗) 與銀幣。"
+msgstr "您可以在坐牢模式中獲得更多的經驗點數 (經驗) 與銀幣。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_11"
 msgstr "穿甲（AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
@@ -37656,7 +37656,7 @@ msgstr ""
 "獎勵（視您在各階段所加入之隊伍而定）。此外，參與活動還可獲得紀念成就；該成就只能獲得 1 次。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "此活動以 V 階或以上的艦艇，於聯合作戰、隨機戰鬥和排名戰中進行。"
+msgstr "此活動以 V 階或以上的艦艇，於聯合作戰、坐牢模式和排名戰中進行。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
 msgstr "隊伍進度"
@@ -38358,7 +38358,7 @@ msgid "IDS_MODAL_WINDOW_PVEBATTLE_RULES_PARAGRAPH_2_TEXT_2"
 msgstr "您在行動中完成的次要工作越多，獲得的資源就越多。"
 
 msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_HEADER"
-msgstr "隨機戰鬥"
+msgstr "坐牢模式"
 
 msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_1_HEADER"
 msgstr "戰鬥特色"
@@ -39556,7 +39556,7 @@ msgid "IDS_NEWBIE_QUESTS_3_DESCRIPTION"
 msgstr "您將對抗真實的玩家。要在此類型戰鬥中獲勝的難度較高，但您也可獲得較多的銀幣和經驗。"
 
 msgid "IDS_NEWBIE_QUESTS_3_NAME"
-msgstr "在隨機戰鬥中贏得勝利"
+msgstr "在坐牢模式中贏得勝利"
 
 msgid "IDS_NEWBIE_QUESTS_4_DESCRIPTION"
 msgstr "迷彩可改變您艦艇的外觀。迷彩能以銀幣或達布隆購買，也可透過參與各種活動來獲取。"
@@ -39890,7 +39890,7 @@ msgid "IDS_NO_BATTLES_PLAYED_IN_OLDRANKEDBATTLE"
 msgstr "您還沒進行過一場排名戰"
 
 msgid "IDS_NO_BATTLES_PLAYED_IN_RANDOMBATTLE"
-msgstr "您還沒進行過一場隨機戰鬥"
+msgstr "您還沒進行過一場坐牢模式"
 
 msgid "IDS_NO_BATTLES_PLAYED_IN_RANKEDBATTLE"
 msgstr "您還沒進行過一場排名戰"
@@ -46908,7 +46908,7 @@ msgid "IDS_PARTIES_ARE_NOT_ALLOWED_IN_COOPERATIVE_BATTLES"
 msgstr "不允許用隊伍來參與聯合作戰"
 
 msgid "IDS_PARTIES_ARE_NOT_ALLOWED_IN_RANDOM_BATTLES"
-msgstr "不允許用隊伍來參與隨機戰鬥"
+msgstr "不允許用隊伍來參與坐牢模式"
 
 msgid "IDS_PARTNERS_BUTTON_OUT"
 msgstr "文件"
@@ -71789,7 +71789,7 @@ msgstr ""
 "「但我有安裝旗幟！我很確定！我應該有…」\n"
 "\n"
 "您是否忘了開啟自動補充信號旗的選項？又或是您在艦艇上安裝了一個特定信號旗，但您的艦長卻要您選"
-"另一個？還是您在隨機戰鬥中把所有信號旗都用完了？\n"
+"另一個？還是您在坐牢模式中把所有信號旗都用完了？\n"
 "\n"
 "坦白說吧，我們都知道信號旗應該留在最後的決戰中使用，如果它們並未在訓練房中用完的話。"
 
@@ -71819,7 +71819,7 @@ msgstr ""
 "\n"
 "這樣一來如果情勢不對，只需輕輕按下一個鍵，驅逐艦就能長驅而逃。\n"
 "\n"
-"所以，當您在隨機戰鬥中看到這樣不尋常的機動時，可別誤會是有人打賭輸了，需要連續 10 場這麼做。"
+"所以，當您在坐牢模式中看到這樣不尋常的機動時，可別誤會是有人打賭輸了，需要連續 10 場這麼做。"
 "您其實是遇上了經驗豐富的高手！"
 
 msgid "IDS_PCZC434_KOTS_HINDEN"
@@ -71846,7 +71846,7 @@ msgstr ""
 "\n"
 "在首幾個賽季中，Hindenburg 被認為是遊戲中最多功能的艦艇之一，深受錦標賽參加者們的喜愛。\n"
 "但隨著時間過去，她的領頭羊地位被法國巡洋艦 Henri IV 所取代。\n"
-"在競賽和隨機戰鬥等模式中，經常可以見到 Henri IV 勇敢地把舷側面向主力艦來航行，持續地加速或踩"
+"在競賽和坐牢模式等模式中，經常可以見到 Henri IV 勇敢地把舷側面向主力艦來航行，持續地加速或踩"
 "剎。\n"
 "但是遊戲不斷演變，可沒有時間放鬆懈怠或不求進取。您覺得錦標賽的下一個寵兒會是哪艘艦艇呢？"
 
@@ -113065,7 +113065,7 @@ msgid "IDS_RAIZO_SUZUKI"
 msgstr "Raizō Suzuki"
 
 msgid "IDS_RANDOMBATTLE"
-msgstr "隨機戰鬥"
+msgstr "坐牢模式"
 
 msgid "IDS_RANDOMBATTLE_DESCRIPTION"
 msgstr "參與兩隊之間的戰鬥。配對系統將會隨機選擇對手。"
@@ -113546,7 +113546,7 @@ msgid "IDS_READY_TO_BATTLE_DENY_REASON_NO_SHIP"
 msgstr "選擇艦艇"
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_SHIPS_HAVE_DIFFERENT_GROUPS"
-msgstr "分艦隊中含有不能進入隨機戰鬥及聯合作戰的特殊艦艇。"
+msgstr "分艦隊中含有不能進入坐牢模式及聯合作戰的特殊艦艇。"
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_SHIPS_LEVEL_DIFFERENCE"
 msgstr "您分艦隊中的戰艦相距超過 %(level_gap)d 階。"
@@ -123922,7 +123922,7 @@ msgstr ""
 "變，該名指揮官將自動被送回預備隊。"
 
 msgid "IDS_SHIP_PECULIARITY_RANDOM_COOPERATIVE_AND_RANKED_BATTLE_ONLY"
-msgstr "此艦艇僅可在聯合作戰、隨機戰鬥或排名戰中使用。"
+msgstr "此艦艇僅可在聯合作戰、坐牢模式或排名戰中使用。"
 
 msgid "IDS_SHIP_PECULIARITY_RENT_SHIP"
 msgstr "艦艇將在活動結束後移除。"
@@ -126588,7 +126588,7 @@ msgstr ""
 "\"IDS_PAN_ASIA_NATION\": {\"\": [\"泛亞\"]},        \"IDS_PERMANENT_CAMOUFLAGE\": {\"\": "
 "[\"永久迷彩\"]},        \"IDS_POLAND_NATION\": {\"\": [\"波蘭\"]},        \"IDS_PREMIUM\": "
 "{\"\": [\"加值\"]},        \"IDS_PTS_WORD\": {\"\": [\"點數\"]},        \"IDS_PVE_BATTLE\": "
-"{\"\": [\"劇情戰鬥\"]},        \"IDS_RANDOM_BATTLE\": {\"\": [\"隨機戰鬥\"]},        "
+"{\"\": [\"劇情戰鬥\"]},        \"IDS_RANDOM_BATTLE\": {\"\": [\"坐牢模式\"]},        "
 "\"IDS_RANK_BATTLE\": {\"\": [\"排名戰\"]},        \"IDS_RUSSIA_NATION\": {\"\": [\"蘇聯"
 "\"]},        \"IDS_SCOUT_CLASS\": {\"\": [\"偵察機\"]},        \"IDS_SECONDARY_TASK\": "
 "{\"\": [\"次要工作\"]},        \"IDS_SHIP\": {\"\": [\"艦艇\"]},        \"IDS_SIGNALS\": "
@@ -127250,7 +127250,7 @@ msgid "IDS_START_BATTLE_DENY_REASON_CLAN_ONLY"
 msgstr "所選艦艇只適用於公會戰鬥。"
 
 msgid "IDS_START_BATTLE_DENY_REASON_COOP_RANKED_AND_RANDOM_ONLY"
-msgstr "所選艦艇只適用於聯合作戰、隨機戰鬥和排名戰。"
+msgstr "所選艦艇只適用於聯合作戰、坐牢模式和排名戰。"
 
 msgid "IDS_START_BATTLE_DENY_REASON_COOP_RANKED_ONLY"
 msgstr "所選艦艇只適用於聯合作戰和排名戰。"
@@ -129726,10 +129726,10 @@ msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_3"
 msgstr "完成條件："
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_DUKEOFYORK"
-msgstr "以主力艦 Duke of York 在隨機戰鬥、聯合作戰和排名戰中完成工作。"
+msgstr "以主力艦 Duke of York 在坐牢模式、聯合作戰和排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_DUKEOFYORK"
-msgstr "以主力艦 Duke of York 在隨機戰鬥及排名戰中完成工作。"
+msgstr "以主力艦 Duke of York 在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_FURUTAKA"
 msgstr ""
@@ -129737,7 +129737,7 @@ msgstr ""
 "Furutaka"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_GRAFSPEE"
-msgstr "以巡洋艦 Graf Spee 在隨機戰鬥、聯合作戰及排名戰中完成工作。"
+msgstr "以巡洋艦 Graf Spee 在坐牢模式、聯合作戰及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_HAWKINS"
 msgstr ""
@@ -129750,7 +129750,7 @@ msgstr ""
 "Hizen"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_HOOD"
-msgstr "用 HMS Hood 在隨機戰鬥中完成此工作。"
+msgstr "用 HMS Hood 在坐牢模式中完成此工作。"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_KOTOVSKY"
 msgstr ""
@@ -129773,7 +129773,7 @@ msgstr ""
 "T-22"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_TIRPIZ"
-msgstr "以主力艦 Tirpitz 在隨機戰鬥、聯合作戰及排名戰中完成工作。"
+msgstr "以主力艦 Tirpitz 在坐牢模式、聯合作戰及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_VISBY"
 msgstr ""
@@ -129782,80 +129782,80 @@ msgstr ""
 
 msgid "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
 msgid_plural "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
-msgstr[0] "以 %(level)s 階航空母艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階航空母艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_AVCA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_AVCA_PVP"
-msgstr[0] "以 %(level)s 階航空母艦或巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階航空母艦或巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_AVDD_PVP"
 msgid_plural "IDS_TASKRESTRICTION_AVDD_PVP"
-msgstr[0] "以 %(level)s 階驅逐艦或航空母艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階驅逐艦或航空母艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_AV_PVP"
 msgid_plural "IDS_TASKRESTRICTION_AV_PVP"
-msgstr[0] "以 %(level)s 階航空母艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階航空母艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_AV_PVPCOOP"
 msgid_plural "IDS_TASKRESTRICTION_AV_PVPCOOP"
-msgstr[0] "以 %(level)s 階航空母艦在隨機戰鬥及聯合作戰中完成工作。"
+msgstr[0] "以 %(level)s 階航空母艦在坐牢模式及聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
 msgid_plural "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
-msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階主力艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BBCADD_PVP"
 msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVP"
-msgstr[0] "以任何 %(level)s 階艦艇（除了航空母艦）在隨機戰鬥中完成工作。"
+msgstr[0] "以任何 %(level)s 階艦艇（除了航空母艦）在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
 msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
 msgstr[0] ""
-"以 %(level)s 階艦艇（除了航空母艦）在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+"以 %(level)s 階艦艇（除了航空母艦）在坐牢模式、聯合作戰、排名戰和公會戰鬥中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BBCA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_BBCA_PVP"
-msgstr[0] "以 %(level)s 階主力艦及巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階主力艦及巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BBDD_PVP"
 msgid_plural "IDS_TASKRESTRICTION_BBDD_PVP"
-msgstr[0] "以 %(level)s 階主力艦和驅逐艦，在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階主力艦和驅逐艦，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BB_PVP"
 msgid_plural "IDS_TASKRESTRICTION_BB_PVP"
-msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階主力艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BB_PVPCOOP"
 msgid_plural "IDS_TASKRESTRICTION_BB_PVPCOOP"
-msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥及聯合作戰中完成工作。"
+msgstr[0] "以 %(level)s 階主力艦在坐牢模式及聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BB_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_BB_PVPRANKED"
-msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以 %(level)s 階主力艦在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_BR_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_BR_PVPRANKED"
-msgstr[0] "以英國 %(level)s 階艦艇在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以英國 %(level)s 階艦艇在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_CADD_PVP"
 msgid_plural "IDS_TASKRESTRICTION_CADD_PVP"
-msgstr[0] "以 %(level)s 階驅逐艦或巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階驅逐艦或巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_CADD_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_CADD_PVPRANKED"
-msgstr[0] "以 %(level)s 階驅逐艦或巡洋艦在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以 %(level)s 階驅逐艦或巡洋艦在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_CA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_CA_PVP"
-msgstr[0] "以 %(level)s 階巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
 msgid_plural "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
-msgstr[0] "以 %(level)s 階巡洋艦，在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階巡洋艦，在坐牢模式、聯合作戰、排名戰和公會戰鬥中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_CA_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_CA_PVPRANKED"
-msgstr[0] "以 %(level)s 階巡洋艦在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以 %(level)s 階巡洋艦在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_CLANTYPE"
 msgid_plural "IDS_TASKRESTRICTION_CLANTYPE"
@@ -129867,197 +129867,197 @@ msgstr[0] "以 %(level)s 階艦艇在聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_CRUISER_PVP"
 msgid_plural "IDS_TASKRESTRICTION_CRUISER_PVP"
-msgstr[0] "以 %(level)s 階巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_DD_PVP"
 msgid_plural "IDS_TASKRESTRICTION_DD_PVP"
-msgstr[0] "以 %(level)s 階驅逐艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階驅逐艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_DD_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_DD_PVPRANKED"
-msgstr[0] "以 %(level)s 階驅逐艦在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以 %(level)s 階驅逐艦在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_DESTROYER_PVP"
 msgid_plural "IDS_TASKRESTRICTION_DESTROYER_PVP"
-msgstr[0] "以 %(level)s 階驅逐艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階驅逐艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_EUROPE_PVP"
 msgid_plural "IDS_TASKRESTRICTION_EUROPE_PVP"
-msgstr[0] "以歐洲 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以歐洲 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_EU_PVP"
 msgid_plural "IDS_TASKRESTRICTION_EU_PVP"
-msgstr[0] "以歐洲 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以歐洲 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
 msgid_plural "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
-msgstr[0] "以歐洲 %(level)s 階艦艇，在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+msgstr[0] "以歐洲 %(level)s 階艦艇，在坐牢模式、聯合作戰、排名戰和公會戰鬥中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_EXTRA_SOLO"
 msgstr "戰鬥開始時，玩家必須不在分艦隊裡。"
 
 msgid "IDS_TASKRESTRICTION_FRANCE_PVP"
 msgid_plural "IDS_TASKRESTRICTION_FRANCE_PVP"
-msgstr[0] "以法國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以法國 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
 msgid_plural "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
-msgstr[0] "以法國 %(level)s階主力艦在隨機戰鬥及聯合作戰中完成工作。"
+msgstr[0] "以法國 %(level)s階主力艦在坐牢模式及聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_FR_PVPCOOP"
 msgid_plural "IDS_TASKRESTRICTION_FR_PVPCOOP"
-msgstr[0] "以法國 %(level)s階艦艇在隨機戰鬥及聯合作戰中完成工作。"
+msgstr[0] "以法國 %(level)s階艦艇在坐牢模式及聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
-msgstr[0] "以德國 %(level)s 階主力艦在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以德國 %(level)s 階主力艦在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_GERMANY_PVP"
 msgid_plural "IDS_TASKRESTRICTION_GERMANY_PVP"
-msgstr[0] "以德國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以德國 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_GE_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_GE_PVPRANKED"
-msgstr[0] "以德國 %(level)s 階艦艇在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以德國 %(level)s 階艦艇在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_ITALY_PVP"
 msgid_plural "IDS_TASKRESTRICTION_ITALY_PVP"
-msgstr[0] "以義大利 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以義大利 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_JAPAN_PVP"
 msgid_plural "IDS_TASKRESTRICTION_JAPAN_PVP"
-msgstr[0] "以日本 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以日本 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_NETHERLANDS_PVP"
 msgid_plural "IDS_TASKRESTRICTION_NETHERLANDS_PVP"
-msgstr[0] "以荷蘭 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以荷蘭 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PANAMERICA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_PANAMERICA_PVP"
-msgstr[0] "以泛美 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以泛美 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PANASIA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_PANASIA_PVP"
-msgstr[0] "以泛亞 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以泛亞 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVP"
 msgid_plural "IDS_TASKRESTRICTION_PVP"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOP"
 msgid_plural "IDS_TASKRESTRICTION_PVPCOOP"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥及聯合作戰中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式及聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
 msgid_plural "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥、聯合作戰和行動中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式、聯合作戰和行動中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOPERATIVE_AIGLE"
-msgstr "以驅逐艦 Aigle 在隨機戰鬥及聯合作戰中完成工作。"
+msgstr "以驅逐艦 Aigle 在坐牢模式及聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKED"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥、聯合作戰和排名戰中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式、聯合作戰和排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
 msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式、聯合作戰、排名戰和公會戰鬥中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOPRANKED_PEF"
-msgstr "用主力艦Prinz Eitel Friedrich在隨機戰鬥、聯合作戰和排名戰中完成工作。"
+msgstr "用主力艦Prinz Eitel Friedrich在坐牢模式、聯合作戰和排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPONLY"
 msgid_plural "IDS_TASKRESTRICTION_PVPONLY"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPPVE"
 msgid_plural "IDS_TASKRESTRICTION_PVPPVE"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥及行動中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式及行動中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_PVPRANKED"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
 msgid_plural "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
-msgstr[0] "以 %(level)s 階艦艇在聯合作戰、隨機戰鬥和排名戰中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在聯合作戰、坐牢模式和排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPRANKED_DALLAS"
-msgstr "用巡洋艦Dallas在隨機戰鬥及排名戰中完成工作。"
+msgstr "用巡洋艦Dallas在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPRANKED_HATSUHARU"
-msgstr "用驅逐艦Hatsuharu在隨機戰鬥及排名戰中完成工作。"
+msgstr "用驅逐艦Hatsuharu在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPRANKED_ICARUS"
-msgstr "用驅逐艦Icarus在隨機戰鬥及排名戰中完成工作。"
+msgstr "用驅逐艦Icarus在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPRANKED_NORMANDIE"
-msgstr "用主力艦Normandie在隨機戰鬥及排名戰中完成工作。"
+msgstr "用主力艦Normandie在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVPRANKED_NURNBERG"
-msgstr "用巡洋艦Nürnberg在隨機戰鬥及排名戰中完成工作。"
+msgstr "用巡洋艦Nürnberg在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_PVP_ORKAN_SMALAND"
-msgstr "以驅逐艦 Orkan 或 Småland，在隨機戰鬥中完成工作。"
+msgstr "以驅逐艦 Orkan 或 Småland，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_RANKEDONLY"
 msgid_plural "IDS_TASKRESTRICTION_RANKEDONLY"
-msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階艦艇在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_RUSSIA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_RUSSIA_PVP"
-msgstr[0] "以蘇聯 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以蘇聯 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_SPAIN_PVP"
 msgid_plural "IDS_TASKRESTRICTION_SPAIN_PVP"
-msgstr[0] "以西班牙 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以西班牙 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_STANDART"
 msgstr "完成條件："
 
 msgid "IDS_TASKRESTRICTION_SUBMARINE_PVP"
 msgid_plural "IDS_TASKRESTRICTION_SUBMARINE_PVP"
-msgstr[0] "以 %(level)s 階潛水艦在隨機戰鬥中完成工作。"
+msgstr[0] "以 %(level)s 階潛水艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
-msgstr[0] "以英國 %(level)s 階驅逐艦或巡洋艦在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以英國 %(level)s 階驅逐艦或巡洋艦在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
 msgid_plural "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
-msgstr[0] "以英國 %(level)s 階巡洋艦在隨機戰鬥及排名戰中完成工作。"
+msgstr[0] "以英國 %(level)s 階巡洋艦在坐牢模式及排名戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_UK_PVP"
 msgid_plural "IDS_TASKRESTRICTION_UK_PVP"
-msgstr[0] "以英國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以英國 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_USAVCA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_USAVCA_PVP"
-msgstr[0] "以美國 %(level)s 階航空母艦和巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以美國 %(level)s 階航空母艦和巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_USAVDD_PVP"
 msgid_plural "IDS_TASKRESTRICTION_USAVDD_PVP"
-msgstr[0] "以美國 %(level)s 階驅逐艦和航空母艦在隨機戰鬥中完成工作。"
+msgstr[0] "以美國 %(level)s 階驅逐艦和航空母艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_USAV_PVPCOOP"
 msgid_plural "IDS_TASKRESTRICTION_USAV_PVPCOOP"
-msgstr[0] "以美國 %(level)s 階航空母艦在隨機戰鬥及聯合作戰中完成工作。"
+msgstr[0] "以美國 %(level)s 階航空母艦在坐牢模式及聯合作戰中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_USA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_USA_PVP"
-msgstr[0] "以美國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+msgstr[0] "以美國 %(level)s 階艦艇，在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_USBBCA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_USBBCA_PVP"
-msgstr[0] "以美國 %(level)s 階主力艦和巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以美國 %(level)s 階主力艦和巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_USCA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_USCA_PVP"
-msgstr[0] "以美國 %(level)s 階巡洋艦在隨機戰鬥中完成工作。"
+msgstr[0] "以美國 %(level)s 階巡洋艦在坐牢模式中完成工作。"
 
 msgid "IDS_TASKRESTRICTION_US_PVP"
 msgid_plural "IDS_TASKRESTRICTION_US_PVP"
-msgstr[0] "以美國 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+msgstr[0] "以美國 %(level)s 階艦艇在坐牢模式中完成工作。"
 
 msgid "IDS_TASKS"
 msgstr "戰鬥任務"
@@ -133543,7 +133543,7 @@ msgstr ""
 msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr ""
 "<body>您現已可進行\n"
-"<h3>隨機戰鬥</h3></body>"
+"<h3>坐牢模式</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3029"
 msgstr ""
@@ -133662,7 +133662,7 @@ msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "公會戰鬥"
 
 msgid "IDS_UNLOCKS_TITLE_3"
-msgstr "隨機戰鬥"
+msgstr "坐牢模式"
 
 msgid "IDS_UNLOCKS_TITLE_3029"
 msgstr "軍械庫"
