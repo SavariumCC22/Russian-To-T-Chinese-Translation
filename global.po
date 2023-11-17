@@ -102979,7 +102979,7 @@ msgid "IDS_PSPT008_533_NUMANCIA"
 msgstr "533 mm MkIV* ES"
 
 msgid "IDS_PSSC101"
-msgstr "Júpiter"
+msgstr "木星"
 
 msgid "IDS_PSSC101_DESCR"
 msgstr ""
@@ -102989,7 +102989,7 @@ msgstr ""
 "導致叛軍主力艦 España 沉沒。"
 
 msgid "IDS_PSSC101_FULL"
-msgstr "Júpiter"
+msgstr "木星"
 
 msgid "IDS_PSSC101_NUMBER"
 msgstr "4"
@@ -102998,7 +102998,7 @@ msgid "IDS_PSSC101_YEAR"
 msgstr "1937"
 
 msgid "IDS_PSSC102"
-msgstr "Méndez Núñez"
+msgstr "門德斯·努涅斯"
 
 msgid "IDS_PSSC102_DESCR"
 msgstr ""
@@ -103009,7 +103009,7 @@ msgstr ""
 "炸機破壞。"
 
 msgid "IDS_PSSC102_FULL"
-msgstr "Méndez Núñez"
+msgstr "門德斯·努涅斯"
 
 msgid "IDS_PSSC102_NUMBER"
 msgstr "2"
@@ -103018,7 +103018,7 @@ msgid "IDS_PSSC102_YEAR"
 msgstr "1924"
 
 msgid "IDS_PSSC103"
-msgstr "Navarra"
+msgstr "納瓦拉"
 
 msgid "IDS_PSSC103_DESCR"
 msgstr ""
@@ -103029,7 +103029,7 @@ msgstr ""
 "1937 年再次更名為 Navarra。"
 
 msgid "IDS_PSSC103_FULL"
-msgstr "Navarra"
+msgstr "納瓦拉"
 
 msgid "IDS_PSSC103_NUMBER"
 msgstr "1"
@@ -103038,7 +103038,7 @@ msgid "IDS_PSSC103_YEAR"
 msgstr "1923"
 
 msgid "IDS_PSSC104"
-msgstr "Almte. Cervera"
+msgstr "賽偉拉海軍上將"
 
 msgid "IDS_PSSC104_DESCR"
 msgstr ""
@@ -103049,7 +103049,7 @@ msgstr ""
 "提供火力支援、護航船團，也參與過帕洛斯角戰役。"
 
 msgid "IDS_PSSC104_FULL"
-msgstr "Almirante Cervera"
+msgstr "賽偉拉海軍上將"
 
 msgid "IDS_PSSC104_NUMBER"
 msgstr "3"
@@ -103058,7 +103058,7 @@ msgid "IDS_PSSC104_YEAR"
 msgstr "1927"
 
 msgid "IDS_PSSC105"
-msgstr "Galicia"
+msgstr "加利西亞"
 
 msgid "IDS_PSSC105_DESCR"
 msgstr ""
@@ -103068,7 +103068,7 @@ msgstr ""
 "損。當 Libertad 落入 Franco 政府手中後，名稱便改為 Galicia。"
 
 msgid "IDS_PSSC105_FULL"
-msgstr "Galicia"
+msgstr "加利西亞"
 
 msgid "IDS_PSSC105_NUMBER"
 msgstr "3"
@@ -103077,7 +103077,7 @@ msgid "IDS_PSSC105_YEAR"
 msgstr "1925"
 
 msgid "IDS_PSSC106"
-msgstr "Baleares"
+msgstr "巴利阿里"
 
 msgid "IDS_PSSC106_DESCR"
 msgstr ""
@@ -103088,7 +103088,7 @@ msgstr ""
 "市。此艘巡洋艦在帕洛斯角戰役被共和軍驅逐艦擊沉。"
 
 msgid "IDS_PSSC106_FULL"
-msgstr "Baleares"
+msgstr "巴利阿里"
 
 msgid "IDS_PSSC106_NUMBER"
 msgstr "2"
@@ -103097,7 +103097,7 @@ msgid "IDS_PSSC106_YEAR"
 msgstr "1936"
 
 msgid "IDS_PSSC107"
-msgstr "Asturias"
+msgstr "阿斯圖里亞斯"
 
 msgid "IDS_PSSC107_DESCR"
 msgstr ""
@@ -103107,7 +103107,7 @@ msgstr ""
 "203 毫米雙聯裝炮座。"
 
 msgid "IDS_PSSC107_FULL"
-msgstr "Asturias"
+msgstr "阿斯圖里亞斯"
 
 msgid "IDS_PSSC107_NUMBER"
 msgstr "1"
@@ -103116,7 +103116,7 @@ msgid "IDS_PSSC107_YEAR"
 msgstr "1940"
 
 msgid "IDS_PSSC108"
-msgstr "Cataluña"
+msgstr "加泰羅尼亞"
 
 msgid "IDS_PSSC108_DESCR"
 msgstr ""
@@ -103126,7 +103126,7 @@ msgstr ""
 "三座 203 毫米三聯裝炮座組成。"
 
 msgid "IDS_PSSC108_FULL"
-msgstr "Cataluña"
+msgstr "加泰羅尼亞"
 
 msgid "IDS_PSSC108_NUMBER"
 msgstr "1"
@@ -103135,7 +103135,7 @@ msgid "IDS_PSSC108_YEAR"
 msgstr "1940"
 
 msgid "IDS_PSSC109"
-msgstr "Andalucía"
+msgstr "安達盧西亞"
 
 msgid "IDS_PSSC109_DESCR"
 msgstr ""
@@ -103145,7 +103145,7 @@ msgstr ""
 "但大多數選項計劃採用的是 203 至 254 毫米口徑火炮的三座三聯裝炮塔。"
 
 msgid "IDS_PSSC109_FULL"
-msgstr "Andalucía"
+msgstr "安達盧西亞"
 
 msgid "IDS_PSSC109_NUMBER"
 msgstr "1"
@@ -103172,7 +103172,7 @@ msgid "IDS_PSSC110_YEAR"
 msgstr "1940"
 
 msgid "IDS_PSSC506"
-msgstr "Canarias"
+msgstr "加那利"
 
 msgid "IDS_PSSC506_DESCR"
 msgstr ""
@@ -103183,7 +103183,7 @@ msgstr ""
 "軍的旗艦長達 40 年之久。"
 
 msgid "IDS_PSSC506_FULL"
-msgstr "Canarias"
+msgstr "加那利"
 
 msgid "IDS_PSSC506_NUMBER"
 msgstr "2"
@@ -103192,7 +103192,7 @@ msgid "IDS_PSSC506_YEAR"
 msgstr "1936"
 
 msgid "IDS_PSSC508"
-msgstr "Numancia"
+msgstr "努曼西亞"
 
 msgid "IDS_PSSC508_DESCR"
 msgstr ""
@@ -103202,7 +103202,7 @@ msgstr ""
 "而，另一個在日後成為 Baleares 級艦艇設計基礎的計畫版本更受青睞。"
 
 msgid "IDS_PSSC508_FULL"
-msgstr "Numancia"
+msgstr "努曼西亞"
 
 msgid "IDS_PSSC508_NUMBER"
 msgstr "1"
@@ -103211,7 +103211,7 @@ msgid "IDS_PSSC508_YEAR"
 msgstr "1926"
 
 msgid "IDS_PSSD510"
-msgstr "Álvaro de Bazán"
+msgstr "阿爾瓦羅 · 德 · 巴贊"
 
 msgid "IDS_PSSD510_DESCR"
 msgstr ""
@@ -103220,7 +103220,7 @@ msgstr ""
 "Capitani Romani 級輕型巡洋艦為基礎打造。因義大利參與第二次世界大戰，導致此設計從未落實。"
 
 msgid "IDS_PSSD510_FULL"
-msgstr "Álvaro de Bazán"
+msgstr "阿爾瓦羅 · 德 · 巴贊"
 
 msgid "IDS_PSSD510_NUMBER"
 msgstr "1"
