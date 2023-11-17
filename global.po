@@ -1833,7 +1833,7 @@ msgid "IDS_ACCOUNT_LEVEL_REWARD_TITLE"
 msgstr "達到新服役等級的獎勵"
 
 msgid "IDS_ACCOUNT_PREMIUM"
-msgstr "加值帳號："
+msgstr "勞動合同尚餘："
 
 msgid "IDS_ACCOUNT_PROGRESS_ABUSED"
 msgstr "您的進度被封鎖"
