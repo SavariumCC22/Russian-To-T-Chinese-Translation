@@ -103097,7 +103097,7 @@ msgid "IDS_PSSC106_YEAR"
 msgstr "1936"
 
 msgid "IDS_PSSC107"
-msgstr "阿斯圖里亞斯"
+msgstr "奧斯特里亞"
 
 msgid "IDS_PSSC107_DESCR"
 msgstr ""
@@ -103107,7 +103107,7 @@ msgstr ""
 "203 毫米雙聯裝炮座。"
 
 msgid "IDS_PSSC107_FULL"
-msgstr "阿斯圖里亞斯"
+msgstr "奧斯特里亞"
 
 msgid "IDS_PSSC107_NUMBER"
 msgstr "1"
@@ -103116,7 +103116,7 @@ msgid "IDS_PSSC107_YEAR"
 msgstr "1940"
 
 msgid "IDS_PSSC108"
-msgstr "加泰羅尼亞"
+msgstr "加泰隆尼亞"
 
 msgid "IDS_PSSC108_DESCR"
 msgstr ""
@@ -103126,7 +103126,7 @@ msgstr ""
 "三座 203 毫米三聯裝炮座組成。"
 
 msgid "IDS_PSSC108_FULL"
-msgstr "加泰羅尼亞"
+msgstr "加泰隆尼亞"
 
 msgid "IDS_PSSC108_NUMBER"
 msgstr "1"
@@ -103135,7 +103135,7 @@ msgid "IDS_PSSC108_YEAR"
 msgstr "1940"
 
 msgid "IDS_PSSC109"
-msgstr "安達盧西亞"
+msgstr "安達露西亞"
 
 msgid "IDS_PSSC109_DESCR"
 msgstr ""
@@ -103145,7 +103145,7 @@ msgstr ""
 "但大多數選項計劃採用的是 203 至 254 毫米口徑火炮的三座三聯裝炮塔。"
 
 msgid "IDS_PSSC109_FULL"
-msgstr "安達盧西亞"
+msgstr "安達露西亞"
 
 msgid "IDS_PSSC109_NUMBER"
 msgstr "1"
@@ -103154,7 +103154,7 @@ msgid "IDS_PSSC109_YEAR"
 msgstr "1938"
 
 msgid "IDS_PSSC110"
-msgstr "卡斯提亞"
+msgstr "卡斯蒂利亞"
 
 msgid "IDS_PSSC110_DESCR"
 msgstr ""
@@ -103163,7 +103163,7 @@ msgstr ""
 "爾造船廠出廠的「超級華盛頓」巡洋艦。"
 
 msgid "IDS_PSSC110_FULL"
-msgstr "卡斯提亞"
+msgstr "卡斯蒂利亞"
 
 msgid "IDS_PSSC110_NUMBER"
 msgstr "1"
