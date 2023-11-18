@@ -8018,7 +8018,7 @@ msgid "IDS_BATTLE_STATS_WATCHTOWER_BUILDING_SUPPRESSIONS_HINT"
 msgstr "您壓制此監控站的次數"
 
 msgid "IDS_BATTLE_STATS_WITH_PREMIUM"
-msgstr "有加值帳號"
+msgstr "有勞動合同"
 
 msgid "IDS_BATTLE_TASKS"
 msgstr "戰鬥任務"
@@ -8659,7 +8659,7 @@ msgid "IDS_BOUGHT_BARRACKS_SPACE_COUNT"
 msgstr "位置已增加"
 
 msgid "IDS_BOUGHT_WOWS_PREMIUM_ACCOUNT"
-msgstr "已購買戰艦加值帳號"
+msgstr "已購買戰艦勞動合同"
 
 msgid "IDS_BOW_BELT"
 msgstr "前端裝甲帶"
@@ -8865,7 +8865,7 @@ msgid "IDS_BUY_IN_ARMORY"
 msgstr "在軍械庫中購買"
 
 msgid "IDS_BUY_PREMIUM_ACCOUNT"
-msgstr "購買加值帳號"
+msgstr "購買勞動合同"
 
 msgid "IDS_BUY_SLOT_SWITCH_OFF_TOOLTIP"
 msgstr "不購買一個額外船位"
@@ -11843,10 +11843,10 @@ msgstr[0] "%(days)s 天"
 
 msgid "IDS_COMPENSATION_DESCR"
 msgstr ""
-"擁有啟用的戰遊網加值帳號時購買戰艦加值帳號將獲得補償。退款金額取決於加值帳號重疊的天數。"
+"擁有啟用的戰遊網勞動合同時購買戰艦勞動合同將獲得補償。退款金額取決於勞動合同重疊的天數。"
 
 msgid "IDS_COMPENSATION_INTERSECTION"
-msgstr "加值帳號重疊"
+msgstr "勞動合同重疊"
 
 msgid "IDS_COMPENSATION_PRICE"
 msgstr "退款金額"
@@ -12370,7 +12370,7 @@ msgid "IDS_COOPERATIVEBATTLE"
 msgstr "聯合作戰"
 
 msgid "IDS_COOPERATIVEBATTLE_DESCRIPTION"
-msgstr "與其他玩家攜手合作，參與兩隊之間的戰鬥。"
+msgstr "與其他玩家攜手合作，與電腦AI之間的戰鬥。"
 
 msgid "IDS_COOPERATIVEBATTLE_MATCHMAKER_DESCRIPTION"
 msgstr "隨機地圖與戰鬥模式"
@@ -28254,7 +28254,7 @@ msgid "IDS_EXP_TO_NEXT_LOOTBOX"
 msgstr "到下個貨櫃"
 
 msgid "IDS_EXTEND_PREMIUM_ACCOUNT"
-msgstr "延長加值帳號"
+msgstr "延長勞動合同"
 
 msgid "IDS_EXTERIOR"
 msgstr "外觀"
@@ -31232,7 +31232,7 @@ msgid "IDS_GUIDING_TIP_26_HEADER"
 msgstr "艦艇研發"
 
 msgid "IDS_GUIDING_TIP_270_DESC"
-msgstr "前往軍械庫以購買達布隆、加值帳號天數，以及其他的加值商店物品！"
+msgstr "前往軍械庫以購買達布隆、勞動合同天數，以及其他的加值商店物品！"
 
 msgid "IDS_GUIDING_TIP_270_HEADER"
 msgstr "您現在能從軍械庫進入加值商店"
@@ -38313,7 +38313,7 @@ msgid "IDS_MODAL_WINDOW_POSTBATTLE_KEY_BATTLE_RESULTS_DESCRIPTION_7"
 msgstr " "
 
 msgid "IDS_MODAL_WINDOW_POSTBATTLE_KEY_BATTLE_RESULTS_DESCRIPTION_HAS_PREM"
-msgstr "加值帳號"
+msgstr "勞動合同"
 
 msgid "IDS_MODAL_WINDOW_POSTBATTLE_KEY_BATTLE_RESULTS_EVALUATION_TITLE_5"
 msgstr "您成功了！"
@@ -38544,7 +38544,7 @@ msgid "IDS_MODAL_WINDOW_TITLE_PREFERENCES_GAMMA"
 msgstr "伽瑪值"
 
 msgid "IDS_MODAL_WINDOW_TITLE_PREMIUM_ACCOUNT_PURCHASE"
-msgstr "購買加值帳號"
+msgstr "購買勞動合同"
 
 msgid "IDS_MODAL_WINDOW_TITLE_SIGNAL_PURCHASE"
 msgstr "購買信號旗"
@@ -38994,7 +38994,7 @@ msgid "IDS_MOVE_RIGHT_PREF_TOOLTIP_DESCRIPTION"
 msgstr "按住按鍵會將方向舵轉向右邊。"
 
 msgid "IDS_MOVE_TO_THE_PURCHASE_PREMIUM"
-msgstr "購買戰艦加值帳號"
+msgstr "購買戰艦勞動合同"
 
 msgid "IDS_MOVE_TO_THE_REWARD"
 msgstr "前往您的獎勵"
@@ -39792,10 +39792,10 @@ msgid "IDS_NOT_ENOUGH_GOLD_FOR_MODERNIZATION"
 msgstr "達布隆不足"
 
 msgid "IDS_NOT_ENOUGH_GOLD_TO_BUY_PREMIUM"
-msgstr "沒有足夠的達布隆以購買戰遊網加值帳號"
+msgstr "沒有足夠的達布隆以購買戰遊網勞動合同"
 
 msgid "IDS_NOT_ENOUGH_GOLD_TO_BUY_PREMIUM_WOWS"
-msgstr "沒有足夠的達布隆以購買戰艦加值帳號"
+msgstr "沒有足夠的達布隆以購買戰艦勞動合同"
 
 msgid "IDS_NOT_ENOUGH_MONEY_PURCHASE_SLOT"
 msgstr "沒有足夠的達布隆以購買船位"
@@ -40120,7 +40120,7 @@ msgid "IDS_ONLINE_PLAYERS"
 msgstr "玩家上線"
 
 msgid "IDS_ONLY_FOR_PREM"
-msgstr "僅可用於加值帳號"
+msgstr "僅可用於勞動合同"
 
 msgid "IDS_ON_SHIP"
 msgstr "艦艇："
@@ -67095,7 +67095,7 @@ msgstr "任務簡報"
 msgid "IDS_PCZC097_WOWS_CAMPAIGN_DESCRIPTION"
 msgstr ""
 "0.5.15 版更新多提供玩家一個新功能：兩個戰役。它們用相關敘述來補遺戰鬥任務的完成過程。為了表現"
-"它們的意圖有多麼重要，開發人員提供了 VI 階加值驅逐艦 Shinonome 和七天加值帳號分別作為完成「榮"
+"它們的意圖有多麼重要，開發人員提供了 VI 階加值驅逐艦 Shinonome 和七天勞動合同分別作為完成「榮"
 "譽服務」和「勝利的科學」戰役的最終獎勵。\n"
 "\n"
 "這只是個開始。玩家喜歡新的功能，也因此「戰役」已成了遊戲必不可少的部分。"
@@ -96945,7 +96945,7 @@ msgid "IDS_PREMIUMS"
 msgstr "加值艦艇"
 
 msgid "IDS_PREMIUM_ACCOUNT"
-msgstr "加值帳號"
+msgstr "勞動合同"
 
 msgid "IDS_PREMIUM_ACCOUNT_ACTIVE"
 msgstr "啟用"
@@ -96963,21 +96963,21 @@ msgid "IDS_PREMIUM_ACCOUNT_BUYBUTTON_DISABLED_WARNING"
 msgstr "請接受購買條件"
 
 msgid "IDS_PREMIUM_ACCOUNT_CHOOSE_AND_BUY"
-msgstr "購買加值帳號"
+msgstr "購買勞動合同"
 
 msgid "IDS_PREMIUM_ACCOUNT_CHOOSE_HEADER"
-msgstr "加值帳號選擇"
+msgstr "勞動合同選擇"
 
 msgid "IDS_PREMIUM_ACCOUNT_CHOOSE_HEADER_DESCR"
 msgstr ""
-"擁有加值帳號將幫助您快速達成您的目標！\n"
-"選擇最適合您的加值帳號及其持續時間。"
+"擁有勞動合同將幫助您快速達成您的目標！\n"
+"選擇最適合您的勞動合同及其持續時間。"
 
 msgid "IDS_PREMIUM_ACCOUNT_CHOOSE_PERIOD_HEADER"
 msgstr "期限選擇"
 
 msgid "IDS_PREMIUM_ACCOUNT_ENDS"
-msgstr "加值帳號期限即將到期"
+msgstr "勞動合同期限即將到期"
 
 msgid "IDS_PREMIUM_ACCOUNT_EXTEND"
 msgstr "延長"
@@ -97008,25 +97008,25 @@ msgstr "尚未購買"
 
 msgid "IDS_PREMIUM_ACCOUNT_SUBHEADER"
 msgstr ""
-"購買戰艦加值帳號，以在每場戰鬥中獲得 +50% 銀幣，以及 +65% 艦艇經驗、指揮官經驗和自由經驗"
+"購買戰艦勞動合同，以在每場戰鬥中獲得 +50% 銀幣，以及 +65% 艦艇經驗、指揮官經驗和自由經驗"
 
 msgid "IDS_PREMIUM_ACCOUNT_TYPE_TOOLTIP"
 msgstr "使用者帳號"
 
 msgid "IDS_PREMIUM_ACCOUNT_WG"
-msgstr "戰遊網加值帳號"
+msgstr "戰遊網勞動合同"
 
 msgid "IDS_PREMIUM_ACCOUNT_WG_TOOLTIP_HEADER"
-msgstr "戰遊網加值帳號：%(days)s"
+msgstr "戰遊網勞動合同：%(days)s"
 
 msgid "IDS_PREMIUM_ACCOUNT_WOWS"
-msgstr "戰艦加值帳號"
+msgstr "戰艦勞動合同"
 
 msgid "IDS_PREMIUM_ACCOUNT_WOWS_TOOLTIP_HEADER"
-msgstr "戰艦加值帳號：%(days)s"
+msgstr "戰艦勞動合同：%(days)s"
 
 msgid "IDS_PREMIUM_DESCRIPTION"
-msgstr "有了加值帳號，您可以在戰鬥中獲得額外銀幣和經驗。"
+msgstr "有了勞動合同，您可以在戰鬥中獲得額外銀幣和經驗。"
 
 msgid "IDS_PREMIUM_PERIOD"
 msgstr "期限："
@@ -97939,7 +97939,7 @@ msgid "IDS_PRMP_ITEM_PERMOFLAGE"
 msgstr "永久迷彩"
 
 msgid "IDS_PRMP_ITEM_PREMIUM"
-msgstr "加值帳號"
+msgstr "勞動合同"
 
 msgid "IDS_PRMP_ITEM_SHIP"
 msgstr "艦艇"
@@ -97951,7 +97951,7 @@ msgid "IDS_PRMP_ITEM_SLOTS"
 msgstr "空船位"
 
 msgid "IDS_PRMP_ITEM_WOWS_PREMIUM"
-msgstr "戰艦加值帳號"
+msgstr "戰艦勞動合同"
 
 msgid "IDS_PRMP_ITEM_XPFREEEXP"
 msgstr "轉換經驗"
@@ -103613,13 +103613,13 @@ msgid "IDS_PURCHASE_LOOTBOX_MODAL_HEADER"
 msgstr "選擇貨櫃"
 
 msgid "IDS_PURCHASE_PREMIUM_ACCOUNT"
-msgstr "購買加值帳號"
+msgstr "購買勞動合同"
 
 msgid "IDS_PURCHASE_PREMIUM_ACCOUNT_FOR"
-msgstr "購買戰遊網加值帳號"
+msgstr "購買戰遊網勞動合同"
 
 msgid "IDS_PURCHASE_PREMIUM_WARNING_NEXT_BATTLE"
-msgstr "戰艦加值帳號將從下一場戰鬥開始生效。"
+msgstr "戰艦勞動合同將從下一場戰鬥開始生效。"
 
 msgid "IDS_PURCHASE_SHIP"
 msgstr "購買一艘艦艇"
@@ -103643,7 +103643,7 @@ msgid "IDS_PURCHASE_UPPER_CASE"
 msgstr "購買"
 
 msgid "IDS_PURCHASE_WOWS_ACCOUNT_FOR"
-msgstr "購買戰艦加值帳號並花費"
+msgstr "購買戰艦勞動合同並花費"
 
 msgid "IDS_PURE_PORT_SKIP_VIDEO_HINT"
 msgstr "[KEY_SPACE] 略過影片"
@@ -113068,7 +113068,7 @@ msgid "IDS_RANDOMBATTLE"
 msgstr "坐牢模式"
 
 msgid "IDS_RANDOMBATTLE_DESCRIPTION"
-msgstr "參與兩隊之間的戰鬥。配對系統將會隨機選擇對手。"
+msgstr "參與兩隊之間的戰鬥。配對系統將會隨機選擇對手。本模式適用跨物種配對。"
 
 msgid "IDS_RANDOMBATTLE_MATCHMAKER_DESCRIPTION"
 msgstr "隨機地圖與戰鬥模式"
@@ -114311,7 +114311,7 @@ msgid "IDS_REWARDS_2"
 msgstr "%d 銀幣"
 
 msgid "IDS_REWARDS_3"
-msgstr "%s 天加值帳號"
+msgstr "%s 天勞動合同"
 
 msgid "IDS_REWARDS_4"
 msgstr "%d DATA"
@@ -114376,14 +114376,14 @@ msgid_plural "IDS_REWARDS_PL_GOLD_TITLE"
 msgstr[0] "%(_amount)s 達布隆"
 
 msgid "IDS_REWARDS_PL_PREMIUM_TITLE"
-msgstr "%(_amount)s 戰遊網加值帳號"
+msgstr "%(_amount)s 戰遊網勞動合同"
 
 msgid "IDS_REWARDS_PL_SLOTS_TITLE"
 msgid_plural "IDS_REWARDS_PL_SLOTS_TITLE"
 msgstr[0] "%(_amount)s 個港口船位"
 
 msgid "IDS_REWARDS_PL_WOWS_PREMIUM_TITLE"
-msgstr "%(_amount)s 戰艦加值帳號"
+msgstr "%(_amount)s 戰艦勞動合同"
 
 msgid "IDS_REWARDS_RECEIVED"
 msgstr "已獲得獎勵"
@@ -114440,7 +114440,7 @@ msgid "IDS_REWARDS_TITLE_2"
 msgstr "銀幣獎勵"
 
 msgid "IDS_REWARDS_TITLE_3"
-msgstr "加值帳號獎勵"
+msgstr "勞動合同獎勵"
 
 msgid "IDS_REWARDS_TITLE_4"
 msgstr "信號旗獎勵"
@@ -118577,7 +118577,7 @@ msgid "IDS_REWARD_PORTALREWARD_TITLE"
 msgstr "特殊獎勵"
 
 msgid "IDS_REWARD_PREMIUM_TITLE"
-msgstr "加值帳號"
+msgstr "勞動合同"
 
 msgid "IDS_REWARD_REASON"
 msgstr "獎勵"
@@ -118901,7 +118901,7 @@ msgid "IDS_REWARD_WARNING"
 msgstr "將開放給較高的服役紀錄等級"
 
 msgid "IDS_REWARD_WOWS_PREMIUM_TITLE"
-msgstr "戰艦加值帳號"
+msgstr "戰艦勞動合同"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ACID"
 msgstr "對敵方艦艇造成強酸傷害"
@@ -128341,7 +128341,7 @@ msgid "IDS_SYS_MSG_BOUGHT_PERMOFLAGE"
 msgstr "已購買永久迷彩"
 
 msgid "IDS_SYS_MSG_BOUGHT_PREMIUM_ACCOUNT"
-msgstr "已購買加值帳號"
+msgstr "已購買勞動合同"
 
 msgid "IDS_SYS_MSG_BOUGHT_RECRUITMENT_POINTS"
 msgstr "已購買社群代幣"
@@ -128368,7 +128368,7 @@ msgid "IDS_SYS_MSG_BOUGHT_UC"
 msgstr "已購買配件"
 
 msgid "IDS_SYS_MSG_BOUGHT_WOWS_PREMIUM_ACCOUNT"
-msgstr "已購買戰艦加值帳號"
+msgstr "已購買戰艦勞動合同"
 
 msgid "IDS_SYS_MSG_BUY_ABILITY"
 msgstr "已購買消耗品"
@@ -128647,7 +128647,7 @@ msgid "IDS_SYS_MSG_PRAISES_RECEIVED"
 msgstr "您被稱讚了！"
 
 msgid "IDS_SYS_MSG_PREM_OFF"
-msgstr "加值帳號已到期"
+msgstr "勞動合同已到期"
 
 msgid "IDS_SYS_MSG_PROCESS_GOLD_EXCHANGE"
 msgstr "兌換達布隆為銀幣"
@@ -128812,7 +128812,7 @@ msgid "IDS_SYS_MSG_RECEIVED_PERMOFLAGE"
 msgstr "已獲得永久迷彩"
 
 msgid "IDS_SYS_MSG_RECEIVED_PREMIUM_ACCOUNT"
-msgstr "已獲得加值帳號"
+msgstr "已獲得勞動合同"
 
 msgid "IDS_SYS_MSG_RECEIVED_RECRUITMENT_POINTS"
 msgstr "已獲得社群代幣"
@@ -128851,7 +128851,7 @@ msgid "IDS_SYS_MSG_RECEIVED_UNLOCK"
 msgstr "新功能已解鎖"
 
 msgid "IDS_SYS_MSG_RECEIVED_WOWS_PREMIUM_ACCOUNT"
-msgstr "已獲得戰艦加值帳號"
+msgstr "已獲得戰艦勞動合同"
 
 msgid "IDS_SYS_MSG_RENT"
 msgstr "租用"
@@ -128934,7 +128934,7 @@ msgid "IDS_SYS_MSG_SHIP_EXPLORE"
 msgstr "已研發艦艇"
 
 msgid "IDS_SYS_MSG_SHIP_PREM_OFF"
-msgstr "戰艦加值帳號已到期"
+msgstr "戰艦勞動合同已到期"
 
 msgid "IDS_SYS_MSG_SHIP_SELL_0"
 msgstr "已出售艦艇"
@@ -129195,7 +129195,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_PERMOFLAGE"
 msgstr "永久迷彩已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_PREMIUM_ACCOUNT"
-msgstr "加值帳號已移除"
+msgstr "勞動合同已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_RECRUITMENT_POINTS"
 msgstr "社群代幣已移除"
@@ -129225,7 +129225,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_UC"
 msgstr "配件已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WOWS_PREMIUM_ACCOUNT"
-msgstr "戰艦加值帳號已移除"
+msgstr "戰艦勞動合同已移除"
 
 msgid "IDS_SYS_MSG_YOUR_ACTION_IN_DIVISION_0_DIVISION"
 msgstr "您加入了分艦隊"
@@ -130095,7 +130095,7 @@ msgstr "請選擇工作。您可以選擇來自不同任務和戰役的工作。
 
 msgid "IDS_TASK_EXPLAIN_TOOLTIP_PREM"
 msgid_plural "IDS_TASK_EXPLAIN_TOOLTIP_PREM"
-msgstr[0] "加值帳號讓您可以同時進行 %(count)s 個工作"
+msgstr[0] "勞動合同讓您可以同時進行 %(count)s 個工作"
 
 msgid "IDS_TASK_IN_PROGRESS"
 msgstr "進行中"
@@ -131857,7 +131857,7 @@ msgid "IDS_TOOLTIP_BUY_GOLD"
 msgstr "請瀏覽我們的網站以購買達布隆。"
 
 msgid "IDS_TOOLTIP_BUY_PREMIUM_ACCOUNT"
-msgstr "購買加值帳號"
+msgstr "購買勞動合同"
 
 msgid "IDS_TOOLTIP_CAMPAIGN_NEED_TOKEN"
 msgstr "需要代幣才能進入戰役"
@@ -133454,7 +133454,7 @@ msgstr ""
 "指揮官。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3029_2"
-msgstr "您還可在軍械庫中購買達布隆、加值帳號天數，以及更多內容。"
+msgstr "您還可在軍械庫中購買達布隆、勞動合同天數，以及更多內容。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
 msgstr "在行動中，您隊伍的任務是在對抗機器人的同時完成各項工作。每個行動都設有獨特劇情。"
@@ -134294,7 +134294,7 @@ msgid "IDS_WG_PREMIUM_ACCOUNT_CR_VALUE"
 msgstr "+%(value)s %"
 
 msgid "IDS_WG_PREMIUM_ACCOUNT_ENDS_TIME"
-msgstr "戰遊網加值帳號將於： %(timeLeft)s 到期"
+msgstr "戰遊網勞動合同將於： %(timeLeft)s 到期"
 
 msgid "IDS_WG_PREMIUM_ACCOUNT_XP_VALUE"
 msgstr "+%(value)s %"
@@ -134336,7 +134336,7 @@ msgid "IDS_WITHOUT_COMMANDER"
 msgstr "不含指揮官"
 
 msgid "IDS_WITHOUT_PREM"
-msgstr "無加值帳號"
+msgstr "無勞動合同"
 
 msgid "IDS_WITHOUT_PREM_DESC"
 msgstr "一般帳號"
@@ -134363,13 +134363,13 @@ msgid "IDS_WITH_FIGHTERS"
 msgstr "用對艦攻擊機"
 
 msgid "IDS_WITH_PREM"
-msgstr "有戰遊網加值帳號"
+msgstr "有戰遊網勞動合同"
 
 msgid "IDS_WITH_PREM_HINT"
-msgstr "有了加值帳號，您每場戰鬥將獲得更多經驗和銀幣"
+msgstr "有了勞動合同，您每場戰鬥將獲得更多經驗和銀幣"
 
 msgid "IDS_WITH_PREM_WOWS"
-msgstr "有戰艦加值帳號"
+msgstr "有戰艦勞動合同"
 
 msgid "IDS_WITH_SLOT"
 msgstr "含船位"
@@ -134405,13 +134405,13 @@ msgid "IDS_WOWS_PREMIUM_ACCOUNT_CR_VALUE"
 msgstr "+%(value)s %"
 
 msgid "IDS_WOWS_PREMIUM_ACCOUNT_ENDS_TIME"
-msgstr "戰艦加值帳號將於： %(timeLeft)s 到期"
+msgstr "戰艦勞動合同將於： %(timeLeft)s 到期"
 
 msgid "IDS_WOWS_PREMIUM_ACCOUNT_XP_VALUE"
 msgstr "+%(value)s %"
 
 msgid "IDS_WOWS_PREMIUM_DESCRIPTION"
-msgstr "有了加值帳號，您可以在戰鬥中獲得額外銀幣和經驗。"
+msgstr "有了勞動合同，您可以在戰鬥中獲得額外銀幣和經驗。"
 
 msgid "IDS_WOWS_WOT"
 msgstr "Maxim Metky"
@@ -134977,3 +134977,6 @@ msgid "IDS_DOGTAG_PCNB394_DESCRIPTION"
 msgstr ""
 "成立於20世紀80年代中期的傳奇蘇聯和俄羅斯音樂團體，曲風為重金屬流派。\n"
 "ARIA在她的生涯中錄製了數十首深受其粉絲和大眾喜愛的歌曲"
+
+msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_TITLE_SHORT"
+msgstr "「金屬於此鍛造！」"
