@@ -134977,3 +134977,6 @@ msgid "IDS_DOGTAG_PCNB394_DESCRIPTION"
 msgstr ""
 "成立於20世紀80年代中期的傳奇蘇聯和俄羅斯音樂團體，曲風為重金屬流派。\n"
 "ARIA在她的生涯中錄製了數十首深受其粉絲和大眾喜愛的歌曲"
+
+msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_TITLE_SHORT"
+msgstr "「金屬於此鍛造！」"
