@@ -81301,7 +81301,7 @@ msgid "IDS_PGSB209_YEAR"
 msgstr "1944"
 
 msgid "IDS_PGSB210"
-msgstr "施里芬"
+msgstr "史里芬"
 
 msgid "IDS_PGSB210_DESCR"
 msgstr ""
@@ -81310,7 +81310,7 @@ msgstr ""
 "計畫是德國主力艦中尺寸最大、火力最強的代表艦艇。"
 
 msgid "IDS_PGSB210_FULL"
-msgstr "施里芬"
+msgstr "史里芬"
 
 msgid "IDS_PGSB210_NUMBER"
 msgstr "1"
