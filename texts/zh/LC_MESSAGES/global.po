@@ -8686,7 +8686,7 @@ msgid "IDS_BPPOINTS_COLON"
 msgstr "戰鬥通行證點數："
 
 msgid "IDS_BRASS_COLON"
-msgstr " "
+msgstr " 加值通行證點數："
 
 msgid "IDS_BRAWLBATTLE"
 msgstr "激鬥"
@@ -8865,7 +8865,7 @@ msgid "IDS_BUY_IN_ARMORY"
 msgstr "在軍械庫中購買"
 
 msgid "IDS_BUY_PREMIUM_ACCOUNT"
-msgstr ""
+msgstr "購買加值帳號"
 
 msgid "IDS_BUY_SLOT_SWITCH_OFF_TOOLTIP"
 msgstr "不購買一個額外船位"
