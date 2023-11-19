@@ -49008,7 +49008,7 @@ msgid "IDS_PASC710_YEAR"
 msgstr "1949"
 
 msgid "IDS_PASC718"
-msgstr "碧藍航線 蒙特佩利爾"
+msgstr "碧藍航線 蒙彼利埃"
 
 msgid "IDS_PASC718_DESCR"
 msgstr ""
@@ -49018,7 +49018,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PASC718_FULL"
-msgstr "碧藍航線 蒙特佩利爾"
+msgstr "碧藍航線 蒙彼利埃"
 
 msgid "IDS_PASC718_NUMBER"
 msgstr "28"
