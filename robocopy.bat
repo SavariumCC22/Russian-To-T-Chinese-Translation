@@ -1,1 +1,0 @@
-ROBOCOPY C:\Users\R5-3600\Documents\GitHub\-\texts\zh\LC_MESSAGES "E:\E Games\Korabli\bin\7792467\res_mods\texts\zh\LC_MESSAGES" global.mo
