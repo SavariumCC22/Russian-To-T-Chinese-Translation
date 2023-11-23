@@ -71581,13 +71581,13 @@ msgid "IDS_PFSC507_YEAR"
 msgstr "1926"
 
 msgid "IDS_PFSC508"
-msgstr "Bayard"
+msgstr "貝雅德"
 
 msgid "IDS_PFSC508_DESCR"
 msgstr "La Galissonniere 級和 De Grasse 級輕型巡洋艦的進一步發展增加了每座三聯裝炮塔的火炮數量，由於間距的增加也導致了排水量的增加。此類巡洋艦標準排水量為 10,000 噸，使其可以符合《華盛頓海軍條約》的限制。高平兩用副炮採用了 100 毫米火炮座。這樣的巡洋艦直接對應於英國 Town 級巡洋艦或蘇聯 Project 68 巡洋艦。"
 
 msgid "IDS_PFSC508_FULL"
-msgstr "Bayard"
+msgstr "貝雅德"
 
 msgid "IDS_PFSC508_NUMBER"
 msgstr "1"
@@ -71611,13 +71611,13 @@ msgid "IDS_PFSC509_YEAR"
 msgstr "1929"
 
 msgid "IDS_PFSC510"
-msgstr "Colbert"
+msgstr "科爾伯特"
 
 msgid "IDS_PFSC510_DESCR"
 msgstr "根據戰後計畫，法國海軍本應獲得六艘防空巡洋艦，但最終只建造了兩艘。其中一艘是使用 De Grasse 的艦身建造的，而另一艘則是根據類似的設計從頭開始建造。此計畫包括了許多修改，包括更短的艦艉、增加艦身寬度，以及新型裝甲系統。Colbert 是在布雷斯特建造的。1960 年代前半期，此艦艇擔任過地中海中隊的旗艦，並在 1970 年到 1972 年期間改裝成飛彈巡洋艦。"
 
 msgid "IDS_PFSC510_FULL"
-msgstr "Colbert"
+msgstr "科爾伯特"
 
 msgid "IDS_PFSC510_NUMBER"
 msgstr "1"
@@ -124724,7 +124724,7 @@ msgid "IDS_UNAVAILABLE_TO_DISPLAY_PRESERVED"
 msgstr "此艦艇已從遊戲裡移除。"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_SOON"
-msgstr "很快"
+msgstr "敬請期待"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_SPECIAL"
 msgstr "此艦艇只能在加值商店中購買。"
