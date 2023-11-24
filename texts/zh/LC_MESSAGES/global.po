@@ -126556,3 +126556,60 @@ msgstr "水雷可造成顯著傷害和進水。雷區將於短暫時間後啟用
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_MINEFIELD_INACTIVE"
 msgstr "即將啟動的雷區"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER"
+msgstr "注意敵方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "注意敵方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER"
+msgstr "護衛友方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "護衛友方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER"
+msgstr "敵方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "敵方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER"
+msgstr "友方水雷機!"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "友方水雷機!"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
+msgstr "友方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "友方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER"
+msgstr "敵方水雷機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
+msgstr "敵方水雷機！"
+
+msgid "IDS_MINEBOMBER"
+msgstr "水雷機"
+
+msgid "IDS_MINES"
+msgstr "水雷"
+
+msgid "IDS_MINES_RELEASED"
+msgstr "投放水雷數量"
+
+msgid "IDS_MINES_SPENT"
+msgstr "消耗水雷數量"
+
+msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINEBOMBER"
+msgstr "水雷投放機"
+
+msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINEBOMBER_DESCRIPTION"
+msgstr ""
+"水雷投放機能在戰場上投放水雷\n"
+"當水雷與艦艇接觸時會爆炸，可破壞船隻機件並導致進水\n"
+"將地雷投放在島嶼之間以誘導敵艦墜入陷阱"
