@@ -126538,9 +126538,10 @@ msgstr "大鳳"
 
 msgid "IDS_PJSA210_DESCR"
 msgstr ""
-"Самый современный авианосец японского флота был спроектирован и построен по улучшенному проекту на основе Shōkaku. Taihō обладал бронированной полётной палубой, которая была интегрирована в корпус корабля и являлась элементом его прочностной структуры. Авианосец участвовал в битве в Филиппинском море, в котором получил торпедное попадание с подводной лодки USS Albacore. Экипаж не смог справиться с разлитием авиатоплива и распространением паров бензина по всему кораблю, что вызвало два мощных взрыва, которые послужили причиной гибели корабля.\n"
-"\n"
-"日本艦隊中最現代化的航空母艦，基於翔鶴級的設計上改進而成。大鳳擁有整合至船身內用作支撐的裝甲甲板。大鳳於參加菲律賓海戰時被 青花魚號潛艦 以魚雷命中，艦員無法應對充斥整個機庫的油氣，最終引致兩次致命的爆炸而沉沒。"
+"日本海軍最現代化的航空母艦，作為 1939 年第四艦隊補給計劃的一部分而設計和建造，是一艘“改進型翔鶴”號航空母艦，其裝甲飛行甲板集成到船體中，是其強度結構的一部分。\n"
+"根據1942年的計劃，日本計劃再建造七艘同類型的艦艇，其中甚至還訂購了兩艘，但經濟形勢迫使日本放棄了這些計劃。\n"
+"大鳳號於1941年10月在神戶川崎造船廠奠基，1943年4月下水，1944年3月服役。同年6月19日，參加菲律賓海戰，被大青花魚號潛艦的魚雷擊中。\n"
+"缺乏經驗的船員無法應對航空燃油的溢出和汽油蒸氣擴散到全船，引發了兩次強烈的爆炸，導致全船只有艦橋人員來得及逃生。"
 
 msgid "IDS_PJSA210_FULL"
 msgstr "大鳳"
@@ -126558,43 +126559,43 @@ msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_MINEFIELD_INACTIVE"
 msgstr "即將啟動的雷區"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER"
-msgstr "注意敵方水雷機！"
+msgstr "注意敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "注意敵方水雷機！"
+msgstr "注意敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER"
-msgstr "護衛友方水雷機！"
+msgstr "護衛友方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "護衛友方水雷機！"
+msgstr "護衛友方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "敵方水雷機！"
+msgstr "敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "敵方水雷機！"
+msgstr "敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "友方水雷機!"
+msgstr "友方水雷轟炸機!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "友方水雷機!"
+msgstr "友方水雷轟炸機!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "友方水雷機！"
+msgstr "友方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "友方水雷機！"
+msgstr "友方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "敵方水雷機！"
+msgstr "敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "敵方水雷機！"
+msgstr "敵方水雷轟炸機！"
 
 msgid "IDS_MINEBOMBER"
-msgstr "水雷機"
+msgstr "水雷轟炸機"
 
 msgid "IDS_MINES"
 msgstr "水雷"
@@ -126606,10 +126607,10 @@ msgid "IDS_MINES_SPENT"
 msgstr "消耗水雷數量"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINEBOMBER"
-msgstr "水雷投放機"
+msgstr "水雷轟炸機"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINEBOMBER_DESCRIPTION"
 msgstr ""
-"水雷投放機能在戰場上投放水雷\n"
+"水雷轟炸機能在戰場上投放水雷\n"
 "當水雷與艦艇接觸時會爆炸，可破壞船隻機件並導致進水\n"
 "將地雷投放在島嶼之間以誘導敵艦墜入陷阱"
