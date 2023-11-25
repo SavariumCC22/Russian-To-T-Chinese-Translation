@@ -126630,9 +126630,92 @@ msgstr "0"
 msgid "IDS_PVSB509_YEAR"
 msgstr "1918"
 
+msgid "IDS_ACHIEVEMENT_CRUISER_BOOK"
+msgstr "Морские легенды: крейсеры"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_BOOK"
+msgstr "Стать обладателем книги «Морские легенды: крейсеры»."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_ARIA_COMPLETED"
+msgstr "Собрать коллекцию «Здесь куют металл»."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_PRORYV"
+msgstr "Победить в турнире «Прорыв»."
 
+msgid "IDS_ACHIEVEMENT_FILLALBUM_ARIA_COMPLETED"
+msgstr "Здесь куют металл"
 
+msgid "IDS_ACHIEVEMENT_PRORYV"
+msgstr "Прорыв"
 
+msgid "IDS_FOG_OF_WAR"
+msgstr "Противник неизвестен"
+
+msgid "IDS_FOG_OF_WAR_FOR_NOTDETECTED_SHIP"
+msgstr "Не обнаружен"
+
+msgid "IDS_FOG_OF_WAR_RULES"
+msgstr "Состав команды противника неизвестен"
+
+msgid "IDS_FOG_OF_WAR_TIPS"
+msgstr "Информация о кораблях противника скрыта, пока они не будут обнаружены или уничтожены."
+
+msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER"
+msgstr "%(_cmd)s Нажмите повторно для взлёта постановщиков мин"
+
+msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER_NOT_ENOUGH"
+msgstr "Недостаточно постановщиков мин для взлёта"
+
+msgid "IDS_CAUSED_MINES_HINT"
+msgstr "Количество попаданий и урон, нанесённый минами"
+
+msgid "IDS_CAUSED_MINES_RELEASED_HINT"
+msgstr "Количество сброшенных мин"
+
+msgid "IDS_FEAT_BAD_SURFACESPEED"
+msgstr "Низкая скорость хода в надводном положении"
+
+msgid "IDS_FEAT_BAD_TORP_MANYFORETUBES"
+msgstr "Малое количество торпедных аппаратов в носовой группе"
+
+msgid "IDS_PARAMS_MODIFIER_AAMAXHP"
+msgstr "Живучесть установок ПВО"
+
+msgid "IDS_PARAMS_MODIFIER_GSMAXHP"
+msgstr "Живучесть установок ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_HEALTHREGENPERCENT"
+msgstr "Боеспособность корабля в секунду"
+
+msgid "IDS_PARAMS_MODIFIER_VISIONXRAYMINEDIST"
+msgstr "Дистанция гарантированного обнаружения мин"
+
+msgid "IDS_PASA208"
+msgstr "約克鎮"
+
+msgid "IDS_PASA208_DESCR"
+msgstr "Первая серия авианосцев ВМС США специальной постройки. При ограниченных размерах отличались большой ударной мощью, высокой скоростью хода и хорошей для своего времени ПВО."
+
+msgid "IDS_PASA208_FULL"
+msgstr "約克鎮"
+
+msgid "IDS_PASA208_NUMBER"
+msgstr "3"
+
+msgid "IDS_PASA208_YEAR"
+msgstr "1937 г."
+
+msgid "IDS_PBES380_ST_VINCENT_ARIA"
+msgstr "Химера"
+
+msgid "IDS_PCEE659_PATAGONIA_FLAG"
+msgstr "ARA Patagonia"
+
+msgid "IDS_PCEE659_PATAGONIA_FLAG_DESCRIPTION"
+msgstr "Патагония — область в Южной Америке, которая располагается на территории Аргентины и Чили. Во второй половине XIX в. валлийскими поселенцами здесь была основана колония. Флаг поселения содержал традиционные для Аргентины голубой и белый цвета, а посередине был изображён красный валлийский дракон."
+
+msgid "IDS_SHIP_PARAM_MINES_DAMAGE"
+msgstr "Максимальный урон миной"
+
+msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_MINE"
+msgstr "Минное заграждение"
