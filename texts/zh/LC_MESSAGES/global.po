@@ -97071,13 +97071,13 @@ msgid "IDS_PVSB505_YEAR"
 msgstr "1914"
 
 msgid "IDS_PVSB508"
-msgstr "Atlântico"
+msgstr "大西洋"
 
 msgid "IDS_PVSB508_DESCR"
 msgstr "在未來 Rio de Janeiro 的開發過程中，巴西收到了數十項計畫的提議。其中一項由 de Basellar 海軍上將提出的計畫，是在主力艦上安裝 240 毫米副炮，這在當時的造船方面是一個大膽的舉措。作為對這一想法的回應，Tennyson-d'Eincourt 開發了 686 計畫 — 一艘在四座炮塔中放置八門 405 毫米火炮的主力艦，和一艘在三座炮塔中放置了六門 240 毫米火炮的主力艦。儘管有 de Basellar 的支持，該項目卻未曾實施。Atlântico 是巴西主力艦進一步開發而來的版本，更加著重於火力的提升。"
 
 msgid "IDS_PVSB508_FULL"
-msgstr "Atlântico"
+msgstr "大西洋"
 
 msgid "IDS_PVSB508_NUMBER"
 msgstr "1"
