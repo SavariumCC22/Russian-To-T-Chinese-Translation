@@ -121709,7 +121709,7 @@ msgid "IDS_TBOMBS_SHOTS_HINT"
 msgstr "魚雷投擲數"
 
 msgid "IDS_TEAMKILLER_ATTACK"
-msgstr "你這個鹹菜怪 終於把砲口指向隊友了嗎！？"
+msgstr "傻逼，這是自己人！"
 
 msgid "IDS_TEAMKILLER_COMPENSATION"
 msgstr "被隊友傷害的補償"
@@ -125153,7 +125153,7 @@ msgid "IDS_UNLOCKS_LOCATION_9"
 msgstr "要前往「戰鬥任務」分頁，請在港口介面點擊左邊的橫幅。"
 
 msgid "IDS_UNLOCKS_TITLE_1"
-msgstr "聯合作戰"
+msgstr "欺負波特"
 
 msgid "IDS_UNLOCKS_TITLE_11"
 msgstr "經濟加成"
