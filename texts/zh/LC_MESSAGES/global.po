@@ -85162,13 +85162,13 @@ msgid "IDS_PJSD026_YEAR"
 msgstr "1922"
 
 msgid "IDS_PJSD105"
-msgstr "陸月"
+msgstr "睦月"
 
 msgid "IDS_PJSD105_DESCR"
 msgstr "「強化型 Kamikaze」級驅逐艦是日本最後一艘將魚雷發射器配置在艦艏上層建築前方的驅逐艦。1924 至 1927 年間建造的 12 艘驅逐艦全數於第二次世界大戰期間損失。Mutsuki 於 1926 年 3 月投入服役後，參加了中日戰爭。第二次世界大戰期間，她參與了威克島戰役，以及索羅門群島和新幾內亞的登陸行動。1942 年 8 月 24 日，此艦艇遭一枚航空炸彈擊中後於索羅門群島附近沉沒。"
 
 msgid "IDS_PJSD105_FULL"
-msgstr "陸月"
+msgstr "睦月"
 
 msgid "IDS_PJSD105_NUMBER"
 msgstr "12"
@@ -126649,52 +126649,52 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_PRORYV"
 msgstr "Победить в турнире «Прорыв»."
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_ARIA_COMPLETED"
-msgstr "Здесь куют металл"
+msgstr "金屬與此鍛造！"
 
 msgid "IDS_ACHIEVEMENT_PRORYV"
 msgstr "Прорыв"
 
 msgid "IDS_FOG_OF_WAR"
-msgstr "Противник неизвестен"
+msgstr "無敵艦訊息"
 
 msgid "IDS_FOG_OF_WAR_FOR_NOTDETECTED_SHIP"
-msgstr "Не обнаружен"
+msgstr "無敵艦訊息"
 
 msgid "IDS_FOG_OF_WAR_RULES"
-msgstr "Состав команды противника неизвестен"
+msgstr "在未偵測敵艦前將無法得知其訊息"
 
 msgid "IDS_FOG_OF_WAR_TIPS"
-msgstr "Информация о кораблях противника скрыта, пока они не будут обнаружены или уничтожены."
+msgstr "在未偵測敵艦前將無法得知其訊息"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER"
-msgstr "%(_cmd)s Нажмите повторно для взлёта постановщиков мин"
+msgstr "%(_cmd)s  再按一次以升空水雷轟炸機"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER_NOT_ENOUGH"
-msgstr "Недостаточно постановщиков мин для взлёта"
+msgstr "無法起飛  水雷轟炸機數量不足"
 
 msgid "IDS_CAUSED_MINES_HINT"
-msgstr "Количество попаданий и урон, нанесённый минами"
+msgstr "水雷造成的命中次數和損害"
 
 msgid "IDS_CAUSED_MINES_RELEASED_HINT"
-msgstr "Количество сброшенных мин"
+msgstr "水雷數量"
 
 msgid "IDS_FEAT_BAD_SURFACESPEED"
-msgstr "Низкая скорость хода в надводном положении"
+msgstr "航速較慢"
 
 msgid "IDS_FEAT_BAD_TORP_MANYFORETUBES"
-msgstr "Малое количество торпедных аппаратов в носовой группе"
+msgstr "艦首的魚雷發射管數量較少"
 
 msgid "IDS_PARAMS_MODIFIER_AAMAXHP"
-msgstr "Живучесть установок ПВО"
+msgstr "對空防禦存活性"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXHP"
 msgstr "Живучесть установок ПМК"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHREGENPERCENT"
-msgstr "Боеспособность корабля в секунду"
+msgstr "每秒恢復的船隻生命值"
 
 msgid "IDS_PARAMS_MODIFIER_VISIONXRAYMINEDIST"
-msgstr "Дистанция гарантированного обнаружения мин"
+msgstr "水雷確保偵測距離"
 
 msgid "IDS_PASA208"
 msgstr "約克鎮"
@@ -126709,7 +126709,7 @@ msgid "IDS_PASA208_NUMBER"
 msgstr "3"
 
 msgid "IDS_PASA208_YEAR"
-msgstr "1937 г."
+msgstr "1937"
 
 msgid "IDS_PBES380_ST_VINCENT_ARIA"
 msgstr "Химера"
@@ -126721,7 +126721,10 @@ msgid "IDS_PCEE659_PATAGONIA_FLAG_DESCRIPTION"
 msgstr "Патагония — область в Южной Америке, которая располагается на территории Аргентины и Чили. Во второй половине XIX в. валлийскими поселенцами здесь была основана колония. Флаг поселения содержал традиционные для Аргентины голубой и белый цвета, а посередине был изображён красный валлийский дракон."
 
 msgid "IDS_SHIP_PARAM_MINES_DAMAGE"
-msgstr "Максимальный урон миной"
+msgstr "水雷最大傷害："
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_MINE"
-msgstr "Минное заграждение"
+msgstr "水雷屏障"
+
+msgid "IDS_JORICK_ARIA"
+msgstr "Жорик"
