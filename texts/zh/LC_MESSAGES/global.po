@@ -83486,13 +83486,13 @@ msgid "IDS_PJSA017_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSA104"
-msgstr "Hōshō"
+msgstr "鳳翔"
 
 msgid "IDS_PJSA104_DESCR"
 msgstr "日本在第一次世界大戰後開始對擁有全通式飛行甲板的航空母艦進行試驗。日本決定將一艘於 1919 年安放龍骨的海軍油輪改裝成航空母艦。Hōshō 於 1922 年 12 月投入服役。她最初用於測試艦載機的性能，但後來參與了一二八事變和 1937 年中日戰爭。之後，她轉移到聯合艦隊，為艦隊的主力部隊進行偵察和反潛防禦任務。"
 
 msgid "IDS_PJSA104_FULL"
-msgstr "Hōshō"
+msgstr "鳳翔"
 
 msgid "IDS_PJSA104_NUMBER"
 msgstr "1"
@@ -83501,13 +83501,13 @@ msgid "IDS_PJSA104_YEAR"
 msgstr "1922"
 
 msgid "IDS_PJSA106"
-msgstr "Ryūjō"
+msgstr "龍驤"
 
 msgid "IDS_PJSA106_DESCR"
 msgstr "《華盛頓海軍條約》的限制不適用於排水量不超過 10,000 噸的艦艇，因此日本除了大型航空母艦，也開始設計小型航空母艦。Ryūjō 的設計汲取了操作 Hōshō 的經驗：她配備了雙層機庫，可增大航空大隊的規模。Ryūjō 在 1937 年至 1939 年參與中日戰爭。在第二次世界大戰期間，此航空母艦支援了菲律賓登陸行動，護送船團前往荷屬東印度群島，並參與了印度洋和阿留申群島周圍的突襲行動。"
 
 msgid "IDS_PJSA106_FULL"
-msgstr "Ryūjō"
+msgstr "龍驤"
 
 msgid "IDS_PJSA106_NUMBER"
 msgstr "1"
@@ -83516,13 +83516,13 @@ msgid "IDS_PJSA106_YEAR"
 msgstr "1933"
 
 msgid "IDS_PJSA108"
-msgstr "Shōkaku"
+msgstr "翔鶴"
 
 msgid "IDS_PJSA108_DESCR"
 msgstr "Shōkaku 級航空母艦是 Hiryu 級艦艇的改進版。此級航空母艦擁有強化的裝甲和防空武器，以及較大的航空大隊。建造期間，這些艦艇被認為是世界上最強大的。兩艘艦艇於 1937 年至 1941 年間建造。Shōkaku 參與了珍珠港襲擊、拉包爾戰役、印度洋空襲，以及珊瑚海、東索羅門群島和聖克魯斯群島的戰役。在菲律賓海戰中，這艘航空母艦被 USS Cavalla 的魚雷命中而沉沒。"
 
 msgid "IDS_PJSA108_FULL"
-msgstr "Shōkaku"
+msgstr "翔鶴"
 
 msgid "IDS_PJSA108_NUMBER"
 msgstr "2"
@@ -83546,13 +83546,13 @@ msgid "IDS_PJSA110_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSA111"
-msgstr "Sekiryu"
+msgstr "赤龍"
 
 msgid "IDS_PJSA111_DESCR"
 msgstr "這項假設性開發計畫將 Taihō 和 Taihō Kai 航空母艦的機庫擴大，配備巡航柴油發動機以強化推進裝置，以及使用與 Akizuki 級驅逐艦相同的 100 毫米高平兩用炮。"
 
 msgid "IDS_PJSA111_FULL"
-msgstr "Sekiryu"
+msgstr "赤龍"
 
 msgid "IDS_PJSA111_NUMBER"
 msgstr "0"
@@ -83576,7 +83576,7 @@ msgid "IDS_PJSA507_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSA518"
-msgstr "Kaga"
+msgstr "加賀"
 
 msgid "IDS_PJSA518_DESCR"
 msgstr "關東大地震摧毀了正在建造中的航空母艦，當局因此決定轉而重建加賀的艦身，她早先因《華盛頓海軍條約》限制而停建。除了煙囪的位置和多了短飛行甲板之外，此計畫與航空母艦 Akagi 相似。Kaga 參與了一二八事變和中日戰爭。在完成現代化改造後，她參與了珍珠港襲擊、拉包爾戰役、馬紹爾群島戰役和達爾文空襲。"
@@ -83591,13 +83591,13 @@ msgid "IDS_PJSA518_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSA598"
-msgstr "Kaga B"
+msgstr "加賀 B"
 
 msgid "IDS_PJSA598_DESCR"
 msgstr "關東大地震摧毀了正在建造中的航空母艦，當局因此決定轉而重建加賀的艦身，她早先因《華盛頓海軍條約》限制而停建。除了煙囪的位置和多了短飛行甲板之外，此計畫與航空母艦 Akagi 相似。Kaga 參與了一二八事變和中日戰爭。在完成現代化改造後，她參與了珍珠港襲擊、拉包爾戰役、馬紹爾群島戰役和達爾文空襲。"
 
 msgid "IDS_PJSA598_FULL"
-msgstr "Kaga B"
+msgstr "加賀 B"
 
 msgid "IDS_PJSA598_NUMBER"
 msgstr "1"
@@ -83606,13 +83606,13 @@ msgid "IDS_PJSA598_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSA908"
-msgstr "Kikaku"
+msgstr "毅鶴"
 
 msgid "IDS_PJSA908_DESCR"
 msgstr "高航速航空母艦，具有以其尺寸而言良好的反魚雷防護。此艦艇一部分的航空大隊配備了發煙機，使它們能迅速製造煙幕。"
 
 msgid "IDS_PJSA908_FULL"
-msgstr "Kikaku"
+msgstr "毅鶴"
 
 msgid "IDS_PJSA908_NUMBER"
 msgstr "0"
@@ -83621,13 +83621,13 @@ msgid "IDS_PJSA908_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSA910"
-msgstr "Taihō"
+msgstr "大鳳"
 
 msgid "IDS_PJSA910_DESCR"
 msgstr "「改良型 Shōkaku」級艦艇的原始設計起初屬於 1939 計畫，它在初始設計階段經歷大幅度改動後變得與於原始設計大不相同。其最終設計很先進，並不同於日本海軍的一貫特性。她的裝甲飛行甲板集成到艦身，且艦艏為封閉式，成為其極具辨識度的獨特元素。Taihō 於 1941 年安放龍骨，投入服役後便成為帝國海軍第一航空戰隊的旗艦。她在參與馬里亞納群島戰役期間，受到潛水艦 USS Albacore 魚雷的致命一擊。"
 
 msgid "IDS_PJSA910_FULL"
-msgstr "Taihō"
+msgstr "大鳳"
 
 msgid "IDS_PJSA910_NUMBER"
 msgstr "1"
@@ -83636,13 +83636,13 @@ msgid "IDS_PJSA910_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSA917"
-msgstr "[Hakuryū]"
+msgstr "[白龍]"
 
 msgid "IDS_PJSA917_DESCR"
 msgstr "這艘艦艇為 Hakuryū 的複製品，僅作測試用途。"
 
 msgid "IDS_PJSA917_FULL"
-msgstr "[Hakuryū]"
+msgstr "[白龍]"
 
 msgid "IDS_PJSA917_NUMBER"
 msgstr "0"
@@ -83651,13 +83651,13 @@ msgid "IDS_PJSA917_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSB001"
-msgstr "Kawachi"
+msgstr "河內"
 
 msgid "IDS_PJSB001_DESCR"
 msgstr "Satsuma 級艦艇本是日本的首批無畏艦，但由於缺乏 305 毫米火炮，改而在炮塔中安裝了兩門 254 毫米火炮。兩艘 Kawachi 級艦艇在六座炮塔裝備有 305 毫米火炮，體現了 Satsuma 級的進一步發展。第一次世界大戰期間，此系列的領艦參與了青島戰役。1918 年 7 月 12 日，Kawachi 因艦艏炮塔彈藥庫殉爆，在德山灣沉沒。"
 
 msgid "IDS_PJSB001_FULL"
-msgstr "Kawachi"
+msgstr "河內"
 
 msgid "IDS_PJSB001_NUMBER"
 msgstr "2"
@@ -83666,13 +83666,13 @@ msgid "IDS_PJSB001_YEAR"
 msgstr "1912"
 
 msgid "IDS_PJSB003"
-msgstr "Myōgi"
+msgstr "妙義"
 
 msgid "IDS_PJSB003_DESCR"
 msgstr "英國建造強大且快速的戰鬥巡洋艦，促使日本開始設計這類艦艇。其中一項日本戰鬥巡洋艦計畫在三座雙聯裝炮塔中裝備有 356 毫米火炮（其中兩座炮塔置於艦艉），並在炮廓中裝備十六門 152 毫米火炮。"
 
 msgid "IDS_PJSB003_FULL"
-msgstr "Myōgi"
+msgstr "妙義"
 
 msgid "IDS_PJSB003_NUMBER"
 msgstr "0"
@@ -83681,13 +83681,13 @@ msgid "IDS_PJSB003_YEAR"
 msgstr "1910"
 
 msgid "IDS_PJSB006"
-msgstr "Fusō"
+msgstr "扶桑"
 
 msgid "IDS_PJSB006_DESCR"
 msgstr "戰鬥巡洋艦 Kongō 為設計新主力艦的基礎。為了超越美國正在建造的 New York 級無畏艦，日本造船廠將 356 毫米火炮的數量增加至 12 門，置於六座炮塔中，並且為了提高存活性，選擇了雙聯裝炮塔而非三聯裝。第二次世界大戰期間，此艦艇參與了珍珠港襲擊，以及阿留申群島戰役和蘇里高海峽海戰。1944 年 10 月 25 日，此艦艇遭美國驅逐艦發射的魚雷擊中，沉沒並解體。"
 
 msgid "IDS_PJSB006_FULL"
-msgstr "Fusō"
+msgstr "扶桑"
 
 msgid "IDS_PJSB006_NUMBER"
 msgstr "2"
@@ -83696,13 +83696,13 @@ msgid "IDS_PJSB006_YEAR"
 msgstr "1915"
 
 msgid "IDS_PJSB007"
-msgstr "Kongō"
+msgstr "金剛"
 
 msgid "IDS_PJSB007_DESCR"
 msgstr "1910 年，日本向英國維克斯公司訂購了一艘新的戰鬥巡洋艦，日本工程師也參與了設計過程。第一次世界大戰期間，Kongō 在青島戰役中支援日軍並參與了巡邏行動。第二次世界大戰期間，此艦艇支援了馬來亞和菲律賓的登陸行動，並參與了中途島海戰、聖克魯斯群島戰役、瓜達康納爾海戰、菲律賓海海戰和雷伊泰灣海戰。1944 年 11 月 21 日，Kongō 遭潛水艦 USS Sealion 的兩枚魚雷擊中，並在幾個小時後沉沒。"
 
 msgid "IDS_PJSB007_FULL"
-msgstr "Kongō"
+msgstr "金剛"
 
 msgid "IDS_PJSB007_NUMBER"
 msgstr "4"
@@ -83711,13 +83711,13 @@ msgid "IDS_PJSB007_YEAR"
 msgstr "1913"
 
 msgid "IDS_PJSB008"
-msgstr "Ishizuchi"
+msgstr "石錘"
 
 msgid "IDS_PJSB008_DESCR"
 msgstr "日本最初委託維克斯公司建造的艦艇計畫，在五座雙聯裝炮塔中裝備有 305 毫米火炮。然而，客戶對英國的 305 毫米火炮的測試結果並不滿意。在進一步開發後，Kongō 級主力艦由此誕生。"
 
 msgid "IDS_PJSB008_FULL"
-msgstr "Ishizuchi"
+msgstr "石錘"
 
 msgid "IDS_PJSB008_NUMBER"
 msgstr "1"
@@ -83726,13 +83726,13 @@ msgid "IDS_PJSB008_YEAR"
 msgstr "1909"
 
 msgid "IDS_PJSB010"
-msgstr "Nagato"
+msgstr "長門"
 
 msgid "IDS_PJSB010_DESCR"
 msgstr "Nagato 級艦艇是日本首批完全在本土設計和建造的主力艦。其 410 毫米火炮為應付英國 381 毫米火炮而開發。與前輩相比，這些艦艇的航速也有所提升。在珍珠港襲擊中，Nagato 是海軍大將 Yamamoto 的旗艦；她還參與了中途島海戰和索羅門群島戰役。此主力艦在雷伊泰灣海戰中受損，並在戰爭結束後作為賠償轉交給美國。"
 
 msgid "IDS_PJSB010_FULL"
-msgstr "Nagato"
+msgstr "長門"
 
 msgid "IDS_PJSB010_NUMBER"
 msgstr "2"
@@ -83741,13 +83741,13 @@ msgid "IDS_PJSB010_YEAR"
 msgstr "1920"
 
 msgid "IDS_PJSB011"
-msgstr "Mikasa"
+msgstr "三笠"
 
 msgid "IDS_PJSB011_DESCR"
 msgstr "與 1896 年計畫下訂造的其他主力艦相比，Mikasa 的副炮擁有強化的炮廓裝甲。此艦艇是 Togo 將軍在日俄戰爭中的旗艦；她也參與了黃海海戰和對馬海峽海戰。到了第一次世界大戰初期，Mikasa 已經過時，但仍被列為艦隊一員：起初是主力艦，後來是海防艦。在 1926 年至 1945 年間，此艦艇曾作為博物館，後來遭廢棄並部分拆卸。她之後進行修復並作為紀念碑安置在海岸上。"
 
 msgid "IDS_PJSB011_FULL"
-msgstr "Mikasa"
+msgstr "三笠"
 
 msgid "IDS_PJSB011_NUMBER"
 msgstr "1"
@@ -83756,13 +83756,13 @@ msgid "IDS_PJSB011_YEAR"
 msgstr "1902"
 
 msgid "IDS_PJSB013"
-msgstr "Amagi"
+msgstr "天城"
 
 msgid "IDS_PJSB013_DESCR"
 msgstr "隨著第一次世界大戰爆發，日本開始設計戰鬥巡洋艦。在 1916 年至 1918 年間，日本開發了大約 20 個初步草案計畫版本。華盛頓會議的結果導致這些主力艦的建造取消，但日本獲准將兩艘戰鬥巡洋艦改裝為航空母艦。Amagi 在 1923 年於橫須賀開始改裝，但其艦身在關東大地震中從船台上倒下而損毀。"
 
 msgid "IDS_PJSB013_FULL"
-msgstr "Amagi"
+msgstr "天城"
 
 msgid "IDS_PJSB013_NUMBER"
 msgstr "4"
@@ -83777,7 +83777,7 @@ msgid "IDS_PJSB018_DESCR"
 msgstr "1930 年代中期，日本開發了一項主力艦初步草案設計，各版本的排水量介於 49,000 至 69,500 噸，航速為 24 至 31 節，主炮口徑為 410 至 460 毫米。最終版本為 Yamato — 世界上最大的主力艦。Yamamoto 將軍在中途島海戰中於此艦艇指揮日本部隊。1945 年 4 月 7 日，在天號作戰期間，Yamato 於九州島附近遭美國海軍飛機擊沉。"
 
 msgid "IDS_PJSB018_FULL"
-msgstr "Yamato"
+msgstr "大和"
 
 msgid "IDS_PJSB018_NUMBER"
 msgstr "4"
@@ -83786,13 +83786,13 @@ msgid "IDS_PJSB018_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSB021"
-msgstr "Izumo"
+msgstr "出雲"
 
 msgid "IDS_PJSB021_DESCR"
 msgstr "1934 年，日本為了提升作戰能力以超越美國主力艦，決定放棄遵守華盛頓會議設定的排水量限制。日本海軍總參謀部下令設計一艘裝備九門 460 毫米主炮，排水量為 69,500 噸的主力艦。所提出的計畫在艦艏裝備三座三聯裝炮塔，搭載 410 毫米主炮。受青睞的計畫配備了結合柴油和蒸汽渦輪的推進裝置。雖然此設計從未落實，但在其基礎上進一步開發，促使了 Yamato 級主力艦的誕生。"
 
 msgid "IDS_PJSB021_FULL"
-msgstr "Izumo"
+msgstr "出雲"
 
 msgid "IDS_PJSB021_NUMBER"
 msgstr "0"
@@ -83801,13 +83801,13 @@ msgid "IDS_PJSB021_YEAR"
 msgstr "1935"
 
 msgid "IDS_PJSB111"
-msgstr "Satsuma"
+msgstr "薩摩"
 
 msgid "IDS_PJSB111_DESCR"
 msgstr "Yamato 級主力艦的計畫內容包括在 1950 年之前建造 8 艘艦艇。1941 年初，計畫有所調整：日本海軍總參謀部收到有關美國建造大型艦艇的情報，因此下令建造更多主力艦，其中一些主力艦以改進後計畫為基礎，裝備 510 毫米主炮。"
 
 msgid "IDS_PJSB111_FULL"
-msgstr "Satsuma"
+msgstr "薩摩"
 
 msgid "IDS_PJSB111_NUMBER"
 msgstr "1"
@@ -83816,13 +83816,13 @@ msgid "IDS_PJSB111_YEAR"
 msgstr "1945"
 
 msgid "IDS_PJSB208"
-msgstr "Yumihari"
+msgstr "弓張"
 
 msgid "IDS_PJSB208_DESCR"
 msgstr "日俄戰爭結束後，日本採用了八八艦隊計畫，規定艦隊應由八艘主力艦和八艘高速裝甲巡洋艦組成。此計畫經歷了數項改動：例如，以戰鬥巡洋艦取代了裝甲巡洋艦，並減少了艦艇數量。然而，第一次世界大戰爆發後，日本便再次開始建造新艦艇。新戰鬥巡洋艦計畫的設計自 Kongō 級艦艇發展而來。後來，此計畫經歷了改動，因此促成 Amagi 級艦艇的誕生。"
 
 msgid "IDS_PJSB208_FULL"
-msgstr "Yumihari"
+msgstr "弓張"
 
 msgid "IDS_PJSB208_NUMBER"
 msgstr "1"
@@ -83831,13 +83831,13 @@ msgid "IDS_PJSB208_YEAR"
 msgstr "1916"
 
 msgid "IDS_PJSB209"
-msgstr "Adatara"
+msgstr "安達太良"
 
 msgid "IDS_PJSB209_DESCR"
 msgstr "在美國於 1919 年宣布了雄心勃勃的造船計畫後，日本重新考慮其海軍發展計畫，下令額外建造 4 艘主力艦和 4 艘戰鬥巡洋艦。在 13 項主力艦和戰鬥巡洋艦計畫版本中，A 計畫獲選作為 Kii 級主力艦，而 K 計畫則為戰鬥巡洋艦。建造工程原計劃於 1922 年展開，但在華盛頓會議提出限制後，戰鬥巡洋艦從未開工。"
 
 msgid "IDS_PJSB209_FULL"
-msgstr "Adatara"
+msgstr "安達太良"
 
 msgid "IDS_PJSB209_NUMBER"
 msgstr "1"
@@ -83852,7 +83852,7 @@ msgid "IDS_PJSB210_DESCR"
 msgstr "日本在修改其海軍發展計畫後，訂造了新的主力艦和戰鬥巡洋艦，L 計畫因此誕生。此計畫是 A 計畫（後來的 Kii 級）的放大版。她也在五座主炮塔裝備有 457 毫米火炮。然而，此計畫的排水量比 Kii 級艦艇多出 9,000 噸，導致成本大幅增加。華盛頓會議暫時禁止建造主力艦並限制其總噸位，Kii 級艦艇和上述艦艇因此未能建造。"
 
 msgid "IDS_PJSB210_FULL"
-msgstr "Bungo"
+msgstr "豐後"
 
 msgid "IDS_PJSB210_NUMBER"
 msgstr "1"
@@ -83861,13 +83861,13 @@ msgid "IDS_PJSB210_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSB506"
-msgstr "Mutsu"
+msgstr "陸奧"
 
 msgid "IDS_PJSB506_DESCR"
 msgstr "Mutsu 是第二艘 Nagato 級主力艦，在華盛頓會議全面進行時投入服役。此艦艇曾參與第二次世界大戰：她參與了珍珠港襲擊，並參加了中途島海戰和索羅門群島戰役。1943 年 6 月 8 日，Mutsu 因第三炮塔彈藥庫爆炸而在柱島港沉沒。"
 
 msgid "IDS_PJSB506_FULL"
-msgstr "Mutsu"
+msgstr "陸奧"
 
 msgid "IDS_PJSB506_NUMBER"
 msgstr "2"
@@ -83876,13 +83876,13 @@ msgid "IDS_PJSB506_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSB507"
-msgstr "Ashitaka"
+msgstr "愛鷹"
 
 msgid "IDS_PJSB507_DESCR"
 msgstr "以 Ashitaka  為名的第四艘 Amagi 級艦艇在 1921 年 12 月於長崎的三菱造船廠安放龍骨。然而在華盛頓會議的限制下，建造工程遭取消，艦身也在 1924 年拆卸。"
 
 msgid "IDS_PJSB507_FULL"
-msgstr "Ashitaka"
+msgstr "愛鷹"
 
 msgid "IDS_PJSB507_NUMBER"
 msgstr "4"
@@ -83891,13 +83891,13 @@ msgid "IDS_PJSB507_YEAR"
 msgstr "1919"
 
 msgid "IDS_PJSB508"
-msgstr "Kii"
+msgstr "紀伊"
 
 msgid "IDS_PJSB508_DESCR"
 msgstr "在美國於 1919 年宣布了雄心勃勃的造船計畫後，日本重新考慮其海軍發展計畫，下令額外建造 4 艘主力艦和 4 艘戰鬥巡洋艦。主力艦的設計包含五座 410 毫米雙聯裝炮塔和 12 英寸主裝甲帶。首兩艘艦艇在 1921 年獲訂建造，但其準備工作由於華盛頓會議提出的限制而暫停。這些艦艇從未建造。"
 
 msgid "IDS_PJSB508_FULL"
-msgstr "Kii"
+msgstr "紀伊"
 
 msgid "IDS_PJSB508_NUMBER"
 msgstr "3"
@@ -83906,13 +83906,13 @@ msgid "IDS_PJSB508_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSB509"
-msgstr "Musashi"
+msgstr "武藏"
 
 msgid "IDS_PJSB509_DESCR"
 msgstr "Musashi 是第二艘 Yamato 級主力艦，在 1943 年成為聯合艦隊的旗艦。此艦艇服役於南太平洋戰區，進行巡邏行動並參與了菲律賓海海戰。在 1944 年 10 月 24 日的雷伊泰灣海戰中，此主力艦遭美國艦載魚雷轟炸機大約 19 次魚雷和 17 次炸彈命中而沉沒。"
 
 msgid "IDS_PJSB509_FULL"
-msgstr "Musashi"
+msgstr "武藏"
 
 msgid "IDS_PJSB509_NUMBER"
 msgstr "4"
@@ -83921,13 +83921,13 @@ msgid "IDS_PJSB509_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSB510"
-msgstr "Shikishima"
+msgstr "敷島"
 
 msgid "IDS_PJSB510_DESCR"
 msgstr "Yamato 級主力艦的計畫內容包括在 1950 年之前建造 8 艘艦艇。1941 年初，計畫有所調整：日本海軍領導收到有關美國建造大型艦艇的規模情報，決定建造更多主力艦。其中一艘艦艇本應按照 Yamato 級的設計建造，而所有後續艦艇則根據一項裝備 510 毫米主炮的改進設計來建造。該計畫擁有三座主炮塔、六門火炮，以及 65,700 噸的標準排水量。"
 
 msgid "IDS_PJSB510_FULL"
-msgstr "Shikishima"
+msgstr "敷島"
 
 msgid "IDS_PJSB510_NUMBER"
 msgstr "1"
@@ -83936,13 +83936,13 @@ msgid "IDS_PJSB510_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSB517"
-msgstr "Hyūga"
+msgstr "日向"
 
 msgid "IDS_PJSB517_DESCR"
 msgstr "Hyūga 是第二艘 Ise 級主力艦，到了第二次世界大戰初期已變得過時，幾乎未在太平洋上服役。日本於中途島海戰中遭受了重大的航空母艦損失後，Hyūga 便改建為混合型主力艦航母。她的後部炮塔由飛行甲板所取代。1944 年，她參與恩加尼奧角海戰。1945 年，她從中國運送燃料和其他戰略物資到日本。1945 年 7 月，Hyūga 遭美國轟炸機擊沉。"
 
 msgid "IDS_PJSB517_FULL"
-msgstr "Hyūga"
+msgstr "日向"
 
 msgid "IDS_PJSB517_NUMBER"
 msgstr "2"
@@ -83951,13 +83951,13 @@ msgid "IDS_PJSB517_YEAR"
 msgstr "1918"
 
 msgid "IDS_PJSB519"
-msgstr "Hizen"
+msgstr "肥前"
 
 msgid "IDS_PJSB519_DESCR"
 msgstr "1930 年代中期，日本制定了一個主力艦計畫草案初稿。計畫包括不同版本，航速為 24 至 31 節，主炮口徑為 410 至 460 毫米，排水量為 49,000 至 69,500 噸。其中一個版本採用了典型的超射型布局，有四座炮塔，每座炮塔裝備有三門 410 毫米火炮，而 155 毫米火炮則置於三聯裝炮塔。此計畫配備了結合柴油和蒸汽渦輪推進裝置的系統。在進一步開發後，Yamato 級主力艦由此誕生。"
 
 msgid "IDS_PJSB519_FULL"
-msgstr "Hizen"
+msgstr "肥前"
 
 msgid "IDS_PJSB519_NUMBER"
 msgstr "1"
@@ -83966,13 +83966,13 @@ msgid "IDS_PJSB519_YEAR"
 msgstr "1935"
 
 msgid "IDS_PJSB526"
-msgstr "Ise"
+msgstr "伊勢"
 
 msgid "IDS_PJSB526_DESCR"
 msgstr "當局在開發 Fusō 級艦艇時，借鑑軍事經驗並考慮了艦隊管理的新需求，且新的火炮布局簡化了火炮射控。到了第二次世界大戰初期，Ise 已變得過時。日本於中途島海戰中遭受了重大的航空母艦損失後，Hyūga 便改裝為混合型主力艦航母。她的後部炮塔由飛行甲板所取代。1944 年，她參與恩加尼奧角海戰。1945 年 7 月，Ise 在音戶町坪井近海被美國轟炸機擊沉。"
 
 msgid "IDS_PJSB526_FULL"
-msgstr "Ise"
+msgstr "伊勢"
 
 msgid "IDS_PJSB526_NUMBER"
 msgstr "2"
@@ -83981,13 +83981,13 @@ msgid "IDS_PJSB526_YEAR"
 msgstr "1917"
 
 msgid "IDS_PJSB529"
-msgstr "Iwami"
+msgstr "石見"
 
 msgid "IDS_PJSB529_DESCR"
 msgstr "日本在 1930 年代中期開發的主力艦計畫之一。此艦艇本應裝備四座雙聯裝主炮塔。她擁有強化的 100 毫米高平兩用主炮，改進的防空武器，以及魚雷發射器。"
 
 msgid "IDS_PJSB529_FULL"
-msgstr "Iwami"
+msgstr "石見"
 
 msgid "IDS_PJSB529_NUMBER"
 msgstr "1"
@@ -83996,13 +83996,13 @@ msgid "IDS_PJSB529_YEAR"
 msgstr "1935"
 
 msgid "IDS_PJSB539"
-msgstr "Daisen"
+msgstr "大山"
 
 msgid "IDS_PJSB539_DESCR"
 msgstr "1916 年，日本國會為了發展艦隊，批准建造除了 Kongō 級艦艇外的兩艘戰鬥巡洋艦。同年，日本造船廠提出四項戰鬥巡洋艦計畫，這些計畫的差別在於推進裝置動力和個別裝甲元素，但均能達到 35 節的航速。六軸動力裝置成為特點。這些設計在進行數項改進後，成為了 Amagi 級戰鬥巡洋艦的基礎。"
 
 msgid "IDS_PJSB539_FULL"
-msgstr "Daisen"
+msgstr "大山"
 
 msgid "IDS_PJSB539_NUMBER"
 msgstr "1"
@@ -84011,13 +84011,13 @@ msgid "IDS_PJSB539_YEAR"
 msgstr "1916"
 
 msgid "IDS_PJSB549"
-msgstr "Tsurugi"
+msgstr "劍"
 
 msgid "IDS_PJSB549_DESCR"
 msgstr "根據日本海軍新的發展計畫，這些主力艦和戰鬥巡洋艦計畫差異並不大 — 戰鬥巡洋艦與 Kii 級主力艦航速相同。這與日本海軍向來的戰術不同。為提高航速並將計畫變為真正的戰鬥巡洋艦，因此移除其中一座主炮。"
 
 msgid "IDS_PJSB549_FULL"
-msgstr "Tsurugi"
+msgstr "劍"
 
 msgid "IDS_PJSB549_NUMBER"
 msgstr "1"
@@ -84026,13 +84026,13 @@ msgid "IDS_PJSB549_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSB559"
-msgstr "Iwami B"
+msgstr "石見 B"
 
 msgid "IDS_PJSB559_DESCR"
 msgstr "日本在 1930 年代中期開發的主力艦計畫之一。此艦艇應裝備四座雙聯裝主炮塔。她還配備強化的 100 毫米高平兩用炮、改進的防空武器，以及魚雷發射器。"
 
 msgid "IDS_PJSB559_FULL"
-msgstr "Iwami B"
+msgstr "石見 B"
 
 msgid "IDS_PJSB559_NUMBER"
 msgstr "1"
@@ -84041,7 +84041,7 @@ msgid "IDS_PJSB559_YEAR"
 msgstr "1935"
 
 msgid "IDS_PJSB700"
-msgstr "ARP Yamato"
+msgstr "ARP 大和"
 
 msgid "IDS_PJSB700_DESCR"
 msgstr ""
@@ -84049,7 +84049,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的同名艦艇作為範本。"
 
 msgid "IDS_PJSB700_FULL"
-msgstr "ARP Yamato"
+msgstr "ARP 大和"
 
 msgid "IDS_PJSB700_NUMBER"
 msgstr "4"
@@ -84058,7 +84058,7 @@ msgid "IDS_PJSB700_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSB705"
-msgstr "ARP Kongō"
+msgstr "ARP 金剛"
 
 msgid "IDS_PJSB705_DESCR"
 msgstr ""
@@ -84066,7 +84066,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Kongō 作為範本。"
 
 msgid "IDS_PJSB705_FULL"
-msgstr "ARP Kongō"
+msgstr "ARP 金剛"
 
 msgid "IDS_PJSB705_NUMBER"
 msgstr " "
@@ -84075,7 +84075,7 @@ msgid "IDS_PJSB705_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB706"
-msgstr "ARP Kirishima"
+msgstr "ARP 霧島"
 
 msgid "IDS_PJSB706_DESCR"
 msgstr ""
@@ -84083,7 +84083,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Kirishima 作為範本。"
 
 msgid "IDS_PJSB706_FULL"
-msgstr "ARP Kirishima"
+msgstr "ARP 霧島"
 
 msgid "IDS_PJSB706_NUMBER"
 msgstr " "
@@ -84092,7 +84092,7 @@ msgid "IDS_PJSB706_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB707"
-msgstr "ARP Haruna"
+msgstr "ARP 榛名"
 
 msgid "IDS_PJSB707_DESCR"
 msgstr ""
@@ -84100,7 +84100,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Haruna 作為範本。"
 
 msgid "IDS_PJSB707_FULL"
-msgstr "ARP Haruna"
+msgstr "ARP 榛名"
 
 msgid "IDS_PJSB707_NUMBER"
 msgstr " "
@@ -84109,7 +84109,7 @@ msgid "IDS_PJSB707_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB708"
-msgstr "ARP Hiei"
+msgstr "ARP 比叡"
 
 msgid "IDS_PJSB708_DESCR"
 msgstr ""
@@ -84117,7 +84117,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- DC」中的 Hiei 作為範本。"
 
 msgid "IDS_PJSB708_FULL"
-msgstr "ARP Hiei"
+msgstr "ARP 比叡"
 
 msgid "IDS_PJSB708_NUMBER"
 msgstr " "
@@ -84126,13 +84126,13 @@ msgid "IDS_PJSB708_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB715"
-msgstr "HSF Hiei"
+msgstr "HSF 比叡"
 
 msgid "IDS_PJSB715_DESCR"
 msgstr "橫須賀女子海洋學校的航海訓練艦。雖然這艘艦艇的歷史久遠，但由於頻繁改造，比起現代艦艇她可毫不遜色。"
 
 msgid "IDS_PJSB715_FULL"
-msgstr "HSF Hiei"
+msgstr "HSF 比叡"
 
 msgid "IDS_PJSB715_NUMBER"
 msgstr "4"
@@ -84174,7 +84174,7 @@ msgid "IDS_PJSB878_YEAR"
 msgstr "1919"
 
 msgid "IDS_PJSB888"
-msgstr "Ragnarok"
+msgstr "諸神黃昏"
 
 msgid "IDS_PJSB888_DESCR"
 msgstr ""
@@ -84182,7 +84182,7 @@ msgstr ""
 "「復仇！死亡！血祭血神！」"
 
 msgid "IDS_PJSB888_FULL"
-msgstr "Ragnarok"
+msgstr "諸神黃昏"
 
 msgid "IDS_PJSB888_NUMBER"
 msgstr "4"
@@ -84191,13 +84191,13 @@ msgid "IDS_PJSB888_YEAR"
 msgstr "1919"
 
 msgid "IDS_PJSB906"
-msgstr "Ise 2"
+msgstr "伊勢 2"
 
 msgid "IDS_PJSB906_DESCR"
 msgstr "獨特的混合艦艇，結合了主力艦和航空母艦的特點。Ise 最初是作為 Fusō 級的前置版本建造的，在 1940 年代進行了大規模的重建。艦上的一些主炮塔被飛機機庫所取代，其上方設有飛行甲板。"
 
 msgid "IDS_PJSB906_FULL"
-msgstr "Ise 2"
+msgstr "伊勢 2"
 
 msgid "IDS_PJSB906_NUMBER"
 msgstr "2"
@@ -84206,13 +84206,13 @@ msgid "IDS_PJSB906_YEAR"
 msgstr "1917"
 
 msgid "IDS_PJSB916"
-msgstr "Ise 3"
+msgstr "伊勢 3"
 
 msgid "IDS_PJSB916_DESCR"
 msgstr "獨特的混合艦艇，結合了主力艦和航空母艦的特點。Ise 最初是作為 Fusō 級的前置版本建造的，在 1940 年代進行了大規模的重建。艦上的一些主炮塔被飛機機庫所取代，其上方設有飛行甲板。"
 
 msgid "IDS_PJSB916_FULL"
-msgstr "Ise 3"
+msgstr "伊勢 3"
 
 msgid "IDS_PJSB916_NUMBER"
 msgstr "2"
@@ -84221,13 +84221,13 @@ msgid "IDS_PJSB916_YEAR"
 msgstr "1917"
 
 msgid "IDS_PJSB918"
-msgstr "[Yamato]"
+msgstr "[壓碼頭]"
 
 msgid "IDS_PJSB918_DESCR"
 msgstr "這艘艦艇為主力艦 Yamato 的複製品，並且只適用於公會戰鬥"
 
 msgid "IDS_PJSB918_FULL"
-msgstr "[Yamato]"
+msgstr "[壓碼頭]"
 
 msgid "IDS_PJSB918_NUMBER"
 msgstr "4"
@@ -84257,13 +84257,13 @@ msgid "IDS_PJSC001_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSC004"
-msgstr "Yūbari"
+msgstr "夕張"
 
 msgid "IDS_PJSC004_DESCR"
 msgstr "一艘試驗型輕型巡洋艦，其基本設計理念是要創造出一艘搭載最強大的武器、同時也具備了最小排水量的高速戰艦。她是日本海軍中第一艘裝備了 610 毫米魚雷發射管的艦艇。到了她服役結束時，Yūbari 已用了大量的防空炮來強化。"
 
 msgid "IDS_PJSC004_FULL"
-msgstr "Yūbari"
+msgstr "夕張"
 
 msgid "IDS_PJSC004_NUMBER"
 msgstr "1"
@@ -84272,13 +84272,13 @@ msgid "IDS_PJSC004_YEAR"
 msgstr "1923"
 
 msgid "IDS_PJSC005"
-msgstr "Furutaka"
+msgstr "古鷹"
 
 msgid "IDS_PJSC005_DESCR"
 msgstr "一項新的偵察巡洋艦設計，以英國的 Hawkins 級巡洋艦為基礎，並引入了在巡洋艦 Yūbari 上測試過的設計方案。武器包括六門 200 毫米火炮。第二次世界大戰期間，Furutaka 參加了索羅門群島的行動，以及珊瑚海海戰和薩沃島海戰。1942 年 10 月 11 日，在埃斯佩蘭斯海角海戰中，Furutaka 遭約 90 枚砲彈和 1 枚魚雷命中，導致其魚雷殉爆。此巡洋艦在 10 月 12 日早上沉沒。"
 
 msgid "IDS_PJSC005_FULL"
-msgstr "Furutaka"
+msgstr "古鷹"
 
 msgid "IDS_PJSC005_NUMBER"
 msgstr "2"
@@ -84287,13 +84287,13 @@ msgid "IDS_PJSC005_YEAR"
 msgstr "1926"
 
 msgid "IDS_PJSC006"
-msgstr "Furutaka"
+msgstr "古鷹"
 
 msgid "IDS_PJSC006_DESCR"
 msgstr "一項新的偵察巡洋艦設計，以英國的 Hawkins 級巡洋艦為基礎，並引入了在巡洋艦 Yūbari 上測試過的設計方案。武器包括六門 200 毫米火炮。第二次世界大戰期間，Furutaka 參加了索羅門群島的行動，以及珊瑚海海戰和薩沃島海戰。1942 年 10 月 11 日，在埃斯佩蘭斯海角海戰中，Furutaka 遭約 90 枚砲彈命中，導致其魚雷殉爆。此巡洋艦在 10 月 12 日早上沉沒。"
 
 msgid "IDS_PJSC006_FULL"
-msgstr "Furutaka"
+msgstr "古鷹"
 
 msgid "IDS_PJSC006_NUMBER"
 msgstr "2"
@@ -84302,16 +84302,16 @@ msgid "IDS_PJSC006_YEAR"
 msgstr "1926"
 
 msgid "IDS_PJSC007"
-msgstr "Aoba"
+msgstr "青葉"
 
 msgid "IDS_PJSC007_DESCR"
 msgstr "Aoba 級巡洋艦的設計最初與 Furutaka 級相同，但海軍總參謀部下令對其設計進行一些改動。新型 120 毫米防空炮取代了 76 毫米防空炮，艦艉上層建築和炮塔之間也新增了水上飛機彈射器。Aoba 曾積極參與第二次世界大戰：她在關島和威克島支援登陸行動，護衛船團，並參與了珊瑚海、薩沃島和埃斯佩蘭斯海角的戰役。1945 年 7 月 24 日，她在呉港被盟軍轟炸機部隊擊沉。"
 
 msgid "IDS_PJSC007_EXAMPLE"
-msgstr "AOBA"
+msgstr "青葉"
 
 msgid "IDS_PJSC007_FULL"
-msgstr "Aoba"
+msgstr "青葉"
 
 msgid "IDS_PJSC007_NUMBER"
 msgstr "2"
@@ -84320,13 +84320,13 @@ msgid "IDS_PJSC007_YEAR"
 msgstr "1927"
 
 msgid "IDS_PJSC008"
-msgstr "Myōkō"
+msgstr "妙高"
 
 msgid "IDS_PJSC008_DESCR"
 msgstr "新巡洋艦未增加魚雷發射器數量，而是將主炮塔數量增至五座，並引入了縱向艙壁以強化反魚雷防護。裝甲帶的厚度增加，防空武器也有所增強。在中日戰爭中，Myōkō 參與了海南島登陸行動。第二次世界大戰中，此艦艇曾在爪哇、珊瑚海和菲律賓海作戰，並參與了中途島、索羅門群島和雷伊泰灣的海戰。"
 
 msgid "IDS_PJSC008_FULL"
-msgstr "Myōkō"
+msgstr "妙高"
 
 msgid "IDS_PJSC008_NUMBER"
 msgstr "4"
@@ -84335,13 +84335,13 @@ msgid "IDS_PJSC008_YEAR"
 msgstr "1929"
 
 msgid "IDS_PJSC009"
-msgstr "Mogami"
+msgstr "最上"
 
 msgid "IDS_PJSC009_DESCR"
 msgstr "根據《倫敦海軍條約》，日本有權建造裝備 155 毫米以下火炮的巡洋艦。當局訂造了裝備 155 毫米火炮的新巡洋艦，但後來將其武器替換成 203 毫米（8 英寸）火炮。第二次世界大戰時期，Mogami 參與佔領中南半島，以及入侵馬來亞、砂拉越和印尼。她還參與了巽他海峽海戰、中途島海戰和菲律賓海海戰。1944 年 10 月 25 日，Mogami 在雷伊泰灣海戰中遭美國魚雷轟炸機嚴重損壞，最終被驅逐艦 Akebono 擊沉。"
 
 msgid "IDS_PJSC009_FULL"
-msgstr "Mogami"
+msgstr "最上"
 
 msgid "IDS_PJSC009_NUMBER"
 msgstr "4"
@@ -84350,13 +84350,13 @@ msgid "IDS_PJSC009_YEAR"
 msgstr "1935"
 
 msgid "IDS_PJSC012"
-msgstr "Ibuki"
+msgstr "伊吹"
 
 msgid "IDS_PJSC012_DESCR"
 msgstr "以 Mogami 級艦艇為基礎進行改進的重型巡洋艦。巡洋艦 Ibuki 於 1942 年 4 月安放龍骨，1943 年 5 月下水。當局在 8 月決定將這艘巡洋艦改建為輕型航空母艦。重建工作於同年晚些時候展開。然而，艦艇完工程度達到約 80％ 時就暫停了。"
 
 msgid "IDS_PJSC012_FULL"
-msgstr "Ibuki"
+msgstr "伊吹"
 
 msgid "IDS_PJSC012_NUMBER"
 msgstr "2"
@@ -84365,13 +84365,13 @@ msgid "IDS_PJSC012_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSC013"
-msgstr "Kuma"
+msgstr "球磨"
 
 msgid "IDS_PJSC013_DESCR"
 msgstr "日本工程師在了解 Omaha 級巡洋艦的特點後，籌備了一項戰鬥力較強的大型巡洋艦計畫。此艦艇計畫結合驅逐領導艦和偵察艦的功能。其排水量有所增加，以強化艦艇的推進裝置並將主炮數量增至七門。第二次世界大戰時期，Kuma 參與了菲律賓的登陸行動和新幾內亞戰役，並曾巡邏荷屬東印度的水域。1944 年 1 月 11 日，Kuma 在馬六甲海峽被潛水艦 HMS Tally-Ho 的魚雷命中，起火並沉沒。"
 
 msgid "IDS_PJSC013_FULL"
-msgstr "Kuma"
+msgstr "球磨"
 
 msgid "IDS_PJSC013_NUMBER"
 msgstr "5"
@@ -84380,13 +84380,13 @@ msgid "IDS_PJSC013_YEAR"
 msgstr "1920"
 
 msgid "IDS_PJSC014"
-msgstr "Kitakami"
+msgstr "北上"
 
 msgid "IDS_PJSC014_DESCR"
 msgstr "中日戰爭爆發時，Kitakami 為日軍登陸行動提供掩護。1941 年下半年，她裝備了十座四聯裝 610 毫米魚雷發射管，用於夜間魚雷攻擊。1942 年，此艦艇改建為高速運輸艦，用於護送軍隊船團。1944 年，Kitakami 遭潛水艦 HMS Templar 的兩枚魚雷命中。此艦艇在維修過程中改裝為搭載回天魚雷的母艦。1945 年，此巡洋艦遭第 38 特遣艦隊的轟炸機損壞，隨後用作支援母艦。"
 
 msgid "IDS_PJSC014_FULL"
-msgstr "Kitakami"
+msgstr "北上"
 
 msgid "IDS_PJSC014_NUMBER"
 msgstr "5"
@@ -84395,13 +84395,13 @@ msgid "IDS_PJSC014_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSC015"
-msgstr "Tenryū"
+msgstr "天龍"
 
 msgid "IDS_PJSC015_DESCR"
 msgstr "Tenryū 級巡洋艦原設計作為驅逐領導艦，並應與 Furutaka 級海軍偵察艦並行合作。這些艦艇裝備新的 140 毫米主炮。第二次世界大戰時期，Tenryū 在入侵新幾內亞和索羅門群島時用作護航艦。她曾參與薩沃島海戰和瓜達康納爾海戰。1942 年 12 月 19 日，Tenryū 在馬當港附近遭美國潛水艦 USS Albacore 的魚雷命中並沉沒。"
 
 msgid "IDS_PJSC015_FULL"
-msgstr "Tenryū"
+msgstr "天龍"
 
 msgid "IDS_PJSC015_NUMBER"
 msgstr "2"
@@ -84410,13 +84410,13 @@ msgid "IDS_PJSC015_YEAR"
 msgstr "1919"
 
 msgid "IDS_PJSC018"
-msgstr "Tone"
+msgstr "利根"
 
 msgid "IDS_PJSC018_DESCR"
 msgstr "此計畫以 Mogami 級巡洋艦為基礎。當局為了改進艦艇防護，移除了第五座炮塔，並將其他四座炮塔移至艦艏。一支大型水上飛機航空大隊置於艦艉。此艦艇還在建造時，其 155 毫米火炮替換成了 203 毫米火炮。第二次世界大戰時期，Tone 參與了珍珠港襲擊，以及中途島海戰、雷伊泰灣海戰等太平洋戰區的眾多戰役。1945 年 7 月 24 日，她遭美國轟炸機襲擊，於吳市港沉沒。"
 
 msgid "IDS_PJSC018_FULL"
-msgstr "Tone"
+msgstr "利根"
 
 msgid "IDS_PJSC018_NUMBER"
 msgstr "2"
@@ -84425,7 +84425,7 @@ msgid "IDS_PJSC018_YEAR"
 msgstr "1938"
 
 msgid "IDS_PJSC026"
-msgstr "Iwaki A"
+msgstr "岩城 Alpha"
 
 msgid "IDS_PJSC026_DESCR"
 msgstr "1910 年代末，日本艦隊發展計畫原規劃建造 6 艘改進 Tenryū 級設計的巡洋艦。由於出現一些新的設計方案，這些艦艇原計劃安裝額外的第五座主炮塔，並減輕艦身重量。此計畫從未落實，但其進一步發展卻催生了 Kuma 級巡洋艦。"
@@ -84455,13 +84455,13 @@ msgid "IDS_PJSC034_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSC035"
-msgstr "Chikuma"
+msgstr "築摩"
 
 msgid "IDS_PJSC035_DESCR"
 msgstr "日俄戰爭結束後，日本著手開發輕型巡洋艦，並以巡洋艦 Tone（於 1905 年安放龍骨）作為新設計的基礎。此計畫受到了蘇聯輔助巡洋艦的艦身設計和英國 Town 級艦艇的影響。這是日本巡洋艦首次採用渦輪。第一次世界大戰期間，Chikuma 是追擊 von Spee 將軍分艦隊的中隊一員，之後又參與搜索巡洋艦 Emden。"
 
 msgid "IDS_PJSC035_FULL"
-msgstr "Chikuma"
+msgstr "築摩"
 
 msgid "IDS_PJSC035_NUMBER"
 msgstr "3"
@@ -84470,13 +84470,13 @@ msgid "IDS_PJSC035_YEAR"
 msgstr "1912"
 
 msgid "IDS_PJSC037"
-msgstr "Hashidate"
+msgstr "橋立"
 
 msgid "IDS_PJSC037_DESCR"
 msgstr "為沿海行動而設計的小型炮艇。這艘炮艇以其尺寸而言裝備精良，包括防空炮。然而，她缺乏裝甲且航速相對較慢。1940 年至 1941 年間，Hashidate 為中國方面艦隊一員，參與入侵香港。1944 年 5 月 22 日，此艦艇在東沙島附近遭美國潛水艦 USS Picuda 擊沉。"
 
 msgid "IDS_PJSC037_FULL"
-msgstr "Hashidate"
+msgstr "橋立"
 
 msgid "IDS_PJSC037_NUMBER"
 msgstr "2"
@@ -84485,13 +84485,13 @@ msgid "IDS_PJSC037_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSC038"
-msgstr "Atago"
+msgstr "愛宕"
 
 msgid "IDS_PJSC038_DESCR"
 msgstr "Takao 級巡洋艦。第二次世界大戰期間，她支援了對馬來亞和菲律賓的進攻小組；參與了爪哇海戰役；並在東索羅門群島附近、聖克魯斯群島、瓜達康納爾和菲律賓海執行任務。1944 年 10 月 23 日，Atago 在雷伊泰灣海戰中遭潛水艦 USS Darter 擊沉。"
 
 msgid "IDS_PJSC038_FULL"
-msgstr "Atago"
+msgstr "愛宕"
 
 msgid "IDS_PJSC038_NUMBER"
 msgstr "4"
@@ -84500,13 +84500,13 @@ msgid "IDS_PJSC038_YEAR"
 msgstr "1932"
 
 msgid "IDS_PJSC205"
-msgstr "Agano"
+msgstr "阿賀野"
 
 msgid "IDS_PJSC205_DESCR"
 msgstr "Agano 級巡洋艦的設計始於 1930 年代後半期。其主要用途是進行偵察，因此這些巡洋艦需要高航速，但這需要削弱其裝甲。其武器包括三座炮塔中的六門 152 毫米火炮。第二次世界大戰期間，巡洋艦 Agano 參與了護航和巡邏任務，並參與了奧古斯塔皇后灣海戰。1944 年 2 月 17 日，此巡洋艦在前往維修的途中被潛水艦 USS Skate 擊沉。"
 
 msgid "IDS_PJSC205_FULL"
-msgstr "Agano"
+msgstr "阿賀野"
 
 msgid "IDS_PJSC205_NUMBER"
 msgstr "4"
@@ -84515,13 +84515,13 @@ msgid "IDS_PJSC205_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSC206"
-msgstr "Gokase"
+msgstr "五瀨"
 
 msgid "IDS_PJSC206_DESCR"
 msgstr "海軍補充計畫原規劃建造領導 Shimakaze 級驅逐艦艦隊的巡洋艦。Agano 級巡洋艦成為了其中一項計畫的基礎，與其前輩相比，此計畫增加了主炮塔數量，並強化推進裝置和對空防禦。此計畫在中途島海戰結束後有所調整，其建造命令於 1943 年 6 月取消。"
 
 msgid "IDS_PJSC206_FULL"
-msgstr "Gokase"
+msgstr "五瀨"
 
 msgid "IDS_PJSC206_NUMBER"
 msgstr "1"
@@ -84530,13 +84530,13 @@ msgid "IDS_PJSC206_YEAR"
 msgstr "1943"
 
 msgid "IDS_PJSC207"
-msgstr "Omono"
+msgstr "雄物"
 
 msgid "IDS_PJSC207_DESCR"
 msgstr "此計畫將 Ōyodo 級巡洋艦（潛水艦中隊旗艦）發展成為成熟的輕型巡洋艦，配有四座三聯裝 155 毫米炮塔。與前輩不同，此艦艇無後部機庫，彈射器移至中央，新增了兩座魚雷發射器，並強化了對空防禦。"
 
 msgid "IDS_PJSC207_FULL"
-msgstr "Omono"
+msgstr "雄物"
 
 msgid "IDS_PJSC207_NUMBER"
 msgstr "1"
@@ -84545,13 +84545,13 @@ msgid "IDS_PJSC207_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSC208"
-msgstr "Shimanto"
+msgstr "四萬十"
 
 msgid "IDS_PJSC208_DESCR"
 msgstr "此計畫將 Mogami 級巡洋艦發展成防空巡洋艦，這意味著需安裝開發於 1944 年的 150 毫米高平兩用炮。安裝上述火炮以及 100 毫米防空炮，使這些巡洋艦能夠有效對抗美國艦載和陸基飛機。"
 
 msgid "IDS_PJSC208_FULL"
-msgstr "Shimanto"
+msgstr "四萬十"
 
 msgid "IDS_PJSC208_NUMBER"
 msgstr "1"
@@ -84560,13 +84560,13 @@ msgid "IDS_PJSC208_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSC209"
-msgstr "Takahashi"
+msgstr "高粱"
 
 msgid "IDS_PJSC209_DESCR"
 msgstr "日本海軍補充計畫包括建造兩艘巡洋艦，在三聯裝炮塔中裝備十五門 155 毫米火炮，排水量為 8,450 噸。此計畫從未落實，但其進一步發展催生了 Tone 級重型巡洋艦。另一項替代開發設計涉及裝備 150 毫米高平兩用炮，以建造出用於對抗美國艦載和陸基飛機的防空巡洋艦。"
 
 msgid "IDS_PJSC209_FULL"
-msgstr "Takahashi"
+msgstr "高粱"
 
 msgid "IDS_PJSC209_NUMBER"
 msgstr "1"
@@ -84590,13 +84590,13 @@ msgid "IDS_PJSC210_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSC503"
-msgstr "Katori"
+msgstr "香取"
 
 msgid "IDS_PJSC503_DESCR"
 msgstr "訓練巡洋艦，配備混合動力系統和各式武器：140 毫米主炮、127 毫米高平兩用炮、25 毫米防空機炮、533 毫米魚雷，以及水上飛機彈射器。武器多樣性對於培訓學員是必要的。第二次世界大戰期間，Katori 主要作為第六艦隊的指揮艦。1944 年 2 月 18 日，日軍從特魯克環礁撤離時，Katori 遭主力艦 Iowa 的炮火擊沉。"
 
 msgid "IDS_PJSC503_FULL"
-msgstr "Katori"
+msgstr "香取"
 
 msgid "IDS_PJSC503_NUMBER"
 msgstr "4"
@@ -84605,13 +84605,13 @@ msgid "IDS_PJSC503_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSC505"
-msgstr "Yahagi"
+msgstr "矢矧"
 
 msgid "IDS_PJSC505_DESCR"
 msgstr "Agano 級巡洋艦。Yahagi 在 1944 年 6 月的菲律賓海海戰中作為聯合驅逐艦分隊的旗艦參戰，並為航空母艦打擊群提供掩護。她也參與了雷伊泰灣海戰，領導聯合驅逐艦分隊。1945 年 4 月 7 日，Yahagi 在沖繩附近遭美軍襲擊，被多枚魚雷和炸彈命中，停止移動並沉沒。"
 
 msgid "IDS_PJSC505_FULL"
-msgstr "Yahagi"
+msgstr "矢矧"
 
 msgid "IDS_PJSC505_NUMBER"
 msgstr "4"
@@ -84620,13 +84620,13 @@ msgid "IDS_PJSC505_YEAR"
 msgstr "1943"
 
 msgid "IDS_PJSC507"
-msgstr "Tokachi"
+msgstr "十勝"
 
 msgid "IDS_PJSC507_DESCR"
 msgstr "偵察巡洋艦的武器最初包括六座 140 毫米雙聯裝炮塔，但計畫在隨後進行了修改。1930 年代，Furutaka 級巡洋艦依 Aoba 級巡洋艦的模式改裝，安裝了三座雙聯裝炮塔。要是未有這樣的變動，在第二次世界大戰期間，這類巡洋艦極有可能成為防空艦艇，並在雙聯裝炮塔上安裝 127 毫米高平兩用火炮。"
 
 msgid "IDS_PJSC507_FULL"
-msgstr "Tokachi"
+msgstr "十勝"
 
 msgid "IDS_PJSC507_NUMBER"
 msgstr "1"
@@ -84635,13 +84635,13 @@ msgid "IDS_PJSC507_YEAR"
 msgstr "1936"
 
 msgid "IDS_PJSC510"
-msgstr "Azuma"
+msgstr "吾妻"
 
 msgid "IDS_PJSC510_DESCR"
 msgstr "第二次世界大戰爆發前不久，日本得知美國正在設計 Alaska 級大型巡洋艦。他們幾乎即刻展開這類艦艇的設計計畫，藉此反制美國巡洋艦。此計畫的艦艇在結構上近似於 Yamato 級主力艦，且可在三座炮塔上安裝九門全新的 310 毫米主炮。然而研發工作在 1941 年 11 月停止，最終於中途島海戰後取消。"
 
 msgid "IDS_PJSC510_FULL"
-msgstr "Azuma"
+msgstr "吾妻"
 
 msgid "IDS_PJSC510_NUMBER"
 msgstr "1"
@@ -84650,13 +84650,13 @@ msgid "IDS_PJSC510_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSC517"
-msgstr "Maya"
+msgstr "摩耶"
 
 msgid "IDS_PJSC517_DESCR"
 msgstr "Takao 級巡洋艦。她曾參與中日戰爭，負責護送運輸艦。第二次世界大戰期間，她支援菲律賓與阿留申群島戰役的突擊隊，亦參與東索羅門群島、聖克魯斯群島、科曼多爾群島與菲律賓海等戰役。1944 年 10 月 23 日，Maya 在雷伊泰灣海戰期間遭 USS Dace 的魚雷命中後迅速沉沒。"
 
 msgid "IDS_PJSC517_FULL"
-msgstr "Maya"
+msgstr "摩耶"
 
 msgid "IDS_PJSC517_NUMBER"
 msgstr "4"
@@ -84665,7 +84665,7 @@ msgid "IDS_PJSC517_YEAR"
 msgstr "1932"
 
 msgid "IDS_PJSC519"
-msgstr "AL Azuma"
+msgstr "碧藍航線 吾妻"
 
 msgid "IDS_PJSC519_DESCR"
 msgstr ""
@@ -84673,7 +84673,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PJSC519_FULL"
-msgstr "AL Azuma"
+msgstr "碧藍航線 吾妻"
 
 msgid "IDS_PJSC519_NUMBER"
 msgstr "1"
@@ -84682,13 +84682,13 @@ msgid "IDS_PJSC519_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSC520"
-msgstr "Yoshino"
+msgstr "吉野"
 
 msgid "IDS_PJSC520_DESCR"
 msgstr "大型高速巡洋艦計畫的版本之一，安裝有 310 毫米火炮作為主炮，魚雷武器配備四座四聯裝 610 毫米魚雷發射器，且有強化的防空武器。此計畫設計來反制敵方重型巡洋艦。"
 
 msgid "IDS_PJSC520_FULL"
-msgstr "Yoshino"
+msgstr "吉野"
 
 msgid "IDS_PJSC520_NUMBER"
 msgstr "1"
@@ -84697,13 +84697,13 @@ msgid "IDS_PJSC520_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSC590"
-msgstr "Yoshino B"
+msgstr "吉野 B"
 
 msgid "IDS_PJSC590_DESCR"
 msgstr "大型高速巡洋艦計畫的版本之一，安裝有 310 毫米火炮作為主炮，魚雷武器配備四座四聯裝 610 毫米魚雷發射器，且有強化的防空武器。此計畫設計來反制敵方重型巡洋艦。"
 
 msgid "IDS_PJSC590_FULL"
-msgstr "Yoshino B"
+msgstr "吉野 B"
 
 msgid "IDS_PJSC590_NUMBER"
 msgstr "1"
@@ -84712,13 +84712,13 @@ msgid "IDS_PJSC590_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSC598"
-msgstr "Atago B"
+msgstr "愛宕 B"
 
 msgid "IDS_PJSC598_DESCR"
 msgstr "Takao 級巡洋艦。第二次世界大戰期間，她支援了對馬來亞和菲律賓的進攻小組；參與了爪哇海戰役；並在東索羅門群島附近、聖克魯斯群島、瓜達康納爾和菲律賓海執行任務。1944 年 10 月 23 日，Atago 在雷伊泰灣海戰中遭潛水艦 USS Darter 擊沉。"
 
 msgid "IDS_PJSC598_FULL"
-msgstr "Atago B"
+msgstr "愛宕 B"
 
 msgid "IDS_PJSC598_NUMBER"
 msgstr "4"
@@ -84727,13 +84727,13 @@ msgid "IDS_PJSC598_YEAR"
 msgstr "1932"
 
 msgid "IDS_PJSC610"
-msgstr "Kitakami"
+msgstr "北上"
 
 msgid "IDS_PJSC610_DESCR"
 msgstr "中日戰爭爆發時，Kitakami 為日軍登陸行動提供掩護。1941 年下半年，她裝備了十座四聯裝 610 毫米魚雷發射管，用於夜間魚雷攻擊。1942 年，此艦艇改建為高速運輸艦，用於護送軍隊船團。1944 年，Kitakami 遭潛水艦 HMS Templar 的兩枚魚雷命中。此艦艇在維修過程中改裝為搭載回天魚雷的母艦。1945 年，此巡洋艦遭第 38 特遣艦隊的轟炸機損壞，隨後用作支援母艦。"
 
 msgid "IDS_PJSC610_FULL"
-msgstr "Kitakami"
+msgstr "北上"
 
 msgid "IDS_PJSC610_NUMBER"
 msgstr "5"
@@ -84742,7 +84742,7 @@ msgid "IDS_PJSC610_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSC705"
-msgstr "ARP Myōkō"
+msgstr "ARP 妙高"
 
 msgid "IDS_PJSC705_DESCR"
 msgstr ""
@@ -84750,7 +84750,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Myōkō 作為範本。"
 
 msgid "IDS_PJSC705_FULL"
-msgstr "ARP Myōkō"
+msgstr "ARP 妙高"
 
 msgid "IDS_PJSC705_NUMBER"
 msgstr " "
@@ -84759,7 +84759,7 @@ msgid "IDS_PJSC705_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC707"
-msgstr "ARP Ashigara"
+msgstr "ARP 足柄"
 
 msgid "IDS_PJSC707_DESCR"
 msgstr ""
@@ -84767,7 +84767,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Ashigara 作為範本。"
 
 msgid "IDS_PJSC707_FULL"
-msgstr "ARP Ashigara"
+msgstr "ARP 足柄"
 
 msgid "IDS_PJSC707_NUMBER"
 msgstr " "
@@ -84776,7 +84776,7 @@ msgid "IDS_PJSC707_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC708"
-msgstr "ARP Takao"
+msgstr "ARP 高雄"
 
 msgid "IDS_PJSC708_DESCR"
 msgstr ""
@@ -84784,7 +84784,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Takao 作為範本。"
 
 msgid "IDS_PJSC708_FULL"
-msgstr "ARP Takao"
+msgstr "ARP 高雄"
 
 msgid "IDS_PJSC708_NUMBER"
 msgstr " "
@@ -84793,7 +84793,7 @@ msgid "IDS_PJSC708_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC709"
-msgstr "ARP Haguro"
+msgstr "ARP 羽黒"
 
 msgid "IDS_PJSC709_DESCR"
 msgstr ""
@@ -84801,7 +84801,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Haguro 作為範本。"
 
 msgid "IDS_PJSC709_FULL"
-msgstr "ARP Haguro"
+msgstr "ARP 羽黒"
 
 msgid "IDS_PJSC709_NUMBER"
 msgstr " "
@@ -84810,13 +84810,13 @@ msgid "IDS_PJSC709_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC717"
-msgstr "S. Dragon"
+msgstr "南方神龍"
 
 msgid "IDS_PJSC717_DESCR"
 msgstr "在中華傳統文化中，龍擁有長長的外形、布滿鱗片的身體、蛇類動物的特徵，以及四隻腳。四海龍王為四兄弟，各自掌管四方之海的其中一方。南海龍王名為敖欽。"
 
 msgid "IDS_PJSC717_FULL"
-msgstr "Southern Dragon"
+msgstr "南方神龍"
 
 msgid "IDS_PJSC717_NUMBER"
 msgstr " "
@@ -84825,7 +84825,7 @@ msgid "IDS_PJSC717_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC718"
-msgstr "ARP Maya"
+msgstr "ARP 摩耶"
 
 msgid "IDS_PJSC718_DESCR"
 msgstr ""
@@ -84833,7 +84833,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的同名艦艇作為範本。"
 
 msgid "IDS_PJSC718_FULL"
-msgstr "ARP Maya"
+msgstr "ARP 摩耶"
 
 msgid "IDS_PJSC718_NUMBER"
 msgstr " "
@@ -84842,13 +84842,13 @@ msgid "IDS_PJSC718_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC727"
-msgstr "E. Dragon"
+msgstr "東方神龍"
 
 msgid "IDS_PJSC727_DESCR"
 msgstr "在中華傳統文化中，龍擁有長長的外形、布滿鱗片的身體、蛇類動物的特徵，以及四隻腳。四海龍王為四兄弟，各自掌管四方之海的其中一方。東海龍王名為敖廣。"
 
 msgid "IDS_PJSC727_FULL"
-msgstr "Eastern Dragon"
+msgstr "東方神龍"
 
 msgid "IDS_PJSC727_NUMBER"
 msgstr " "
@@ -84857,7 +84857,7 @@ msgid "IDS_PJSC727_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC737"
-msgstr "ARP Nachi"
+msgstr "ARP 那智"
 
 msgid "IDS_PJSC737_DESCR"
 msgstr ""
@@ -84865,7 +84865,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Nachi 作為範本。"
 
 msgid "IDS_PJSC737_FULL"
-msgstr "ARP Nachi"
+msgstr "ARP 那智"
 
 msgid "IDS_PJSC737_NUMBER"
 msgstr " "
@@ -84874,10 +84874,10 @@ msgid "IDS_PJSC737_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC799"
-msgstr "ARP Takao"
+msgstr "ARP 高雄"
 
 msgid "IDS_PJSC799_FULL"
-msgstr "ARP Takao"
+msgstr "ARP 高雄"
 
 msgid "IDS_PJSC810"
 msgstr "Zaō P"
@@ -84937,13 +84937,13 @@ msgid "IDS_PJSC919_YEAR"
 msgstr "1938"
 
 msgid "IDS_PJSC934"
-msgstr "[Zaō]"
+msgstr "[皂]"
 
 msgid "IDS_PJSC934_DESCR"
 msgstr "這艘艦艇為 Zaō 的複製品，並且只適用於公會戰鬥"
 
 msgid "IDS_PJSC934_FULL"
-msgstr "[Zaō]"
+msgstr "[皂]"
 
 msgid "IDS_PJSC934_NUMBER"
 msgstr "0"
@@ -84952,13 +84952,13 @@ msgid "IDS_PJSC934_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSD001"
-msgstr "Tachibana"
+msgstr "橘氏"
 
 msgid "IDS_PJSD001_DESCR"
 msgstr "基於 Umikaze 級艦艇設計的「小型」驅逐艦且裝備有垂直擴張引擎。這是首個完全在日本設計的驅逐艦艦級，同時這些艦艇也是第一次世界大戰爆發時，全日本最現在化的驅逐艦。在西方世界，Tachibana 級甚至被讚譽為日本造船工業的成功，法國更委託日本建造十多艘同級驅逐艦。"
 
 msgid "IDS_PJSD001_FULL"
-msgstr "Tachibana"
+msgstr "橘氏"
 
 msgid "IDS_PJSD001_NUMBER"
 msgstr "2"
@@ -84967,13 +84967,13 @@ msgid "IDS_PJSD001_YEAR"
 msgstr "1912"
 
 msgid "IDS_PJSD002"
-msgstr "Umikaze"
+msgstr "海風"
 
 msgid "IDS_PJSD002_DESCR"
 msgstr "日俄戰爭的教訓證實排水量 300 噸的驅逐艦並不適合在開闊海域中作戰。日本遂開始建造更大型驅逐艦，首兩艘為基於英國同型艦艇的 Umikaze 級戰艦。她們為日本首批裝備有蒸汽渦輪的戰艦。領艦 Umikaze 在 1911 年 9 月投入服役，在第一次世界大戰期間歷經大小戰役，亦曾參與 Admiral Graf Spee 中隊的逐獵。"
 
 msgid "IDS_PJSD002_FULL"
-msgstr "Umikaze"
+msgstr "海風"
 
 msgid "IDS_PJSD002_NUMBER"
 msgstr "2"
@@ -84982,13 +84982,13 @@ msgid "IDS_PJSD002_YEAR"
 msgstr "1911"
 
 msgid "IDS_PJSD003"
-msgstr "Isokaze"
+msgstr "磯風"
 
 msgid "IDS_PJSD003_DESCR"
 msgstr "四艘 Isokaze 級艦艇在 1916 年至 1917 年間建造，具有與 Umikaze 級艦艇相仿的整體艦身設計，但提升了引擎功率且有更強大的武器。她們專為護送 Ise 級與 Fusō 級主力艦而設計。Isokaze 在 1916 年安放龍骨並在隔年投入服役。她曾參與第一次世界大戰，並在中國沿海一帶巡邏。"
 
 msgid "IDS_PJSD003_FULL"
-msgstr "Isokaze"
+msgstr "磯風"
 
 msgid "IDS_PJSD003_NUMBER"
 msgstr "4"
@@ -84997,13 +84997,13 @@ msgid "IDS_PJSD003_YEAR"
 msgstr "1917"
 
 msgid "IDS_PJSD004"
-msgstr "Minekaze"
+msgstr "峰風"
 
 msgid "IDS_PJSD004_DESCR"
 msgstr "「大型」驅逐艦概念的形成，主要目的是為了護衛 Amagi 級戰鬥巡洋艦。她們有較高的艏艛，艦橋一路延伸至後方的艦尾，因此衍生出在船井安裝魚雷發射管的設計。Minekaze 級艦艇為日本首批使用齒輪減速渦輪機並大量生產的驅逐艦。領艦在 1918 年 4 月安放龍骨。她在 1930 年代負責護衛航空母艦 Akagi，且在中日戰爭期間於中國沿海一帶巡邏。綜觀第二次世界大戰，此艦艇負責東中國海與西太平洋一帶的巡邏與護送職責。"
 
 msgid "IDS_PJSD004_FULL"
-msgstr "Minekaze"
+msgstr "峰風"
 
 msgid "IDS_PJSD004_NUMBER"
 msgstr "15"
@@ -85087,13 +85087,13 @@ msgid "IDS_PJSD012_YEAR"
 msgstr "1943"
 
 msgid "IDS_PJSD014"
-msgstr "Tachibana L"
+msgstr "橘氏 L"
 
 msgid "IDS_PJSD014_DESCR"
 msgstr "基於 Umikaze 級艦艇設計的「小型」驅逐艦且裝備有垂直擴張引擎。這是首個完全在日本設計的驅逐艦艦級，同時這些艦艇也是第一次世界大戰爆發時，全日本最現在化的驅逐艦。在西方世界，Tachibana 級甚至被讚譽為日本造船工業的成功，法國更委託日本建造十多艘同級驅逐艦。"
 
 msgid "IDS_PJSD014_FULL"
-msgstr "Tachibana Lima"
+msgstr "橘氏 L"
 
 msgid "IDS_PJSD014_NUMBER"
 msgstr "2"
@@ -85102,13 +85102,13 @@ msgid "IDS_PJSD014_YEAR"
 msgstr "1912"
 
 msgid "IDS_PJSD017"
-msgstr "Fūjin"
+msgstr "風神"
 
 msgid "IDS_PJSD017_DESCR"
 msgstr "第二群的 9 艘 Minekaze 級驅逐艦（又名為 Kamikaze 級）在 1921 年至 1925 年間建造。這些艦艇有較深的吃水深度，以提昇她們的適航性。Kamikaze 以 Distroyer No. 1 為名在 1921 年安放龍骨。7 年後，此驅逐艦獲得了她專屬的名稱。第二次世界大戰期間，她參與了阿留申群島戰役並負責將船團護送到遠在千島群島的基地。1945 年，Kamikaze 重新分發到聯合艦隊，她成為護衛兩艘 Ise 級主力艦的一員，並一路從新加坡航行回日本。"
 
 msgid "IDS_PJSD017_FULL"
-msgstr "Fūjin"
+msgstr "風神"
 
 msgid "IDS_PJSD017_NUMBER"
 msgstr "9"
@@ -85117,13 +85117,13 @@ msgid "IDS_PJSD017_YEAR"
 msgstr "1922"
 
 msgid "IDS_PJSD024"
-msgstr "Wakatake"
+msgstr "若竹"
 
 msgid "IDS_PJSD024_DESCR"
 msgstr "日本「小型」驅逐艦的最後一個艦級，由 8 艘建造於 1921 年至 1923 年間的 Wakatake 級艦艇組成。她們隨後加入擴張的 Momi 級艦艇。此系列的領艦在 1921 年 12 月安放龍骨。她曾參與中日戰爭並在中國沿海巡邏。第二次世界大戰期間，她作為護衛艦艇。1944 年 3 月 30 日，盟軍在帛琉一帶空襲，此艦艇在期間遭擊沉。"
 
 msgid "IDS_PJSD024_FULL"
-msgstr "Wakatake"
+msgstr "若竹"
 
 msgid "IDS_PJSD024_NUMBER"
 msgstr "8"
@@ -85132,13 +85132,13 @@ msgid "IDS_PJSD024_YEAR"
 msgstr "1922"
 
 msgid "IDS_PJSD025"
-msgstr "Kamikaze"
+msgstr "神風"
 
 msgid "IDS_PJSD025_DESCR"
 msgstr "第二群的 9 艘 Minekaze 級驅逐艦（又名為 Kamikaze 級）在 1921 年至 1925 年間建造。這些艦艇有較深的吃水深度，以提昇她們的適航性。Kamikaze 以 Distroyer No. 1 為名在 1921 年安放龍骨。7 年後，此驅逐艦獲得了她專屬的名稱。第二次世界大戰期間，她參與了阿留申群島戰役並負責將船團護送到遠在千島群島的基地。1945 年，Kamikaze 重新分發到聯合艦隊，她成為護衛兩艘 Ise 級主力艦的一員，並一路從新加坡航行回日本。"
 
 msgid "IDS_PJSD025_FULL"
-msgstr "Kamikaze"
+msgstr "神風"
 
 msgid "IDS_PJSD025_NUMBER"
 msgstr "9"
@@ -85147,13 +85147,13 @@ msgid "IDS_PJSD025_YEAR"
 msgstr "1922"
 
 msgid "IDS_PJSD026"
-msgstr "Kamikaze R"
+msgstr "神風 R"
 
 msgid "IDS_PJSD026_DESCR"
 msgstr "第二群的 9 艘 Minekaze 級驅逐艦（又名為 Kamikaze 級）在 1921 年至 1925 年間建造。這些艦艇有較深的吃水深度，以提昇她們的適航性。Kamikaze 以 Distroyer No. 1 為名在 1921 年安放龍骨。7 年後，此驅逐艦獲得了她專屬的名稱。第二次世界大戰期間，她參與了阿留申群島戰役並負責將船團護送到遠在千島群島的基地。1945 年，Kamikaze 重新分發到聯合艦隊，她成為護衛兩艘 Ise 級主力艦的一員，並一路從新加坡航行回日本。"
 
 msgid "IDS_PJSD026_FULL"
-msgstr "Kamikaze R"
+msgstr "神風 R"
 
 msgid "IDS_PJSD026_NUMBER"
 msgstr "9"
@@ -85162,13 +85162,13 @@ msgid "IDS_PJSD026_YEAR"
 msgstr "1922"
 
 msgid "IDS_PJSD105"
-msgstr "Mutsuki"
+msgstr "陸月"
 
 msgid "IDS_PJSD105_DESCR"
 msgstr "「強化型 Kamikaze」級驅逐艦是日本最後一艘將魚雷發射器配置在艦艏上層建築前方的驅逐艦。1924 至 1927 年間建造的 12 艘驅逐艦全數於第二次世界大戰期間損失。Mutsuki 於 1926 年 3 月投入服役後，參加了中日戰爭。第二次世界大戰期間，她參與了威克島戰役，以及索羅門群島和新幾內亞的登陸行動。1942 年 8 月 24 日，此艦艇遭一枚航空炸彈擊中後於索羅門群島附近沉沒。"
 
 msgid "IDS_PJSD105_FULL"
-msgstr "Mutsuki"
+msgstr "陸月"
 
 msgid "IDS_PJSD105_NUMBER"
 msgstr "12"
@@ -85177,13 +85177,13 @@ msgid "IDS_PJSD105_YEAR"
 msgstr "1926"
 
 msgid "IDS_PJSD106"
-msgstr "Fubuki"
+msgstr "吹雪"
 
 msgid "IDS_PJSD106_DESCR"
 msgstr "《華盛頓海軍條約》限制了主力艦和航空母艦的噸位，僅允許 10,000 噸以下的艦艇。「新艦級」驅逐艦設計的開發因此興起。她預計會有 1,900 噸排水量；127 毫米火炮；以及一座三聯裝魚雷發射器。此計畫於 1926 年獲得批准，一共有 20 艘艦艇在此計畫下建造。Fubuki 於 1928 年 8 月投入服役。在第二次世界大戰期間，她為日本登陸法屬中南半島、馬來亞與荷屬東印度群島提供掩護，並參加了巽他海峽戰役和中途島海戰。"
 
 msgid "IDS_PJSD106_FULL"
-msgstr "Fubuki"
+msgstr "吹雪"
 
 msgid "IDS_PJSD106_NUMBER"
 msgstr "10"
@@ -85192,13 +85192,13 @@ msgid "IDS_PJSD106_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSD107"
-msgstr "Akatsuki"
+msgstr "暁"
 
 msgid "IDS_PJSD107_DESCR"
 msgstr "第三批「特型」驅逐艦的特色為艦身稍微偏短且排水量較小。這是透過增加個別鍋爐的蒸氣量以減少整體鍋爐數量而得以實現。Akatsuki 於 1930 年 2 月安放龍骨，並於兩年後指派給第六驅逐艦分艦隊。在第二次世界大戰期間，她為日本登陸馬來亞、荷屬東印度群島和菲律賓提供掩護，並參加了索羅門群島戰役。Akatsuki 於 1942 年瓜達康納爾海戰期間遭美國海軍巡洋艦和驅逐艦組成的部隊擊沉。"
 
 msgid "IDS_PJSD107_FULL"
-msgstr "Akatsuki"
+msgstr "暁"
 
 msgid "IDS_PJSD107_NUMBER"
 msgstr "4"
@@ -85207,13 +85207,13 @@ msgid "IDS_PJSD107_YEAR"
 msgstr "1932"
 
 msgid "IDS_PJSD108"
-msgstr "Akizuki"
+msgstr "秋月"
 
 msgid "IDS_PJSD108_DESCR"
 msgstr "Akizuki 級驅逐艦是設計用於護衛快速航空母艦編隊的防空艦艇。她們的主炮為八門 100 毫米 65 倍徑火炮。此艦級驅逐艦一共下訂了 13 艘，最後建造了 12 艘。Akizuki 於 1942 年 6 月投入服役後，參加了東索羅門群島戰役、瓜達康納爾海戰、菲律賓海海戰和雷伊泰灣海戰。此驅逐艦在恩加尼奧角海戰中遭擊沉。"
 
 msgid "IDS_PJSD108_FULL"
-msgstr "Akizuki"
+msgstr "秋月"
 
 msgid "IDS_PJSD108_NUMBER"
 msgstr "13"
@@ -85222,13 +85222,13 @@ msgid "IDS_PJSD108_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSD111"
-msgstr "Yamagiri"
+msgstr "山霧"
 
 msgid "IDS_PJSD111_DESCR"
 msgstr "Shimakaze 級驅逐艦的原計畫涉及使用六聯裝或七聯裝魚雷發射器以進行 18 至 21 枚魚雷的舷側齊射。然而，由於魚雷發射器和快速裝填系統的總重量過重，當局不得不放棄此計畫。"
 
 msgid "IDS_PJSD111_FULL"
-msgstr "Yamagiri"
+msgstr "山霧"
 
 msgid "IDS_PJSD111_NUMBER"
 msgstr "1"
@@ -85237,13 +85237,13 @@ msgid "IDS_PJSD111_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSD206"
-msgstr "Hatsuharu"
+msgstr "初春"
 
 msgid "IDS_PJSD206_DESCR"
 msgstr "Fubuki 級驅逐艦的精簡版本，在遵守《倫敦海軍條約》的限制的同時，維持了能與其前輩媲美的戰鬥力。此艦艇原本具備標準的炮塔配置，但為了增強艦艇穩定性，便在後來的升級中移除了其中一座艦艏雙聯裝炮塔。Hatsuharu 於 1931 年 5 月安放龍骨，並於 1933 年 2 月作為第 21 驅逐艦分艦隊一員投入服役。此驅逐艦與入侵部隊一同部署於荷屬東印度群島，並參加了阿留申群島戰役和雷伊泰灣海戰。"
 
 msgid "IDS_PJSD206_FULL"
-msgstr "Hatsuharu"
+msgstr "初春"
 
 msgid "IDS_PJSD206_NUMBER"
 msgstr "6"
@@ -85252,13 +85252,13 @@ msgid "IDS_PJSD206_YEAR"
 msgstr "1933"
 
 msgid "IDS_PJSD207"
-msgstr "Shiratsuyu"
+msgstr "白露"
 
 msgid "IDS_PJSD207_DESCR"
 msgstr "Shiratsuyu 級驅逐艦為 Hatsuharu 級艦艇的升級版。她們的特色為吃水較深，並裝備了兩座四聯裝魚雷發射器。此艦級的領艦於 1933 年 11 月安放龍骨，並於 1936 年投入服役。她在西太平洋護衛了船團，並參加了中途島海戰、位於索羅門群島和馬紹爾群島的戰役、第一次瓜達康納爾海戰，以及奧古斯塔皇后灣海戰。"
 
 msgid "IDS_PJSD207_FULL"
-msgstr "Shiratsuyu"
+msgstr "白露"
 
 msgid "IDS_PJSD207_NUMBER"
 msgstr "10"
@@ -85267,13 +85267,13 @@ msgid "IDS_PJSD207_YEAR"
 msgstr "1936"
 
 msgid "IDS_PJSD208"
-msgstr "Kagerō"
+msgstr "陽炎"
 
 msgid "IDS_PJSD208_DESCR"
 msgstr "日本拒絕簽屬《第二次倫敦海軍條約》以避免受到艦艇噸位上的限制。「巡洋艦型」驅逐艦的新標準因此形成，其特色為增強的穩定性和海上耐久力，同時維持了「特型」驅逐艦的武器。Kagerō 於 1937 年 9 月安放龍骨，她在第二次世界大戰中發揮作用，參與了東索羅門群島和聖克魯斯群島附近的戰鬥，並參加了瓜達康納爾海戰和塔薩法隆加戰役。"
 
 msgid "IDS_PJSD208_FULL"
-msgstr "Kagerō"
+msgstr "陽炎"
 
 msgid "IDS_PJSD208_NUMBER"
 msgstr "19"
@@ -85282,13 +85282,13 @@ msgid "IDS_PJSD208_YEAR"
 msgstr "1939"
 
 msgid "IDS_PJSD209"
-msgstr "Yūgumo"
+msgstr "夕雲"
 
 msgid "IDS_PJSD209_DESCR"
 msgstr "改良後的 Kagerō 級艦艇是在 1939 年和 1941 年的艦隊擴張計畫下所建造。此計畫包含了多達 20 艘驅逐艦。不同於她們的前輩，這些艦艇具備新型炮座。Yūgumo 於 1940 年 6 月安放龍骨，並於次年投入服役。此驅逐艦參加了中途島海戰、東索羅門群島戰役和聖克魯斯群島戰役。她還將援軍運往瓜達康納爾。1973 年 10 月 7 日，Yūgumo 在維拉拉維拉島附近遭美國驅逐艦擊沉。"
 
 msgid "IDS_PJSD209_FULL"
-msgstr "Yūgumo"
+msgstr "夕雲"
 
 msgid "IDS_PJSD209_NUMBER"
 msgstr "19"
@@ -85312,13 +85312,13 @@ msgid "IDS_PJSD210_YEAR"
 msgstr "1945"
 
 msgid "IDS_PJSD219"
-msgstr "Kitakaze"
+msgstr "北風"
 
 msgid "IDS_PJSD219_DESCR"
 msgstr "在實驗型 Shimakaze 於 1941 年安放龍骨後，因其受人矚目的航速和強大魚雷武器，當局決定在第五次海軍軍備補充計畫中含括 16 艘 C 型艦艇。然而，由於帝國海軍於 1942 年蒙受損失，部分 C 型驅逐艦因而取代為 B 型（Akizuki）驅逐艦。7 艘「改良型 B 型」艦艇於 1943 年訂造。由於建造護衛艦的需求，這些艦艇的建造工作隨後遭取消。"
 
 msgid "IDS_PJSD219_FULL"
-msgstr "Kitakaze"
+msgstr "北風"
 
 msgid "IDS_PJSD219_NUMBER"
 msgstr "0"
@@ -85357,13 +85357,13 @@ msgid "IDS_PJSD504_YEAR"
 msgstr "Disabled: Minekaze"
 
 msgid "IDS_PJSD507"
-msgstr "Yūdachi"
+msgstr "夕立"
 
 msgid "IDS_PJSD507_DESCR"
 msgstr "Yūdachi 是 Shiratsuyu 級驅逐艦，於 1934 年 10 月安放龍骨，並於 1937 年 1 月投入服役。第二次世界大戰期間，她在入侵菲律賓與荷屬東印度群島期間護衛部隊運輸，並參加了爪哇海海戰和和聖克魯斯群島附近的戰鬥。此艦艇在 1942 年太平洋戰役期間運送增援部隊。她在第一次瓜達康納爾海戰期間遭 USS Sterett 損傷，船員因此棄艦逃生。Yūdachi 遭棄後最終被巡洋艦 USS Portland 的炮火擊沉。"
 
 msgid "IDS_PJSD507_FULL"
-msgstr "Yūdachi"
+msgstr "夕立"
 
 msgid "IDS_PJSD507_NUMBER"
 msgstr "10"
@@ -85372,13 +85372,13 @@ msgid "IDS_PJSD507_YEAR"
 msgstr "1937"
 
 msgid "IDS_PJSD510"
-msgstr "Hayate"
+msgstr "疾風"
 
 msgid "IDS_PJSD510_DESCR"
 msgstr "Shimakaze 級驅逐艦的假想設計，配備 127 毫米高平兩用雙聯裝炮座。其顯著特色為使用定裝彈藥且射速較高。這將能增強此艦艇與高空敵機交戰的能力，並使其在對抗敵方輕型部隊時擁有火力優勢。"
 
 msgid "IDS_PJSD510_FULL"
-msgstr "Hayate"
+msgstr "疾風"
 
 msgid "IDS_PJSD510_NUMBER"
 msgstr "1"
@@ -85387,13 +85387,13 @@ msgid "IDS_PJSD510_YEAR"
 msgstr "1945"
 
 msgid "IDS_PJSD518"
-msgstr "Asashio"
+msgstr "朝潮"
 
 msgid "IDS_PJSD518_DESCR"
 msgstr "Asashio 級驅逐艦在設計上經歷了大幅修改，因為其前輩 Shiratsuyu 級艦艇的航速和火力均遜於 Fubuki 級艦艇。由於日本決定忽視《倫敦海軍條約》的限制，計畫因而得以透過增加排水量實現。領艦 Asashio 於 1937 年 8 月投入服役，她在在菲律賓和馬來亞的兩棲行動中發揮作用，參加了巴塘海峽戰役、中途島海戰、瓜達康納爾海戰。"
 
 msgid "IDS_PJSD518_FULL"
-msgstr "Asashio"
+msgstr "朝潮"
 
 msgid "IDS_PJSD518_NUMBER"
 msgstr "10"
@@ -85402,13 +85402,13 @@ msgid "IDS_PJSD518_YEAR"
 msgstr "1937"
 
 msgid "IDS_PJSD528"
-msgstr "HSF Harekaze II"
+msgstr "HSF 晴風 II"
 
 msgid "IDS_PJSD528_DESCR"
 msgstr "這艘最初命名為 Okikaze 的 Kagero 級航海訓練艦，她是橫須賀女子海洋學校船塢中後備艦隊的一員，目前配備的組件來自打撈起來的 Harekaze 。"
 
 msgid "IDS_PJSD528_FULL"
-msgstr "HSF Harekaze II"
+msgstr "HSF 晴風 II"
 
 msgid "IDS_PJSD528_NUMBER"
 msgstr "19"
@@ -85417,13 +85417,13 @@ msgid "IDS_PJSD528_YEAR"
 msgstr "1939"
 
 msgid "IDS_PJSD596"
-msgstr "Shinonome B"
+msgstr "東雲 B"
 
 msgid "IDS_PJSD596_DESCR"
 msgstr "Shinonome 是 Fubuki 級驅逐艦，於 1926 年 8 月安放龍骨，並於 1928 年 7 月加入第 12 驅逐艦分艦隊。她在中日戰爭期間執行了海岸巡邏任務，並於 1940 年參與了法屬中南半島的入侵行動。第二次世界大戰期間，Shinonome 駐紮在海南島，為日軍登陸馬來亞哥打峇鲁提供掩護。Shinonome 於 1941 年在砂拉越美里附近遭一架荷蘭 Do 24 水上偵察機的兩枚航空炸彈擊中後沉沒。"
 
 msgid "IDS_PJSD596_FULL"
-msgstr "Shinonome B"
+msgstr "東雲 B"
 
 msgid "IDS_PJSD596_NUMBER"
 msgstr "10"
@@ -85432,13 +85432,13 @@ msgid "IDS_PJSD596_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSD598"
-msgstr "Asashio B"
+msgstr "朝潮 B"
 
 msgid "IDS_PJSD598_DESCR"
 msgstr "Asashio 級驅逐艦在設計上經歷了大幅修改，因為其前輩 Shiratsuyu 級艦艇的航速和火力均遜於 Fubuki 級艦艇。由於日本決定忽視《倫敦海軍條約》的限制，計畫因而得以透過增加排水量實現。領艦 Asashio 於 1937 年 8 月投入服役，她在在菲律賓和馬來亞的兩棲行動中發揮作用，參加了巴塘海峽戰役、中途島海戰、瓜達康納爾海戰。"
 
 msgid "IDS_PJSD598_FULL"
-msgstr "Asashio B"
+msgstr "朝潮 B"
 
 msgid "IDS_PJSD598_NUMBER"
 msgstr "10"
@@ -85447,13 +85447,13 @@ msgid "IDS_PJSD598_YEAR"
 msgstr "1937"
 
 msgid "IDS_PJSD706"
-msgstr "Shinonome"
+msgstr "東雲"
 
 msgid "IDS_PJSD706_DESCR"
 msgstr "Shinonome 是 Fubuki 級驅逐艦，於 1926 年 8 月安放龍骨，並於 1928 年 7 月加入第 12 驅逐艦分艦隊。她在中日戰爭期間執行了海岸巡邏任務，並於 1940 年參與了法屬中南半島的入侵行動。第二次世界大戰期間，Shinonome 駐紮在海南島，為日軍登陸馬來亞哥打峇鲁提供掩護。Shinonome 於 1941 年在砂拉越美里附近遭一架荷蘭 Do 24 水上偵察機的兩枚航空炸彈擊中後沉沒。"
 
 msgid "IDS_PJSD706_FULL"
-msgstr "Shinonome"
+msgstr "東雲"
 
 msgid "IDS_PJSD706_NUMBER"
 msgstr "10"
@@ -85462,7 +85462,7 @@ msgid "IDS_PJSD706_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSD708"
-msgstr "HSF Harekaze"
+msgstr "HSF 晴風"
 
 msgid "IDS_PJSD708_DESCR"
 msgstr ""
@@ -85470,7 +85470,7 @@ msgstr ""
 "出自於系列動畫《高校艦隊》。"
 
 msgid "IDS_PJSD708_FULL"
-msgstr "HSF Harekaze"
+msgstr "HSF 晴風"
 
 msgid "IDS_PJSD708_NUMBER"
 msgstr "18"
@@ -85479,7 +85479,7 @@ msgid "IDS_PJSD708_YEAR"
 msgstr "1939"
 
 msgid "IDS_PJSD718"
-msgstr "AL Yukikaze"
+msgstr "AL 雪風"
 
 msgid "IDS_PJSD718_DESCR"
 msgstr ""
@@ -85487,7 +85487,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PJSD718_FULL"
-msgstr "AL Yukikaze"
+msgstr "AL 雪風"
 
 msgid "IDS_PJSD718_NUMBER"
 msgstr "19"
@@ -85496,19 +85496,19 @@ msgid "IDS_PJSD718_YEAR"
 msgstr "1940"
 
 msgid "IDS_PJSD803"
-msgstr "Isokaze"
+msgstr "磯風"
 
 msgid "IDS_PJSD803_DESCR"
 msgstr "用於入門任務的驅逐艦 Isokaze"
 
 msgid "IDS_PJSD889"
-msgstr "STAR Kitakaze"
+msgstr "星之北風"
 
 msgid "IDS_PJSD889_DESCR"
 msgstr "太空水晶捕獲了艦艇。由天體所創造來與人類交流的 Andromeda 化身意識到它的行為變得具有攻擊性，而試圖幫助人類找出水晶落到地球上的原因。"
 
 msgid "IDS_PJSD889_FULL"
-msgstr "STAR Kitakaze"
+msgstr "星之北風"
 
 msgid "IDS_PJSD889_NUMBER"
 msgstr "0"
@@ -85517,13 +85517,13 @@ msgid "IDS_PJSD889_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSD912"
-msgstr "[Shimakaze]"
+msgstr "[17900]"
 
 msgid "IDS_PJSD912_DESCR"
 msgstr "這艘艦艇為 Shimakaze 的複製品，並且只適用於公會戰鬥"
 
 msgid "IDS_PJSD912_FULL"
-msgstr "[Shimakaze]"
+msgstr "[17900]"
 
 msgid "IDS_PJSD912_NUMBER"
 msgstr "1"
@@ -126547,11 +126547,7 @@ msgid "IDS_PJSA210"
 msgstr "大鳳"
 
 msgid "IDS_PJSA210_DESCR"
-msgstr ""
-"日本海軍最現代化的航空母艦，作為 1939 年第四艦隊補給計劃的一部分而設計和建造，是一艘“改進型翔鶴”號航空母艦，其裝甲飛行甲板集成到船體中，是其強度結構的一部分。\n"
-"根據1942年的計劃，日本計劃再建造七艘同類型的艦艇，其中甚至還訂購了兩艘，但經濟形勢迫使日本放棄了這些計劃。\n"
-"大鳳號於1941年10月在神戶川崎造船廠奠基，1943年4月下水，1944年3月服役。同年6月19日，參加菲律賓海戰，被大青花魚號潛艦的魚雷擊中。\n"
-"缺乏經驗的船員無法應對航空燃油的溢出和汽油蒸氣擴散到全船，引發了兩次強烈的爆炸，導致全船只有艦橋人員來得及逃生。"
+msgstr "「改良型翔鶴」級艦艇的原始設計起初屬於 1939 計畫，它在初始設計階段經歷大幅度改動後變得與於原始設計大不相同。其最終設計很先進，並不同於日本海軍的一貫特性。她的裝甲飛行甲板集成到艦身，且艦艏為封閉式，成為其極具辨識度的獨特元素。大鳳 於 1941 年安放龍骨，投入服役後便成為帝國海軍第一航空戰隊的旗艦。她在參與馬里亞納群島戰役期間，受到潛水艦 USS Albacore 魚雷的致命一擊。"
 
 msgid "IDS_PJSA210_FULL"
 msgstr "大鳳"
