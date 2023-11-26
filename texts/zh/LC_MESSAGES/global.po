@@ -34964,7 +34964,7 @@ msgid "IDS_LOCK_TARGET_WAS_NOT_FOUND"
 msgstr "未發現任何目標"
 
 msgid "IDS_LOGGING_IN"
-msgstr "登入中..."
+msgstr "西瓜操作系統 V1.14啟動中..."
 
 msgid "IDS_LOGIN_AVAILABLE_NAMES"
 msgstr "可用的使用者名稱："
