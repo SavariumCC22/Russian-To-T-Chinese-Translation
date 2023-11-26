@@ -9445,10 +9445,16 @@ msgid "IDS_CLAN"
 msgstr "公會："
 
 msgid "IDS_CLANBATTLE"
-msgstr "公會戰鬥"
+msgstr "吸達不溜"
 
 msgid "IDS_CLANBATTLE_DESCRIPTION"
-msgstr "參與由兩支來自不同公會之分艦隊的戰鬥，並攀升聯賽。"
+msgstr ""
+"什麼時候能帶金牌鋼\n"
+"好好喔金牌鋼\n"
+"這裡有金牌鋼嗎\n"
+"嗚嗚嗚我沒資格打金牌鋼\n"
+"為什麼沒金牌鋼，那有現實魯蛇嗎\n"
+"我 要 金 牌 鋼 鐵 "
 
 msgid "IDS_CLANBOOST_TITLE"
 msgstr "公會助益"
@@ -11852,19 +11858,19 @@ msgid "IDS_CONVOY_QUICK_COMMAND_ENEMY_VISIBLE"
 msgstr "發送「攻擊運輸艦！」訊息"
 
 msgid "IDS_COOPERATIVEBATTLE"
-msgstr "聯合作戰"
+msgstr "欺負波特"
 
 msgid "IDS_COOPERATIVEBATTLE_DESCRIPTION"
-msgstr "與其他玩家攜手合作，與電腦AI之間的戰鬥。"
+msgstr "和11隻瑪索一起欺負手無搏雞之力的波特，讓他們後悔自己被寫出來"
 
 msgid "IDS_COOPERATIVEBATTLE_MATCHMAKER_DESCRIPTION"
 msgstr "隨機地圖與戰鬥模式"
 
 msgid "IDS_COOPERATIVEBATTLE_SHORT_DESCRIPTION"
-msgstr "與其他玩家一起合作對抗電腦。"
+msgstr "和11隻瑪索一起欺負手無搏雞之力的波特，讓他們後悔自己被寫出來"
 
 msgid "IDS_COOP_BATTLE"
-msgstr "聯合作戰"
+msgstr "欺負波特"
 
 msgid "IDS_COST"
 msgstr "費用"
@@ -105232,10 +105238,12 @@ msgid "IDS_RANGES_ALPHA_SLIDER"
 msgstr "調整小地圖上的圓圈透明度"
 
 msgid "IDS_RANKEDBATTLE"
-msgstr "排名戰"
+msgstr "高速爬線列車"
 
 msgid "IDS_RANKEDBATTLE_DESCRIPTION"
-msgstr "對抗其他玩家，獲得排名並攀升聯賽。"
+msgstr ""
+"嗯? 那顆金色的星星不是經驗的意思嗎\n"
+" 喔原來這模式不是用來爬船的呀"
 
 msgid "IDS_RANKEDBATTLE_OLD"
 msgstr "排名戰（舊制）"
