@@ -111372,7 +111372,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳彈！"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "嘿 這裡是東鹹 你看到這個代表繁中翻譯有效了 瓜園萬歲"
+msgstr "我閃閃發亮的肌肉啊 賜予我力量 讓世界臣服於瓜園的榮光下  哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
