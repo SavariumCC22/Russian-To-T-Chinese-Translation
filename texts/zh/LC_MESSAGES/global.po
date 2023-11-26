@@ -4497,7 +4497,9 @@ msgid "IDS_AFFECTED_CONSUMABLES_TOOLTIP_TITLE"
 msgstr "可強化以下消耗品："
 
 msgid "IDS_AFK_NOTIFICATION_TEXT"
-msgstr "別在戰鬥激烈時拋下您的隊友！違反規章將受到懲處。"
+msgstr ""
+"別他媽看YouTube了，你這個電視玩家！\n"
+"給我回來好好開船啊"
 
 msgid "IDS_AFTER_CONVERTION"
 msgstr "轉換後："
@@ -121707,7 +121709,7 @@ msgid "IDS_TBOMBS_SHOTS_HINT"
 msgstr "魚雷投擲數"
 
 msgid "IDS_TEAMKILLER_ATTACK"
-msgstr "停止開火，那是友軍艦艇！"
+msgstr "你這個鹹菜怪 終於把砲口指向隊友了嗎！？"
 
 msgid "IDS_TEAMKILLER_COMPENSATION"
 msgstr "被隊友傷害的補償"
@@ -121728,7 +121730,7 @@ msgid "IDS_TEAMSHOOTER_ATTACK"
 msgstr "友軍傷害警告！"
 
 msgid "IDS_TEAMSHOOTER_PENALTY"
-msgstr "由於違反規章，您獲得的銀幣和經驗為零"
+msgstr "由於鹹菜隊友，您獲得的銀幣和經驗為零"
 
 msgid "IDS_TEAM_GOALS"
 msgstr "隊伍任務"
