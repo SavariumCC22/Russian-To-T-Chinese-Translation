@@ -104172,13 +104172,13 @@ msgid "IDS_PZSD110_YEAR"
 msgstr "1944"
 
 msgid "IDS_PZSD111"
-msgstr "Kunming"
+msgstr "昆明"
 
 msgid "IDS_PZSD111_DESCR"
 msgstr "航速高且武器精良的驅逐艦，她基本上是美國 Somers 級艦艇的較大版本，擁有強化的魚雷和防空武器。"
 
 msgid "IDS_PZSD111_FULL"
-msgstr "Kunming"
+msgstr "昆明"
 
 msgid "IDS_PZSD111_NUMBER"
 msgstr "1"
