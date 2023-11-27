@@ -46242,13 +46242,13 @@ msgid "IDS_PASB599_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASB705"
-msgstr "得克薩斯"
+msgstr "德克薩斯"
 
 msgid "IDS_PASB705_DESCR"
 msgstr "第一次世界大戰期間，New York 級主力艦 USS Texas 參加了大西洋的巡邏和船團任務。第二次世界大戰期間，此主力艦護送船團橫渡大西洋，參加了盟軍在北非和諾曼第的登陸，並在硫磺島和沖繩島的戰鬥中支援登陸部隊。在海軍服役結束後，Texas 成為德克薩斯州休士頓的博物館艦艇，然後成為第一艘獲得美國國家歷史地標地位的主力艦。"
 
 msgid "IDS_PASB705_FULL"
-msgstr "得克薩斯"
+msgstr "德克薩斯"
 
 msgid "IDS_PASB705_NUMBER"
 msgstr "2"
