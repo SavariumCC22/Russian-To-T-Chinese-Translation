@@ -97056,13 +97056,13 @@ msgid "IDS_PVP_CONTROLPOINTENABLESOON"
 msgstr "關鍵地區將在一分鐘內出現"
 
 msgid "IDS_PVSB505"
-msgstr "Rio de Janeiro"
+msgstr "里約熱內盧"
 
 msgid "IDS_PVSB505_DESCR"
 msgstr "1906 年，巴西力爭成為歐洲大陸海軍最強國，向英國訂購了 3 艘鐵甲艦。主要由於有關武器的爭議，其中一艘艦艇的開發受到推遲。最終決定在七座炮塔中裝備十四門 305 毫米火炮，這使她成為主炮炮管總數的最高記錄保持者。Rio de Janeiro 於 1911 年安放龍骨，但巴西政府為經濟形勢所迫而出售此艦艇。這艘主力艦被鄂圖曼帝國收購，以「Sultan Osman I」為名投入作戰； 然而，由於第一次世界大戰的爆發，這艘艦艇被英國政府「租借」並以 HMS Agincourt 為名加入皇家海軍。"
 
 msgid "IDS_PVSB505_FULL"
-msgstr "Rio de Janeiro"
+msgstr "里約熱內盧"
 
 msgid "IDS_PVSB505_NUMBER"
 msgstr "1"
@@ -97086,13 +97086,13 @@ msgid "IDS_PVSB508_YEAR"
 msgstr "1945"
 
 msgid "IDS_PVSC101"
-msgstr "Hércules"
+msgstr "赫丘利"
 
 msgid "IDS_PVSC101_DESCR"
 msgstr "英國 River 級護衛艦，旨在為北大西洋的船團護衛而設計，在第二次世界大戰後被大量出售。USS Asheville 是加拿大建造的艦艇，在 1946 年以前一直留在美國海軍，但後來出售給阿根廷。在那裡她以「Hércules」為名服役，而後又以「Juan B. Azopardo」為名服役至 1973 年。"
 
 msgid "IDS_PVSC101_FULL"
-msgstr "Hércules"
+msgstr "赫丘利"
 
 msgid "IDS_PVSC101_NUMBER"
 msgstr "151"
@@ -97101,13 +97101,13 @@ msgid "IDS_PVSC101_YEAR"
 msgstr "1942"
 
 msgid "IDS_PVSC102"
-msgstr "Alm. Barroso"
+msgstr "巴羅索海軍上將"
 
 msgid "IDS_PVSC102_DESCR"
 msgstr "在 1889 年革命和 1890 年代兵變之後，巴西為了重建和加強其艦隊，向 Armstrong 訂購了一系列裝甲巡洋艦。然而，由於財政困難，真正加入巴西海軍的只有一艘於 1897 年轉交的艦艇 — Almirante Barroso。她是該國第一艘配備無線電報的艦艇。1931 年之前，Almirante Barroso 一直服役於巴西海軍，在阿根廷和智利代表巴西。"
 
 msgid "IDS_PVSC102_FULL"
-msgstr "Almirante Barroso"
+msgstr "巴羅索海軍上將"
 
 msgid "IDS_PVSC102_NUMBER"
 msgstr "1"
@@ -97116,13 +97116,13 @@ msgid "IDS_PVSC102_YEAR"
 msgstr "1896"
 
 msgid "IDS_PVSC103"
-msgstr "V. Guerrero"
+msgstr "維森特·格雷羅"
 
 msgid "IDS_PVSC103_DESCR"
 msgstr "1938 年，在主力艦 Anáhuac（前身為 Deodoro，原屬巴西）退役後，墨西哥計劃用一艘大型艦艇來加強艦隊，並從西班牙買下巡洋艦 Navarra，此艘巡洋艦在墨西哥海軍中本該被命名為「Vicente Guerrero」。然而，1936 至 1939 年間墨西哥表示支持西班牙共和黨後，雙方未能達成共識。"
 
 msgid "IDS_PVSC103_FULL"
-msgstr "Vicente Guerrero"
+msgstr "維森特·格雷羅"
 
 msgid "IDS_PVSC103_NUMBER"
 msgstr "1"
@@ -97131,13 +97131,13 @@ msgid "IDS_PVSC103_YEAR"
 msgstr "1923"
 
 msgid "IDS_PVSC104"
-msgstr "Córdoba"
+msgstr "科爾多瓦"
 
 msgid "IDS_PVSC104_DESCR"
 msgstr "1933 年，秘魯海軍從愛沙尼亞購買了兩艘 Novik 級驅逐艦後，擁有了壓倒性的優勢。因此哥倫比亞政府考慮了幾種緊急加強海軍的方案，包括購買英國艦艇。若當時選擇了英國艦艇，哥倫比亞艦隊本應會獲得 Danae 級巡洋艦作為強化。"
 
 msgid "IDS_PVSC104_FULL"
-msgstr "Córdoba"
+msgstr "科爾多瓦"
 
 msgid "IDS_PVSC104_NUMBER"
 msgstr "8"
@@ -97146,7 +97146,7 @@ msgid "IDS_PVSC104_YEAR"
 msgstr "1918"
 
 msgid "IDS_PVSC105"
-msgstr "La Argentina"
+msgstr "阿根廷"
 
 msgid "IDS_PVSC105_DESCR"
 msgstr "巡洋艦 La Argentina 是根據英國 1926 年的計畫建造的。她以英國的 Arethusa 級輕巡洋艦為設計基礎，在強化武器方面進行了多項改動，增加了艦艇的訓練功能。La Argentina 於 1939 年成為阿根廷海軍的一部分。"
@@ -97161,7 +97161,7 @@ msgid "IDS_PVSC105_YEAR"
 msgstr "1939"
 
 msgid "IDS_PVSC106"
-msgstr "Almte. Cochrane"
+msgstr "科克倫海軍上將\""
 
 msgid "IDS_PVSC106_DESCR"
 msgstr "1937 年，智利政府計劃向英國或義大利造船廠下訂巡洋艦的建造訂單。當時，在合適的艦艇類型中，最現代化的義大利艦艇為 Duca degli Abruzzi 級巡洋艦。若當時艦艇是從義大利訂購的，智利海軍就會獲得一艘與此類巡洋艦相同或接近的艦艇。"
@@ -97176,7 +97176,7 @@ msgid "IDS_PVSC106_YEAR"
 msgstr "1937"
 
 msgid "IDS_PVSC107"
-msgstr "Cnel. Bolognesi"
+msgstr "博洛涅西上校"
 
 msgid "IDS_PVSC107_DESCR"
 msgstr "HMS Ceylon 是英國皇家 Colony 級巡洋艦，第二次世界大戰末期曾在太平洋和印度洋服役，並在 1950 年代參加了韓戰和蘇伊士危機。1959 年，HMS Ceylon 出售給秘魯，便以「Coronel Bolognesi」為名服役至 1980 年代初。"
@@ -97191,7 +97191,7 @@ msgid "IDS_PVSC107_YEAR"
 msgstr "1943"
 
 msgid "IDS_PVSC108"
-msgstr "I. Allende"
+msgstr "伊格納西奧·阿連德"
 
 msgid "IDS_PVSC108_DESCR"
 msgstr "1947 年，美洲國家間互助條約在里約熱內盧簽署，阿根廷、巴西和智利將通過購買美國舊的 Brooklyn 級巡洋艦來加強其艦隊。若當時這些國家下令在美國建造新的巡洋艦，那麼最現代化的 Worcester 級艦艇就會成為這些計畫的基礎。"
@@ -97206,7 +97206,7 @@ msgid "IDS_PVSC108_YEAR"
 msgstr "1950"
 
 msgid "IDS_PVSC109"
-msgstr "Santander"
+msgstr "桑坦德"
 
 msgid "IDS_PVSC109_DESCR"
 msgstr "根據 1947 年的里約熱內盧條約，舊的 Brooklyn 級巡洋艦將被移交哥倫比亞海軍作為艦隊加強。若當時哥倫比亞決定訂購一艘新的艦艇，它可能就是 Santander，一艘基於美國 Worcester 級艦艇建造的巡洋艦。"
@@ -97221,7 +97221,7 @@ msgid "IDS_PVSC109_YEAR"
 msgstr "1948"
 
 msgid "IDS_PVSC110"
-msgstr "聖·馬丁"
+msgstr "san馬丁"
 
 msgid "IDS_PVSC110_DESCR"
 msgstr "第二次世界大戰後，阿根廷領導人計劃下令在英國或美國建造新的巡洋艦，主要要求是主炮為高平兩用炮。當時最符合這些條件的艦艇是 Worcester 巡洋艦。若當時訂購了此類艦艇，設計師將以其為參考，San Martín 可能就會是其成果之一。"
@@ -97236,7 +97236,7 @@ msgid "IDS_PVSC110_YEAR"
 msgstr "1949"
 
 msgid "IDS_PVSC502"
-msgstr "Alm. Abreu"
+msgstr "阿布瑞尤海軍上將"
 
 msgid "IDS_PVSC502_DESCR"
 msgstr "19 世紀末，巴西從 Armstrong 訂購了一系列裝甲巡洋艦以強化其艦隊。其中一艘出售給智利；西班牙在美西戰爭中遭受損失後試圖購買另外兩艘以補充其艦隊，但美國搶先了西班牙一步。Almirante Abreu 於 1897 年安放龍骨，並於 1900 年以「Albany」為名成為美國海軍的一部分。這艘巡洋艦參加了第一次世界大戰和美菲戰爭。1920 年，她被重新歸類為炮艇，並在兩年後退役。"
@@ -97251,7 +97251,7 @@ msgid "IDS_PVSC502_YEAR"
 msgstr "1900"
 
 msgid "IDS_PVSC507"
-msgstr "Nueve de Julio"
+msgstr "七月九日"
 
 msgid "IDS_PVSC507_DESCR"
 msgstr "Brooklyn 級輕型巡洋艦 USS Boise 於 1935 年在紐波特紐斯造船廠安放龍骨。此艦艇參加了第二次世界大戰，獲得了 11 枚戰鬥之星：埃斯佩蘭斯角戰役、西西里島和塔蘭托登陸，以及新幾內亞和菲律賓的戰役。1951 年 1 月，這艘巡洋艦被賣給阿根廷，並更名為 Nueve de Julio（西班牙語，意為「7 月 9 日」），以紀念阿根廷獨立日。1955 年，此艦艇參加了結束裴隆政權的解放革命。在她服役結束後，Nueve de Julio 被用作警戒艦和兵營船。後來曾有計劃要將其改造成美國的博物館艦艇。"
@@ -97266,7 +97266,7 @@ msgid "IDS_PVSC507_YEAR"
 msgstr "1938"
 
 msgid "IDS_PVSC508"
-msgstr "Almte. Grau"
+msgstr "格勞海軍上將"
 
 msgid "IDS_PVSC508_DESCR"
 msgstr "秘魯海軍的旗艦傳統上以 Miguel Grau Seminario 將軍命名。歷史上有過 5 艘這樣的艦艇。第三艘以此為名的艦艇是在 1973 年向荷蘭購買的。巡洋艦 De Ruyter 於 1939 年在斯希丹安放龍骨，並在戰後按照改造計畫完工，裝備了高平兩用主炮和現代雷達設備。Almirante Grau 曾作為秘魯海軍的旗艦 45 年。退役時，此艦艇是各國海軍中的最後一艘火炮巡洋艦。"
@@ -97281,7 +97281,7 @@ msgid "IDS_PVSC508_YEAR"
 msgstr "1953"
 
 msgid "IDS_PVSD506"
-msgstr "Juruá"
+msgstr "茹魯阿"
 
 msgid "IDS_PVSD506_DESCR"
 msgstr "1939 年，巴西從英國訂購了一系列 6 艘配備增強型反潛武器的現代 H 級驅逐艦； 然而，由於第二次世界大戰的爆發，英國人買斷了這些驅逐艦。領艦 Juruá 最初在英國海軍中被命名為 HMS Handy，但隨後更名為 HMS Harvester。她參與了敦克爾克的部隊撤離、在北大西洋護衛船團，後來被調到 H 艦隊，護衛船團前往馬耳他。1943 年 3 月 3 日，此艦與德國潛水艦 U-444 相撞，船體受損，並在次日被 U-432 潛水艦擊中後沈沒。"
