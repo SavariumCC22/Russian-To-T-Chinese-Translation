@@ -97161,7 +97161,7 @@ msgid "IDS_PVSC105_YEAR"
 msgstr "1939"
 
 msgid "IDS_PVSC106"
-msgstr "科克倫海軍上將\""
+msgstr "科克倫海軍上將"
 
 msgid "IDS_PVSC106_DESCR"
 msgstr "1937 年，智利政府計劃向英國或義大利造船廠下訂巡洋艦的建造訂單。當時，在合適的艦艇類型中，最現代化的義大利艦艇為 Duca degli Abruzzi 級巡洋艦。若當時艦艇是從義大利訂購的，智利海軍就會獲得一艘與此類巡洋艦相同或接近的艦艇。"
