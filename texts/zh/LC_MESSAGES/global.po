@@ -71034,13 +71034,13 @@ msgid "IDS_PFPT020_550MM_DUPLEIX"
 msgstr "550 mm 23DT"
 
 msgid "IDS_PFSA506"
-msgstr "Béarn"
+msgstr "貝亞恩"
 
 msgid "IDS_PFSA506_DESCR"
 msgstr "Bearn 原本是一艘 Normandie 級主力艦，但不同於她的姊妹艦，她採用了渦輪推進裝置而非混合型推進裝置。在華盛頓海軍會議後，此艦艇被改造為航空母艦。1930 年代晚期，決定將 Bearn 重新裝備為水上飛機母艦，同時保留容納輪式飛機的可能性；然而，第二次世界大戰的爆發阻礙了這些計畫。戰爭期間，Bearn 運送過飛機、黃金、部隊，以及裝備。"
 
 msgid "IDS_PFSA506_FULL"
-msgstr "Béarn"
+msgstr "貝亞恩"
 
 msgid "IDS_PFSA506_NUMBER"
 msgstr "1"
@@ -71049,7 +71049,7 @@ msgid "IDS_PFSA506_YEAR"
 msgstr "1927"
 
 msgid "IDS_PFSB103"
-msgstr "Turenne"
+msgstr "杜倫尼"
 
 msgid "IDS_PFSB103_DESCR"
 msgstr "1906 年的海軍計畫批准了幾個計畫，其中規定要建造 19 艘主力艦。最終版本採用了稍微擴大的中隊主力艦 Danton 的艦身，並採用線性菱形排列的六座 305 毫米雙聯裝炮塔。裝甲和推進裝置也與原型艦相符。雖然此計畫從未實際執行，但其進一步發展導致了 Courbet 級主力艦的出現。"
@@ -71064,7 +71064,7 @@ msgid "IDS_PFSB103_YEAR"
 msgstr "1907"
 
 msgid "IDS_PFSB104"
-msgstr "Courbet"
+msgstr "庫爾貝"
 
 msgid "IDS_PFSB104_DESCR"
 msgstr "新的主力艦設計考慮了領導層希望將武器集中在艦艉和艦艏的需求。此艦艇在雙聯裝炮塔中裝備十二門 305 毫米火炮：兩座超射型炮塔位於艦艉和艦艏，另外兩座炮塔則位於艦艇兩側。此艦級所有四艘主力艦皆活躍於第一次世界大戰的地中海戰區。"
@@ -71079,7 +71079,7 @@ msgid "IDS_PFSB104_YEAR"
 msgstr "1913"
 
 msgid "IDS_PFSB105"
-msgstr "Bretagne"
+msgstr "布列塔尼"
 
 msgid "IDS_PFSB105_DESCR"
 msgstr "1900 年代晚期到 1910 年代早期出現了增加無畏艦主炮口徑的趨勢：最新的英國；美國；以及日本主力艦都設計為搭載 343–356 毫米火炮。新的法國艦艇則裝備了 340 毫米主炮。由於諸多限制，新艦艇的艦身設計幾乎與先前「Courbet」級相同，但配備的是五座主炮塔而非六座。所有三艘 Bretagne 級艦艇都投入了第一次世界大戰和第二次世界大戰初期。Bretagne 在襲擊凱比爾港中遭摧毀。"
@@ -71094,7 +71094,7 @@ msgid "IDS_PFSB105_YEAR"
 msgstr "1916"
 
 msgid "IDS_PFSB106"
-msgstr "Normandie"
+msgstr "諾曼第"
 
 msgid "IDS_PFSB106_DESCR"
 msgstr "Bretagne 級主力艦計畫在獲得批准後，進一步改善未來艦艇的研究仍在繼續。設計師們透過以三座四聯裝炮塔配置 340 毫米火炮來實現更多的選擇。裝甲配置也略有改變。然而，艦艇的建造在第一次世界大戰的高峰時期暫停，戰爭結束後，此計畫被徹底放棄。"
@@ -71109,7 +71109,7 @@ msgid "IDS_PFSB106_YEAR"
 msgstr "1912"
 
 msgid "IDS_PFSB107"
-msgstr "Lyon"
+msgstr "里昂"
 
 msgid "IDS_PFSB107_DESCR"
 msgstr "1912 年，法國開始建造更大的新碼頭。造船工程師們因此能夠擴大他們在設計 Bretagne 級和 Normandie 級時的限制。法國尚未研製出更大口徑的火炮，因此決定增加 340 毫米火炮的數量。最終設計包括四座四聯裝主炮塔，安裝在比 Normandie 級稍大的艦身上。然而，由於第一次世界大戰的爆發，這些艦艇從未安放龍骨。"
@@ -71124,13 +71124,13 @@ msgid "IDS_PFSB107_YEAR"
 msgstr "1913"
 
 msgid "IDS_PFSB108"
-msgstr "Richelieu"
+msgstr "黎希留"
 
 msgid "IDS_PFSB108_DESCR"
 msgstr "Richelieu 級是法國對義大利 Littorio 級的回應。這個最終計畫本質上是 Dunkerque 的擴大版，並且改良了對空防禦。建造期間，Richelieu 被撤離到非洲，但此艦艇稍後便投入了第二次世界大戰。"
 
 msgid "IDS_PFSB108_FULL"
-msgstr "Richelieu"
+msgstr "黎希留"
 
 msgid "IDS_PFSB108_NUMBER"
 msgstr "2"
@@ -71139,13 +71139,13 @@ msgid "IDS_PFSB108_YEAR"
 msgstr "1940"
 
 msgid "IDS_PFSB109"
-msgstr "Alsace"
+msgstr "阿爾薩斯"
 
 msgid "IDS_PFSB109_DESCR"
 msgstr "當人們逐漸了解德國計劃建造之主力艦的特性，為回應此情報於是開發了這項計畫。其中一個計畫是進一步發展 Richelieu 級和 Gascogne 級，在三座四聯裝炮塔中裝備 380 毫米火炮。然而，由於法國戰敗，這些艦艇從未安放龍骨。"
 
 msgid "IDS_PFSB109_FULL"
-msgstr "Alsace"
+msgstr "阿爾薩斯"
 
 msgid "IDS_PFSB109_NUMBER"
 msgstr "0"
@@ -71169,7 +71169,7 @@ msgid "IDS_PFSB110_YEAR"
 msgstr "1946"
 
 msgid "IDS_PFSB111"
-msgstr "Patrie"
+msgstr "祖國"
 
 msgid "IDS_PFSB111_DESCR"
 msgstr "如果繼續開發配備 431 毫米主炮的主力艦，下一個合乎邏輯的步驟就是增加火炮數量。就算考慮到防空炮和輔助火炮的減少，為實現此一目標還是需要額外的主炮塔。在這種情況下，主力艦的火炮會在三座四聯裝炮塔中裝備十二門 431 毫米火炮。"
@@ -71184,7 +71184,7 @@ msgid "IDS_PFSB111_YEAR"
 msgstr "1957"
 
 msgid "IDS_PFSB506"
-msgstr "Dunkerque"
+msgstr "敦刻爾克"
 
 msgid "IDS_PFSB506_DESCR"
 msgstr "新艦級艦艇的設計在《華盛頓海軍條約》簽署後展開。1930 年代早期，一個艦艇計畫已準備就緒，在兩座四聯裝炮塔中裝備八門 330 毫米火炮，排水量為 26,500 噸。第二次世界大戰初期，Dunkerque 參與過巡邏和護航行動，她隨後被派往地中海。由於襲擊凱比爾港，這艘戰鬥巡洋艦嚴重受損並擱淺。"
@@ -71199,7 +71199,7 @@ msgid "IDS_PFSB506_YEAR"
 msgstr "1937"
 
 msgid "IDS_PFSB507"
-msgstr "Strasbourg"
+msgstr "斯特拉斯堡"
 
 msgid "IDS_PFSB507_DESCR"
 msgstr "第二艘 Dunkerque 級戰鬥巡洋艦採用了改良後的裝甲配置，包括更厚的裝甲帶。第二次世界大戰初期，Strasbourg 參與過巡邏和護航行動，隨後被派往凱比爾港。法國投降後，英國海軍在彈弓行動中襲擊了法國的艦艇。Strasbourg 成功逃離港口並抵達土倫。"
@@ -71214,7 +71214,7 @@ msgid "IDS_PFSB507_YEAR"
 msgstr "1938"
 
 msgid "IDS_PFSB508"
-msgstr "Gascogne"
+msgstr "加斯科涅"
 
 msgid "IDS_PFSB508_DESCR"
 msgstr "1930 年代晚期當所有海軍強國都在大規模建造新型主力艦的背景下，法國開始了新型主力艦計畫。Dunkerque 經過測試後，在艦艏安裝火炮的主力艦概念備受質疑。此計畫是建造兩艘符合 Richelieu 級航速和裝甲的新型主力艦。主力艦 Gascogne 原本按設計要將主炮放置在艦艉和艦艏來建造。然而，此艦艇因為法國投降而未安放龍骨。"
@@ -71229,7 +71229,7 @@ msgid "IDS_PFSB508_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB510"
-msgstr "Bourgogne"
+msgstr "勃艮第"
 
 msgid "IDS_PFSB510_DESCR"
 msgstr "1930 年代晚期一個為了回應德國海軍發展計畫的情報而發展的計畫，包括在三座四聯裝炮塔中裝備 380 毫米火炮。計畫中的兩艘主力艦皆於 1941 年訂購並安放龍骨。此計畫共計會有四艘主力艦。如果這些主力艦在戰爭結束後完工，就會配備當時最現代化的防空炮：美國長管 127 毫米火炮和新型 57 毫米 ACAD 炮座。"
@@ -71244,7 +71244,7 @@ msgid "IDS_PFSB510_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB518"
-msgstr "Jean Bart"
+msgstr "讓·巴爾"
 
 msgid "IDS_PFSB518_DESCR"
 msgstr "Jean Bart，第二艘 Richelieu 級主力艦，於第二次世界大戰爆發後下水。為了防止她被敵人擄獲，這艘尚未完工的艦艇被帶到卡薩布蘭加繼續建造。Jean Bart 在卡薩布蘭加的盟軍登陸行動期間進行了抵抗，後來被主力艦 Massachusetts 嚴重損壞。此艦艇的建造一直到戰爭結束後才完成。"
@@ -71259,7 +71259,7 @@ msgid "IDS_PFSB518_YEAR"
 msgstr "1949"
 
 msgid "IDS_PFSB528"
-msgstr "Champagne"
+msgstr "香檳"
 
 msgid "IDS_PFSB528_DESCR"
 msgstr "1930 年代，法國和蘇聯簽署了《蘇法互助條約》，其中包括了可以相互購買軍事裝備。根據蘇聯的訂單，Schneider 開發了一種 406 毫米火炮，預計要安裝在蘇聯主力艦上。第二次世界大戰的爆發減緩了蘇聯主力艦的建造速度，而這些火炮可以用在法國正在建造的主力艦上。為了安裝 380 毫米四聯裝炮塔的炮塔座，406 毫米炮塔因此必須改成三聯裝。"
@@ -71274,7 +71274,7 @@ msgid "IDS_PFSB528_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB538"
-msgstr "Flandre"
+msgstr "弗蘭德爾"
 
 msgid "IDS_PFSB538_DESCR"
 msgstr "在截獲德國規劃中主力艦的相關情報後，作為回應而開發的其中一項計畫，包括在三座三聯裝炮塔中裝備 380 毫米火炮，就本質上是發展自 Richelieu 和 Gascogne 級。此選項被駁回，這導致 Alsace 級主力艦的設計計畫被選為最終計畫。"
@@ -71289,7 +71289,7 @@ msgid "IDS_PFSB538_YEAR"
 msgstr "1952"
 
 msgid "IDS_PFSB548"
-msgstr "Picardie"
+msgstr "皮卡第"
 
 msgid "IDS_PFSB548_DESCR"
 msgstr "1912 年，法國開始在土倫和布列塔尼的造船廠建造更大的船塢。當時，主要的海軍強國正在建造擁有更先進主炮的艦艇。法國也在考慮轉向使用 370 至 380 毫米口徑火炮；然而，法國還未具備此口徑海軍火炮。為了解決這個問題，工程師選擇增加較小口徑火炮的數量，最終設計在四座炮塔中裝備了多達十六門火炮。"
@@ -71304,7 +71304,7 @@ msgid "IDS_PFSB548_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB596"
-msgstr "Dunkerque B"
+msgstr "敦刻爾克 B"
 
 msgid "IDS_PFSB596_DESCR"
 msgstr "新艦級艦艇的設計在《華盛頓海軍條約》簽署後展開。1930 年代早期，一個艦艇計畫已準備就緒，在兩座四聯裝炮塔中裝備八門 330 毫米火炮，排水量為 26,500 噸。第二次世界大戰初期，Dunkerque 參與過巡邏和護航行動，她隨後被派往地中海。由於襲擊凱比爾港，這艘戰鬥巡洋艦嚴重受損並擱淺。"
@@ -71319,13 +71319,13 @@ msgid "IDS_PFSB596_YEAR"
 msgstr "1937"
 
 msgid "IDS_PFSB599"
-msgstr "Jean Bart B"
+msgstr "讓·巴爾 B"
 
 msgid "IDS_PFSB599_DESCR"
 msgstr "Jean Bart，第二艘 Richelieu 級主力艦，於第二次世界大戰爆發後下水。為了防止她被敵人擄獲，這艘尚未完工的艦艇被帶到卡薩布蘭加繼續建造。Jean Bart 在卡薩布蘭加的盟軍登陸行動期間進行了抵抗，後來被主力艦 Massachusetts 嚴重損壞。此艦艇的建造一直到戰爭結束後才完成。"
 
 msgid "IDS_PFSB599_FULL"
-msgstr "Jean Bart B"
+msgstr "讓·巴爾 B"
 
 msgid "IDS_PFSB599_NUMBER"
 msgstr "2"
@@ -71334,7 +71334,7 @@ msgid "IDS_PFSB599_YEAR"
 msgstr "1949"
 
 msgid "IDS_PFSB898"
-msgstr "[Richelieu]"
+msgstr "[4連裝奇怪龍]"
 
 msgid "IDS_PFSB898_DESCR"
 msgstr "這艘艦艇為 Richelieu 的複製品，專為聯合作戰設計"
@@ -71349,7 +71349,7 @@ msgid "IDS_PFSB898_YEAR"
 msgstr "1940"
 
 msgid "IDS_PFSC101"
-msgstr "Bougainville"
+msgstr "布甘維爾"
 
 msgid "IDS_PFSC101_DESCR"
 msgstr "法國海軍的 Bougainville 單桅帆船被歸類為「殖民地通報艦」，用於在法國的海外領土服役。這些艦艇配備了適合熱帶地區的裝備，並為特遣隊人員及其指揮官提供了房間。可靠且經濟的柴油發動機，為其提供遠距離續航能力。第二次世界大戰期間，大部分 Bougainville 通報艦服役於大西洋、非洲海岸，以及太平洋。"
@@ -71364,7 +71364,7 @@ msgid "IDS_PFSC101_YEAR"
 msgstr "1933"
 
 msgid "IDS_PFSC102"
-msgstr "Jurien"
+msgstr "尤里安"
 
 msgid "IDS_PFSC102_DESCR"
 msgstr "此艦艇成為了法國最後一艘裝甲巡洋艦。Jurien de la Graviere 在入伍後加入了大西洋中隊。後來，此艦艇轉移至地中海。第一次世界大戰期間，Jurien de la Graviere 加入了一支主力艦分艦隊，其任務是威懾亞得里亞海的奧匈帝國艦隊。當時，此巡洋艦負責執行巡邏任務並參加了對土耳其海岸的突襲。"
@@ -71379,7 +71379,7 @@ msgid "IDS_PFSC102_YEAR"
 msgstr "1903"
 
 msgid "IDS_PFSC103"
-msgstr "Friant"
+msgstr "弗利昂"
 
 msgid "IDS_PFSC103_DESCR"
 msgstr "早在 1909 年，法國就開始了「中隊偵察」計畫。訂購了此艦艇，但由於第一次世界大戰的爆發而未能安放龍骨。此計畫在戰爭期間經歷多次修改。在最終版本中，主炮組是以四座雙聯裝炮塔配置八門 138.6 毫米艦炮所組成。然而在當時，法國工程師正在研究擄獲的德國巡洋艦，以及截獲有關美國 Omaha 級巡洋艦的特性資訊。根據他們的調查結果，認為此計畫已經過時。"
@@ -71394,7 +71394,7 @@ msgid "IDS_PFSC103_YEAR"
 msgstr "1919"
 
 msgid "IDS_PFSC104"
-msgstr "Duguay-Trouin"
+msgstr "迪蓋·特魯安"
 
 msgid "IDS_PFSC104_DESCR"
 msgstr "在研究了德國的設計和截獲有關美國 Omaha 級巡洋艦的特性資訊後，就對偵察巡洋艦的計畫進行了修改。此計畫的最終要求包括要在四座炮塔中裝備八門 155 毫米火炮，以及 8,000 噸的排水量。第二次世界大戰期間，Duguay-Trouin 參與了在大西洋的巡邏行動和在法國南部的盟軍登陸行動。"
@@ -71409,7 +71409,7 @@ msgid "IDS_PFSC104_YEAR"
 msgstr "1926"
 
 msgid "IDS_PFSC105"
-msgstr "Émile Bertin"
+msgstr "白勞易"
 
 msgid "IDS_PFSC105_DESCR"
 msgstr "1928年，法國海軍總部開始研發巡洋艦以保護海上航線。對於此類巡洋艦需求很高，主要訴求為 152 毫米的主炮，以及 6,000 噸的排水量。此艦艇計畫幾乎沒有裝甲，但航速很快。第二次世界大戰期間，Emile Bertin 參加了挪威戰役，將黃金運送到美國，以及參與了在法國南部的盟軍登陸行動。"
@@ -71424,7 +71424,7 @@ msgid "IDS_PFSC105_YEAR"
 msgstr "1935"
 
 msgid "IDS_PFSC106"
-msgstr "La Galissonnière"
+msgstr "拉·加利索尼埃"
 
 msgid "IDS_PFSC106_DESCR"
 msgstr "《倫敦海軍條約》簽署後，法國開始研發新型巡洋艦。技術規格包括能抵禦距離 9,000 公尺外的 138.6 毫米砲彈，以及抵禦距離 14,000 公尺外的 152 毫米砲彈。武器由九門 152 毫米火炮所組成。第二次世界大戰期間，La Galissonniere 負責在突尼西亞海岸巡邏，並在彈弓行動中為主力艦 Provence 提供掩護。"
@@ -71439,7 +71439,7 @@ msgid "IDS_PFSC106_YEAR"
 msgstr "1936"
 
 msgid "IDS_PFSC107"
-msgstr "Algérie"
+msgstr "阿爾及利"
 
 msgid "IDS_PFSC107_DESCR"
 msgstr "在《華盛頓海軍條約》的限制下建造了 Duquesne 級和 Suffren 級兩個系列的巡洋艦之後，設計師面臨的任務是開發一艘具有增強型裝甲的艦艇，能在最遠 15 公里（水平）和 20 公里（垂直）的距離上抵禦 155 毫米砲彈。此巡洋艦與其前輩不同之處在於她的平甲板艦身更短和更寬，且其推進裝置採線性布局。第二次世界大戰初期，Algerie 參與了巡邏和護航任務，包括護衛運送黃金的艦艇。"
@@ -71454,7 +71454,7 @@ msgid "IDS_PFSC107_YEAR"
 msgstr "1934"
 
 msgid "IDS_PFSC108"
-msgstr "Charles Martel"
+msgstr "查理·馬特"
 
 msgid "IDS_PFSC108_DESCR"
 msgstr "新型巡洋艦的設計是以其前輩 Algerie 為基礎，並使用了 De Grasse 輕型巡洋艦的元素。新艦艇的主要特點是主炮採用了有助於增強火力的三聯裝炮塔。此計畫其中一個版本是在艦艇上安裝飛機設備。相較於前輩，推進裝置功率的增加目的在於提高航速。"
@@ -71469,7 +71469,7 @@ msgid "IDS_PFSC108_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSC109"
-msgstr "Saint-Louis"
+msgstr "路易九世"
 
 msgid "IDS_PFSC109_DESCR"
 msgstr "隨著第二次世界大戰爆發，法國暫停了無法在近期完工的艦艇建造工作。包括重型巡洋艦等計劃建造的艦艇也取消安放龍骨，但計畫的開發仍持續進行。1940 年，一項新的造船計畫獲得批准，其中包括建造三艘排水量為 13,000 噸的巡洋艦。該設計草案有四種版本，其裝甲防護系統皆有所不同。德國在 1940 年夏天的入侵擾亂了法國巡洋艦的建造計畫。"
@@ -71499,7 +71499,7 @@ msgid "IDS_PFSC110_YEAR"
 msgstr "1956"
 
 msgid "IDS_PFSC111"
-msgstr "Condé"
+msgstr "孔代"
 
 msgid "IDS_PFSC111_DESCR"
 msgstr "由法國重型巡洋艦進一步開發而來的假想。此艦艇的目的在於對抗德國重型巡洋艦，是以戰前此類艦艇作為基礎所開發。主要武器是在三座四聯裝炮塔中裝備 240 毫米火炮，為法國海軍的典型武器。"
@@ -71514,7 +71514,7 @@ msgid "IDS_PFSC111_YEAR"
 msgstr "1957"
 
 msgid "IDS_PFSC208"
-msgstr "Cherbourg"
+msgstr "瑟堡"
 
 msgid "IDS_PFSC208_DESCR"
 msgstr "簽署《華盛頓海軍條約》後，儘管此類型艦艇受到限制，但法國依舊有權建造新的主力艦，並展開了新型艦艇的設計；以特性來說她們可歸類為戰鬥巡洋艦或「大型」巡洋艦。一項新型艦艇計畫於 1930 年發展成形，其排水量為 23,333 噸，航速為 30 節，在艦艏的兩座四聯裝炮塔中裝備八門 305 毫米火炮。"
@@ -71529,7 +71529,7 @@ msgid "IDS_PFSC208_YEAR"
 msgstr "1942"
 
 msgid "IDS_PFSC209"
-msgstr "Brest"
+msgstr "瑟堡"
 
 msgid "IDS_PFSC209_DESCR"
 msgstr "在建造 23,333 噸排水量的巡洋艦設計被駁回後，便循著增加噸位的道路進一步發展。最終設計包括在四聯裝炮塔中裝備八門 330 毫米火炮，以及 26,500 噸的排水量。此巡洋艦也預計會安裝三座四聯裝和兩座雙聯裝的 130 毫米高平兩用炮。"
@@ -71544,7 +71544,7 @@ msgid "IDS_PFSC209_YEAR"
 msgstr "1944"
 
 msgid "IDS_PFSC210"
-msgstr "馬賽"
+msgstr "布雷斯特"
 
 msgid "IDS_PFSC210_DESCR"
 msgstr "在 1920 年代晚期到 1930 年代早期的戰鬥巡洋艦或「大型」巡洋艦的開發過程中，設計過幾個排水量為 23,690 噸的巡洋艦計畫。其中一項計畫是在艦艏的三座三聯裝炮塔中裝備九門 330 毫米火炮並抬高第二座炮塔。"
@@ -71559,7 +71559,7 @@ msgid "IDS_PFSC210_YEAR"
 msgstr "1944"
 
 msgid "IDS_PFSC506"
-msgstr "De Grasse"
+msgstr "德·格拉斯"
 
 msgid "IDS_PFSC506_DESCR"
 msgstr "以 La Galissonniere 級改良後的設計為基礎的巡洋艦。此艦艇具有不同的推進裝置配置，並且擁有更先進的上層建築和改良的防空炮的位置。巡洋艦 De Grasse 於第二次世界大戰爆發前幾日安放龍骨。"
@@ -71574,7 +71574,7 @@ msgid "IDS_PFSC506_YEAR"
 msgstr "1938"
 
 msgid "IDS_PFSC507"
-msgstr "Toulon"
+msgstr "土倫"
 
 msgid "IDS_PFSC507_DESCR"
 msgstr "簽署《華盛頓海軍條約》後，法國依舊有權建造新的主力艦來取代其舊主力艦，並在 1920 年代展開了新艦級的設計。這些艦艇就的特性來說可歸類為戰鬥巡洋艦或「大型」巡洋艦。此類型艦艇的第一個計畫是一艘排水量為 17,500 噸的巡洋艦，在兩座四聯裝炮塔中裝備八門 305 毫米火炮。"
@@ -71604,7 +71604,7 @@ msgid "IDS_PFSC508_YEAR"
 msgstr "1953"
 
 msgid "IDS_PFSC509"
-msgstr "Carnot"
+msgstr "卡諾"
 
 msgid "IDS_PFSC509_DESCR"
 msgstr "在 1920 年代晚期到 1930 年代早期「大型巡洋艦」的開發過程中，設計過幾項排水量為 23,690 噸的巡洋艦計畫。其中一項計畫是在三座炮塔中裝備十門 305 毫米火炮的艦艇：兩座三聯裝炮塔和一座四聯裝炮塔，後者位於艦艏的超射位置，其中一座三聯裝炮塔放置在艦艉。此巡洋艦還裝備了四座 138.6 毫米雙聯裝炮座和八座 100 毫米雙聯裝炮座。"
@@ -71634,7 +71634,7 @@ msgid "IDS_PFSC510_YEAR"
 msgstr "1959"
 
 msgid "IDS_PFSC516"
-msgstr "Dupleix"
+msgstr "杜布雷"
 
 msgid "IDS_PFSC516_DESCR"
 msgstr "Suffren 級重型巡洋艦。當局下令加強其裝甲，以保護她在最遠 18,000 公尺的距離內不受 155 毫米砲彈的傷害。Dupleix 在入伍後分配到土倫的第一中隊第一輕型分隊，後來又調往第一巡洋艦分隊。隨著戰爭爆發，此巡洋艦參與了巡邏和護航任務，以及對熱那亞的突襲。法國投降後，Dupleix 幾乎不再出海。"
@@ -71649,7 +71649,7 @@ msgid "IDS_PFSC516_YEAR"
 msgstr "1932"
 
 msgid "IDS_PFSC518"
-msgstr "Jean Bart"
+msgstr "讓·巴爾"
 
 msgid "IDS_PFSC518_DESCR"
 msgstr "Jean Bart，第二艘 Richelieu 級主力艦，於第二次世界大戰爆發後下水。為了防止她被敵人擄獲，這艘尚未完工的艦艇被帶到卡薩布蘭加繼續建造。Jean Bart 在卡薩布蘭加的盟軍登陸行動期間進行了抵抗，後來被主力艦 Massachusetts 嚴重損壞。此艦艇的建造一直到戰爭結束後才完成。"
@@ -71664,7 +71664,7 @@ msgid "IDS_PFSC518_YEAR"
 msgstr "1949"
 
 msgid "IDS_PFSC810"
-msgstr "Brennus"
+msgstr "布倫努斯"
 
 msgid "IDS_PFSC810_DESCR"
 msgstr "此計畫為 13,000 噸排水量的重型巡洋艦，預定在三座三聯裝炮塔中裝備九門 203 毫米火炮。然而，由於所有限制皆因戰爭爆發而解除，因此能建造火炮更強大的艦艇。第二次世界大戰初期在法國適合的火炮之一為 240 毫米 Schneider 火炮。"
@@ -71694,7 +71694,7 @@ msgid "IDS_PFSC896_YEAR"
 msgstr "1936"
 
 msgid "IDS_PFSD102"
-msgstr "En. Gabolde"
+msgstr "加博爾德海軍少尉"
 
 msgid "IDS_PFSD102_DESCR"
 msgstr "Enseigne Gabolde 為第三艘 Enseigne Roux 級艦艇，擁有不同的推進裝置：它採用了齒輪減速渦輪機。考慮到第一次世界大戰期間得到的經驗，武器的組成因此定案改變：在艦艇上安裝三門相同口徑的火炮，再將 450 毫米魚雷發射管替換成 550 毫米魚雷發射管。Enseigne Gabolde 的設計成為了戰間期法國驅逐艦的基礎。"
@@ -71709,7 +71709,7 @@ msgid "IDS_PFSD102_YEAR"
 msgstr "1923"
 
 msgid "IDS_PFSD103"
-msgstr "Fusilier"
+msgstr "燧槍兵"
 
 msgid "IDS_PFSD103_DESCR"
 msgstr "尋找新型驅逐艦的最佳配置是從建造 1,000 噸的 Enseigne Roux 級驅逐艦開始。戰爭結束後，數項考慮到義大利和英國艦艇經驗的計畫出現。相較於其他國家的最新艦艇，這些計畫被認為不夠強大，其進一步發展導致了 Bourrasque 級驅逐艦和 Jaguar 級領導艦的出現。"
@@ -71724,7 +71724,7 @@ msgid "IDS_PFSD103_YEAR"
 msgstr "1920"
 
 msgid "IDS_PFSD104"
-msgstr "Bourrasque"
+msgstr "狂風"
 
 msgid "IDS_PFSD104_DESCR"
 msgstr "第一次世界大戰結束後提出的驅逐艦計畫的武器不足以與英國和義大利艦艇相比。新型驅逐艦獲得了 130 毫米火炮，從標準排水量增至 1,455 噸。隨著第二次世界大戰爆發，Bourrasque 級領艦參與了搜索和護航行動。1940 年 5 月 30 日，Bourrasque 在部隊撤離敦克爾克期間被擊毀。"
@@ -71739,7 +71739,7 @@ msgid "IDS_PFSD104_YEAR"
 msgstr "1926"
 
 msgid "IDS_PFSD105"
-msgstr "Jaguar"
+msgstr "美洲豹"
 
 msgid "IDS_PFSD105_DESCR"
 msgstr "由第一次世界大戰結束後提出的其中一種設計進一步發展而來。驅逐領導艦獲得了五門 130 毫米火炮，2,126 噸的標準排水量。第二次世界大戰初期，Jaguar 服役於第二大型驅逐艦分艦隊，參加了護航和巡邏行動。1940 年 5 月 23 日，Jaguar 在敦克爾克附近遭魚雷擊中後沉沒。"
@@ -71754,7 +71754,7 @@ msgid "IDS_PFSD105_YEAR"
 msgstr "1926"
 
 msgid "IDS_PFSD106"
-msgstr "Guépard"
+msgstr "獵豹"
 
 msgid "IDS_PFSD106_DESCR"
 msgstr "Guepard 領導艦系列在 Jaguar 身上獲得諸多改善。主炮由 138.6 毫米火炮組成，新型 37 毫米速射炮負責提供對空防禦。武器的改良導致尺寸與排水量增加，因此提高引擎功率以維持航速。第二次世界大戰期間，Guepard 參與了對義大利的行動 — 特別是炮擊熱那亞港。"
@@ -71769,7 +71769,7 @@ msgid "IDS_PFSD106_YEAR"
 msgstr "1929"
 
 msgid "IDS_PFSD107"
-msgstr "Vauquelin"
+msgstr "沃克蘭"
 
 msgid "IDS_PFSD107_DESCR"
 msgstr "法國海軍在建造 Vauquelin 級領艦時首次大量運用焊接技術。138.6 毫米火炮取代為 1927 年式的新型號，而魚雷發射管的位置及數量也有所改變。她們全部均以過去著名的法國水手命名。此系列領艦在第二次界大戰初期服役於南地中海區域。"
@@ -71784,7 +71784,7 @@ msgid "IDS_PFSD107_YEAR"
 msgstr "1933"
 
 msgid "IDS_PFSD108"
-msgstr "Le Fantasque"
+msgstr "空想"
 
 msgid "IDS_PFSD108_DESCR"
 msgstr "Le Fantasque 級領導艦是為了對抗義大利偵察巡洋艦而開發 — 她們必須要能遠程作戰並擁有不錯的射速。新型 1929 年式 138.6 毫米 50 倍徑火炮是根據這些要求所設計。隨著戰爭的爆發，Le Fantasque 成為了抵抗德國破襲艦和封鎖破壞者所建立的特遣隊中最現代化艦艇的一員。Le Fantasque 在美國進行現代化後前往地中海服役，參加了在科西嘉島的登陸行動和龍騎兵行動。"
@@ -71799,7 +71799,7 @@ msgid "IDS_PFSD108_YEAR"
 msgstr "1936"
 
 msgid "IDS_PFSD109"
-msgstr "Mogador"
+msgstr "莫加多爾"
 
 msgid "IDS_PFSD109_DESCR"
 msgstr "新型驅逐艦原定要陪同 Dunkerque 級戰鬥巡洋艦，對抗德國的袖珍主力艦。為了實現這些目標，此計畫提供了四座 138.6 毫米高平兩用炮座。這些艦艇投入服役後，是法國海軍在第二次世界大戰初期最新服役的驅逐艦。1940 年 7 月 3 日彈弓行動期間，Mogador 遭一枚 381 毫米砲彈擊中而嚴重損壞。"
@@ -71829,7 +71829,7 @@ msgid "IDS_PFSD110_YEAR"
 msgstr "1940"
 
 msgid "IDS_PFSD210"
-msgstr "Marceau"
+msgstr "瑪索"
 
 msgid "IDS_PFSD210_DESCR"
 msgstr "1939 年，由於全球緊張情勢升溫，當局決定繼續建造領導艦並將 Mogador 級艦艇數量增至六艘。驅逐艦 Marceau 從未安放龍骨，而且此艦艇的建造工作在法國對德國宣戰後擱置。由於 1940 年夏天法國戰敗，這艘艦艇從未實際建造。如果戰爭結束後能繼續建造，此艦艇就可以使用美國的 127 毫米高平兩用炮。"
@@ -71844,7 +71844,7 @@ msgid "IDS_PFSD210_YEAR"
 msgstr "1940"
 
 msgid "IDS_PFSD504"
-msgstr "Siroco"
+msgstr "熱風"
 
 msgid "IDS_PFSD504_DESCR"
 msgstr "Bourrasque 級驅逐艦 Siroco 隸屬於第一驅逐艦艦隊的第一驅逐艦中隊第五驅逐艦分隊。第二次世界大戰初期，此驅逐艦負責保護船團和偵察德國潛水艦。5 月 29 日，此驅逐艦在盟軍撤離敦克爾克期間撤出了 600 人。5 月 31 日夜晚，載有大約 900 名撤離人員的 Siroco 被一艘德國魚雷快艇的魚雷擊中，導致此驅逐艦的螺旋槳被撕裂。動彈不得的艦艇就這樣被德國的俯衝轟炸機和魚雷快艇擊沉。"
@@ -71859,7 +71859,7 @@ msgid "IDS_PFSD504_YEAR"
 msgstr "1927"
 
 msgid "IDS_PFSD506"
-msgstr "Aigle"
+msgstr "鷹"
 
 msgid "IDS_PFSD506_DESCR"
 msgstr "第二個「四煙囪」系列艦艇，與其前輩 — Guepard 級幾乎沒什麼不同。最後兩艘驅逐艦的引擎有著更高的蒸汽參數。第二次世界大戰期間，Aigle 參加了運送黃金到美國的任務；護衛來自北非的軍艦；以及參與了對熱那亞的突襲。"
@@ -71874,7 +71874,7 @@ msgid "IDS_PFSD506_YEAR"
 msgstr "1932"
 
 msgid "IDS_PFSD508"
-msgstr "Le Terrible"
+msgstr "可怖"
 
 msgid "IDS_PFSD508_DESCR"
 msgstr "Le Fantasque 級驅逐艦 Le Terrible，在第二次世界大戰初期負責在大西洋護衛船團和搜索德國破襲艦，後來轉移至阿爾及利亞對抗義大利艦隊。Le Terrible 在彈弓行動期間和戰鬥巡洋艦 Dunkerque 一同突圍到土倫。1942 年，此驅逐艦轉移至達卡。此艦艇參與了在義大利和法國南部的登陸行動。"
@@ -71889,7 +71889,7 @@ msgid "IDS_PFSD508_YEAR"
 msgstr "1936"
 
 msgid "IDS_PFSD605"
-msgstr "Cyclone"
+msgstr "旋風"
 
 msgid "IDS_PFSD605_DESCR"
 msgstr "1940 年 5 月，Bourrasque 級驅逐艦 Cyclone 曾為海岸線作戰的盟軍部隊提供火力支援，後來也在敦克爾克撤離行動期間提供協助。5 月 31 日，Cyclone 遭德國艦艇的魚雷擊中，但在波蘭驅逐艦 Blyskawica 的護衛下成功抵達英國。"
@@ -71904,7 +71904,7 @@ msgid "IDS_PFSD605_YEAR"
 msgstr "1928"
 
 msgid "IDS_PFSD808"
-msgstr "L'Effronté"
+msgstr "無禮"
 
 msgid "IDS_PFSD808_DESCR"
 msgstr "測試用艦艇。"
@@ -71919,13 +71919,13 @@ msgid "IDS_PFSD808_YEAR"
 msgstr "2019"
 
 msgid "IDS_PFSD810"
-msgstr "Kléber CLR"
+msgstr "克勒貝爾 CLR"
 
 msgid "IDS_PFSD810_DESCR"
 msgstr "在兩艘 Mogador 級領導艦獲訂後，此類型的新艦艇好幾年都沒有再建造。1939 年，由於國際局勢惡化，當局決定繼續建造領導艦。新計畫包括了增強型對空防禦。然而，戰爭爆發導致建造工作暫停，進而取消。1940 年，第二次嘗試建造裝備 130 毫米高平兩用炮的四艘艦艇，但德國的進攻和法國的投降干擾了這些計畫。"
 
 msgid "IDS_PFSD810_FULL"
-msgstr "Kléber CLR"
+msgstr "克勒貝爾 CLR"
 
 msgid "IDS_PFSD810_NUMBER"
 msgstr "1"
