@@ -6315,7 +6315,7 @@ msgid "IDS_BATTLEHINT_TYPE_BOMBER"
 msgstr "魚雷轟炸機"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_AIRDEFENSEDISP"
-msgstr "防禦用對空火力"
+msgstr "節慶煙花"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_CRASHCREW"
 msgstr "傷害控制小組"
@@ -20641,7 +20641,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY002_REGENCREW"
 msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY003_AIRDEFENSEDISP"
-msgstr "提高防空火力的強度。"
+msgstr "為敵方駕駛員提神 讓充滿硝煙的戰場上有那麼幾分歡樂"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY004_FIGHTER"
 msgstr "跟隨著艦艇並會自動攻擊敵方飛機。"
@@ -20671,9 +20671,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY008_SONARSEARCH"
 msgstr "擴大對敵方艦艇與魚雷的絕對捕獲範圍，包括身處於煙幕內的對象。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREWPREMIUM"
-msgstr ""
-"撲滅火災、移除進水、並修理受損的配件。\n"
-"防止敵方潛水艦發射的魚雷被引導而來。"
+msgstr "不可以亂繳的東西"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREW_LIMITED_PREMIUM"
 msgstr ""
@@ -20688,13 +20686,13 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREWPREMIUM"
 msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_EHEAL_PREMIUM"
-msgstr "可在短時間內透過修理損傷來恢復可觀的艦艇血量。"
+msgstr "船被燒掉再造一艘不就好了？。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_LONG"
 msgstr "顯著恢復艦艇血量。維修需時較長。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY011_AIRDEFENSEDISPPREMIUM"
-msgstr "提高防空火力的強度。"
+msgstr "為敵方駕駛員提神 讓充滿硝煙的戰場上有那麼幾分歡樂"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY012_FIGHTERPREMIUM"
 msgstr "跟隨著艦艇並會自動攻擊敵方飛機。"
@@ -20760,16 +20758,16 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY018_TORPEDORELOADERPREMIUM"
 msgstr "縮短魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY019_RLSSEARCH"
-msgstr "大幅擴大對艦艇和水面潛水艦的絕對捕獲範圍，包括身處於煙幕內的對象。"
+msgstr "愛麗絲會幫你找到範圍內其他的小學生！全速逮捕她們吧。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY020_RLSSEARCHPREMIUM"
-msgstr "大幅擴大對艦艇和水面潛水艦的絕對捕獲範圍，包括身處於煙幕內的對象。"
+msgstr "愛麗絲會幫你找到範圍內其他的小學生！全速逮捕她們吧。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY021_ARTILLERYBOOSTER"
-msgstr "縮短主炮的裝填時間"
+msgstr "只要鞭大力一點 他們自然手腳就快了"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY022_ARTILLERYBOOSTERPREMIUM"
-msgstr "縮短主炮的裝填時間"
+msgstr "只要鞭大力一點 他們自然手腳就快了"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY023_CRASHCREWSUPER"
 msgstr "撲滅火災、移除進水、並修理受損的配件。"
@@ -21279,7 +21277,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREWPREMIUM_ALT"
 msgstr "消耗品裝載數已增加"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREW_EHEAL_PREMIUM"
-msgstr "特化維修小隊"
+msgstr "海上造船廠"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREW_EHEAL_PREMIUM_ALT"
 msgstr "消耗品裝載數已增加"
@@ -21288,7 +21286,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREW_LONG"
 msgstr "重型維修小隊"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY011_AIRDEFENSEDISPPREMIUM"
-msgstr "防禦用對空火力"
+msgstr "節慶煙花"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY012_FIGHTERPREMIUM"
 msgstr "戰鬥機"
@@ -21309,19 +21307,19 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY014_SMOKEGENERATOROIL_PREMIUM"
 msgstr "全速航行發煙機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY014_SMOKEGENERATORPREMIUM"
-msgstr "發煙機"
+msgstr "空氣污染"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY014_SMOKEGENERATOR_CYCLE_PREMIUM"
-msgstr "短發式發煙機"
+msgstr "短發式·空氣污染"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY015_SPEEDBOOSTERPREMIUM"
-msgstr "引擎增壓"
+msgstr "動 力 強 勁"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY015_SPEEDBOOSTER_IMP_PREMIUM"
 msgstr "緊急引擎功率"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY016_SONARSEARCHPREMIUM"
-msgstr "水底搜索"
+msgstr "吃雷倒數表"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY016_SONARSEARCH_SHORT_PREMIUM"
 msgstr "短程水底搜索"
@@ -21333,16 +21331,16 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY018_TORPEDORELOADERPREMIUM"
 msgstr "魚雷裝填助推器"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY019_RLSSEARCH"
-msgstr "監視雷達"
+msgstr "光よ！"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY020_RLSSEARCHPREMIUM"
-msgstr "監視雷達"
+msgstr "光よ！"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY021_ARTILLERYBOOSTER"
-msgstr "主炮裝填助推器"
+msgstr "超頻廉價勞工"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY022_ARTILLERYBOOSTERPREMIUM"
-msgstr "主炮裝填助推器"
+msgstr "超頻廉價勞工"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY023_CRASHCREWSUPER"
 msgstr "傷害控制小組 III"
@@ -21588,10 +21586,10 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY316_CRASHCREW_PVP"
 msgstr "傷害控制小組"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY317_SONARSEARCH_PVP"
-msgstr "水底搜索"
+msgstr "吃雷倒數表"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY318_RLSSEARCH_PVP"
-msgstr "監視雷達"
+msgstr "光よ！"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY319_SPEEDBOOSTER_PVP"
 msgstr "無敵引擎增壓"
@@ -21630,7 +21628,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY330_SPEEDBOOSTER_H2019"
 msgstr "無敵引擎增壓"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY331_ARTILLERYBOOSTER_H2019"
-msgstr "主炮裝填助推器"
+msgstr "超頻廉價勞工"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY332_REGENCREW_H2019"
 msgstr "維修小組"
@@ -27682,7 +27680,7 @@ msgid "IDS_FEAT_GOOD_DUR_EHEAL_1"
 msgstr "從 IX 階起，可使用「特化維修小隊」消耗品"
 
 msgid "IDS_FEAT_GOOD_DUR_EHEAL_1_DESC"
-msgstr "可在短時間內透過修理損傷來恢復可觀的艦艇血量。"
+msgstr "船燒沒了再造一艘就好了"
 
 msgid "IDS_FEAT_GOOD_DUR_EHEAL_1_NOLVL"
 msgstr "可使用「特化維修小隊」消耗品"
@@ -27811,7 +27809,7 @@ msgid "IDS_FEAT_GOOD_MAIN_BONUSMAINRELOAD_6"
 msgstr "從 VI 階起，可使用「主炮裝填助推器」消耗品"
 
 msgid "IDS_FEAT_GOOD_MAIN_BONUSMAINRELOAD_DESC"
-msgstr "縮短主炮的裝填時間"
+msgstr "只要鞭大力一點 他們自然手腳就快了"
 
 msgid "IDS_FEAT_GOOD_MAIN_BONUSMOD1"
 msgstr "可使用「火炮描繪室修改型 1」升級品"
@@ -30696,7 +30694,7 @@ msgid "IDS_HELP_CONSUMABLES"
 msgstr "消耗品"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_AIRDEFENSEDISP"
-msgstr "提高防空火力的強度。"
+msgstr "為敵方駕駛員提神 讓充滿硝煙的戰場上有那麼幾分歡樂。"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_CRASHCREW"
 msgstr "撲滅火災、移除進水、並修理受損的配件。"
@@ -30708,13 +30706,13 @@ msgid "IDS_HELP_CONSUME_DESCRIPTION_REGENCREW"
 msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_RLSSEARCH"
-msgstr "大幅擴大對敵方艦艇的絕對捕獲範圍，包括身處於煙幕內的對象。"
+msgstr "愛麗絲會幫你找到範圍內其他的小學生！全速逮捕她們吧"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SMOKEGENERATOR"
 msgstr "在艦艇後方施放煙幕來降低被敵人發現的風險。"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SONARSEARCH"
-msgstr "擴大對敵方艦艇與魚雷的絕對捕獲範圍，包括身處於煙幕內的對象。"
+msgstr "魚雷好吃每天吃"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SPEEDBOOSTER"
 msgstr "暫時提高艦艇的最高航速。"
@@ -44198,9 +44196,7 @@ msgid "IDS_PARAMS_MODIFIER_CRASHCREWWORKTIMECOEFF_SKILL"
 msgstr "「傷害控制小組」消耗品作用時間"
 
 msgid "IDS_PARAMS_MODIFIER_CRASHCREW_TALENT"
-msgstr ""
-"撲滅火災、移除進水、並修理受損的配件。\n"
-"防止敵方潛水艦發射的魚雷被引導而來。"
+msgstr "不可以亂繳的東西"
 
 msgid "IDS_PARAMS_MODIFIER_CREDITSFACTOR"
 msgstr "銀幣"
@@ -79812,7 +79808,7 @@ msgid "IDS_PISB107_YEAR"
 msgstr "1913"
 
 msgid "IDS_PISB108"
-msgstr "維托里奧·威尼托"
+msgstr "維托里奧·維內托"
 
 msgid "IDS_PISB108_DESCR"
 msgstr "義大利在 1920 年代晚期到 1930 年代早期才開始出現符合《華盛頓海軍條約》要求的主力艦設計。由此產生的計畫是一艘排水量為 35,000 噸、配備九門 381 毫米火炮的艦艇。Vittorio Veneto 於 1934 年安放龍骨，並於六年後投入服役。第二次世界大戰期間，此主力艦參與了許多地中海的行動，包括特烏拉達角海戰和馬塔潘角海戰，以及攔截了英國艦隊的馬耳他船團。"
