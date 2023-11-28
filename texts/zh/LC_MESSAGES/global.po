@@ -33183,7 +33183,7 @@ msgid "IDS_LIUBEI"
 msgstr "劉備"
 
 msgid "IDS_LOADING"
-msgstr "遊戲載入中..."
+msgstr "西瓜操作系統 V1.14啟動中"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港口載入中"
@@ -34964,7 +34964,7 @@ msgid "IDS_LOCK_TARGET_WAS_NOT_FOUND"
 msgstr "未發現任何目標"
 
 msgid "IDS_LOGGING_IN"
-msgstr "西瓜操作系統 V1.14啟動中..."
+msgstr "歡迎回來 同志 今天也要為蘇聯母親奮鬥"
 
 msgid "IDS_LOGIN_AVAILABLE_NAMES"
 msgstr "可用的使用者名稱："
@@ -79737,7 +79737,7 @@ msgid "IDS_PIPT023_533_FRANCESCO_FERRUCCIO"
 msgstr "533 mm Si 270 N"
 
 msgid "IDS_PISA508"
-msgstr "Aquila"
+msgstr "天鷹"
 
 msgid "IDS_PISA508_DESCR"
 msgstr "郵輪 Roma 在第二次世界大戰期間改裝成航空母艦。延長了艦身並配備防雷鼓包和嫁接新的艦艏部分。使用未完工的 Cornelio Silla 和 Paolo Emilio 艦艇上的渦輪機和鍋爐來重新設計推進裝置。再使用未完工的 Capitani Romani 級艦艇上的 135 毫米火炮作為反水雷武器。這艘完成 80% 的航空母艦被德國擄獲。Aquila 遭盟軍飛機破壞，再經義大利潛水破壞艦破壞然後沉沒。"
@@ -79752,13 +79752,13 @@ msgid "IDS_PISA508_YEAR"
 msgstr "1944"
 
 msgid "IDS_PISB104"
-msgstr "D. Alighieri"
+msgstr "但丁·阿利吉耶里"
 
 msgid "IDS_PISB104_DESCR"
 msgstr "由於新型艦艇成本高昂和前無畏級主力艦的服役，義大利忽視了無畏艦競賽的開始，並直到 1908 年才展開第一個無畏艦計畫。此計畫首度使用三聯裝炮塔主炮，並在這些炮塔上安裝了反水雷炮。根據此計畫建造的 Dante Alighieri，在第一次世界大戰中作為義大利艦隊的旗艦執行了多達四次海軍任務。"
 
 msgid "IDS_PISB104_FULL"
-msgstr "Dante Alighieri"
+msgstr "但丁·阿利吉耶里"
 
 msgid "IDS_PISB104_NUMBER"
 msgstr "1"
@@ -79767,13 +79767,13 @@ msgid "IDS_PISB104_YEAR"
 msgstr "1913"
 
 msgid "IDS_PISB105"
-msgstr "Cavour"
+msgstr "加富爾伯爵"
 
 msgid "IDS_PISB105_DESCR"
 msgstr "Conte di Cavour 級主力艦在雙聯裝和三聯裝炮塔中裝備十三門主炮。此系列領艦參與了 1923 年的佔領科孚島。她在後來的現代化改造中獲得新的推進裝置，以及在現有艦艏上嫁接新的艦艏部分。第二次世界大戰期間，她參與了斯蒂洛角海戰。1940 年，她在英國空襲塔蘭托期間遭魚雷擊中後沉沒。"
 
 msgid "IDS_PISB105_FULL"
-msgstr "Conte di Cavour"
+msgstr "加富爾伯爵"
 
 msgid "IDS_PISB105_NUMBER"
 msgstr "3"
@@ -79782,7 +79782,7 @@ msgid "IDS_PISB105_YEAR"
 msgstr "1915"
 
 msgid "IDS_PISB106"
-msgstr "Andrea Doria"
+msgstr "安德麗亞·多里亞"
 
 msgid "IDS_PISB106_DESCR"
 msgstr "以改良後的 Conte di Cavour 設計為基礎的第二個義大利主力艦系列。Andrea Doria 於 1913 年安放龍骨，參與了阜姆問題，亦參與了 1920 年代的科孚島事件。此艦艇在 1930 和 1940 年代升級了推進裝置和武器。第二次世界大戰期間，她負責護衛前往利比亞的船團並參與了蘇爾特之戰。"
@@ -79797,13 +79797,13 @@ msgid "IDS_PISB106_YEAR"
 msgstr "1916"
 
 msgid "IDS_PISB107"
-msgstr "F. Caracciolo"
+msgstr "弗朗切斯科·卡拉喬洛"
 
 msgid "IDS_PISB107_DESCR"
 msgstr "1913 年的艦隊補充計畫規定要建造四艘高速主力艦，這些主力艦也應符合英國 Queen Elizabeth 級艦艇的特性。領艦 Francesco Caracciolo 於 1914 年安放龍骨，但由於缺乏材料和優先順序的改變而暫停建造。"
 
 msgid "IDS_PISB107_FULL"
-msgstr "Francesco Caracciolo"
+msgstr "弗朗切斯科·卡拉喬洛"
 
 msgid "IDS_PISB107_NUMBER"
 msgstr "4"
@@ -79812,13 +79812,13 @@ msgid "IDS_PISB107_YEAR"
 msgstr "1913"
 
 msgid "IDS_PISB108"
-msgstr "V. Veneto"
+msgstr "維托里奧·威尼托"
 
 msgid "IDS_PISB108_DESCR"
 msgstr "義大利在 1920 年代晚期到 1930 年代早期才開始出現符合《華盛頓海軍條約》要求的主力艦設計。由此產生的計畫是一艘排水量為 35,000 噸、配備九門 381 毫米火炮的艦艇。Vittorio Veneto 於 1934 年安放龍骨，並於六年後投入服役。第二次世界大戰期間，此主力艦參與了許多地中海的行動，包括特烏拉達角海戰和馬塔潘角海戰，以及攔截了英國艦隊的馬耳他船團。"
 
 msgid "IDS_PISB108_FULL"
-msgstr "Vittorio Veneto"
+msgstr "維托里奧·威尼托"
 
 msgid "IDS_PISB108_NUMBER"
 msgstr "4"
@@ -79827,13 +79827,13 @@ msgid "IDS_PISB108_YEAR"
 msgstr "1940"
 
 msgid "IDS_PISB109"
-msgstr "Lepanto"
+msgstr "勒班陀"
 
 msgid "IDS_PISB109_DESCR"
 msgstr "一艘義大利工程師根據蘇聯訂單所準備的排水量 42,000 噸主力艦計畫。此艦艇預定在三座炮塔中裝備九門 406 毫米火炮。此類艦艇如果是在義大利建造，那麼應該會到 1940 年或 1941 年才完工。因為 406 毫米火炮並非在義大利研發，因此只有增加每座炮塔的火炮數量才有可能提高火力。1910 年代晚期到 1920 年代早期，開發了在四聯裝炮塔中裝備 381 毫米火炮的主力艦計畫。"
 
 msgid "IDS_PISB109_FULL"
-msgstr "Lepanto"
+msgstr "勒班陀"
 
 msgid "IDS_PISB109_NUMBER"
 msgstr "1"
@@ -79842,7 +79842,7 @@ msgid "IDS_PISB109_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISB110"
-msgstr "克里斯多福·哥倫布"
+msgstr "捲倫布"
 
 msgid "IDS_PISB110_DESCR"
 msgstr "一個假想計畫，以 Vittorio Veneto 級為基礎開發的義大利艦艇版本，亦為蘇聯排水量 42,000 噸主力艦計畫。火力的提升可以透過增加火炮和炮塔數量來實現：1910 年代晚期到 1920 年代早期正在開發裝備 381 毫米火炮的四聯裝炮塔。"
@@ -79857,13 +79857,13 @@ msgid "IDS_PISB110_YEAR"
 msgstr "1945"
 
 msgid "IDS_PISB505"
-msgstr "Giulio Cesare"
+msgstr "尤利烏斯·凱撒"
 
 msgid "IDS_PISB505_DESCR"
 msgstr "三艘 Conte di Cavour 級主力艦中的一艘於 1910 年安放龍骨。第一次世界大戰後，Giulio Cesare 進行全面現代化改造。她在經過翻新後，於第二次世界大戰期間投入了斯蒂洛角海戰和狩獵馬爾他船團，並負責巡邏和護航行動。戰爭結束後，她作為賠償移交給蘇聯並更名為「Novorossiysk」。"
 
 msgid "IDS_PISB505_FULL"
-msgstr "Giulio Cesare"
+msgstr "尤利烏斯·凱撒"
 
 msgid "IDS_PISB505_NUMBER"
 msgstr "3"
@@ -79872,13 +79872,13 @@ msgid "IDS_PISB505_YEAR"
 msgstr "1914"
 
 msgid "IDS_PISB508"
-msgstr "Roma"
+msgstr "羅馬"
 
 msgid "IDS_PISB508_DESCR"
 msgstr "第三艘 Vittorio Veneto 級主力艦 Roma，根據 1938 年計畫所建。她與姊妹艦一起參與了沿海城鎮的防空行動。1943 年 6 月，她在拉斯佩齊亞遭美國轟炸機嚴重破壞。經過修理後，這艘主力艦作為海軍上將 Carlo Bergamini 的旗艦部署於一個大型戰鬥群之中，主要是為了攻擊靠近西西里島的盟軍艦艇。雙方在預定行動的前一天達成停戰協議，Roma 在前往馬耳他拘留的途中便遭德國飛機擊沉。"
 
 msgid "IDS_PISB508_FULL"
-msgstr "Roma"
+msgstr "羅馬"
 
 msgid "IDS_PISB508_NUMBER"
 msgstr "4"
@@ -79887,13 +79887,13 @@ msgid "IDS_PISB508_YEAR"
 msgstr "1942"
 
 msgid "IDS_PISB509"
-msgstr "Marco Polo"
+msgstr "馬可波羅"
 
 msgid "IDS_PISB509_DESCR"
 msgstr "一項以三座炮塔配置九門 406 毫米主炮的艦艇計畫，作為義大利與蘇聯合作的一部分而建立。此計畫從未實際執行。如果當時義大利建造了此類艦艇，她將會擁有以 381 毫米火炮為基礎開發的 406 毫米主炮，而且應該到 1940 年或 1941 年才會完工。"
 
 msgid "IDS_PISB509_FULL"
-msgstr "Marco Polo"
+msgstr "馬可波羅"
 
 msgid "IDS_PISB509_NUMBER"
 msgstr "1"
@@ -79902,13 +79902,13 @@ msgid "IDS_PISB509_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISB510"
-msgstr "R. Lauria"
+msgstr "勞利亞"
 
 msgid "IDS_PISB510_DESCR"
 msgstr "裝備有八門 457 毫米火炮的高速戰鬥巡洋艦。此計畫目基於義大利海軍工程師 Ferdinando Cassone 在 1921 年提出的構想。除了出色的武器和排水量外，此計畫的特色還包括其創新的反魚雷防護系統和兩層的發動機，這在當時相當先進。"
 
 msgid "IDS_PISB510_FULL"
-msgstr "Ruggiero di Lauria"
+msgstr "魯傑羅·迪·勞利亞"
 
 msgid "IDS_PISB510_NUMBER"
 msgstr "1"
@@ -79917,13 +79917,13 @@ msgid "IDS_PISB510_YEAR"
 msgstr "1921"
 
 msgid "IDS_PISB519"
-msgstr "Giuseppe Verdi"
+msgstr "朱塞佩·威爾第"
 
 msgid "IDS_PISB519_DESCR"
 msgstr "義大利與蘇聯共同開發了數項主力艦計畫，其中包括一項是在三座炮塔中裝備九門 406 毫米火炮。如果當時訂造了此類艦艇，那麼應該到 1940 年或 1941 年才會完成建造。此主力艦將獲得由現存 381 毫米火炮為基礎所開發的義大利武器。"
 
 msgid "IDS_PISB519_FULL"
-msgstr "Giuseppe Verdi"
+msgstr "朱塞佩·威爾第"
 
 msgid "IDS_PISB519_NUMBER"
 msgstr "1"
@@ -79932,7 +79932,7 @@ msgid "IDS_PISB519_YEAR"
 msgstr "1942"
 
 msgid "IDS_PISB708"
-msgstr "AL Littorio"
+msgstr "AL 利托里奧"
 
 msgid "IDS_PISB708_DESCR"
 msgstr ""
@@ -79964,13 +79964,13 @@ msgid "IDS_PISB805_YEAR"
 msgstr "2019"
 
 msgid "IDS_PISB990"
-msgstr "A. Vespucci"
+msgstr "亞美利哥·維斯普奇"
 
 msgid "IDS_PISB990_DESCR"
 msgstr "一個假想計畫，以 Vittorio Veneto 級為基礎開發的義大利艦艇版本，亦為蘇聯排水量 42,000 噸主力艦計畫。火力的提升可以透過增加火炮和炮塔數量來實現：1910 年代晚期到 1920 年代早期正在開發裝備 381 毫米火炮的四聯裝炮塔。"
 
 msgid "IDS_PISB990_FULL"
-msgstr "Amerigo Vespucci"
+msgstr "亞美利哥·維斯普奇"
 
 msgid "IDS_PISB990_NUMBER"
 msgstr "1"
@@ -79979,13 +79979,13 @@ msgid "IDS_PISB990_YEAR"
 msgstr "1945"
 
 msgid "IDS_PISC101"
-msgstr "Eritrea"
+msgstr "厄利垂亞"
 
 msgid "IDS_PISC101_DESCR"
 msgstr "Eritrea 為 1932 年到 1934 年間開發的單桅帆船，服役於非洲殖民地。為擴大行動範圍，此艦艇裝備了來自 Balilla 級潛水艦的電動馬達。她還配備了一間醫院、潛水艦用發電站，以及掃雷設備。Eritrea 投入了西班牙內戰，並於 1930 年代服役於紅海。她於 1948 年移交法國海軍並投入中南半島和太平洋的行動。"
 
 msgid "IDS_PISC101_FULL"
-msgstr "Eritrea"
+msgstr "厄利垂亞"
 
 msgid "IDS_PISC101_NUMBER"
 msgstr "1"
@@ -79994,13 +79994,13 @@ msgid "IDS_PISC101_YEAR"
 msgstr "1937"
 
 msgid "IDS_PISC102"
-msgstr "Nino Bixio"
+msgstr "尼諾·比西奧"
 
 msgid "IDS_PISC102_DESCR"
 msgstr "20 世紀初期，許多國家都流行快速偵察巡洋艦的概念。義大利海軍中第一艘此類艦艇為裝甲巡洋艦 Quarto。隨後而來的是 Nino Bixio 級艦艇，她們比前輩更大，且擁有更便利的火炮配置。第一次世界大戰期間，此系列領艦參與了攔截奧匈帝國破襲艦和防守協約國的運輸艦。Nino Bixio 在海軍一直服役到 1920 年代末。"
 
 msgid "IDS_PISC102_FULL"
-msgstr "Nino Bixio"
+msgstr "尼諾·比西奧"
 
 msgid "IDS_PISC102_NUMBER"
 msgstr "2"
@@ -80009,7 +80009,7 @@ msgid "IDS_PISC102_YEAR"
 msgstr "1914"
 
 msgid "IDS_PISC103"
-msgstr "Taranto"
+msgstr "塔蘭托"
 
 msgid "IDS_PISC103_DESCR"
 msgstr "第一次世界大戰後，戰勝國瓜分了德國和奧匈帝國的艦隊。SMS Strassburg 移交義大利海軍並更名為 Taranto。1920 年代早期，此巡洋艦獲得了一架水上偵察機和新型防空炮。她在戰間期服役於地中海，並在重新裝備後用於殖民局。第二次世界大戰期間，此巡洋艦負責執行布雷和巡邏任務。"
@@ -80024,13 +80024,13 @@ msgid "IDS_PISC103_YEAR"
 msgstr "1912"
 
 msgid "IDS_PISC104"
-msgstr "Giussano"
+msgstr "朱桑諾"
 
 msgid "IDS_PISC104_DESCR"
 msgstr "為了回應法國建造的現代輕型巡洋艦和大型驅逐艦，義大利設計了一些巡洋艦，並以文藝復興時期的僱傭兵隊長來命名。Alberto di Giussano 最先是在 1928 年安放龍骨。此艦艇服役於地中海，參與了西班牙內戰，而且在第二次世界大戰初期部署於斯蒂洛角海戰。她負責布置雷區和護衛船團。1941 年，她在運送汽油到北非的途中被英國驅逐艦攔截並遭魚雷擊沉。"
 
 msgid "IDS_PISC104_FULL"
-msgstr "Alberto di Giussano"
+msgstr "朱桑諾"
 
 msgid "IDS_PISC104_NUMBER"
 msgstr "4"
@@ -80039,13 +80039,13 @@ msgid "IDS_PISC104_YEAR"
 msgstr "1931"
 
 msgid "IDS_PISC105"
-msgstr "Montecuccoli"
+msgstr "蒙特庫科利"
 
 msgid "IDS_PISC105_DESCR"
 msgstr "義大利海軍在建造四艘 Giussano 級巡洋艦後，又訂購了兩艘改良過設計的巡洋艦。兩艘大幅改良過裝甲、同時維持航速的 Condottieri C 級巡洋艦於 1930–1931 年計畫下建造。Raimondo Montecuccoli 於 1935 年投入服役，參與了西班牙內戰，以及對遠東和太平洋地區的突襲。第二次世界大戰期間，她投入了斯蒂洛角海戰，負責執行布雷和護衛行動，並參與了潘泰萊里亞島戰役。"
 
 msgid "IDS_PISC105_FULL"
-msgstr "Raimondo Montecuccoli"
+msgstr "拉依蒙多·蒙特庫科利"
 
 msgid "IDS_PISC105_NUMBER"
 msgstr "2"
@@ -80054,7 +80054,7 @@ msgid "IDS_PISC105_YEAR"
 msgstr "1935"
 
 msgid "IDS_PISC106"
-msgstr "Trento"
+msgstr "特倫托"
 
 msgid "IDS_PISC106_DESCR"
 msgstr "第一次世界大戰後，20 世紀初期建造的義大利裝甲巡洋艦已無法勝任手頭的任務。因此新型巡洋艦的設計工作，在確定華盛頓海軍會議的要求後展開。Trento 級包含兩艘具有高航速和 70 毫米裝甲帶的艦艇。巡洋艦領艦於 1925 年安放龍骨。第二次世界大戰初期，她投入了斯蒂洛角、特烏拉達角，以及馬塔潘角的行動。在她所有的戰鬥中，Trento 既沒有對敵人造成任何傷害，也沒有受到任何傷害。"
@@ -80069,7 +80069,7 @@ msgid "IDS_PISC106_YEAR"
 msgstr "1929"
 
 msgid "IDS_PISC107"
-msgstr "Zara"
+msgstr "扎拉"
 
 msgid "IDS_PISC107_DESCR"
 msgstr "四艘配備 150 毫米裝甲帶的新 Zara 級巡洋艦在 1928–1929 年計畫下建造，以對抗擁有 203 毫米火炮的法國巡洋艦。領艦 Zara 於 1929 年安放龍骨。三年後，她投入服役並成為第一中隊的旗艦。此巡洋艦帶領掩護位於杜勒斯的義大利登陸部隊。第二次世界大戰期間，她參與了斯蒂洛角附近的戰鬥，然後在該處遭己方空軍攻擊。Zara 在馬塔潘角附近的一場戰鬥中遭英國部隊攻擊，最終遭驅逐艦 HMS Jervis 擊沉。"
@@ -80084,7 +80084,7 @@ msgid "IDS_PISC107_YEAR"
 msgstr "1931"
 
 msgid "IDS_PISC108"
-msgstr "Amalfi"
+msgstr "阿瑪菲"
 
 msgid "IDS_PISC108_DESCR"
 msgstr "內戰一結束，西班牙就在尋找強化其海軍的方法。其中一艘艦艇是由義大利公司安薩爾多所提出 — 擴大的 Zara 級重型巡洋艦，但配有三座 203 毫米三聯裝炮塔。"
@@ -80099,7 +80099,7 @@ msgid "IDS_PISC108_YEAR"
 msgstr "1940"
 
 msgid "IDS_PISC109"
-msgstr "Brindisi"
+msgstr "布林迪西"
 
 msgid "IDS_PISC109_DESCR"
 msgstr "這是義大利工程師為西班牙海軍開發的重型巡洋艦假想計畫。此艦艇結合了 Anteprojecto preliminar VIII-203 的四座 203 毫米炮座，以及 Anteprojecto preliminar XII-152 的四座三聯裝炮座。"
@@ -80144,13 +80144,13 @@ msgid "IDS_PISC111_YEAR"
 msgstr "1935"
 
 msgid "IDS_PISC505"
-msgstr "Genova"
+msgstr "熱那亞"
 
 msgid "IDS_PISC505_DESCR"
 msgstr "1923 年，義大利開始著手設計「Washington 巡洋艦」，擁有高達 10,000 噸的排水量，並且裝備 203 毫米火炮。這促成了一項巡洋艦計畫，具有裝備在四座炮塔中的八門 203 毫米火炮、階梯形推進裝置，以及平甲板艦身。根據計畫，此艦艇擁有彈射器和水上飛機機庫。建造計畫並未實行，而進一步的發展造就出了 Trento 級重型巡洋艦。"
 
 msgid "IDS_PISC505_FULL"
-msgstr "Genova"
+msgstr "熱那亞"
 
 msgid "IDS_PISC505_NUMBER"
 msgstr "1"
@@ -80159,7 +80159,7 @@ msgid "IDS_PISC505_YEAR"
 msgstr "1923"
 
 msgid "IDS_PISC506"
-msgstr "Duca d'Aosta"
+msgstr "奧斯塔公爵"
 
 msgid "IDS_PISC506_DESCR"
 msgstr "1931–1933 年計畫的艦艇是按照 Montecuccoli 設計所建造，經過修改以提升其防禦能力。其裝甲重量增至 1,700 噸，這也使得排水量增加。強化了推進裝置以維持航速。Emanuele Filiberto Duca d'Aosta 於 1932 年安放龍骨。在義大利加入第二次世界大戰後，此艦艇服役於地中海；參與了斯蒂洛角和錫德拉灣海戰；也參加了巡邏、護衛船團，以及突襲行動。戰爭結束後，此巡洋艦移交給蘇聯，以「Kerch」之名服役於黑海艦隊。"
@@ -80174,7 +80174,7 @@ msgid "IDS_PISC506_YEAR"
 msgstr "1935"
 
 msgid "IDS_PISC507"
-msgstr "Abruzzi"
+msgstr "阿布魯齊公爵"
 
 msgid "IDS_PISC507_DESCR"
 msgstr "1932–1933 年計畫中的巡洋艦有著增強裝甲防護的傾向，這導致航速降低。戰前義大利巡洋艦中設計最成功的計畫之一因此誕生。Duca degli Abruzzi 於 1933 年 12 月安放龍骨。第二次世界大戰期間，她參與了斯蒂洛角和馬塔潘角海戰，在戟行動中攔截了一支船團，還投入了更多的作戰行動。1941 年底，她遭魚雷擊中並送修。戰爭結束後，此巡洋艦依舊留在義大利海軍，並在後來成為了旗艦。"
@@ -80189,13 +80189,13 @@ msgid "IDS_PISC507_YEAR"
 msgstr "1937"
 
 msgid "IDS_PISC510"
-msgstr "Napoli"
+msgstr "拿坡里"
 
 msgid "IDS_PISC510_DESCR"
 msgstr "在義大利與蘇聯海軍合作過程中，均根據蘇聯的命令來準備艦艇計畫。其中有一艘標準排水量為 22,000 噸的戰鬥巡洋艦，預計擁有 35–37 節的航速，並在三座炮塔中裝備九門 250 毫米火炮，以及 220 毫米主裝甲帶。"
 
 msgid "IDS_PISC510_FULL"
-msgstr "Napoli"
+msgstr "拿坡里"
 
 msgid "IDS_PISC510_NUMBER"
 msgstr "1"
@@ -80204,13 +80204,13 @@ msgid "IDS_PISC510_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISC517"
-msgstr "F. Ferruccio"
+msgstr "弗朗切斯科·費魯喬"
 
 msgid "IDS_PISC517_DESCR"
 msgstr "義大利海軍為在印度洋進行各種行動而建造數十艘各種類型艦艇，「遠程輕型巡洋艦」計畫便是在此背景下開發的。其中一份早期草圖是一艘 8,000 噸巡洋艦，其外觀不尋常，在四聯裝炮塔中裝備有 152 毫米火炮。她的其他特點還包括作戰範圍較大（超過 27,000 公里），以及設計於 1939 年的 90 毫米高平兩用炮。"
 
 msgid "IDS_PISC517_FULL"
-msgstr "Francesco Ferruccio"
+msgstr "弗朗切斯科·費魯喬"
 
 msgid "IDS_PISC517_NUMBER"
 msgstr "1"
@@ -80219,13 +80219,13 @@ msgid "IDS_PISC517_YEAR"
 msgstr "1939"
 
 msgid "IDS_PISC519"
-msgstr "Michelangelo"
+msgstr "米開朗基羅"
 
 msgid "IDS_PISC519_DESCR"
 msgstr "華盛頓會議使義大利有機會在 1927 年之後建造主力艦。同一時期還有數項排水量介於 18,000 至 35,000 噸的計畫正在開發中；其中一些計畫倚賴外國設計（如 Hood、Nelson、Dunkerque），但也有一些獨特計畫。de Feo 上將提出設計方案，在靠近舯肋骨處安裝四聯裝炮塔並裝備八門 320 毫米炮，而副炮座則移向艦艏和艦艉。"
 
 msgid "IDS_PISC519_FULL"
-msgstr "Michelangelo"
+msgstr "米開朗基羅"
 
 msgid "IDS_PISC519_NUMBER"
 msgstr "1"
@@ -80234,13 +80234,13 @@ msgid "IDS_PISC519_YEAR"
 msgstr "1934"
 
 msgid "IDS_PISC590"
-msgstr "Napoli B"
+msgstr "拿坡里 B"
 
 msgid "IDS_PISC590_DESCR"
 msgstr "在義大利與蘇聯海軍合作過程中，均根據蘇聯的命令來準備艦艇計畫。其中有一艘標準排水量為 22,000 噸的戰鬥巡洋艦，預計擁有 35–37 節的航速，並在三座炮塔中裝備九門 250 毫米火炮，以及 220 毫米主裝甲帶。"
 
 msgid "IDS_PISC590_FULL"
-msgstr "Napoli B"
+msgstr "拿坡里 B"
 
 msgid "IDS_PISC590_NUMBER"
 msgstr "1"
@@ -80249,13 +80249,13 @@ msgid "IDS_PISC590_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISC607"
-msgstr "Gorizia"
+msgstr "哥里加"
 
 msgid "IDS_PISC607_DESCR"
 msgstr "Zara 級巡洋艦 Gorizia 於 1930 年安放龍骨。西班牙內戰期間，她負責撤離義大利公民，並在 1939 年參與了阿爾巴尼亞的佔領行動。第二次世界大戰期間，她參與了襲擊英國船團；參加了斯蒂洛角、特烏拉達角，以及錫德拉灣海戰；也曾護衛義大利船團前往非洲。"
 
 msgid "IDS_PISC607_FULL"
-msgstr "Gorizia"
+msgstr "哥里加"
 
 msgid "IDS_PISC607_NUMBER"
 msgstr "4"
@@ -80264,13 +80264,13 @@ msgid "IDS_PISC607_YEAR"
 msgstr "1932"
 
 msgid "IDS_PISC990"
-msgstr "Ravenna"
+msgstr "拉溫納"
 
 msgid "IDS_PISC990_DESCR"
 msgstr "此計畫是一艘配備 203 毫米主炮和高航速的艦艇，體現了 1940 年代早期義大利造船工藝的成就。它代表了重型巡洋艦將朝著把主炮數量增至十五門的方向發展。"
 
 msgid "IDS_PISC990_FULL"
-msgstr "Ravenna"
+msgstr "拉溫納"
 
 msgid "IDS_PISC990_NUMBER"
 msgstr "1"
@@ -80279,13 +80279,13 @@ msgid "IDS_PISC990_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISD102"
-msgstr "Curtatone"
+msgstr "庫爾塔托內"
 
 msgid "IDS_PISD102_DESCR"
 msgstr "義大利早在 1915 年就訂造了以改良後的 Palestro 級設計為基礎的驅逐艦，但其建造工作因義大利加入第一次世界大戰而暫停。後來，計畫經過修改：此艦艇成為首批配備雙聯裝炮塔的歐洲驅逐艦。第二次世界大戰期間，Curtatone 負責布雷和巡邏亞得里亞海。1941 年 5 月 20 日，此驅逐艦在雅典灣遭一顆希臘水雷命中後爆炸並沉沒。"
 
 msgid "IDS_PISD102_FULL"
-msgstr "Curtatone"
+msgstr "庫爾塔托內"
 
 msgid "IDS_PISD102_NUMBER"
 msgstr "4"
@@ -80294,13 +80294,13 @@ msgid "IDS_PISD102_YEAR"
 msgstr "1923"
 
 msgid "IDS_PISD103"
-msgstr "N. Sauro"
+msgstr "納扎里奧·掃羅"
 
 msgid "IDS_PISD103_DESCR"
 msgstr "Sauro 級驅逐艦與先前的 Sella 級在設計上有所不同， 她們改良了鍋爐室的配置，擴大了橋塔和指揮塔，還配備兩座 120 毫米雙聯裝炮座。1936 年到 1937 年，Nazario Sauro 投入了西班牙內戰。在義大利加入第二次世界大戰後，她參與了攔截穿越蘇伊士運河的英國船團。1941 年 4 月 3 日，一枚英國航空炸彈擊中了位於沙烏地阿拉伯海岸附近的 Sauro，此驅逐艦因此沉沒。"
 
 msgid "IDS_PISD103_FULL"
-msgstr "Nazario Sauro"
+msgstr "納扎里奧·掃羅"
 
 msgid "IDS_PISD103_NUMBER"
 msgstr "4"
@@ -80309,13 +80309,13 @@ msgid "IDS_PISD103_YEAR"
 msgstr "1926"
 
 msgid "IDS_PISD104"
-msgstr "Turbine"
+msgstr "渦輪"
 
 msgid "IDS_PISD104_DESCR"
 msgstr "Turbine 級驅逐艦是由先前的 Sauro 級進一步發展而來，更強大的機械裝置使其航速及航程增加。領艦於 1936 年到 1937 年間投入西班牙內戰。第二次世界大戰期間，她參與了巡邏和護衛任務，護衛船團前往非洲。1943 年，德國擄獲了 Turbine 並以「TA-14」之名將其編入德國戰爭海軍一員。1944 年 9 月 16 日，此驅逐艦遭美國轟炸機擊沉。"
 
 msgid "IDS_PISD104_FULL"
-msgstr "Turbine"
+msgstr "渦輪"
 
 msgid "IDS_PISD104_NUMBER"
 msgstr "8"
@@ -80324,13 +80324,13 @@ msgid "IDS_PISD104_YEAR"
 msgstr "1927"
 
 msgid "IDS_PISD105"
-msgstr "Maestrale"
+msgstr "西北風"
 
 msgid "IDS_PISD105_DESCR"
 msgstr "Maestrale 級是開發自先前的驅逐艦系列。考慮到合理的重量分配和耐用性，因此擴大了艦身。這些艦艇裝備了全新的 120 毫米火炮。領艦於西班牙內戰期間，陪同載有義大利部隊的運輸艦。第二次世界大戰期間，Maestrale 參與了巡邏和護衛任務，護衛船團前往非洲。1943 年 1 月 9 日，此艦艇在觸雷後嚴重受損。"
 
 msgid "IDS_PISD105_FULL"
-msgstr "Maestrale"
+msgstr "西北風"
 
 msgid "IDS_PISD105_NUMBER"
 msgstr "4"
@@ -80339,13 +80339,13 @@ msgid "IDS_PISD105_YEAR"
 msgstr "1934"
 
 msgid "IDS_PISD106"
-msgstr "Aviere"
+msgstr "空軍"
 
 msgid "IDS_PISD106_DESCR"
 msgstr "Soldati 級為數量最多的義大利驅逐艦。建造期間，她們相較於先前的 Oriani 級獲得了許多變更與改良，包括安裝新型 120 毫米火炮和更可靠的推進裝置。1940 年到 1942 年間，Aviere 參與了布雷，以及前往非洲的巡邏和護衛任務。1942 年 12 月 17 日，她在護衛一支船團前往比塞大的途中遭英國潛水艦 HMS Splendid 的魚雷擊中。她因此斷成兩截隨後沉沒。"
 
 msgid "IDS_PISD106_FULL"
-msgstr "Aviere"
+msgstr "空軍"
 
 msgid "IDS_PISD106_NUMBER"
 msgstr "19"
@@ -80354,7 +80354,7 @@ msgid "IDS_PISD106_YEAR"
 msgstr "1937"
 
 msgid "IDS_PISD107"
-msgstr "L. Tarigo"
+msgstr "盧卡·塔里戈"
 
 msgid "IDS_PISD107_DESCR"
 msgstr "作為法國 Jaguar 級和 Guepard 級的回應，義大利在 1926 年訂購了 Navigatori 級驅逐領導艦。此艦級的特色之一為梯形布局的推進裝置，預計能提高其生存能力。第二次世界大戰期間，此艦艇參與了布雷，以及執行前往非洲的巡邏和護航任務。1941 年 4 月 16 日，Luca Tarigo 在一場激戰中擊沉了 HMS Mohawk，但隨後便遭英國艦艇的火炮擊沉。"
@@ -80369,13 +80369,13 @@ msgid "IDS_PISD107_YEAR"
 msgstr "1929"
 
 msgid "IDS_PISD108"
-msgstr "V. Cuniberti"
+msgstr "維托里奧·庫尼貝爾蒂"
 
 msgid "IDS_PISD108_DESCR"
 msgstr "在 Maestrale 級驅逐艦投入服役後，便開始研發其改良過的設計。其中一種版本特色為將第三座 120 毫米雙聯裝炮座置於艦艏的超射位置。此艦艇的排水量增至大約 2,000 噸。相較於正在建造中的 Oriani 級和 Soldati 級驅逐艦，此計畫過於昂貴而因此從未實際執行。"
 
 msgid "IDS_PISD108_FULL"
-msgstr "Vittorio Cuniberti"
+msgstr "維托里奧·庫尼貝爾蒂"
 
 msgid "IDS_PISD108_NUMBER"
 msgstr "1"
@@ -80384,13 +80384,13 @@ msgid "IDS_PISD108_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISD109"
-msgstr "Adriatico"
+msgstr "亞得里亞"
 
 msgid "IDS_PISD109_DESCR"
 msgstr "1934 年到 1936 年間，義大利根據蘇聯的訂單開發了一種驅逐領導艦。這導致蘇聯海軍建造了「Tashkent」艦艇。如果是為義大利海軍建造這樣的艦艇，這些驅逐艦會裝備上義大利武器，包括 135 毫米高平兩用炮，還有義大利的防空及魚雷武器。"
 
 msgid "IDS_PISD109_FULL"
-msgstr "Adriatico"
+msgstr "亞得里亞"
 
 msgid "IDS_PISD109_NUMBER"
 msgstr "1"
@@ -80399,13 +80399,13 @@ msgid "IDS_PISD109_YEAR"
 msgstr "1945"
 
 msgid "IDS_PISD110"
-msgstr "阿蒂利烏斯·雷古魯斯"
+msgstr "阿蒂利奥·雷戈洛"
 
 msgid "IDS_PISD110_DESCR"
 msgstr "Capitani Romani 級是為了回應法國 Mogador 級驅逐艦而設計。義大利造船工程師回歸到防護最小化和航速最大化的理念。艦艇航速預估為 40 節，這比法國領導艦的航速還要快。Attilio Regolo 於 1942 年 11 月遭英國潛水艦 HMS Unruffled 的魚雷攻擊，隨後花了數個月的時間進行修理。1943 年 9 月，此艦艇向盟軍投降。戰爭結束後，Attilio Regolo 作為賠償移交法國，並更名為「Chateaurenault」。"
 
 msgid "IDS_PISD110_FULL"
-msgstr "阿蒂利烏斯·雷古魯斯"
+msgstr "阿蒂利奥·雷戈洛"
 
 msgid "IDS_PISD110_NUMBER"
 msgstr "12"
@@ -80414,13 +80414,13 @@ msgid "IDS_PISD110_YEAR"
 msgstr "1942"
 
 msgid "IDS_PISD506"
-msgstr "Leone"
+msgstr "獅子"
 
 msgid "IDS_PISD506_DESCR"
 msgstr "Leone 級是以改良後的 Mirabello 級設計為基礎。特別之處在於，新型艦艇是沿著中心線放置 120 毫米火炮。第二次世界大戰期間，領艦參與了攔截穿越蘇伊士運河的英國船團。在索馬利亞遭英國攻佔後，義大利駐非洲的艦隊對蘇伊士運河和塞得港發動攻擊，試圖突破至地中海。在準備發動攻擊時，Leone 發生擱淺並起火。船員放棄了驅逐艦，雖後她便遭姊妹艦 Pantera 擊沉。"
 
 msgid "IDS_PISD506_FULL"
-msgstr "Leone"
+msgstr "獅子"
 
 msgid "IDS_PISD506_NUMBER"
 msgstr "3"
@@ -80444,13 +80444,13 @@ msgid "IDS_PISD507_YEAR"
 msgstr "1929"
 
 msgid "IDS_PISD509"
-msgstr "Paolo Emilio"
+msgstr "保羅·埃米利奧"
 
 msgid "IDS_PISD509_DESCR"
 msgstr "在義大利與蘇聯開始海軍合作後，安薩爾多公司就根據蘇聯的訂單準備了許多艦艇設計。其中包括一艘標準排水量為 3,700 噸的裝甲偵察艦。此艦艇擁有高航速，在四座炮座中裝備八門 130 毫米火炮，以及透過全裝甲帶和裝甲甲板的形式來提供防護。"
 
 msgid "IDS_PISD509_FULL"
-msgstr "Paolo Emilio"
+msgstr "保羅·埃米利奧"
 
 msgid "IDS_PISD509_NUMBER"
 msgstr "1"
@@ -126655,10 +126655,10 @@ msgid "IDS_ACHIEVEMENT_PRORYV"
 msgstr "Прорыв"
 
 msgid "IDS_FOG_OF_WAR"
-msgstr "無敵艦訊息"
+msgstr "敵艦訊息尚未揭露"
 
 msgid "IDS_FOG_OF_WAR_FOR_NOTDETECTED_SHIP"
-msgstr "無敵艦訊息"
+msgstr "敵艦訊息尚未揭露"
 
 msgid "IDS_FOG_OF_WAR_RULES"
 msgstr "在未偵測敵艦前將無法得知其訊息"
