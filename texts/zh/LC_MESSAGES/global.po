@@ -126728,3 +126728,6 @@ msgstr "水雷屏障"
 
 msgid "IDS_JORICK_ARIA"
 msgstr "Жорик"
+
+msgid "IDS_BRAWL_BATTLE_INFORMER_DIVISION_WITH_FOG_OF_WAR"
+msgstr "分艦隊限制: %(_maxPlayers)s x %(_maxPlayers)s. 最大分艦隊人數: %(_divisionSize)s. 敵艦的資訊未知."
