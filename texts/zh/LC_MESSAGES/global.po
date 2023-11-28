@@ -74784,7 +74784,7 @@ msgid "IDS_PGPT951_W_VOSS_TOP"
 msgstr "BT 1000"
 
 msgid "IDS_PGSA104"
-msgstr "Rhein"
+msgstr "萊茵河"
 
 msgid "IDS_PGSA104_DESCR"
 msgstr "1930 至 1940 年代，德國開發了數項具有航空能力的艦艇設計，包括專門用於戰時批量生產而設計的小型航空母艦。其設計需要符合預算，並且適合民用造船廠大量生產。考量到當時戰爭仍在進行，此類艦艇最早可能建造於 1944 年後。德國工程師構想了一款長度至少為 170 公尺的飛行甲板，並配置起飛用的彈射器。"
@@ -74799,7 +74799,7 @@ msgid "IDS_PGSA104_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA106"
-msgstr "Weser"
+msgstr "威悉河"
 
 msgid "IDS_PGSA106_DESCR"
 msgstr "Seydlitz 是 Admiral Hipper 級巡洋艦，建造於不來梅。1942 年 6 月，當此艦艇完成 95% 時，建造工程就停止了。日本襲擊珍珠港凸顯了對於具有航空能力的艦艇之需求。這艘即將完工的巡洋艦在定案改裝成航空母艦後更名為 Weser。建造工作於 1942 年 12 月展開，但在半年後停止。此艦艇隨後被拖往柯尼斯堡。其艦身於 1945 年 1 月遭炸毀，當時紅軍正準備佔領該城市。"
@@ -74814,7 +74814,7 @@ msgid "IDS_PGSA106_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA108"
-msgstr "A. Parseval"
+msgstr "奧古斯特·馮·帕塞瓦爾"
 
 msgid "IDS_PGSA108_DESCR"
 msgstr "Graf Zeppelin 級艦艇裝備了經典的蒸汽渦輪推進系統。特別是此航空母艦領鑑，配備了瑞士製造的齒輪減速渦輪裝置和鍋爐。然而，德國人認為要使破襲艦具有較大的巡航範圍和足夠的航速，必須使用柴油主推進裝置。他們的下一批破襲航空母艦非常有可能配備了柴油推進裝置。"
@@ -74829,7 +74829,7 @@ msgid "IDS_PGSA108_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA110"
-msgstr "曼弗雷德·馮·里希特霍芬"
+msgstr "紅男爵"
 
 msgid "IDS_PGSA110_DESCR"
 msgstr "以未完工的 H-39 級主力艦艦身為基礎的德國重型航空母艦的假設版本。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。有了這樣的配置，她本應成為世界上最大型的艦艇之一，僅次於日本的 Shinano。"
@@ -74844,7 +74844,7 @@ msgid "IDS_PGSA110_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSA506"
-msgstr "E. Loewenhardt"
+msgstr "埃里希·勒文哈爾特"
 
 msgid "IDS_PGSA506_DESCR"
 msgstr "航空母艦 B 是 Graf Zeppelin 級的第二艘艦艇，她在第一艘艦艇下水後於 1938 年在基爾安放龍骨。她的建造進度緩慢，由於工程師試圖解決在建造該系列第一艘艦艇時遇到的所有初期問題。直到第二次世界大戰爆發時，此航空母艦包括裝甲甲板在內的所有艦身部件均已完成。然而，德國領導層決定只完成那些處於建造後期階段的艦艇。因此，第二艘航空母艦的訂單於 1939 年 9 月取消，並在 1940 年初在船台上報廢。"
@@ -74874,7 +74874,7 @@ msgid "IDS_PGSA508_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSA510"
-msgstr "W. Voss"
+msgstr "沃納·沃斯"
 
 msgid "IDS_PGSA510_DESCR"
 msgstr "德國重型航空母艦的假設版本，以未完工的 H-39 級主力艦艦身為基礎。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。有了這樣的配置，她本應成為世界上最大型的艦艇之一，僅次於日本的 Shinano。"
@@ -74889,7 +74889,7 @@ msgid "IDS_PGSA510_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSA518"
-msgstr "Graf Zeppelin"
+msgstr "齊柏林伯爵"
 
 msgid "IDS_PGSA518_DESCR"
 msgstr "德國領導層意識到建造航空母艦的重要性，於是派遣一組專家到日本研究此類艦艇的推動。第一艘航空母艦在其下水儀式獲得了 Graf Zeppelin 的名稱。在建造期間，此艦艇的設計經歷了數次修改，包括用「大西洋式」艦艏取代原本的艦艏，並增加了外部的船腹。在斯德丁遭紅軍佔領前，這艘未完工的艦艇於該城市被鑿沉。戰爭結束後，此航空母艦在蘇聯被打撈起來並進行了徹底檢查。完成此艦艇的計畫遭放棄，隨後她作為訓練用靶艦被摧毀。"
@@ -74904,7 +74904,7 @@ msgid "IDS_PGSA518_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA598"
-msgstr "Graf Zeppelin B"
+msgstr "齊柏林伯爵 B"
 
 msgid "IDS_PGSA598_DESCR"
 msgstr "德國領導層意識到建造航空母艦的重要性，於是派遣一組專家到日本研究此類艦艇的推動。第一艘航空母艦在其下水儀式獲得了 Graf Zeppelin 的名稱。在建造期間，此艦艇的設計經歷了數次修改，包括用「大西洋式」艦艏取代原本的艦艏，並增加了外部的船腹。在斯德丁遭紅軍佔領前，這艘未完工的艦艇於該城市被鑿沉。戰爭結束後，此航空母艦在蘇聯被打撈起來並進行了徹底檢查。完成此艦艇的計畫遭放棄，隨後她作為訓練用靶艦被摧毀。"
@@ -74919,13 +74919,13 @@ msgid "IDS_PGSA598_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA610"
-msgstr "M. Immelmann"
+msgstr "殷麥曼"
 
 msgid "IDS_PGSA610_DESCR"
 msgstr "此設計是作為航空母艦完工的 H-39 級主力艦的可能版本之一。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。此類航空母艦本應成為全歐洲最大型的艦艇。"
 
 msgid "IDS_PGSA610_FULL"
-msgstr "Max Immelmann"
+msgstr "馬克斯·殷麥曼"
 
 msgid "IDS_PGSA610_NUMBER"
 msgstr "1"
@@ -74934,7 +74934,7 @@ msgid "IDS_PGSA610_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSA990"
-msgstr "O. Lilienthal"
+msgstr "奧托·李林塔爾"
 
 msgid "IDS_PGSA990_DESCR"
 msgstr "德國重型航空母艦的假設版本，以未完工的 H-39 級主力艦艦身為基礎。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。有了這樣的配置，她本應成為世界上最大型的艦艇之一，僅次於日本的 Shinano。"
@@ -74949,7 +74949,7 @@ msgid "IDS_PGSA990_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB001"
-msgstr "Bismarck"
+msgstr "俾斯麥"
 
 msgid "IDS_PGSB001_DESCR"
 msgstr "最初的計畫是為新艦艇裝備八門 330 毫米火炮。然而，當法國和義大利開始建造裝有此種武器的主力艦時，其火炮口徑增至 380 毫米。1941 年 5 月，主力艦 Bismarck 和戰鬥巡洋艦 Prinz Eugen 為狩獵船團而啟航前往大西洋。他們在途中遭英國艦艇 Prince of Wales 和 Hood 攔截。Hood 遭擊中數次後爆炸，而德國破襲艦往大西洋航行。英國艦隊則緊追在其敵人之後。5 月 26 日，Bismarck 由於方向舵損壞而無法控制。此主力艦在隨後的戰鬥中遭擊沉。"
@@ -74964,7 +74964,7 @@ msgid "IDS_PGSB001_YEAR"
 msgstr "1940"
 
 msgid "IDS_PGSB002"
-msgstr "Tirpitz"
+msgstr "鐵必制"
 
 msgid "IDS_PGSB002_DESCR"
 msgstr "Tirpitz 是第二艘 Bismarck 級主力艦，建造於威廉港。燃料短缺加上擔心在 Bismarck 沉沒後再次失去另一艘大型艦艇的恐懼，是此主力艦在戰爭期間並未非常活躍的原因。Tirpitz 試圖攻擊北極船團但遭遇抵抗。1944 年秋天，此主力艦遭兩枚 6 噸炸彈擊中，幾乎使其喪失作戰能力，最終英國的蘭卡斯特轟炸機將其擊沉。"
@@ -74979,7 +74979,7 @@ msgid "IDS_PGSB002_YEAR"
 msgstr "1941"
 
 msgid "IDS_PGSB103"
-msgstr "Nassau"
+msgstr "拿騷"
 
 msgid "IDS_PGSB103_DESCR"
 msgstr "根據 Kaiser Wilhelm II 的提議，新裝甲艦的開發於 1903 年開始。一項在炮塔裝備兩門 283 毫米火炮和強化反魚雷防護的設計在 1906 年獲得了批准。建造於威廉港船塢的 SMS Nassa 成為了德國的第一艘無畏艦。第一次世界大戰爆發後，此主力艦於襲擊斯卡波羅期間提供掩護。她在 1915 年參與了突破里加灣的行動。Nassau 和 Thüringen 在日德蘭海戰中聯手擊沉了英國巡洋艦 Black Prince。"
@@ -74994,7 +74994,7 @@ msgid "IDS_PGSB103_YEAR"
 msgstr "1909"
 
 msgid "IDS_PGSB104"
-msgstr "Kaiser"
+msgstr "凱撒"
 
 msgid "IDS_PGSB104_DESCR"
 msgstr "新的 Kaiser 級艦艇與其前輩相比有了大幅進步：她採用了蒸汽渦輪機，以及更實用的主炮塔布局。具體來說，Kaiser 有兩座超射型後端炮塔和兩座呈對角線排列的側炮塔，其炮塔數量與以前的設計相比少了一座。SMS Kaiser 於 1911 年 3 月 22 日 Kaiser Wilhelm 生日當天下水。Kaiser 在日德蘭海戰期間擊沉了驅逐艦 HMS Nomad 和巡洋艦 HMS Defence，並且重創主力艦 Warspite。"
@@ -75009,7 +75009,7 @@ msgid "IDS_PGSB104_YEAR"
 msgstr "1912"
 
 msgid "IDS_PGSB105"
-msgstr "König"
+msgstr "國王"
 
 msgid "IDS_PGSB105_DESCR"
 msgstr "König 是基於其前一系列的 Kaiser 級主力艦所設計。新艦艇裝備了一座炮塔，放置於中心線上，取代了之前兩座側炮塔的布局。SMS König 建造於威廉港的造船廠，並於第一次世界大戰初期投入服役。此主力艦在日德蘭海戰期間受到嚴重損壞，進水量達 1,600 噸。König 在德國投降後被拖往斯卡帕灣，並在 1918 年 6 月 21 日於該處遭船員鑿沉。此艦艇的殘骸仍在海底。"
@@ -75024,7 +75024,7 @@ msgid "IDS_PGSB105_YEAR"
 msgstr "1914"
 
 msgid "IDS_PGSB106"
-msgstr "Bayern"
+msgstr "巴伐利亞"
 
 msgid "IDS_PGSB106_DESCR"
 msgstr "在 1910 年顯而易見的是，英國、美國和其他國家即將建造的主力艦上的火炮口徑將超過 305 毫米。有鑑於此，德國開始開發有潛力反制這些艦艇的武器。經過一段時間的研究和討論，一項在艦艇的四座炮塔中裝備八門 380 毫米火炮的計畫獲得了批准。此系列的領艦 SMS Bayern 在第一次世界大戰期間參與巡邏和破襲行動。然而，她唯一的戰鬥任務是阿爾比恩行動，其目的是佔領當時由俄羅斯軍隊和艦隊控制的穆胡海峽群島。"
@@ -75039,7 +75039,7 @@ msgid "IDS_PGSB106_YEAR"
 msgstr "1916"
 
 msgid "IDS_PGSB107"
-msgstr "Gneisenau"
+msgstr "格奈森瑙"
 
 msgid "IDS_PGSB107_DESCR"
 msgstr "德國於 1933 年開始著手設計違反《凡爾賽條約》限制的艦艇。為對抗配備 330 毫米火炮的法國艦艇，其設計採用強化的裝甲並增加了第三座炮塔。這艘新主力艦 Gneisenau 參加了威瑟演習行動和柏林行動，並參與了突破英吉利海峽的行動。Gneisenau 在 1942 年遭英國轟炸機的炸彈擊中。從此主力艦上拆卸下來的火炮重新用於挪威的海岸防禦。1945 年 3 月 27 日，Gneisenau 因紅軍攻擊而被鑿沉。"
@@ -75054,7 +75054,7 @@ msgid "IDS_PGSB107_YEAR"
 msgstr "1938"
 
 msgid "IDS_PGSB108"
-msgstr "Bismarck"
+msgstr "俾斯麥"
 
 msgid "IDS_PGSB108_DESCR"
 msgstr "最初的計畫是為新艦艇裝備八門 330 毫米火炮。然而，當法國和義大利開始建造裝有此種武器的主力艦時，其火炮口徑增至 380 毫米。1941 年 5 月，主力艦 Bismarck 和戰鬥巡洋艦 Prinz Eugen 為狩獵船團而啟航前往大西洋。他們在途中遭英國艦艇 Prince of Wales 和 Hood 攔截。Hood 遭擊中數次後爆炸，而德國破襲艦往大西洋航行。英國艦隊則緊追在其敵人之後。5 月 26 日，Bismarck 由於方向舵損壞而無法控制。此主力艦在隨後的戰鬥中遭擊沉。"
@@ -75069,7 +75069,7 @@ msgid "IDS_PGSB108_YEAR"
 msgstr "1940"
 
 msgid "IDS_PGSB109"
-msgstr "F. der Grosse"
+msgstr "廢特烈大帝"
 
 msgid "IDS_PGSB109_DESCR"
 msgstr "1938 年和 1939 年，一項擴充德國艦隊並使之更為現代化的計畫誕生了。6 艘新主力艦本應成為艦隊的核心，她們是 Bismarck 級主力艦的現代化版本，配備了柴油發動機，且火炮口徑增至 406 毫米。1939 年 7 月，第一艘艦艇在漢堡的「布洛姆+福斯」造船廠安放龍骨。同年 9 月，第二艘艦艇在不來梅開始建造。隨著第二次世界大戰爆發，其建造工程先是暫停隨後便遭取消。"
@@ -75084,7 +75084,7 @@ msgid "IDS_PGSB109_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSB110"
-msgstr "G. Kurfürst"
+msgstr "大選帝侯"
 
 msgid "IDS_PGSB110_DESCR"
 msgstr "從第二次世界大戰初期的主力艦獲得的經驗促使德國對正在建造的艦艇進行了修改。必須在改良其水平裝甲的同時，維持 11.5 公尺的吃水深度，以便在北海淺水區參與行動。此新設計採用了三層底並增加了水密隔艙的數量以增強對於水下爆炸的防護。其主要武器升級成十二門 420 毫米火炮。原本的計畫是在 1942 年為新設計的艦艇安放龍骨，但由於海軍的建造需求轉向了潛水艦，便不再為新艦艇安放龍骨。"
@@ -75099,7 +75099,7 @@ msgid "IDS_PGSB110_YEAR"
 msgstr "1941"
 
 msgid "IDS_PGSB111"
-msgstr "Hannover"
+msgstr "漢諾威"
 
 msgid "IDS_PGSB111_DESCR"
 msgstr "H 級計畫的進一步發展，裝備有強化主炮。在 457 毫米火炮之後，下一步便是將口徑增至 19 英寸（483 毫米）。這樣的口徑將使德國主力艦成為海軍歷史上火力最強的艦艇。在開發過程中，當局計劃完全停止採用非高平兩用的副炮，而是以高平兩用炮來替代。"
@@ -75114,7 +75114,7 @@ msgid "IDS_PGSB111_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB203"
-msgstr "Von der Tann"
+msgstr "馮·德·坦恩"
 
 msgid "IDS_PGSB203_DESCR"
 msgstr "德國艦隊當時需要品質上的提升以有效對抗英國戰鬥巡洋艦。此艘新艦艇裝備四座裝有 280 毫米火炮的炮塔，並以渦輪機取代了蒸汽機，且其裝甲防護顯著優於英國戰艦。隨著第一次世界大戰爆發，SMS Von der Tann 參與了襲擊行動，目的是將大艦隊的艦艇引誘出基地。此艦艇在日德蘭海戰期間擊沉了 HMS Indefatigable，但她也遭英國艦艇擊中數次，使其所有火炮癱瘓。"
@@ -75129,7 +75129,7 @@ msgid "IDS_PGSB203_YEAR"
 msgstr "1910"
 
 msgid "IDS_PGSB204"
-msgstr "Moltke"
+msgstr "毛奇"
 
 msgid "IDS_PGSB204_DESCR"
 msgstr "取代戰鬥巡洋艦 Von der Tann 的下一艘艦艇是基於強化後的設計所建造。其主炮塔數量增至五座，額外的炮塔置於艦艉超射型炮塔的位置。其裝甲和排水量也增加了。第一次世界大戰期間，SMS Moltke 參加了黑爾戈蘭灣海戰、多格爾沙洲海戰、里加灣海戰、日德蘭海戰和阿爾比恩行動。"
@@ -75144,7 +75144,7 @@ msgid "IDS_PGSB204_YEAR"
 msgstr "1911"
 
 msgid "IDS_PGSB205"
-msgstr "Derfflinger"
+msgstr "德弗林格爾"
 
 msgid "IDS_PGSB205_DESCR"
 msgstr "經過改良的英國艦艇裝甲防護，凸顯了強化德國新艦艇的必要性。置於四座超射型炮塔的八門 305 毫米火炮沿著艦艇中心線放置。Derfflinger 在日德蘭海戰期間擊沉了英國戰鬥巡洋艦 HMS Queen Mary 和 Invincible，但她也在行動中受到嚴重傷害。她遭大口徑砲彈擊中至少 17 次，在所有未遭擊沉的艦艇中其傷亡最為慘重。由於她在日德蘭海戰中頑強抵抗，英國人暱稱其為「鐵狗」。"
@@ -75159,7 +75159,7 @@ msgid "IDS_PGSB205_YEAR"
 msgstr "1914"
 
 msgid "IDS_PGSB206"
-msgstr "Mackensen"
+msgstr "麥肯森"
 
 msgid "IDS_PGSB206_DESCR"
 msgstr "設計新的戰鬥巡洋艦時，關於火炮的議題至關重要。新艦艇的武器有不同的選擇，像是配置分布於三座炮塔的六門 380 毫米火炮，或是十門 305 毫米火炮。作為妥協，此主力艦定案配備八門 350 毫米火炮。由於作戰行動結束，此艦艇的建造工程在距離其完工僅剩 15 個月時遭暫停。"
@@ -75174,7 +75174,7 @@ msgid "IDS_PGSB206_YEAR"
 msgstr "1914"
 
 msgid "IDS_PGSB207"
-msgstr "P. Heinrich"
+msgstr "海因里希親王"
 
 msgid "IDS_PGSB207_DESCR"
 msgstr "1915 年時，能明顯看出戰爭還遠未結束，因此有必要加速建造新艦艇。Kaiser Wilhelm 堅持讓新艦艇裝備 380 毫米火炮，並結合戰鬥巡洋艦的航速與主力艦的裝甲。領艦於 1916 年作為 Ersatz Yorck 級艦艇安放龍骨，但戰略重點隨著戰爭結束而改變，所有人力均用於建造和維修潛水艦。戰爭結束後，此艦艇在建造過程中便遭拆解。"
@@ -75189,7 +75189,7 @@ msgid "IDS_PGSB207_YEAR"
 msgstr "1916"
 
 msgid "IDS_PGSB208"
-msgstr "Zieten"
+msgstr "齊滕"
 
 msgid "IDS_PGSB208_DESCR"
 msgstr "工程部設計局於 1918 年進行了一系列研究，數十項高速主力艦設計的草案初稿因此誕生。她們以戰鬥巡洋艦 Ersatz Yorck 計畫為基礎，其不同之處在於排水量和武器配置。其中一項計畫是配備三座主炮塔的艦艇；排水量 45,000 噸；航速 31 節。"
@@ -75204,7 +75204,7 @@ msgid "IDS_PGSB208_YEAR"
 msgstr "1944"
 
 msgid "IDS_PGSB209"
-msgstr "P. Rupprecht"
+msgstr "雷普希特勒親王"
 
 msgid "IDS_PGSB209_DESCR"
 msgstr "由德國海軍總部工程部的設計師於 1918 年開發的其中一項計畫。她是高速主力艦（儘管最初被列為戰鬥巡洋艦），配備四座主炮塔，排水量 45,000 噸。設計師在此艦艇上重新採用了艏艛式配置，此種配置在 Derfflinger 級戰鬥巡洋艦設計期間曾遭捨棄。"
@@ -75249,7 +75249,7 @@ msgid "IDS_PGSB310_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB503"
-msgstr "K. Albert"
+msgstr "阿爾伯特國王"
 
 msgid "IDS_PGSB503_DESCR"
 msgstr "Kaiser 級主力艦 SMS König Albert 作為 Ersatz Ägir 級艦艇安放龍骨，並建造於但澤的希肖造船廠。此艦艇以 King Albert of Saxony 命名。從 1914 年至 1916 年，此主力艦作為公海艦隊的一員，參與了為襲擊提供掩護和布置雷區的行動。5 月 29 日，就在日德蘭海戰前 2 天，此艦艇前往威廉港進行維修，成為唯一錯過這場著名海戰的德國主力艦。"
@@ -75264,7 +75264,7 @@ msgid "IDS_PGSB503_YEAR"
 msgstr "1913"
 
 msgid "IDS_PGSB506"
-msgstr "P. E. Friedrich"
+msgstr "艾特爾·弗里德里希親王"
 
 msgid "IDS_PGSB506_DESCR"
 msgstr "Mackensen 級主力艦 SMS Prinz Eitel Friedrich 是以 Kaiser Wilhelm II 的其中一位兒子命名。由於重點轉向了潛水艦，當第一次世界大戰結束時，此主力艦仍未完工。她於 1920 年 3 月以未完工的狀態下水。曾有人建議將此艦艇改裝成運糧船，那樣一來，她本可以在 1930 年代作為主力艦完工。然而，此提案未獲採納，而此艦艇的艦身於 1921 年遭拆解。"
@@ -75279,7 +75279,7 @@ msgid "IDS_PGSB506_YEAR"
 msgstr "1914"
 
 msgid "IDS_PGSB507"
-msgstr "Scharnhorst"
+msgstr "沙恩霍斯特"
 
 msgid "IDS_PGSB507_DESCR"
 msgstr "Scharnhorst 是其艦級的領艦，建造於威廉港造船廠。在第二次世界大戰初期，此主力艦積極參與破襲行動。在 1943 年進行維修後，此艦艇轉移至挪威，目的是為阻撓北極船團向蘇聯運送貨物。Scharnhorst 於 12 月 26 日在襲擊 JW-55B 船團期間，遭主力艦 Duke of York 嚴重傷害，最終遭巡洋艦 Jamaica 和 Belfast 的魚雷擊沉。"
@@ -75294,7 +75294,7 @@ msgid "IDS_PGSB507_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSB508"
-msgstr "Odin"
+msgstr "奧丁"
 
 msgid "IDS_PGSB508_DESCR"
 msgstr "1932 年至 1934 年間，數項計畫被列入考慮以進一步開發並強化 Deutschland 級戰艦的性能。定案增加第三座主炮塔，排水量也因此顯著增加。當法國戰鬥巡洋艦 Strasbourg 的特性為人所知時，此艦艇主要武器口徑勢必須要進行調整。305 毫米口徑的版本被認為最具平衡性，尤其因為英國想在即將舉行的海軍會議上提議將其作為主炮口徑。"
@@ -75309,7 +75309,7 @@ msgid "IDS_PGSB508_YEAR"
 msgstr "1935"
 
 msgid "IDS_PGSB509"
-msgstr "Pommern"
+msgstr "波美拉尼亞"
 
 msgid "IDS_PGSB509_DESCR"
 msgstr "當設計 H 級主力艦時，主要訴求為其火力需超越世界上所有的同類型艦艇。儘管德國承諾會遵守《華盛頓海軍條約》，其國家領導層仍執意使用 420 毫米火炮。替代方案包括使用 406 毫米火炮（德國需花費更長時間來開發）或將 380 毫米火炮的數量增至十二門（置於四座三聯裝炮塔）。"
@@ -75324,7 +75324,7 @@ msgid "IDS_PGSB509_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB517"
-msgstr "AL P. Heinrich"
+msgstr "AL 海因里希親王"
 
 msgid "IDS_PGSB517_DESCR"
 msgstr "Prinz Heinrich 是鐵血 P 級重型巡洋艦。她天性樂觀，第二天就會忘記所有的煩惱。她非常容易相處。"
@@ -75339,7 +75339,7 @@ msgid "IDS_PGSB517_YEAR"
 msgstr "1916"
 
 msgid "IDS_PGSB518"
-msgstr "Brandenburg"
+msgstr "布蘭登堡"
 
 msgid "IDS_PGSB518_DESCR"
 msgstr "德國於 1932 年開始研發 35,000 噸的主力艦計畫。該計畫以第一次世界大戰的戰鬥巡洋艦 Ersatz Yorck 的設計為基礎。當時，英國傾向將主力艦主炮口徑限制降低至 305 毫米，並以此口徑為主。此外，此口徑火炮意味著針對其排水量而使用具有平衡性的裝甲結構。然而，在法國為其配備 330 毫米火炮的戰鬥巡洋艦 Dunkerque 安放龍骨後，建造裝載 305 毫米火炮之主力艦的計畫最終遭放棄。"
@@ -75354,7 +75354,7 @@ msgid "IDS_PGSB518_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB528"
-msgstr "Anhalt"
+msgstr "安哈爾特"
 
 msgid "IDS_PGSB528_DESCR"
 msgstr "Kaiser Wilhelm II 於 1916 年收到了全新主力艦的初稿，其靈感源自於主力艦 Bayern 的設計原則。其中一項計畫具有五座主炮塔、其中三座位於艦艉。為提高穩定性，勢必要增加艦艇的長度並將兩座炮塔移至下方的甲板。在其中一個版本中，此艦艇的武器由裝備 350 毫米火炮的五座三聯裝炮塔組成。然而，德國在第一次世界大戰戰敗，而未能為此新艦艇安放龍骨。"
@@ -75369,7 +75369,7 @@ msgid "IDS_PGSB528_YEAR"
 msgstr "1944"
 
 msgid "IDS_PGSB538"
-msgstr "Brandenburg B"
+msgstr "布蘭登堡 B"
 
 msgid "IDS_PGSB538_DESCR"
 msgstr "德國於 1932 年開始研發 35,000 噸的主力艦計畫。該計畫以第一次世界大戰的戰鬥巡洋艦 Ersatz Yorck 的設計為基礎。當時，英國傾向將主力艦主炮口徑限制降低至 305 毫米，並以此口徑為主。此外，此口徑火炮意味著針對其排水量而使用具有平衡性的裝甲結構。然而，在法國為其配備 330 毫米火炮的戰鬥巡洋艦 Dunkerque 安放龍骨後，建造裝載 305 毫米火炮之主力艦的計畫最終遭放棄。"
@@ -75384,7 +75384,7 @@ msgid "IDS_PGSB538_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB597"
-msgstr "Scharnhorst B"
+msgstr "沙恩霍斯特 B"
 
 msgid "IDS_PGSB597_DESCR"
 msgstr "Scharnhorst 是其艦級的領艦，建造於威廉港造船廠。在第二次世界大戰初期，此主力艦積極參與破襲行動。在 1943 年進行維修後，此艦艇轉移至挪威，目的是為阻撓北極船團向蘇聯運送貨物。Scharnhorst 於 12 月 26 日在襲擊 JW-55B 船團期間，遭主力艦 Duke of York 嚴重傷害，最終遭巡洋艦 Jamaica 和 Belfast 的魚雷擊沉。"
@@ -75399,7 +75399,7 @@ msgid "IDS_PGSB597_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSB598"
-msgstr "Tirpitz B"
+msgstr "鐵必制 B"
 
 msgid "IDS_PGSB598_DESCR"
 msgstr "Tirpitz 是第二艘 Bismarck 級主力艦，建造於威廉港。燃料短缺加上擔心在 Bismarck 沉沒後再次失去另一艘大型艦艇的恐懼，是此主力艦在戰爭期間並未非常活躍的原因。Tirpitz 試圖攻擊北極船團但遭遇抵抗。1944 年秋天，此主力艦遭兩枚 6 噸炸彈擊中，幾乎使其喪失作戰能力，最終英國的蘭卡斯特轟炸機將其擊沉。"
@@ -75414,7 +75414,7 @@ msgid "IDS_PGSB598_YEAR"
 msgstr "1941"
 
 msgid "IDS_PGSB599"
-msgstr "Pommern B"
+msgstr "波美拉尼亞 B"
 
 msgid "IDS_PGSB599_DESCR"
 msgstr "當設計 H 級主力艦時，主要訴求為其火力需超越世界上所有的同類型艦艇。儘管德國承諾會遵守《華盛頓海軍條約》，其國家領導層仍執意使用 420 毫米火炮。替代方案包括使用 406 毫米火炮（德國需花費更長時間來開發）或將 380 毫米火炮的數量增至十二門（置於四座三聯裝炮塔）。"
@@ -75429,7 +75429,7 @@ msgid "IDS_PGSB599_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB610"
-msgstr "Mecklenburg"
+msgstr "麥克倫堡"
 
 msgid "IDS_PGSB610_DESCR"
 msgstr "H 級主力艦計畫的設想版本，基於 Bismarck 級而非 Scharnhorst 級主力艦設計。這艘遠程破襲艦裝備有柴油發動機和十六門 305 毫米火炮，其任務是阻截英格蘭及其自治領和殖民地之間的航道。如果英國在倫敦海軍軍備會議上堅持其對於主力艦主炮口徑限制的提議，那麼維持 305 毫米火炮作為主力艦的主炮口徑便會是可行的方案。"
@@ -75444,7 +75444,7 @@ msgid "IDS_PGSB610_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB717"
-msgstr "Scharnhorst '43"
+msgstr "沙恩霍斯特 '43"
 
 msgid "IDS_PGSB717_DESCR"
 msgstr "設計用於破襲行動的兩艘主力艦的系列領艦，在第二次世界大戰爆發前幾個月投入服役。Scharnhorst 在 1939 年 11 月首次進行破襲行動，後來支援挪威登陸行動，出擊大西洋，並穿越英吉利海峽。1943 年，此主力艦被調往挪威攻擊敵方的北極船團。1943 年 12 月 26 日，由 Erich Bey 海軍少將指揮的 Scharnhorst 在北角附近被盟軍中隊擊沉。"
@@ -75459,7 +75459,7 @@ msgid "IDS_PGSB717_YEAR"
 msgstr "1943"
 
 msgid "IDS_PGSB910"
-msgstr "[G. Kurfürst]"
+msgstr "[大選帝猴]"
 
 msgid "IDS_PGSB910_DESCR"
 msgstr "這艘艦艇為 Großer Kurfürst 的複製品，並且只適用於公會戰鬥"
@@ -75489,7 +75489,7 @@ msgid "IDS_PGSB999_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSC001"
-msgstr "Hermelin"
+msgstr "鼬"
 
 msgid "IDS_PGSC001_DESCR"
 msgstr "德國工程師根據荷蘭的訂單，設計了「殖民地炮艦」計畫。荷蘭計劃建造一系列 7 艘艦艇，並根據簡化設計開始建造其中 3 艘。在荷蘭被佔領期間，這些艦艇落入德國手中，完成建造後為德國海軍所用。在尺寸和武器方面，此最初設計都超越了荷蘭艦艇。有種推測是德國海軍部有意根據原始設計來建造艦艇，以在戰後時期於未來的德國海外基地中使用。"
@@ -75504,7 +75504,7 @@ msgid "IDS_PGSC001_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSC002"
-msgstr "Dresden"
+msgstr "德勒斯登"
 
 msgid "IDS_PGSC002_DESCR"
 msgstr "在建造了數艘裝備蒸汽機的小型艦艇後，德國開始生產採用渦輪機的戰艦。在第一次世界大戰中，新級艦艇的領艦 SMS Dresden 作為 Spee 的中隊一員參與了科羅內爾海戰。在福克蘭群島海戰中，她是唯一沒被擊毀的德國戰艦。Dresden 在南大西洋和太平洋進行破襲行動，最後被英國巡洋艦攔截。在隨後的戰鬥中，此艦艇被鑿沉，船員們脫逃並在戰爭期間被拘留在智利。"
@@ -75519,7 +75519,7 @@ msgid "IDS_PGSC002_YEAR"
 msgstr "1908"
 
 msgid "IDS_PGSC103"
-msgstr "Kolberg"
+msgstr "科爾貝格"
 
 msgid "IDS_PGSC103_DESCR"
 msgstr "整個全新的德國輕型巡洋艦系列都配備了渦輪機。Kolberg 級在尺寸和航行能力方面超越其前輩，並強化了航速和火炮。在第一次世界大戰中，此級的領艦參與雅茅斯和斯卡波羅的襲擊行動，以及多格爾沙洲海戰，隨後試圖與艦隊主力部隊一同突破里加灣。Kolberg 在阿爾比恩行動中再次試圖突破並取得成功。第一次世界大戰結束後，此艦艇移交給法國海軍，並更名為「Colmar」。"
@@ -75534,7 +75534,7 @@ msgid "IDS_PGSC103_YEAR"
 msgstr "1910"
 
 msgid "IDS_PGSC104"
-msgstr "Karlsruhe"
+msgstr "卡爾斯魯厄"
 
 msgid "IDS_PGSC104_DESCR"
 msgstr "德國輕型巡洋艦的下一開發階段是採用裝甲帶。新級別還具有排水量大和適航性較佳等特點。在完成船員培訓後，此巡洋艦加入了負責在德國海岸巡邏的第二偵察中隊。此艦艇擔任偵察艦和掃雷護衛艦。在德國投降後，此巡洋艦和其他德國艦艇一起在 1919 年 6 月 21 日於斯卡帕灣被鑿沉。Karlsruhe 比其他被蓄意鑿沉的艦艇沉得更深，且再未被打撈起來。"
@@ -75549,7 +75549,7 @@ msgid "IDS_PGSC104_YEAR"
 msgstr "1916"
 
 msgid "IDS_PGSC105"
-msgstr "Königsberg"
+msgstr "柯尼斯堡"
 
 msgid "IDS_PGSC105_DESCR"
 msgstr "1926 年，輕型巡洋艦根據改進後的設計安放龍骨。新艦艇裝備了結合柴油動力和蒸汽渦輪的發動機，以及三聯裝炮塔。在第二次世界大戰中，該級別的領艦 Königsberg 在北海布置雷區，並參與入侵挪威。在卑爾根的兩棲突襲行動中，此艦艇被挪威沿海火炮擊損並在港口沉沒。最後，英國轟炸機施以最後一擊並摧毀了這艘艦艇。"
@@ -75564,7 +75564,7 @@ msgid "IDS_PGSC105_YEAR"
 msgstr "1929"
 
 msgid "IDS_PGSC106"
-msgstr "Nürnberg"
+msgstr "紐倫堡"
 
 msgid "IDS_PGSC106_DESCR"
 msgstr "Nürnberg 與其前輩的差異在於擁有更先進的上層建築，並針對裝甲進行了改動。第二次世界大戰爆發後，此巡洋艦在北海布置雷區，但在其中一次行動中，她被英國潛水艦的魚雷命中。戰後，Nürnberg 被移交給蘇聯並更名為「Admiral Makarov」。"
@@ -75579,7 +75579,7 @@ msgid "IDS_PGSC106_YEAR"
 msgstr "1935"
 
 msgid "IDS_PGSC107"
-msgstr "Yorck"
+msgstr "約克"
 
 msgid "IDS_PGSC107_DESCR"
 msgstr "在《凡爾賽條約》下，德國獲准保留 6 艘較舊的 Deutschland 級和 Braunschweig 級主力艦。這些艦艇在達到指定年限後，可以替換成排水量不超過 10,000 噸的艦艇。1920 年代，海軍高層著手深入研究未來能取代舊主力艦的艦艇。在多份建議中，其中一項設計類似於「華盛頓海軍條約」巡洋艦。這項計畫設想採用八門 8 英寸火炮。此計畫從未實施，但其進一步發展卻促成了「袖珍主力艦」的誕生。"
@@ -75594,7 +75594,7 @@ msgid "IDS_PGSC107_YEAR"
 msgstr "1923"
 
 msgid "IDS_PGSC108"
-msgstr "Hipper"
+msgstr "希佩爾上將"
 
 msgid "IDS_PGSC108_DESCR"
 msgstr "1934 年，當局開發了一份重型巡洋艦草圖設計的技術設計規格。工程師們從 Deutschland 級艦艇吸取經驗，放棄了採用柴油發動機的想法，轉而採用具有蒸汽參數較佳的渦輪機和鍋爐。領艦 Admiral Hipper 在第二次世界大戰中參與了對丹麥和挪威的入侵行動，並在大西洋進行數次破襲行動。1942 年 12 月 31 日，Hipper 參與巴倫支海海戰，襲擊 JW-51B 船團，並在交戰中受損。"
@@ -75609,7 +75609,7 @@ msgid "IDS_PGSC108_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSC109"
-msgstr "Roon"
+msgstr "羅恩"
 
 msgid "IDS_PGSC109_DESCR"
 msgstr "在廢除《凡爾賽條約》和簽署《英德海軍協定》後，德國繼續開發 Deutschland 級「鐵甲艦」。共考慮了超過 20 份草圖設計。根據要求，其航速應超過 34 節，而要達到此航速的其中一個方式是將主炮口徑縮至 203 毫米，尤其是在當時 203 毫米三聯裝炮塔的設計已經完成。最佳選項就是安裝三座此類炮塔，而不是兩座 283 毫米火炮炮塔。"
@@ -75639,7 +75639,7 @@ msgid "IDS_PGSC110_YEAR"
 msgstr "1940"
 
 msgid "IDS_PGSC111"
-msgstr "Clausewitz"
+msgstr "克烙賽維茨"
 
 msgid "IDS_PGSC111_DESCR"
 msgstr "德國破襲巡洋艦的下一步發展是安裝最新的火炮。主要口徑可能採用 210 毫米火炮、128 毫米高平兩用炮、55 毫米雙聯裝防空炮，以及 30 毫米四聯裝和雙聯裝火炮。在此情況下，艦艇排水量可能會超過 20,000 噸。如果進行升級，採用超越 1930 年代系統的柴油和蒸汽渦輪混合電力系統，那麼就能帶來高航速和較長的航行距離。"
@@ -75654,7 +75654,7 @@ msgid "IDS_PGSC111_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSC502"
-msgstr "Emden"
+msgstr "埃姆登"
 
 msgid "IDS_PGSC502_DESCR"
 msgstr "Dresden 級的第二艘巡洋艦 SMS Emden 作為 von Spee 的中隊一員，在遠東適逢第一次世界大戰爆發。1914 年，Karl von Müller 指揮此艦艇，脫離部隊在印度洋單獨進行破襲行動，俘獲近 24 艘艦艇。Emden 對檳城發動突襲；在這場檳城戰役中，她擊沉了蘇聯巡洋艦 Zhemchug 和法國驅逐艦 Mousquet。1914 年 11 月 9 日，Emden 在一場對可可斯群島的突襲中被澳大利亞巡洋艦 HMAS Sydney 攔截並遭到嚴重傷害，必須在近海岸處擱淺以避免沉沒。"
@@ -75669,7 +75669,7 @@ msgid "IDS_PGSC502_YEAR"
 msgstr "1909"
 
 msgid "IDS_PGSC506"
-msgstr "Graf Spee"
+msgstr "施佩伯爵"
 
 msgid "IDS_PGSC506_DESCR"
 msgstr "Admiral Graf Spee 與其他 Deutschland 級「袖珍主力艦」的差異在於她的尺寸較大，且裝甲較佳。第二次世界大戰爆發後，此艦艇在大西洋展開她的第一次，也是最後一次的破襲行動，並成功俘獲和擊沉數艘英國商船。此艦艇在拉普拉塔附近的戰役中與英國巡洋艦 Exeter、Ajax 和 Achilles 交戰，隨後前往蒙特維多進行維修。Admiral Graf Spee 的指揮官在收到假情報稱英國艦艇已集結在港口出口處待命後，下令鑿沉此艦艇。"
@@ -75684,7 +75684,7 @@ msgid "IDS_PGSC506_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSC507"
-msgstr "München"
+msgstr "慕尼黑"
 
 msgid "IDS_PGSC507_DESCR"
 msgstr "在德國的這項計畫中，共規劃建造 13 艘輕型巡洋艦，其中 6 艘已在 1939 年初建造。另外德國也計劃添加 6 艘採用改良設計的巡洋艦。與先前的艦級不同，這些艦艇應能航行更遠且更快。1938 和 1939 年間訂造了 6 艘艦艇，其中 2 艘在 1938 年於基爾和威廉港安放龍骨。1939 年 9 月，由於第二次世界大戰爆發，這些艦艇的建造工程被取消，而所有已安放龍骨的巡洋艦都被摧毀。"
@@ -75699,7 +75699,7 @@ msgid "IDS_PGSC507_YEAR"
 msgstr "1938"
 
 msgid "IDS_PGSC508"
-msgstr "Prinz Eugen"
+msgstr "歐根根"
 
 msgid "IDS_PGSC508_DESCR"
 msgstr "Admiral Hipper 級的第三艘巡洋艦 Prinz Eugen 是按照重製後設計建造的。1941 年 5 月 24 日，此巡洋艦與主力艦 Bismarck 一同參與了丹麥海峽海戰，HMS Hood 在該場海戰中沉沒。1942 年 2 月，此巡洋艦成功通過英吉利海峽，但在前往挪威途中被英國潛水艦 HMS Trident 發射的魚雷命中。之後在 1945 年 5 月 7 日，Prinz Eugen 在哥本哈根向英國海軍投降。第二次世界大戰結束後，此艦艇移交美國，並在 1946 年參與了在比基尼環礁的核子實驗。"
@@ -75714,7 +75714,7 @@ msgid "IDS_PGSC508_YEAR"
 msgstr "1940"
 
 msgid "IDS_PGSC509"
-msgstr "Siegfried"
+msgstr "齊格菲"
 
 msgid "IDS_PGSC509_DESCR"
 msgstr "1938 年，德國海軍決定除了破襲巡洋艦，還需要裝備重型火炮且完整的戰鬥巡洋艦。在新計畫下，此艦艇增大艦身以容納三座火炮炮座，口徑也增至 380 毫米。純柴油動力發動機被替換為混合動力發動機。1939 年，當局訂造了 3 艘計畫艦艇的第一艘；但是由於在第二次世界大戰初，大部分材料都用於建造潛水艦而出現材料短缺的情況，因此這些戰鬥巡洋艦都沒建成。"
@@ -75729,7 +75729,7 @@ msgid "IDS_PGSC509_YEAR"
 msgstr "1940"
 
 msgid "IDS_PGSC516"
-msgstr "Leipzig"
+msgstr "萊比錫"
 
 msgid "IDS_PGSC516_DESCR"
 msgstr "與先前的艦艇相比，巡洋艦 Leipzig 的發動機進行了大幅改造，採用了僅由柴油發動機驅動的中心軸，並把所有炮塔布置回到中心線。第二次世界大戰爆發後，此艦艇參與了布雷和巡邏任務。1939 年 12 月，Leipzig 被英國潛水艦 Salmon 發射的魚雷命中。1941 和 1942 年間，此巡洋艦在「波羅的海攻勢」中提供支援，但在 1944 年 10 月，她與 Prinz Eugen 相撞並遭到嚴重傷害。"
@@ -75744,7 +75744,7 @@ msgid "IDS_PGSC516_YEAR"
 msgstr "1931"
 
 msgid "IDS_PGSC517"
-msgstr "Weimar"
+msgstr "威瑪"
 
 msgid "IDS_PGSC517_DESCR"
 msgstr "德國工程師在開發 10,000 噸艦艇時，考慮了數個武器選項。考慮的最輕型計畫為 I/10 計畫，在四座炮塔中裝備八門 210 毫米火炮。與此同時，第一艘現代德國輕型巡洋艦裝備有 150 毫米三聯裝炮塔。由於 I/10 計畫的尺寸和布局得宜，艦艇能夠安裝四座此類炮塔，來替代 210 毫米炮座。"
@@ -75759,7 +75759,7 @@ msgid "IDS_PGSC517_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSC518"
-msgstr "Mainz"
+msgstr "美茵茲"
 
 msgid "IDS_PGSC518_DESCR"
 msgstr "1936 年，德國訂造 2 艘在四座三聯裝炮塔上裝備 150 毫米火炮的巡洋艦。但是，這些巡洋艦採用了與裝備 203 毫米火炮的巡洋艦一樣的炮塔座設計，可以輕易地替代 150 毫米火炮。火炮替換於 1937 年完成，當時這些艦艇甚至還未下水。"
@@ -75774,7 +75774,7 @@ msgid "IDS_PGSC518_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSC519"
-msgstr "Ägir"
+msgstr "埃吉爾"
 
 msgid "IDS_PGSC519_DESCR"
 msgstr "破襲戰鬥巡洋艦原應在三座炮塔中裝備六門 380 毫米火炮。但是，部分人士認為由於砲彈數量有限，此口徑對於破襲艦來說過大，而且砲彈本身用於摧毀商船是綽綽有餘。在充足的火力和砲彈威力之間取捨的結果，是採用 305 毫米三聯裝炮座。裝備三座這樣的炮座，能提供相當於三座 380 毫米雙聯裝炮座的射擊效能。"
@@ -75789,7 +75789,7 @@ msgid "IDS_PGSC519_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSC528"
-msgstr "Schill"
+msgstr "席爾"
 
 msgid "IDS_PGSC528_DESCR"
 msgstr "1930 年代末，德國海軍最高指揮部開發了一項計畫，旨在以破襲艦編隊突破英國的海軍封鎖。根據 Deutschland 級裝甲艦（重型巡洋艦）計畫進一步發展的 12 艘 P 級艦艇，本應作為此計畫中的主攻部隊。1939 年，德國海軍與造船廠簽訂了建造這些艦艇的合約，但隨後取消了訂單，轉而建造 O 級戰鬥巡洋艦。在原始文件中，此艦級被定位為 Handelsstörer 或「破襲艦」。"
@@ -75804,7 +75804,7 @@ msgid "IDS_PGSC528_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSC529"
-msgstr "Schröder"
+msgstr "施羅德"
 
 msgid "IDS_PGSC529_DESCR"
 msgstr "在吸取了第一次世界大戰的經驗後，建造大型水面破襲艦的概念在 1920 年代末於德國出現。這些計畫考慮到英國有意在即將到來的海軍會議中，提出對主力艦武器施加 305 毫米口徑上限的建議。根據所提出的設計，標準排水量介於 17,500 噸和 25,000 噸之間，武器由四座安置八門 305 毫米火炮的炮塔組成，輔以強大的 150 毫米副炮。裝甲以主力艦而言相當輕薄，反魚雷防護也是如此。"
@@ -75819,7 +75819,7 @@ msgid "IDS_PGSC529_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSC598"
-msgstr "Mainz B"
+msgstr "美茵茲 B"
 
 msgid "IDS_PGSC598_DESCR"
 msgstr "1936 年，德國訂造 2 艘在四座三聯裝炮塔上裝備 150 毫米火炮的巡洋艦。但是，這些巡洋艦採用了與裝備 203 毫米火炮的巡洋艦一樣的炮塔座設計，可以輕易地替代 150 毫米火炮。火炮替換於 1937 年完成，當時這些艦艇甚至還未下水。"
@@ -75834,7 +75834,7 @@ msgid "IDS_PGSC598_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSC706"
-msgstr "HSF Graf Spee"
+msgstr "HSF 施佩伯爵"
 
 msgid "IDS_PGSC706_DESCR"
 msgstr "威廉港校的 Deutschland 級直教艦。在動畫中，該艦艇的指揮官為 Thea Kreutzer，而副指揮官為 Wilhelmina。她在排水量相當於訓練用巡洋艦的艦身裝上了 28 公分火炮，而其柴油推進裝置為她帶來了更大的巡航範圍，使其成為在偏遠地區作業的寶貴資產。在《高校艦隊》系列動畫中，她經常用於長途航行。"
@@ -75864,7 +75864,7 @@ msgid "IDS_PGSC718_YEAR"
 msgstr " "
 
 msgid "IDS_PGSC809"
-msgstr "Roon CLR"
+msgstr "羅恩 CLR"
 
 msgid "IDS_PGSC809_DESCR"
 msgstr "在廢除《凡爾賽條約》和簽署《英德海軍協定》後，德國繼續開發 Deutschland 級「鐵甲艦」。共考慮了超過 20 份草圖設計。根據要求，其航速應超過 34 節，而要達到此航速的其中一個方式是將主炮口徑縮至 203 毫米，尤其是在當時 203 毫米三聯裝炮塔的設計已經完成。最佳選項就是安裝三座此類炮塔，而不是兩座 283 毫米火炮炮塔。"
@@ -75879,7 +75879,7 @@ msgid "IDS_PGSC809_YEAR"
 msgstr "1938"
 
 msgid "IDS_PGSC910"
-msgstr "[Hindenburg]"
+msgstr "[50穿]"
 
 msgid "IDS_PGSC910_DESCR"
 msgstr "這艘艦艇為 Hindenburg 的複製品，並且只適用於公會戰鬥"
@@ -75954,7 +75954,7 @@ msgid "IDS_PGSD105_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSD106"
-msgstr "Gaede"
+msgstr "蓋德"
 
 msgid "IDS_PGSD106_DESCR"
 msgstr "艦隊驅逐艦於 1933 年開始建造，並計劃讓她們在航速及火力上超越他國的同類型艦艇。1933 年 3 月，斯德丁伏爾鏗公司發布了排水量 1,500 噸的「常規倫敦海軍條約」驅逐艦。此計畫隨後進行了修改，排水量因此增至 2,000 噸。儘管如此，德國戰爭海軍領導層更青睞另一項替代計畫，該計畫是 1934 年型艦艇後續開發的基礎。"
@@ -75969,7 +75969,7 @@ msgid "IDS_PGSD106_YEAR"
 msgstr "1933"
 
 msgid "IDS_PGSD107"
-msgstr "Maass"
+msgstr "Z-1"
 
 msgid "IDS_PGSD107_DESCR"
 msgstr "在 1934 年的驅逐艦競爭中，德意志造船廠提交的設計雀屏中選。該系列的驅逐領導艦 Z-1 Leberecht Maass 於 1934 年 10 月安放龍骨，並於 1937 年 2 月投入服役。第二次世界大戰期間，此驅逐艦參與了封鎖波蘭海岸線的行動，並於北海部署水雷。不幸的是，此驅逐艦於 1940 年 2 月 23 日在維京行動期間，遭德國空軍的轟炸機誤認為目標而擊沉。"
@@ -76044,7 +76044,7 @@ msgid "IDS_PGSD207_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSD208"
-msgstr "G. J. Maerker"
+msgstr "G.J.梅克爾"
 
 msgid "IDS_PGSD208_DESCR"
 msgstr "1937 年型驅逐艦在設計上旨在成為作戰範圍更廣的艦艇。這些艦艇計劃用於大西洋以防衛或攻擊船團，以及在熱帶地區行動。此計畫以 1937J 版本作為基礎。然而到了 1938 年 4 月，設計工作遭到暫停，因為他們發現在單一艦身內整合所需的戰鬥能力、作戰範圍、航速與可靠性是一項不可能的任務。"
@@ -76059,7 +76059,7 @@ msgid "IDS_PGSD208_YEAR"
 msgstr "1937"
 
 msgid "IDS_PGSD209"
-msgstr "F. Schultz"
+msgstr "舒爾茨"
 
 msgid "IDS_PGSD209_DESCR"
 msgstr "遠洋驅逐艦概念的開發促成了 1938 計畫。1938Ac 在眾多方案中脫穎而出，持續進一步的發展。簡單來說，她是一艘排水量近 5,000 噸的輕型巡洋艦，擁有置於三座炮塔的六門 150 毫米火炮。計畫中，此艦級應建造 24 艘艦艇，但從未有一艘安放龍骨。"
@@ -76119,7 +76119,7 @@ msgid "IDS_PGSD508_YEAR"
 msgstr "1943"
 
 msgid "IDS_PGSD516"
-msgstr "K. Schönberg"
+msgstr "卡爾·馮·荀白克"
 
 msgid "IDS_PGSD516_DESCR"
 msgstr "在 1933 與 1934 年間開發的 SK22 計畫，是以第一次世界大戰的 1916 級超級驅逐艦為基礎。其中一個計畫版本建議在艦艇上裝備四門 150 毫米火炮。這類驅逐艦的作戰用途飽受爭議：即便她的排水量超過 2,000 噸，作為火炮平台仍舊過於不穩定。這正是德國戰爭海軍當局選擇採用較小口徑火炮之艦艇計畫的主要原因之一。"
@@ -76194,7 +76194,7 @@ msgid "IDS_PGSD610_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSD990"
-msgstr "Lübeck"
+msgstr "呂貝克"
 
 msgid "IDS_PGSD990_DESCR"
 msgstr "出自所謂的「偵察巡洋艦」計畫，是凝集了所有建造公海作戰驅逐艦所付出的努力的巔峰之作。這艘大型驅逐艦的 150 毫米主炮置於雙聯裝炮塔，並裝載強大的魚雷武器。"
@@ -78501,7 +78501,7 @@ msgid "IDS_PHPT001_533MM_TROMP"
 msgstr "53.3-cm torpedo"
 
 msgid "IDS_PHSC101"
-msgstr "Van Kinsbergen"
+msgstr "范·金斯伯根"
 
 msgid "IDS_PHSC101_DESCR"
 msgstr "Gunboat Van Kinsbergen 用於訓練操作最先進的射控系統。此艦艇在第二次世界大戰開始前不久投入服役。戰爭期間，她在加勒比海服役，參與船團的護衛，攔截敵方運輸艦和狩獵德國潛水艦。戰爭結束後，Van Kinsbergen 參與了對東印度群島和澳洲的兩次襲擊，之後被用作兵營船。"
@@ -78516,7 +78516,7 @@ msgid "IDS_PHSC101_YEAR"
 msgstr "1939"
 
 msgid "IDS_PHSC102"
-msgstr "Gelderland"
+msgstr "海爾德蘭"
 
 msgid "IDS_PHSC102_DESCR"
 msgstr "此艘 Holland 級防護巡洋艦於 1897 年 11 月在斯希丹安放龍骨。Gelderland 投入服役後被送往東印度群島，並在那裡一直待到 1905 年。她在 1920 年改裝成訓練艦。第二次世界大戰爆發時，此巡洋艦的部分武裝已拆除，且並不屬於海軍。Gelderland 在 1940 年被德軍俘虜，並改裝成浮動防空炮台 Niobe。此艦艇於 1944 年在芬蘭的科特卡港被擊沉。"
@@ -78531,7 +78531,7 @@ msgid "IDS_PHSC102_YEAR"
 msgstr "1900"
 
 msgid "IDS_PHSC103"
-msgstr "Java"
+msgstr "爪哇"
 
 msgid "IDS_PHSC103_DESCR"
 msgstr "1915 年，荷蘭採用了一項艦隊強化法，以保護其在東印度群島的殖民地。作為新建船計畫的一部分，巡洋艦 Java 於 1916 年安放龍骨，但一直到 1925 年才投入服役。此巡洋艦在戰間期一直留在東印度群島，直到 1937 年返回歐洲進行整修，並參加了 George VI 的加冕閱兵儀式。第二次世界大戰期間，Java 在東印度群島執行任務。當日本和美國參戰時，她受美英荷澳（ABDA）聯合指揮。此巡洋艦於 1942 年 2 月在爪哇海被擊沉。"
@@ -78546,7 +78546,7 @@ msgid "IDS_PHSC103_YEAR"
 msgstr "1925"
 
 msgid "IDS_PHSC104"
-msgstr "De Ruyter"
+msgstr "德·魯伊特"
 
 msgid "IDS_PHSC104_DESCR"
 msgstr "根據特別委員會的工作成果，荷蘭於 1930 年開始開發一艘新的巡洋艦，並計劃將 De Ruyter 和兩艘現有艦艇編入在東印度群島的艦隊。此計畫由一間德荷公司開發，並具有當時德國艦艇的設計特點。此巡洋艦以 M. A. de Ruyter 命名，他是最受尊敬的荷蘭上將之一。此艦艇於 1936 年 10 月下水，次年前往東印度群島，並在那裡一直待到第二次世界大戰爆發。De Ruyter 在 1942 年成為盟軍中隊旗艦，後者由 Karel Doorman 上將所指揮。"
@@ -78561,7 +78561,7 @@ msgid "IDS_PHSC104_YEAR"
 msgstr "1936"
 
 msgid "IDS_PHSC105"
-msgstr "Celebes"
+msgstr "西里伯斯"
 
 msgid "IDS_PHSC105_DESCR"
 msgstr "於 1917 年 6 月在斯希丹安放龍骨的第三艘 Java 級巡洋艦，本應成為荷蘭海軍在東印度群島的旗艦。原本計劃於 1920 年完工，然而由於戰爭期間英國的經濟封鎖和資源匱乏，此艦艇建造進度大幅減緩。Celebes 從未建造完成。"
@@ -78576,7 +78576,7 @@ msgid "IDS_PHSC105_YEAR"
 msgstr "1938"
 
 msgid "IDS_PHSC106"
-msgstr "Kijkduin"
+msgstr "凯克德因"
 
 msgid "IDS_PHSC106_DESCR"
 msgstr "1935 年，荷蘭政府批准了建造「超輕型」巡洋艦的決定。以巡洋艦 De Ruyter 為原型的兩艘艦艇中的第一艘命名為 Kijkduin，於 1939 年安放龍骨。最初計劃為此巡洋艦配備分佈於四座炮塔的八門火炮，但隨後又重新考慮了武器的配置。因為第二次世界大戰與荷蘭被佔領，建造進度延緩 — 意即這些新巡洋艦是根據大規模修改後的計畫完工的，且直到 1950 年代才投入服役。"
@@ -78591,7 +78591,7 @@ msgid "IDS_PHSC106_YEAR"
 msgstr "1938"
 
 msgid "IDS_PHSC107"
-msgstr "Eendracht"
+msgstr "團結"
 
 msgid "IDS_PHSC107_DESCR"
 msgstr "巡洋艦 Kijkduin 還在建造時就更名為「Eendracht」，同時其武器配置也有更動。隨後此艦艇被德軍俘虜並更名為「KH2」。德軍計劃使其成為德國戰爭海軍的一員。戰爭結束後，荷蘭根據修改版計畫繼續建造 Eendracht，此巡洋艦再次更名為「De Zeven Provinciën」。此艦艇於 1953 年投入服役，直到 1975 年出售給祕魯之前一直是荷蘭海軍軍力。她在祕魯以 Aguirre 和 Almirante Grau 之名持續服役至 1999 年。"
@@ -78606,7 +78606,7 @@ msgid "IDS_PHSC107_YEAR"
 msgstr "1945"
 
 msgid "IDS_PHSC108"
-msgstr "Haarlem"
+msgstr "哈勒姆"
 
 msgid "IDS_PHSC108_DESCR"
 msgstr "1939 年，荷蘭當局決定為其海軍建造主力艦。針對新艦級艦艇的性能有了漫長的討論，最終決定主要訴求為高航速。必要時，此艦艇必須有能力避免與更強大的對手作戰，例如日本的 Kongō 級戰鬥巡洋艦。根據計畫，此巡洋艦排水量為 16,000 噸，能加速至 32–33 節並攜帶 203 毫米火炮。然而海軍委員會認為此類型艦艇的裝甲不足，因而此計畫從未完成。"
@@ -78621,7 +78621,7 @@ msgid "IDS_PHSC108_YEAR"
 msgstr "1944"
 
 msgid "IDS_PHSC109"
-msgstr "Johan de Witt"
+msgstr "約翰·德·維特"
 
 msgid "IDS_PHSC109_DESCR"
 msgstr "1939 年的其中一艘巡洋艦的替代計畫，她保留了包括九門 240 毫米火炮在內的武器，提供了適當的裝甲及航速，但預設了更大的排水量。多虧其高航速，此類型的巡洋艦在需要時能避免與敵方交戰，同時由於其強化的武器和裝甲，她還能對抗數艘日本戰鬥巡洋艦。然而，該計畫也未曾實施。進一步的工作重點放在設計一艘搭載 283 毫米主炮的重型巡洋艦。"
@@ -78666,7 +78666,7 @@ msgid "IDS_PHSC508_YEAR"
 msgstr "1953"
 
 msgid "IDS_PHSC509"
-msgstr "Van Speijk"
+msgstr "范·斯佩克"
 
 msgid "IDS_PHSC509_DESCR"
 msgstr "1938 年，在國際局勢日趨緊繃之下，荷蘭國防部決定增強該國海軍實力。1939 年誕生的計畫在大多方面皆與德國戰艦 Scharnhorst 相似。鑒於經濟因素，他們決定縮小新艦艇的尺寸。政府傾向採用的計畫是 16,000 噸巡洋艦，航速有 33 節且裝備 240 或 280 毫米主炮。然而，為了確保足夠的裝甲防護，最終必須採用較小口徑的 203 毫米火炮。如果計畫得以進一步發展，此艦艇可能會在第二次世界大戰結束之前獲得強化後的對空防禦。"
@@ -78681,7 +78681,7 @@ msgid "IDS_PHSC509_YEAR"
 msgstr "1939"
 
 msgid "IDS_PHSC990"
-msgstr "Vrijheid"
+msgstr "弗賴海特"
 
 msgid "IDS_PHSC990_DESCR"
 msgstr "1930 年代末於荷蘭開發的戰鬥巡洋艦計畫（1047 計畫），目的是在太平洋與日本艦隊抗衡。主要武器由九門德國製 283 毫米火炮組成。"
@@ -78696,7 +78696,7 @@ msgid "IDS_PHSC990_YEAR"
 msgstr "1940"
 
 msgid "IDS_PHSD509"
-msgstr "Groningen"
+msgstr "格羅寧根"
 
 msgid "IDS_PHSD509_DESCR"
 msgstr "第二艘 Friesland 級驅逐艦於 1952 年 2 月在阿姆斯特丹造船廠安放龍骨，並於 1954 年下水。如同所有戰後時期的荷蘭艦艇，Groningen 的職涯相當平靜。此驅逐艦在 1977 年 7 月作為艦群的一員，抵達列寧格勒進行官式訪問。Groningen 在 1981 年 1 月 20 日出售給祕魯海軍並更名為「Gálvez」。"
@@ -78711,7 +78711,7 @@ msgid "IDS_PHSD509_YEAR"
 msgstr "1956"
 
 msgid "IDS_PHSD610"
-msgstr "Tromp"
+msgstr "特龍普"
 
 msgid "IDS_PHSD610_DESCR"
 msgstr "1931 年，荷蘭海軍開始驅逐艦領艦的設計工作，該驅逐艦在性能上本應超越日本的 Fubuki 級驅逐艦。此艦艇的主炮為 150 毫米火炮，其多層輕裝甲布局能提供防禦砲彈的保護。1939 年 9 月，此艦艇被送往東印度群島，並在戰爭一開始加入美英荷澳（ABDA）部隊。從 1942 年開始，Tromp 被編入美國第七艦隊，並在印度洋及澳洲水域護衛運輸艦。在那之後，此艦艇加入英國遠東艦隊，並於 1953 年參加了慶祝伊麗莎白二世加冕的海上閱兵儀式。"
@@ -96291,7 +96291,7 @@ msgid "IDS_PURSHASE_FAILED"
 msgstr "購買錯誤"
 
 msgid "IDS_PUSB507"
-msgstr "Yukon"
+msgstr "育空"
 
 msgid "IDS_PUSB507_DESCR"
 msgstr "在第一次世界大戰期間，加拿大海軍只有一艘主力艦 — 先前屬於智利的戰艦 Latorre。加拿大計劃以 Queen Elizabeth 級或 Revenge 級艦艇為基礎，再建造一至兩艘主力艦。在第二次世界大戰爆發前，加拿大開發了一項配備 381 毫米主炮的 King George V 級主力艦的計畫，但卻未敢實施，並在戰爭期間僅專注在驅逐艦上。"
@@ -96306,7 +96306,7 @@ msgid "IDS_PUSB507_YEAR"
 msgstr "1935"
 
 msgid "IDS_PUSC506"
-msgstr "Perth"
+msgstr "珀斯"
 
 msgid "IDS_PUSC506_DESCR"
 msgstr "根據強化版本的 Leander 級巡洋艦計畫，為皇家海軍建造的三艘艦艇之一。Perth 於 1939 年移交給澳洲海軍。同年 8 月，此艦艇代表澳洲參加紐約世界博覽會。Perth 在第二次世界大戰開始時回到澳洲，並從那裡轉移至地中海。一到那裡，她就參與了馬爾他船團的護衛並保護希臘水域。隨後 Perth 再次返回澳洲，加入美英荷澳（ABDA）中隊，並參加了爪哇海戰役。"
@@ -96321,7 +96321,7 @@ msgid "IDS_PUSC506_YEAR"
 msgstr "1936"
 
 msgid "IDS_PUSC509"
-msgstr "Hector"
+msgstr "赫克托爾"
 
 msgid "IDS_PUSC509_DESCR"
 msgstr "1936 年，英國開始以較小版本的 Southampton 級巡洋艦艦身為基礎設計一艘巡洋艦，因此開發了 Fiji 級艦艇。但若英國當時決定建造全尺寸的防空巡洋艦，則可能會以 Belfast 級艦艇艦身為基礎來設計防空巡洋艦。"
@@ -96336,7 +96336,7 @@ msgid "IDS_PUSC509_YEAR"
 msgstr "1945"
 
 msgid "IDS_PUSC510"
-msgstr "Brisbane"
+msgstr "布里斯本"
 
 msgid "IDS_PUSC510_DESCR"
 msgstr "第二次世界大戰後，澳洲皇家海軍開始縮減艦隊，目的是改善艦隊品質而非增加數量。澳洲建造了五艘現代驅逐艦，並從英國收購了兩艘航空母艦。他們還考慮購買更大的艦艇來護衛航空母艦。當時在英國仍處於開發階段且裝備有高平兩用主炮的巡洋艦 Minotaur，可能就是合適的選擇。"
@@ -96351,7 +96351,7 @@ msgid "IDS_PUSC510_YEAR"
 msgstr "1947"
 
 msgid "IDS_PUSC516"
-msgstr "Mysore"
+msgstr "邁索爾"
 
 msgid "IDS_PUSC516_DESCR"
 msgstr "HMS Nigeria 是一艘 Fiji 級巡洋艦，於 1940 年投入服役。一年後，她成為在北極水域行動的 K 部隊之旗艦。此巡洋艦在 1942 年前往地中海，參與了馬爾他船團的護衛。從次年開始，Nigeria 在遠東與南非海岸服役。此艦艇在 1954 年出售給印度，更名為「Mysore」並立即成為印度艦隊的旗艦。她在 1971 年參與了印巴戰爭並在卡拉奇港發動攻擊。"
@@ -96366,7 +96366,7 @@ msgid "IDS_PUSC516_YEAR"
 msgstr "1940"
 
 msgid "IDS_PUSD503"
-msgstr "Vampire"
+msgstr "吸血鬼"
 
 msgid "IDS_PUSD503_DESCR"
 msgstr "V 級驅逐艦隊領艦最初本應攜帶與系列中其他艦艇不同的的武器，但後來放棄了這個構想。五艘艦隊領艦之一的 HMS Wallace 建造於 1916 年至 1917 年間，而後更名為「HMS Vampire」。第一次世界大戰結束後，她在英國水域和地中海服役。此驅逐艦在 1933 年租借給澳洲海軍，並於 1934 年至 1938 年列入後備隊。在第二次世界大戰期間，HMAS Vampire 作為英國東方艦隊一員，在 1940 年參加過斯蒂洛角海戰，並在 1941 年參與了興樓外海海戰。"
@@ -96381,7 +96381,7 @@ msgid "IDS_PUSD503_YEAR"
 msgstr "1917"
 
 msgid "IDS_PUSD507"
-msgstr "Haida"
+msgstr "海達"
 
 msgid "IDS_PUSD507_DESCR"
 msgstr "隨著第二次世界大戰爆發，加拿大開始計劃強化艦隊，並決定根據英國 Tribal 級計畫建造數艘驅逐艦。其中一項計畫就是於 1941 年在哈利法克斯造船廠安放龍骨的 HMCS Haida。在戰爭期間，她參與了極地船團的護衛、在法國海岸的空降特勤團行動，以及諾曼第登陸。由於其出色的服役表現，HMCS Haida 贏得了「加拿大皇家海軍中最勇猛的艦艇」的美稱。此驅逐艦在 1963 年被列入後備隊，隨後又返回參與巡邏行動並護衛航空母艦。1964 年至 1965 年，HMCS Haida 在漢米頓改裝成博物館艦艇。"
@@ -96396,7 +96396,7 @@ msgid "IDS_PUSD507_YEAR"
 msgstr "1943"
 
 msgid "IDS_PUSD510"
-msgstr "Vampire II"
+msgstr "吸屌鬼 II"
 
 msgid "IDS_PUSD510_DESCR"
 msgstr "第二次世界大戰後，澳洲開始建造四艘以英國最先進的驅逐艦 Daring 為基礎所設計的驅逐艦。HMAS Vampire II 於 1952 年 7 月安放龍骨，並以其戰爭時期的前輩命名。與其英國原型艦不同的是，她具備專為熱帶水域行動所設計的專門火炮。1970 年至 1972 年期間，此驅逐艦配備了最先進的電子設備。Vampire II 於 1979 年成為訓練艦，並於 1990 年改裝成博物館艦艇。"
@@ -96411,7 +96411,7 @@ msgid "IDS_PUSD510_YEAR"
 msgstr "1959"
 
 msgid "IDS_PUSD517"
-msgstr "Huron"
+msgstr "休倫"
 
 msgid "IDS_PUSD517_DESCR"
 msgstr "HMSC Huron 以北美印地安部落命名，為加拿大八艘 Tribal 級驅逐艦中的第三艘。她於 1941 年在紐卡斯爾的一間造船廠安放龍骨。此艦艇服役於第三驅逐艦艦隊，並作為其中一員在 1943 年和 1944 年參與了六次北部船團的護衛。1944 年春天，她參與了法國沿海的行動，並於 1945 年再次護衛船團至莫曼斯克。"
@@ -98109,13 +98109,13 @@ msgid "IDS_PWPT8001_550_MARK_13"
 msgstr "Mark 13"
 
 msgid "IDS_PWSB504"
-msgstr "Viribus Unitis"
+msgstr "聯合力量"
 
 msgid "IDS_PWSB504_DESCR"
 msgstr "義大利與奧匈帝國之間從 19 世紀中葉開始的海軍競賽，在第一次世界大戰前達到頂峰。為回應 Radezky 級鐵甲艦的建造，義大利開始建造優於所有奧地利艦艇的 Dante Alighieri 無畏艦。針對此舉，奧匈帝國必須做出相應的對策。在呈交的所有初步計畫中，最有前景的版本是在四座三聯裝炮塔中裝備十二門主炮。第一艘新型主力艦 Viribus Unitis 在 1910 年安放龍骨。她於 1912 年投入服役並成為海軍旗艦，也是地中海海域最強大的主力艦。1918 年 11 月 1 日戰爭進入尾聲時，本已準備轉移到塞爾維亞人、克羅埃西亞人和斯洛維尼亞人王國海軍的 Viribus Unitis 被義大利擊沉。"
 
 msgid "IDS_PWSB504_FULL"
-msgstr "Viribus Unitis"
+msgstr "聯合力量"
 
 msgid "IDS_PWSB504_NUMBER"
 msgstr "4"
@@ -98124,13 +98124,13 @@ msgid "IDS_PWSB504_YEAR"
 msgstr "1912"
 
 msgid "IDS_PWSB509"
-msgstr "Karl XIV Johan"
+msgstr "卡爾十四世·約翰"
 
 msgid "IDS_PWSB509_DESCR"
 msgstr "根據《凡爾賽條約》，德國海軍的艦艇排水量不得超過 10,000 噸，然而此限制並不適用於為其他國家建造的艦艇。第一次世界大戰後，德國仍有數百艘未完工的艦艇。其中部分已完工的艦艇銷往了國外。瑞典為增強其海軍實力，可能曾考慮收購並完成一艘德國主力艦。"
 
 msgid "IDS_PWSB509_FULL"
-msgstr "Karl XIV Johan"
+msgstr "卡爾十四世·約翰"
 
 msgid "IDS_PWSB509_NUMBER"
 msgstr "1"
@@ -98139,13 +98139,13 @@ msgid "IDS_PWSB509_YEAR"
 msgstr "1952"
 
 msgid "IDS_PWSC101"
-msgstr "Gryf"
+msgstr "獅鷲"
 
 msgid "IDS_PWSC101_DESCR"
 msgstr "在 1930 年代初，波蘭海軍順應趨勢，建造了能夠獨立運作的大型布雷艦。此艦艇計劃擁有不亞於驅逐艦的武器，並在和平時期作為訓練艦使用。新的布雷艦於 1934 年安放龍骨，兩年後下水，並於 1938 年投入服役。在發生敵對行動時，Gryf 的任務是在岸邊部署水雷，以保護波蘭唯一的格丁尼亞海港免受兩棲攻擊。1939 年 9 月 1 日，第二次世界大戰爆發的第一天，此艦艇在一次空襲中受損。兩天後，她遭到德國驅逐艦的炮擊並再次遭受空襲。她被航空炸彈擊中多次最終沉沒。"
 
 msgid "IDS_PWSC101_FULL"
-msgstr "Gryf"
+msgstr "獅鷲"
 
 msgid "IDS_PWSC101_NUMBER"
 msgstr "1"
@@ -98154,7 +98154,7 @@ msgid "IDS_PWSC101_YEAR"
 msgstr "1938"
 
 msgid "IDS_PWSC506"
-msgstr "Elli"
+msgstr "伊里"
 
 msgid "IDS_PWSC506_DESCR"
 msgstr "巡洋艦 Eugenio di Savoia 於 1933 年 7 月在熱那亞的 Ansaldo 造船廠安放龍骨，並於 1936 年 1 月投入服役。這艘巡洋艦以參與西班牙共和國的封鎖和環球航行而聞名。在第二次世界大戰期間，這艘艦艇積極參與了地中海的軍事行動，包括卡拉布里亞戰役和對馬耳他船團的襲擊。1942 年底，這艘巡洋艦被美國飛機擊毀。義大利投降後，她被用作訓練艦。1951 年，Eugenio di Savoia 被轉交給希臘，在那裡，她以 Elli 之名成為希臘皇家海軍的旗艦和海軍司令部。從 1952 年到 1958 年，希臘國王進行正式訪問時都乘坐此艘巡洋艦。"
@@ -98169,7 +98169,7 @@ msgid "IDS_PWSC506_YEAR"
 msgstr "1936"
 
 msgid "IDS_PWSD102"
-msgstr "Tátra"
+msgstr "塔特拉"
 
 msgid "IDS_PWSD102_DESCR"
 msgstr "到了 1910 年代末期，奧匈帝國海軍現役的驅逐艦已經落伍。海軍領導人因此訂購了 6 艘不遜色於外國同類型艦艇的現代驅逐艦。有數間造船公司參與了驅逐艦的設計競賽，而匈牙利工廠 Ganz-Danubius 獲得了青睞。1915 年，完建的艦艇於維耶斯泰附近的一場小規模戰鬥中開始了其作戰任務，Tátra 在姊妹艦 Lika 的支援下擊沉了義大利驅逐艦 Turbine。後來，這艘驅逐艦參加了第一次杜拉佐海戰和對奧特朗託大壩的突襲。第一次世界大戰後，此艦艇被移交給義大利海軍，並更名為 Fasana。"
@@ -98184,7 +98184,7 @@ msgid "IDS_PWSD102_YEAR"
 msgstr "1913"
 
 msgid "IDS_PWSD103"
-msgstr "Romulus"
+msgstr "羅慕路斯"
 
 msgid "IDS_PWSD103_DESCR"
 msgstr "許多華盛頓與倫敦海軍條約的締約國試圖在條約文本中尋找漏洞。在確定艦艇類型的大小和武器方面，條約規定排水量小於 600 噸的艦艇可以無限量建造。義大利在 1930 年代建造了 32 艘 Spica 級驅逐艦，在武器和航速方面接近於成熟的驅逐艦。1939 年，瑞典從義大利購買了該級最早的兩艘艦艇 Spica 和 Astore，分別更名為 Romulus 和 Remus。"
@@ -98199,7 +98199,7 @@ msgid "IDS_PWSD103_YEAR"
 msgstr "1935"
 
 msgid "IDS_PWSD104"
-msgstr "Klas Horn"
+msgstr "克拉斯·霍恩"
 
 msgid "IDS_PWSD104_DESCR"
 msgstr "為了強化艦隊，瑞典政府與美國開始就購買數艘「平甲板」驅逐艦進行談判。雖然最終交易並未達成，但這些驅逐艦的設計為 1924 年安放龍骨的 Ehrensköld 級驅逐艦奠定了基礎。於 1929 年進一步開發後，兩艘改良版艦艇開始建造 — Klas Horn 和 Klas Uggla。Klas Horn 系列的領艦在馬爾默的 Kockums 造船廠建造。1941 年 9 月，由於軍事基地發生爆炸，兩艘驅逐艦都受到嚴重損壞並沉沒。Klas Uggla 沒有修復便退役，Klas Horn 被打撈起來並使用她姊妹艦的零件進行修復。"
@@ -98214,13 +98214,13 @@ msgid "IDS_PWSD104_YEAR"
 msgstr "1932"
 
 msgid "IDS_PWSD105"
-msgstr "Visby"
+msgstr "韋斯特羅斯"
 
 msgid "IDS_PWSD105_DESCR"
 msgstr "為了強化海軍，1941 年訂購了 4 艘 Visby 級艦艇 — Göteborg 級的改良型。該系列的領艦 Visby 在哥德堡的 Götaverken 造船廠建造，於 1942 年 10 月下水，並於 1943 年 8 月投入服役。經過漫長而「安靜」的服役，在 1960 年代初期，該級驅逐艦被改裝成反潛護衛艦。這些艦艇配備了直升機停機坪和火箭輔助炸彈投擲器。"
 
 msgid "IDS_PWSD105_FULL"
-msgstr "Visby"
+msgstr "維斯比"
 
 msgid "IDS_PWSD105_NUMBER"
 msgstr "4"
@@ -98229,7 +98229,7 @@ msgid "IDS_PWSD105_YEAR"
 msgstr "1943"
 
 msgid "IDS_PWSD106"
-msgstr "Västerås"
+msgstr "韋斯特羅斯"
 
 msgid "IDS_PWSD106_DESCR"
 msgstr "1933 年和 1934 年，波蘭海軍為了計劃建造一系列新型驅逐艦舉行了競標，且有歐洲各個造船廠參與。來自馬爾默的瑞典造船廠 Kockums 也以其計畫參加了競標。該計畫是以剛安放龍骨的 Göteborg 級驅逐艦作為基礎，與之不同的地方在於增加了 50% 的排水量與增強的武器裝備。最後由一家英國公司的計畫勝出，Grom 級驅逐艦也因此問世。"
@@ -98244,7 +98244,7 @@ msgid "IDS_PWSD106_YEAR"
 msgstr "1934"
 
 msgid "IDS_PWSD107"
-msgstr "Skåne"
+msgstr "斯科訥"
 
 msgid "IDS_PWSD107_DESCR"
 msgstr "在建造 Visby 級驅逐艦的同時，瑞典造船廠計劃建造能夠與外國大型驅逐艦平起平坐的更大型艦艇。主要的技術創新在於主炮 — 計劃裝備高平兩用炮並置於炮塔中。其中一個選項是標準排水量為 1,800 噸的計畫。還有建造 4 艘大型驅逐艦的計畫。設計過程持續進行，最終以 Öland 級驅逐艦作為設計成果。"
@@ -98259,7 +98259,7 @@ msgid "IDS_PWSD107_YEAR"
 msgstr "1942"
 
 msgid "IDS_PWSD108"
-msgstr "Öland"
+msgstr "厄蘭"
 
 msgid "IDS_PWSD108_DESCR"
 msgstr "在為新的驅逐艦選擇最佳設計時，瑞典專家研究了外國艦艇，並注意到排水量增加和使用「高平兩用」主炮武器的趨勢越來越頻繁。1941 年和 1942 年，推出了一系列排水量 1,750-2,500 噸、航速 35-38 節、主炮裝備兩到三座雙聯裝炮座的艦艇計畫。Öland 和 Uppland 是根據一個折衷計畫建造的，結合了兩個專為最高射擊速率而設計的最新主炮組。儘管遲了點，該計畫最終取得了成功。在其服役多年期間，這艘驅逐艦進行了 4 次升級，包括安裝雷達和最新的反潛設備。"
@@ -98274,7 +98274,7 @@ msgid "IDS_PWSD108_YEAR"
 msgstr "1947"
 
 msgid "IDS_PWSD109"
-msgstr "Östergötland"
+msgstr "東約特蘭"
 
 msgid "IDS_PWSD109_DESCR"
 msgstr "Halland 級驅逐艦建造於 1951 至 1956 年間，事實證明其體積太大且價格昂貴。因此，為完成兩個計劃中的驅逐艦艦隊，一項以先前 Öland 級艦艇為基礎且更為便宜的計畫被選中。領艦 Östergötland 在哥德堡建造。1961 年，她與驅逐艦 Öland 一起長途航行穿越歐洲海域，停靠了 9 個港口。1965 年，該驅逐艦裝備了 Robot-07 防空飛彈（英制「海貓」的瑞典版）。"
@@ -98319,7 +98319,7 @@ msgid "IDS_PWSD111_YEAR"
 msgstr "1953"
 
 msgid "IDS_PWSD205"
-msgstr "Muavenet"
+msgstr "穆阿維內特"
 
 msgid "IDS_PWSD205_DESCR"
 msgstr "1938 年，土耳其從英國訂購了 4 艘最新的 I 級戰艦。然而包括 Muavenet 在內的其中兩艘，在第二次世界大戰爆發時被英國收購。Muavenet 被更名為 HMS Inconstant，並開始在本土艦隊服役，而後被轉移到東方艦隊，參加了馬達加斯加周邊的兩棲作戰。1942 年夏天，此艦艇參與了前往馬耳他的護航隊。後來她在大西洋作戰，護衛北上的船團並為諾曼底登陸提供掩護。最後，此艦艇在 1946 年返回土耳其，並在那裡再次獲得了 Muavenet 之名，以紀念驅逐艦 Muâvenet-i Millîye，她在第一次世界大戰的加里波利之戰期間擊沉英國主力艦 Goliath。"
@@ -98334,7 +98334,7 @@ msgid "IDS_PWSD205_YEAR"
 msgstr "1942"
 
 msgid "IDS_PWSD206"
-msgstr "Stord"
+msgstr "斯托德"
 
 msgid "IDS_PWSD206_DESCR"
 msgstr "隨著第二次世界大戰的爆發，英國以 8 艘為一批開始大規模建造驅逐艦。一般來說，她們都配備四座帶有 102-120 毫米火炮的單裝炮座，以及一到兩座四聯魚雷發射器。其中兩艘艦艇被轉交給挪威海軍，並更名為「Stord」和「Svenner」。Stord 於 1943 年 9 月投入服役。1943 年和 1944 年，她參加了北大西洋的行動並為極地船團護航。在北角海戰期間，Stord 參與了擊沉德國主力艦 Scharnhorst 的行動。1944 年，驅逐艦 Stord 參與掩護諾曼底登陸，隨後返回護衛前往蘇聯的護航艦隊。戰後，Stord 成為挪威海軍的旗艦。"
@@ -98349,7 +98349,7 @@ msgid "IDS_PWSD206_YEAR"
 msgstr "1943"
 
 msgid "IDS_PWSD207"
-msgstr "Grom"
+msgstr "雷霆"
 
 msgid "IDS_PWSD207_DESCR"
 msgstr "Grom 和 Blyskawica 於 1937 年投入服役，成為繼最新法國驅逐艦之後當時最強大的歐洲驅逐艦。隨著第二次世界大戰的爆發，此驅逐艦突破波羅的海到達英國，幫助護衛戰時補給船團前往波蘭。然而，由於波蘭迅速淪陷，船團從未成功組織，Grom 便由英國海軍指揮。作為其中一員，她參與了挪威戰役。1940 年 5 月 4 日，Grom 的一個魚雷發射管被炸彈擊中，導致魚雷殉爆。不到 3 分鐘艦艇便沉沒入海。"
@@ -98364,7 +98364,7 @@ msgid "IDS_PWSD207_YEAR"
 msgstr "1937"
 
 msgid "IDS_PWSD208"
-msgstr "Split"
+msgstr "斯普利特"
 
 msgid "IDS_PWSD208_DESCR"
 msgstr ""
@@ -98380,7 +98380,7 @@ msgid "IDS_PWSD208_YEAR"
 msgstr "1958"
 
 msgid "IDS_PWSD209"
-msgstr "L. Katsonis"
+msgstr "蘭布羅斯·卡措尼斯"
 
 msgid "IDS_PWSD209_DESCR"
 msgstr "在 1920 年代後期，對於應該投資建造更多傳統艦艇或建造更少但更強大的艦艇，希臘海軍領導人之間存在爭議。1929 年，當土耳其向義大利購買了 4 艘驅逐艦時，他們便選擇了第一種方法，最終希臘訂購了 4 艘採用簡化技術建造的驅逐艦，也將於義大利進行建造。替代的解決方案則採取另一種作法，即訂購兩艘裝備有 140 毫米火炮的大型艦艇。最合適的初步設計之一是當時英國海軍部正在考慮的艦隊巡洋艦，也就是裝備有六門 140 毫米火炮的 E 級巡洋艦。Lambros Katsonis 的名稱便來自於希臘民族解放鬥爭的領導人。"
@@ -98410,7 +98410,7 @@ msgid "IDS_PWSD210_YEAR"
 msgstr "1939"
 
 msgid "IDS_PWSD501"
-msgstr "Blyskawica"
+msgstr "閃電"
 
 msgid "IDS_PWSD501_DESCR"
 msgstr "根據 Peking 行動的計畫，ORP Blyskawica 及其姊妹艦 ORP Grom 於 1939 年 9 月逃脫至英國，她在那裡進行升級，以參與北大西洋的行動。1940 年，此艦艇參加了挪威戰役和敦克爾克撤離行動。這艘驅逐艦參加了大西洋的護衛和巡邏行動，並為軍用運輸船護衛。1944 年，Blyskawica 在烏埃桑島海戰中與德國驅逐艦作戰，掩護在諾曼底登陸的部隊。在移交給新的波蘭政府後，這艘驅逐艦進行了現代化改造，其主炮和防空炮被蘇聯式武器取代。1976 年 5 月，Blyskawica 成為格丁尼亞的一艘博物館艦艇。"
@@ -98425,7 +98425,7 @@ msgid "IDS_PWSD501_YEAR"
 msgstr "1937"
 
 msgid "IDS_PWSD508"
-msgstr "Orkan"
+msgstr "奧坎"
 
 msgid "IDS_PWSD508_DESCR"
 msgstr "M 級驅逐艦 HMS Myrmidon 於 1939 年 12 月在蘇格蘭的 Fairfield 造船廠安放龍骨，於 1942 年 3 月下水，並於 1942 年 11 月 18 日投入服役。在她投入服役當天，此驅逐艦被莊嚴地移交給一組波蘭船員，並更名為「Orp Orkan」。此艦艇在北極服役時，參與了北部船團的護衛。1943 年 10 月 8 日，在護衛 SC-143 船團時，Orkan 被德國 U-378 潛水艦的魚雷擊中，並在幾分鐘之內沉沒。"
@@ -98440,7 +98440,7 @@ msgid "IDS_PWSD508_YEAR"
 msgstr "1942"
 
 msgid "IDS_PWSD509"
-msgstr "Velos"
+msgstr "威洛斯"
 
 msgid "IDS_PWSD509_DESCR"
 msgstr "USS Charrette 是一艘 Fletcher 級驅逐艦，建造於波士頓。此艦艇曾在太平洋作戰為航母護衛，進行過突襲行動，並參與過雷伊泰灣海戰。1947 年，她被送回預備隊進行後續封存。1959 年，美國將這艘艦艇移交給希臘並更名為「Velos」。1973 年，此艦艇的指揮官 Nikolaos Pappas 為抗議「黑人上校」的軍政府，率領驅逐艦前往義大利，在那裡他與部分船員一起申請政治庇護。第二年，軍政府垮台後，水手們返回希臘。1994 年，這艘驅逐艦被宣佈成為反獨裁博物館，以表彰海軍對憲法和民主的貢獻。"
@@ -98470,13 +98470,13 @@ msgid "IDS_PWSD510_YEAR"
 msgstr "1956"
 
 msgid "IDS_PWSD519"
-msgstr "Jäger"
+msgstr "獵人"
 
 msgid "IDS_PWSD519_DESCR"
 msgstr "1917 年，奧匈帝國開始著手建造驅逐艦領艦的計畫。總共計劃建造 8 艘領艦和 12 艘驅逐艦。Blohm & Voss 造船廠和 Ganz-Danubius 工廠提交了設計草案。奧匈帝國海洋技術委員會開發了其中數項計畫。其中一項 1917 年提出的計畫是建造一艘 2,000 噸的魚雷艇。此艦艇本應裝備 6 英寸主炮。然而，隨著第一次世界大戰結束和奧匈帝國崩潰，這些驅逐艦從未建造。"
 
 msgid "IDS_PWSD519_FULL"
-msgstr "Jäger"
+msgstr "獵人"
 
 msgid "IDS_PWSD519_NUMBER"
 msgstr "1"
@@ -98515,7 +98515,7 @@ msgid "IDS_PWSD710_YEAR"
 msgstr "1954"
 
 msgid "IDS_PWSD717"
-msgstr "Stord '43"
+msgstr "斯托德 '43"
 
 msgid "IDS_PWSD717_DESCR"
 msgstr "英國海軍部在戰爭緊急應對法案下訂造的 8 艘 S 級驅逐艦，在 1943 和 1944 年投入服役。該系列其中兩艘艦艇移交挪威皇家海軍，並命名為 Stord 和 Svenner。驅逐艦 Stord 在北角海戰中留名青史。挪威魚雷在擊沉德國主力艦 Scharnhorst 的過程中發揮了重要作用。1944 年 6 月，Stord 支援諾曼第登陸行動，此後繼續服役 15 年。"
@@ -98530,7 +98530,7 @@ msgid "IDS_PWSD717_YEAR"
 msgstr "1943"
 
 msgid "IDS_PWSD910"
-msgstr "Lappland"
+msgstr "拉普蘭"
 
 msgid "IDS_PWSD910_DESCR"
 msgstr "瑞典海軍中最大、最強的驅逐艦。她們的主要優勢是強大的對空防禦和射速極高的主炮。"
@@ -98545,7 +98545,7 @@ msgid "IDS_PWSD910_YEAR"
 msgstr "1955"
 
 msgid "IDS_PWSD990"
-msgstr "Södermanland"
+msgstr "南曼蘭"
 
 msgid "IDS_PWSD990_DESCR"
 msgstr "瑞典海軍中最大、最強的驅逐艦。她們的主要優勢是強大的對空防禦和射速極高的主炮。"
