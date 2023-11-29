@@ -6318,7 +6318,7 @@ msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_AIRDEFENSEDISP"
 msgstr "節慶煙花"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_CRASHCREW"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_REGENCREW"
 msgstr "維修小組"
@@ -10123,19 +10123,19 @@ msgid "IDS_CMD_QUICK_GOOD_GAME_WINDOW_ALLY_SHIP_SUBMARINE"
 msgstr "做得很好！"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_MESSAGE"
-msgstr "祝好運及航行順利！"
+msgstr "東鹹追在後面! 全速前進!"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_MESSAGE_LEGEND"
-msgstr "祝大家好運！"
+msgstr "東賢在背後!！"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_MESSAGE_LEGEND_PREF_TOOLTIP_DESCRIPTION"
 msgstr "發送訊息，祝隊友遊玩愉快。"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_SMALLWINDOW"
-msgstr "祝大家好運！"
+msgstr "東賢在背後!！"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_WINDOW"
-msgstr "祝大家好運！"
+msgstr "東賢在背後!！"
 
 msgid "IDS_CMD_QUICK_NEED_AIR_DEFENCE_MESSAGE"
 msgstr "提供防空火力支援！"
@@ -11599,7 +11599,7 @@ msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_PLAYER_SUBMARINE_HINT"
 msgstr "潛水艦被聲納音波命中。敵方潛水艦的魚雷可被引導至被高亮突顯的部位。"
 
 msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_RESET_HINT"
-msgstr "使用「傷害控制小組」消耗品以防止敵方潛水艦的魚雷引導。"
+msgstr "使用「可回收式政委」消耗品以防止敵方潛水艦的魚雷引導。"
 
 msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_US_HINT"
 msgstr "艦艇被聲納音波命中。敵方潛水艦的魚雷可被引導至被高亮突顯的部位。"
@@ -19616,7 +19616,7 @@ msgid "IDS_DESC_PCM038_SPOTTER_MOD_I"
 msgstr "延長「偵察機」和「快速起飛偵察機」消耗品的作用時間。"
 
 msgid "IDS_DESC_PCM039_CRASHCREW_MOD_I"
-msgstr "延長「傷害控制小組」和「快速傷害控制小隊」消耗品的作用時間。"
+msgstr "延長「可回收式政委」和「快速傷害控制小隊」消耗品的作用時間。"
 
 msgid "IDS_DESC_PCM040_AIRDEFENSEDISP_MOD_I"
 msgstr " "
@@ -21229,7 +21229,7 @@ msgstr ""
 "不是藥物，但有不良副作用。使用前請諮詢專家。"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY001_CRASHCREW"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY002_REGENCREW"
 msgstr "維修小組"
@@ -21259,7 +21259,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY008_SONARSEARCH"
 msgstr "水底搜索"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY009_CRASHCREWPREMIUM"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY009_CRASHCREW_LIMITED_PREMIUM"
 msgstr "政委"
@@ -21337,7 +21337,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY022_ARTILLERYBOOSTERPREMIUM"
 msgstr "超頻廉價勞工"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY023_CRASHCREWSUPER"
-msgstr "傷害控制小組 III"
+msgstr "可回收式政委 III"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY023_INVULNERABLE"
 msgstr "能量盾 I"
@@ -21391,7 +21391,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY036_REGENERATEHEALTH_LONG_PREMIUM"
 msgstr "優先維修"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY037_CRASHCREWAUTO"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY038_FIGHTERAUTO"
 msgstr "戰鬥機"
@@ -21454,7 +21454,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY012_SMOKEGENERATOR"
 msgstr "發煙機 III"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY013_CRASHCREW"
-msgstr "傷害控制小組 III"
+msgstr "可回收式政委 III"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY014_REGENCREW"
 msgstr "維修小組 I"
@@ -21463,7 +21463,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY015_SPEEDBOOSTERH18"
 msgstr "引擎增壓"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY021_CRASHCREW"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY022_REGENCREW"
 msgstr "維修小組"
@@ -21514,7 +21514,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY112_SMOKEGENERATORPREMIUM"
 msgstr "發煙機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY113_CRASHCREWPREMIUM"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY114_REGENCREWPREMIUM"
 msgstr "維修小組"
@@ -21577,7 +21577,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY315_SMOKEGENERATOR_PVP"
 msgstr "發煙機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY316_CRASHCREW_PVP"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY317_SONARSEARCH_PVP"
 msgstr "吃雷倒數表"
@@ -21646,7 +21646,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY338_HEALZONE_H2019"
 msgstr "維修區"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY401_CRASHCREW_H2020"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY402_REGEN_H2020"
 msgstr "維修小組"
@@ -27182,7 +27182,7 @@ msgid "IDS_FEAT_BAD_DUR_PTZ"
 msgstr "反魚雷防護較低"
 
 msgid "IDS_FEAT_BAD_DUR_REPAIRCHARGES"
-msgstr "「傷害控制小組」消耗品裝載數有限"
+msgstr "「可回收式政委」消耗品裝載數有限"
 
 msgid "IDS_FEAT_BAD_DUR_SURV"
 msgstr "存活性較低"
@@ -27410,13 +27410,13 @@ msgid "IDS_FEAT_CENTRAL_ARMOR_GOOD"
 msgstr "艦艇中央的裝甲防護經過改良"
 
 msgid "IDS_FEAT_CRASHCREW_LONG_DESC"
-msgstr "「傷害控制小組」消耗品的作用時間較長。"
+msgstr "「可回收式政委」消耗品的作用時間較長。"
 
 msgid "IDS_FEAT_CRASHCREW_LONG_GOOD"
-msgstr "「傷害控制小組」消耗品的作用時間較長"
+msgstr "「可回收式政委」消耗品的作用時間較長"
 
 msgid "IDS_FEAT_CRASHCREW_SHORT_BAD"
-msgstr "「傷害控制小組」消耗品的作用時間較短"
+msgstr "「可回收式政委」消耗品的作用時間較短"
 
 msgid "IDS_FEAT_DUR_BONUSREPAIR_SPECIAL"
 msgstr "「維修小組」消耗品具有特殊的特性"
@@ -27611,7 +27611,7 @@ msgid "IDS_FEAT_GOOD_COUSTICTORP_RANGE"
 msgstr "聲導魚雷射程較遠"
 
 msgid "IDS_FEAT_GOOD_CRASHCREW"
-msgstr "強化的「傷害控制小組」消耗品"
+msgstr "強化的「可回收式政委」消耗品"
 
 msgid "IDS_FEAT_GOOD_DUR_ANTICITADEL"
 msgstr "存活性較高"
@@ -27653,7 +27653,7 @@ msgid "IDS_FEAT_GOOD_DUR_BOWSTERNARMOR_7"
 msgstr "從 VII 階起有強化的艦艏與艦艉裝甲"
 
 msgid "IDS_FEAT_GOOD_DUR_CRASHCREWRELOAD"
-msgstr "「傷害控制小組」消耗品裝填迅速"
+msgstr "「可回收式政委」消耗品裝填迅速"
 
 msgid "IDS_FEAT_GOOD_DUR_DECKARMOR"
 msgstr "甲板裝甲防護較高"
@@ -30721,7 +30721,7 @@ msgid "IDS_HELP_CONSUME_TITLE_AIRDEFENSEDISP"
 msgstr "防禦用對空火力"
 
 msgid "IDS_HELP_CONSUME_TITLE_CRASHCREW"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_HELP_CONSUME_TITLE_FIGHTER"
 msgstr "戰鬥機"
@@ -33229,7 +33229,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL10_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -33319,7 +33319,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL11_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -33409,7 +33409,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL12_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -33499,7 +33499,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL13_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -33589,7 +33589,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL14_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -33679,7 +33679,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL15_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -33838,7 +33838,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL2_26"
 msgstr "您可以在齊射前先進行試射。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_27"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_28"
 msgstr "按住 [KEY_RIGHTMOUSE] 以環顧四周，同時準星會保持固定不動。"
@@ -33988,7 +33988,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL3_38"
 msgstr "您可以在齊射前先進行試射。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_39"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_4"
 msgstr "在齊射前永遠先進行試射。"
@@ -34144,7 +34144,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL4_37"
 msgstr "您可以在齊射前先進行試射。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_38"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_39"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -34255,7 +34255,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL5_24"
 msgstr "善用島嶼來保持隱蔽並接近敵方艦艇。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_25"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_26"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -34366,7 +34366,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL6_22"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_23"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_24"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -34462,7 +34462,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL7_22"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_23"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_24"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -34552,7 +34552,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL8_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -34642,7 +34642,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL9_21"
 msgstr "偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_22"
-msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用傷害控制小組。"
+msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用可回收式政委。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_23"
 msgstr "按下 [CMD_FIXING_TARGET_POSITION] 以鎖定在您的射程內所發現的目標。"
@@ -44178,16 +44178,16 @@ msgid "IDS_PARAMS_MODIFIER_CONTROLLABLEWEAPONDAMAGECOEFF"
 msgstr "來自艦艇武器的傷害"
 
 msgid "IDS_PARAMS_MODIFIER_CRASHCREWADDITIONALCONSUMABLES"
-msgstr "「傷害控制小組」消耗品裝載數"
+msgstr "「可回收式政委」消耗品裝載數"
 
 msgid "IDS_PARAMS_MODIFIER_CRASHCREWRELOADCOEFF"
-msgstr "「傷害控制小組」消耗品冷卻時間"
+msgstr "「可回收式政委」消耗品冷卻時間"
 
 msgid "IDS_PARAMS_MODIFIER_CRASHCREWWORKTIMECOEFF"
 msgstr "消耗品作用時間"
 
 msgid "IDS_PARAMS_MODIFIER_CRASHCREWWORKTIMECOEFF_SKILL"
-msgstr "「傷害控制小組」消耗品作用時間"
+msgstr "「可回收式政委」消耗品作用時間"
 
 msgid "IDS_PARAMS_MODIFIER_CRASHCREW_TALENT"
 msgstr "不可以亂繳的東西"
@@ -67156,7 +67156,7 @@ msgstr ""
 "\n"
 "規則 1：謹記口徑大小並時時使用 AP 彈。這麼一來，您的砲彈將能痛擊敵人。記住：HE 彈只適用於那些火炮不能穿透敵艦裝甲的戰艦。\n"
 "\n"
-"規則 2：艦艇著火必須立即撲滅。火災造成的血量傷害雖然慢（有時卻相當快），但絕對會將艦艇血量清零。別讓這種情況發生，趕快使用「傷害控制小組」消耗品！\n"
+"規則 2：艦艇著火必須立即撲滅。火災造成的血量傷害雖然慢（有時卻相當快），但絕對會將艦艇血量清零。別讓這種情況發生，趕快使用「可回收式政委」消耗品！\n"
 "\n"
 "規則 3：大膽一點！勇敢進擊，將戰線往前推，與對手奮力火拼，衝入關鍵地區！您的火力和強大的耐久度是隊伍的支柱。記得要學習指揮官技能並升級您的副炮，以提高您在近距離的戰鬥效率。"
 
@@ -112898,7 +112898,7 @@ msgid "IDS_SHIP_CREW_HINT"
 msgstr "艦艇指揮官"
 
 msgid "IDS_SHIP_DUR_SPECIAL_REPAIR"
-msgstr "擁有「快速傷害控制小隊」消耗品，而非「傷害控制小組」"
+msgstr "擁有「快速傷害控制小隊」消耗品，而非「可回收式政委」"
 
 msgid "IDS_SHIP_DUR_TURRET_WEAKARMOR_BAD"
 msgstr "炮塔裝甲較弱"
@@ -116527,7 +116527,7 @@ msgid "IDS_SKILL_DESC_CONSUMABLES_FIGHTER_ADDITIONAL"
 msgstr "航空母艦啟動「戰鬥機」消耗品時，將會額外升空一架飛機。"
 
 msgid "IDS_SKILL_DESC_CONSUMABLES_RELOAD"
-msgstr "強化消耗品效率；「傷害控制小組」和「維修小組」消耗品除外。"
+msgstr "強化消耗品效率；「可回收式政委」和「維修小組」消耗品除外。"
 
 msgid "IDS_SKILL_DESC_CONSUMABLES_SPOTTER_UPGRADE"
 msgstr " "
@@ -121006,7 +121006,7 @@ msgid "IDS_TALENT_ACTIVATED_PRW406_ACHIEVEMENT_0"
 msgstr "「緊急儲備」天賦已啟動。"
 
 msgid "IDS_TALENT_ACTIVATED_PRW406_HEALTH_1_5_6"
-msgstr "「勝利意志」天賦已啟動。"
+msgstr "「酷帥救救我」天賦已啟動。"
 
 msgid "IDS_TALENT_CAT_NAME_DEFAULT"
 msgstr "天賦"
@@ -121123,7 +121123,7 @@ msgid "IDS_TALENT_PRW406_ACHIEVEMENT_0_DESCRIPTION"
 msgstr "在獲得「First Blood」成就時啟動。"
 
 msgid "IDS_TALENT_PRW406_HEALTH_1_5_6"
-msgstr "勝利意志"
+msgstr "酷帥救救我"
 
 msgid "IDS_TALENT_PRW406_HEALTH_1_5_6_DESCRIPTION"
 msgstr "在艦艇血量低於 10% 時啟動，每場戰鬥可啟動一次。"
@@ -122154,7 +122154,7 @@ msgstr "航空母艦消耗品"
 
 msgid "IDS_TIPS_AIRCARRIER_AUTOMATIC_CONSUMABLES_DESCRIPTION"
 msgstr ""
-"當發生火災或進水或配件失去作用時，傷害控制小組消耗品會自動使用。\n"
+"當發生火災或進水或配件失去作用時，可回收式政委消耗品會自動使用。\n"
 "\n"
 "當您的航空母艦被敵人發現時，戰鬥機會自動升空執行偵察任務，並擊退空襲。"
 
@@ -122472,7 +122472,7 @@ msgid "IDS_TIPS_FIRE_AND_FLOODING_DESCRIPTION"
 msgstr ""
 "火災與進水在解決之前都會對您的艦艇造成傷害。\n"
 "\n"
-"可使用傷害控制小組消耗品 [CMD_CONSUMABLE_0] 來加快火災與進水的恢復。"
+"可使用可回收式政委消耗品 [CMD_CONSUMABLE_0] 來加快火災與進水的恢復。"
 
 msgid "IDS_TIPS_FIRE_CORRECTIONER"
 msgstr "偵察機"
@@ -122595,7 +122595,7 @@ msgid "IDS_TIPS_MODULES_DESCRIPTION"
 msgstr ""
 "艦艇配件可以被癱瘓或完全摧毀。\n"
 "\n"
-"使用傷害控制小組消耗品來立即恢復受損的配件。\n"
+"使用可回收式政委消耗品來立即恢復受損的配件。\n"
 "\n"
 "已摧毀的配件就無法復原。"
 
@@ -122612,7 +122612,7 @@ msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP_DESCRIPTION"
 msgstr ""
 "潛水艦利用聲納來高亮突顯艦艇的部位，以引導魚雷。\n"
 "\n"
-"使用「傷害控制小組」消耗品以防止魚雷引導。"
+"使用「可回收式政委」消耗品以防止魚雷引導。"
 
 msgid "IDS_TIPS_PLANE_SMOKES"
 msgstr "航空煙幕"
@@ -122652,13 +122652,13 @@ msgstr ""
 "在敵方戰鬥機攻擊時啟動，以避免飛機被擊毀。"
 
 msgid "IDS_TIPS_REPAIR_CONSUMABLE_01"
-msgstr "傷害控制小組"
+msgstr "可回收式政委"
 
 msgid "IDS_TIPS_REPAIR_CONSUMABLE_01_DESCRIPTION"
 msgstr ""
 "修理受損配件、撲滅火災以及阻止進水。\n"
 "\n"
-"如果您正承受密集火力，不要急著使用您的傷害控制小組消耗品。"
+"如果您正承受密集火力，不要急著使用您的可回收式政委消耗品。"
 
 msgid "IDS_TIPS_REPAIR_CONSUMABLE_02"
 msgstr "維修小組"
@@ -123005,7 +123005,7 @@ msgid "IDS_TITLE_PCM038_SPOTTER_MOD_I"
 msgstr "偵察機修改型 1"
 
 msgid "IDS_TITLE_PCM039_CRASHCREW_MOD_I"
-msgstr "傷害控制小組修改型 1"
+msgstr "可回收式政委修改型 1"
 
 msgid "IDS_TITLE_PCM040_AIRDEFENSEDISP_MOD_I"
 msgstr "防禦用對空火力修改型 1"
