@@ -22957,7 +22957,7 @@ msgid "IDS_DOGTAG_PCNB120_DESCRIPTION"
 msgstr "1943 年 11 月 1 日，美國海軍陸戰隊在主力艦的火力掩護下，在奧古斯塔皇后灣的布干維爾島登陸，旨在建立橋頭堡。作為回應，日本出動了航空部隊和一支巡洋艦中隊。隨後的海戰持續到 11 月 2 日，並以美國海軍取得全勝告終。"
 
 msgid "IDS_DOGTAG_PCNB120_NAME"
-msgstr "櫻花"
+msgstr "櫻花鉤吻鮭"
 
 msgid "IDS_DOGTAG_PCNB121_DESCRIPTION"
 msgstr "1776 年 7 月 4 日，美國頒布《獨立宣言》，宣布北美的英國殖民地脫離大不列顛王國獨立。這一天現在是美國的國慶日，每年都會舉辦公開活動，慶祝該國的遺產、歷史、法律和社會。"
@@ -23227,7 +23227,7 @@ msgid "IDS_DOGTAG_PCNB165_DESCRIPTION"
 msgstr "在指揮官臂章設計競賽中，玩家們受邀設計自己想在遊戲中看到的軍章。優勝作品在競賽結果出爐後添至遊戲中。"
 
 msgid "IDS_DOGTAG_PCNB165_NAME"
-msgstr "櫻花舵"
+msgstr "櫻花鉤吻鮭舵"
 
 msgid "IDS_DOGTAG_PCNB166_DESCRIPTION"
 msgstr "在指揮官臂章設計競賽中，玩家們受邀設計自己想在遊戲中看到的軍章。優勝作品在競賽結果出爐後添至遊戲中。"
@@ -24265,7 +24265,7 @@ msgid "IDS_DOGTAG_PCNB325_NAME"
 msgstr "Pommern"
 
 msgid "IDS_DOGTAG_PCNB326_DESCRIPTION"
-msgstr "從遠古時代開始，吉野山以它櫻花樹點綴的山坡而聞名。日本海軍的第一艘艦艇便是以這座山命名。她是一艘防護巡洋艦，最終於 1904 年在與俄羅斯的戰爭中被擊毀。"
+msgstr "從遠古時代開始，吉野山以它櫻花鉤吻鮭樹點綴的山坡而聞名。日本海軍的第一艘艦艇便是以這座山命名。她是一艘防護巡洋艦，最終於 1904 年在與俄羅斯的戰爭中被擊毀。"
 
 msgid "IDS_DOGTAG_PCNB326_NAME"
 msgstr "Yoshino"
@@ -57975,7 +57975,7 @@ msgid "IDS_PCEE265_YOSHINO_FLAG"
 msgstr "Yoshino"
 
 msgid "IDS_PCEE265_YOSHINO_FLAG_DESCRIPTION"
-msgstr "自古以來，吉野山以遍布櫻花樹的山坡而聞名。日本海軍第一艘以這座山命名的艦艇是一艘防護巡洋艦，於 1904 年在與俄羅斯的戰爭中被擊毀。"
+msgstr "自古以來，吉野山以遍布櫻花鉤吻鮭樹的山坡而聞名。日本海軍第一艘以這座山命名的艦艇是一艘防護巡洋艦，於 1904 年在與俄羅斯的戰爭中被擊毀。"
 
 msgid "IDS_PCEE266_BENHAM_FLAG"
 msgstr "USS Benham"
@@ -58824,7 +58824,7 @@ msgid "IDS_PCEE399_I_58"
 msgstr "I-58"
 
 msgid "IDS_PCEE399_I_58_DESCRIPTION"
-msgstr "從 1909 年起，日本海軍潛水艦人員被授予胸章，胸章以櫻花盛開為背景，描繪了第一艘日本潛水艦的輪廓。1920 年至 1944 年間，此胸章頒發給吳市潛水艦戰爭訓練學校成績優異的畢業生。"
+msgstr "從 1909 年起，日本海軍潛水艦人員被授予胸章，胸章以櫻花鉤吻鮭盛開為背景，描繪了第一艘日本潛水艦的輪廓。1920 年至 1944 年間，此胸章頒發給吳市潛水艦戰爭訓練學校成績優異的畢業生。"
 
 msgid "IDS_PCEE400_GOLDEN_WEEK"
 msgstr "黃金週"
@@ -62186,10 +62186,10 @@ msgid "IDS_PCVO001_OP_01_01_37_RIDGE_GOAL"
 msgstr "奪回我方艦艇並在途中保護她們前往目的地。"
 
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_NAME"
-msgstr "神盾"
+msgstr "神棍"
 
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_NAME_RESULT_SCREEN"
-msgstr "神盾"
+msgstr "神棍"
 
 msgid "IDS_PCVO002_OP_01_02_S01_NAVALBASE_DESCRIPTION"
 msgstr "偵察報告指出，敵人的主要部隊已離開了海軍基地。現在正是迅速突襲和全力破壞的好時機。只有幾艘艦艇留下來防守基地，其中一些艦艇正在修理中。"
@@ -62216,16 +62216,16 @@ msgid "IDS_PCVO003_OP_01_03_S03_LABYRINTH_NAME_RESULT_SCREEN"
 msgstr "營救 Raptor"
 
 msgid "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_DESCRIPTION"
-msgstr "發現數量眾多的敵方部隊正在接近海軍基地紐波特。您的任務是防守基地直到我方攻擊中隊抵達為止。拯救基地的基礎設施及泊港的支援艦。記住，如果我們失去紐波特基地，我們就會失去整個地區的控制權！"
+msgstr "發現數量眾多的敵方部隊正在接近海軍基地殺媽波特。您的任務是防守基地直到我方攻擊中隊抵達為止。拯救基地的基礎設施及泊港的支援艦。記住，如果我們失去紐波特基地，我們就會失去整個地區的控制權！"
 
 msgid "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_GOAL"
 msgstr "防守基地。防止陸上必要設施和支援艦遭受到破壞。堅持到我方攻擊中隊抵達為止。"
 
 msgid "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_NAME"
-msgstr "防守海軍基地紐波特"
+msgstr "防守海軍基地殺媽波特"
 
 msgid "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_NAME_RESULT_SCREEN"
-msgstr "防守海軍基地紐波特"
+msgstr "防守海軍基地殺媽波特"
 
 msgid "IDS_PCVO005_OP_11"
 msgstr "狼群"
@@ -62331,10 +62331,10 @@ msgid "IDS_PCVO009_OP_02_02_S06_ATOLL_GOAL"
 msgstr "保護運輸機團抵達基地。防衛機場直到登機完成及飛機離開基地為止。"
 
 msgid "IDS_PCVO009_OP_02_02_S06_ATOLL_NAME"
-msgstr "終極前沿"
+msgstr "終極前演"
 
 msgid "IDS_PCVO009_OP_02_02_S06_ATOLL_NAME_RESULT_SCREEN"
-msgstr "終極前沿"
+msgstr "終極前演"
 
 msgid "IDS_PCVO010_OP_09_S09_LEPVE_DESCRIPTION"
 msgstr "主力艦船艙裝滿了黃金，船團正穿越大西洋駛向美國海岸。敵人派出了精銳部隊來攔截船團。暴風雨正在預期的交戰區域醞釀成形。善用天氣條件，以抵消敵軍部隊的力量優勢。"
@@ -62355,10 +62355,10 @@ msgid "IDS_PCVO011_OP_10_S10_USS_CL_GOAL"
 msgstr "保衛海軍陸戰隊的登陸場，定位並摧毀敵方機場。"
 
 msgid "IDS_PCVO011_OP_10_S10_USS_CL_NAME"
-msgstr "櫻花"
+msgstr "櫻花鉤吻鮭"
 
 msgid "IDS_PCVO011_OP_10_S10_USS_CL_NAME_RESULT_SCREEN"
-msgstr "櫻花"
+msgstr "櫻花鉤吻鮭"
 
 msgid "IDS_PCVO012_EV_HL_18_BRIEFING_1"
 msgstr "沿著五鴉群島的路線前進，找到並摧毀Rasputin！"
@@ -62539,7 +62539,7 @@ msgid "IDS_PCVO029_EV_HL_17_E02_HALLOWEEN_2017_NIGHTMARE_NAME_RESULT_SCREEN"
 msgstr "黑暗中的光芒（非常困難）"
 
 msgid "IDS_PCVO030_OP_RANDOM_DESCRIPTION"
-msgstr "系統將隨機選擇其中一個可進行的行動。"
+msgstr "系統將隨機選擇其中一個可進行的行動。 模擬戰有：(櫻花鉤吻鮭)(神棍)(終極前演)(海軍基地殺媽波特)(愛媽死)(殺媽鯨)(那維萊特)"
 
 msgid "IDS_PCVO030_OP_RANDOM_GOAL"
 msgstr "系統將隨機選擇其中一個可進行的行動。"
@@ -63180,7 +63180,7 @@ msgstr "日本海軍軍官的帽徽"
 
 msgid "IDS_PCZC059_YAMAMOTO_KOKARDA_DESCRIPTION"
 msgstr ""
-"一個帶有由櫻花樹枝所構成船錨的圓形帽徽，於 1870 年推出作為日本海軍首席軍官的佩章。其中一個元素是一朵櫻花，為日本海軍階徽章的重要象徵。其最終形式於 1883 年推出，當時的所有軍官都必須戴同一型式的帽子。\n"
+"一個帶有由櫻花鉤吻鮭樹枝所構成船錨的圓形帽徽，於 1870 年推出作為日本海軍首席軍官的佩章。其中一個元素是一朵櫻花鉤吻鮭，為日本海軍階徽章的重要象徵。其最終形式於 1883 年推出，當時的所有軍官都必須戴同一型式的帽子。\n"
 "\n"
 "Yamamoto Isoroku 擁有這樣的帽徽已經超過 38 年，從 1905 年八月他被首次被指派為軍官的時候一直到 1943 年四月他任海軍大將逝世為止。"
 
@@ -63191,7 +63191,7 @@ msgid "IDS_PCZC060_YAMAMOTO_EPOLET_DESCRIPTION"
 msgstr ""
 "十九世紀中葉，肩飾只用作軍官和正式軍禮服的元素。1873 年，在明治維新後才在日本推行，受到了歐洲許多方面的影響。他們選用了英國皇家海軍軍官的肩飾來當作範本。\n"
 "\n"
-"做為區別的特徵，除了傳統的船錨外、還挑選了櫻花和泡桐葉的圖像。他們在晉升為第一階軍官後就必須穿上軍禮服，包含元帥海軍大將在內。到了三零年代晚期，肩飾已被廢除。"
+"做為區別的特徵，除了傳統的船錨外、還挑選了櫻花鉤吻鮭和泡桐葉的圖像。他們在晉升為第一階軍官後就必須穿上軍禮服，包含元帥海軍大將在內。到了三零年代晚期，肩飾已被廢除。"
 
 msgid "IDS_PCZC061_YAMAMOTO_PARAD_UBOR"
 msgstr "日本海軍大將的禮服帽"
@@ -63209,14 +63209,14 @@ msgid "IDS_PCZC062_YAMAMOTO_POGONKAIGUN_TAISHO_DESCRIPTION"
 msgstr ""
 "日本海軍在 1900 年推出了軍官軍章。它們並沒有變得普及，因為海軍軍官只將它們用在白色夏季制服和雙排扣軍大衣。\n"
 "\n"
-"海軍大將的軍階軍章擁有一個縱向寬、帶有銀色櫻花在上面的金色人形圖記，其數量取決於軍階。海軍大將和元帥海軍大將在他們軍章上擁有著三朵櫻花。1940 年 11 月 15 日 Yamamoto Isoroku 被晉升為海軍大將，並於 1943 年四月死後追贈為元帥海軍大將。"
+"海軍大將的軍階軍章擁有一個縱向寬、帶有銀色櫻花鉤吻鮭在上面的金色人形圖記，其數量取決於軍階。海軍大將和元帥海軍大將在他們軍章上擁有著三朵櫻花鉤吻鮭。1940 年 11 月 15 日 Yamamoto Isoroku 被晉升為海軍大將，並於 1943 年四月死後追贈為元帥海軍大將。"
 
 msgid "IDS_PCZC063_YAMAMOTO_SABER"
 msgstr "日本海軍軍官的軍刀"
 
 msgid "IDS_PCZC063_YAMAMOTO_SABER_DESCRIPTION"
 msgstr ""
-"日本海軍中軍官及同等軍階所佩戴的歐式軍刀是在 1871 年推出並取代了武士刀。記載上列出了幾種不同的形式：1873 年、1883 年、1896 年、和 1914 年。刀柄和刀鞘金屬部分所裝飾的櫻花圖像為軍刀的著名特徵。\n"
+"日本海軍中軍官及同等軍階所佩戴的歐式軍刀是在 1871 年推出並取代了武士刀。記載上列出了幾種不同的形式：1873 年、1883 年、1896 年、和 1914 年。刀柄和刀鞘金屬部分所裝飾的櫻花鉤吻鮭圖像為軍刀的著名特徵。\n"
 "\n"
 "除了軍制服多附一把短劍外，軍刀是日本海軍指揮人員的權力象徵和不可或缺的標誌。1937 年，在民族意識覺醒後，軍刀又再次被傳統的日本刀所取代。"
 
@@ -63306,7 +63306,7 @@ msgstr "大正恩賜紀念勳章"
 
 msgid "IDS_PCZC073_YAMAMOTO_TAISHO_MEDAL_DESCRIPTION"
 msgstr ""
-"Yoshihito 天皇於 1912 年他的父親逝世後登基。他在位期間的座右銘和年號為大正，「偉大的正義」。該登基儀式僅在 1915 年舉行。在準備他的繼承王位期間頒布了詔書，為儀式的參加者設立紀念勳章。該勳章由銀所製成。它的正面刻畫了紋章符號、交叉的柑桔和櫻花樹枝、以及一張具有祝賀銘文的布。\n"
+"Yoshihito 天皇於 1912 年他的父親逝世後登基。他在位期間的座右銘和年號為大正，「偉大的正義」。該登基儀式僅在 1915 年舉行。在準備他的繼承王位期間頒布了詔書，為儀式的參加者設立紀念勳章。該勳章由銀所製成。它的正面刻畫了紋章符號、交叉的柑桔和櫻花鉤吻鮭樹枝、以及一張具有祝賀銘文的布。\n"
 "\n"
 "當新的天皇繼承王位時，當時正在海軍大學校念書的 Takano Isoroku 獲得一枚紀念勳章，並晉升為中尉指揮官。"
 
@@ -63315,7 +63315,7 @@ msgstr "昭和恩賜紀念勳章"
 
 msgid "IDS_PCZC074_YAMAMOTO_SEVA_DESCRIPTION"
 msgstr ""
-"1926 年十二月，Hirohito 天皇登上王位。他的座右銘和王位名稱在統治時期為昭和，「百姓昭明，協和萬邦」。諷刺的是，他在位期間日本陷入它史上最血腥的戰爭。該登基儀式於 1928 年十一月在日本的前首都──京都舉行。根據傳統要求，為典禮的參加者設立了一枚勳章。它由銀所製成，其正面刻畫了被雲彩圍繞的王位──幸運的象徵──並被櫻花和柑桔樹環繞。\n"
+"1926 年十二月，Hirohito 天皇登上王位。他的座右銘和王位名稱在統治時期為昭和，「百姓昭明，協和萬邦」。諷刺的是，他在位期間日本陷入它史上最血腥的戰爭。該登基儀式於 1928 年十一月在日本的前首都──京都舉行。根據傳統要求，為典禮的參加者設立了一枚勳章。它由銀所製成，其正面刻畫了被雲彩圍繞的王位──幸運的象徵──並被櫻花鉤吻鮭和柑桔樹環繞。\n"
 "\n"
 "1928 年十一月，從擔任了幾年海軍武官的美國返國後不久，官拜大尉階級的 Yamamoto Isoroku 被派去指揮輕型巡洋艦 Isuzu。隨著時間過去，富有才華的海軍指揮官贏得了天皇的青睞及支持，因欣賞 Yamamoto 的專業能力和對其事業強烈的責任感。"
 
@@ -111815,7 +111815,7 @@ msgid "IDS_SCENARIO_PCVE021_AIR_BARRIERS"
 msgstr "隱蔽機動戰"
 
 msgid "IDS_SCENARIO_PCVO001_OP_01_01_37_RIDGE"
-msgstr "神盾行動"
+msgstr "神棍行動"
 
 msgid "IDS_SCENARIO_PCVO002_OP_01_02_S01_NAVALBASE"
 msgstr "殺人鯨行動"
@@ -111824,7 +111824,7 @@ msgid "IDS_SCENARIO_PCVO003_OP_01_03_S03_LABYRINTH"
 msgstr "營救 Raptor"
 
 msgid "IDS_SCENARIO_PCVO004_OP_01_04_S02_NAVAL_DEFENSE"
-msgstr "防守海軍基地紐波特"
+msgstr "防守海軍基地殺媽波特"
 
 msgid "IDS_SCENARIO_PCVO005_OP_11"
 msgstr "狼群行動"
@@ -111833,13 +111833,13 @@ msgid "IDS_SCENARIO_PCVO008_OP_02_03_S07_ADVANCE"
 msgstr "那萊行動"
 
 msgid "IDS_SCENARIO_PCVO009_OP_02_02_S06_ATOLL"
-msgstr "「終極前沿」行動"
+msgstr "「終極前演」行動"
 
 msgid "IDS_SCENARIO_PCVO010_OP_09_S09_LEPVE"
 msgstr "Hermes 行動"
 
 msgid "IDS_SCENARIO_PCVO011_OP_10_S10_USS_CL"
-msgstr "櫻花行動"
+msgstr "櫻花鉤吻鮭行動"
 
 msgid "IDS_SCENARIO_PCVO012_OP_02_04_S05_DUNKIRK"
 msgstr "Operation Dynamo"
@@ -118101,7 +118101,7 @@ msgid "IDS_SPACES/S06_ATOLL"
 msgstr "Rouen Atoll"
 
 msgid "IDS_SPACES/S06_ATOLL_ASYM"
-msgstr "終極前沿"
+msgstr "終極前演"
 
 msgid "IDS_SPACES/S06_ATOLL_ASYM_DESCR"
 msgstr "環礁"
@@ -118125,7 +118125,7 @@ msgid "IDS_SPACES/S10_USS_CL"
 msgstr "Empress Augusta Bay"
 
 msgid "IDS_SPACES/S10_USS_CL_DESCR"
-msgstr "櫻花"
+msgstr "櫻花鉤吻鮭"
 
 msgid "IDS_SPAIN"
 msgstr "西班牙"
