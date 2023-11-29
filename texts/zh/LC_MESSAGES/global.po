@@ -10126,16 +10126,16 @@ msgid "IDS_CMD_QUICK_GOOD_LUCK_MESSAGE"
 msgstr "東鹹追在後面! 全速前進!"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_MESSAGE_LEGEND"
-msgstr "東賢在背後!！"
+msgstr "東鹹在背後!！"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_MESSAGE_LEGEND_PREF_TOOLTIP_DESCRIPTION"
 msgstr "發送訊息，祝隊友遊玩愉快。"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_SMALLWINDOW"
-msgstr "東賢在背後!！"
+msgstr "東鹹在背後!！"
 
 msgid "IDS_CMD_QUICK_GOOD_LUCK_WINDOW"
-msgstr "東賢在背後!！"
+msgstr "東鹹在背後!！"
 
 msgid "IDS_CMD_QUICK_NEED_AIR_DEFENCE_MESSAGE"
 msgstr "提供防空火力支援！"
