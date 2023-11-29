@@ -20671,10 +20671,10 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY008_SONARSEARCH"
 msgstr "擴大對敵方艦艇與魚雷的絕對捕獲範圍，包括身處於煙幕內的對象。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREWPREMIUM"
-msgstr "不可以亂繳的東西"
+msgstr "槍斃一位政委同志解決所有問題 但我們的政委同志似乎理解環保的重要性"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREW_LIMITED_PREMIUM"
-msgstr "槍斃一位政委同志解決所有問題"
+msgstr "槍斃一位政委同志解決所有問題 請注意 我們的政委同志是有限的"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREWPREMIUM"
 msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
