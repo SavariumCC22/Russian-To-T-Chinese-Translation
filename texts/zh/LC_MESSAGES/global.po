@@ -20674,13 +20674,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREWPREMIUM"
 msgstr "不可以亂繳的東西"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREW_LIMITED_PREMIUM"
-msgstr ""
-"撲滅火災、移除進水、並修理受損的配件。\n"
-"防止敵方潛水艦發射的魚雷被引導而來。\n"
-"\n"
-"裝填速度較快。\n"
-"\n"
-"裝載數有限。"
+msgstr "槍斃一位政委同志解決所有問題"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREWPREMIUM"
 msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
@@ -21268,7 +21262,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY009_CRASHCREWPREMIUM"
 msgstr "傷害控制小組"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY009_CRASHCREW_LIMITED_PREMIUM"
-msgstr "政委傷害控制小隊"
+msgstr "政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREWPREMIUM"
 msgstr "維修小組"
