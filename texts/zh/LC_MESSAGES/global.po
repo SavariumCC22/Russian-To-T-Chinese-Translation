@@ -53006,13 +53006,13 @@ msgid "IDS_PBSB536_YEAR"
 msgstr "1916"
 
 msgid "IDS_PBSB537"
-msgstr "哥寧伍"
+msgstr "科林武德"
 
 msgid "IDS_PBSB537_DESCR"
 msgstr "在 1920 年，G3 戰鬥巡洋艦計畫的其中一項火炮選擇是 419 毫米火炮。英國工程師考慮以裝備 419 毫米火炮的雙聯裝炮塔取代裝備 406 毫米火炮的三聯裝炮塔。然而，由於「主力艦假日」期間針對主力艦的建造限制導致該計畫遭取消。"
 
 msgid "IDS_PBSB537_FULL"
-msgstr "哥寧伍"
+msgstr "科林武德"
 
 msgid "IDS_PBSB537_NUMBER"
 msgstr "1"
