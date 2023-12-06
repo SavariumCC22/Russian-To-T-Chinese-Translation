@@ -126798,3 +126798,6 @@ msgstr "三月同志"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE"
 msgstr "「聖誕禮物」貨櫃"
+
+msgid "IDS_BATTLEPASS_LEVEL_STATUS_LOCKED"
+msgstr "尚未達到該等級"
