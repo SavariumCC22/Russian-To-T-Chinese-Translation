@@ -33175,7 +33175,7 @@ msgid "IDS_LIUBEI"
 msgstr "劉備"
 
 msgid "IDS_LOADING"
-msgstr "西瓜操作系統 V1.14啟動中"
+msgstr "西瓜暴雪引擎  V1.14啟動中"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港口載入中"
@@ -111371,7 +111371,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳彈！"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "我閃閃發亮的肌肉啊 賜予我力量 讓世界臣服於瓜園的榮光下  哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+msgstr "聖誕快樂！ 同志們 現在可以為蘇聯母親獻上你的祝福了。Россия-мать！Ура！"
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
@@ -126741,3 +126741,60 @@ msgstr "分艦隊限制: %(_maxPlayers)s x %(_maxPlayers)s. 最大分艦隊人�
 
 msgid "IDS_SOUND_MOD_ARIA_JORICK_ARIA"
 msgstr "Жорик (ARIA惡魔)"
+
+msgid "IDS_PORT_NEWYEAR2024"
+msgstr "彼得羅夫斯基堡"
+
+msgid "IDS_PORT_NEWYEAR2024_TOOLTIP"
+msgstr "彼得羅夫斯基堡港口"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_STATUS_RECEIVED"
+msgstr "可用"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_FREE"
+msgstr "該級別的戰鬥通行證無需購買即可使用."
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_STATUS_LOCKED"
+msgstr "購買後即可使用"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_REGULAR"
+msgstr "該級別的戰鬥通行證有額外獎勵"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_REGULAR_RECEIVED"
+msgstr "含有額外獎勵"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "前往 <升級通行證> 頁面"
+
+msgid "IDS_BATTLEPASS_STATUS_BUTTON_CLAIM_REWARDS"
+msgstr "收集獎勵"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_REGULAR_TEXT_1"
+msgstr "免費通行證的獎勵"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_REGULAR_TEXT_2"
+msgstr "加值通行證的獎勵"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_RESOURCES_COEF"
+msgstr "煤炭，鋼鐵，研發局點數"
+
+msgid "IDS_BATTLEPASS_TYPE_FREE_SHORT_TITLE"
+msgstr "基礎獎勵"
+
+msgid "IDS_BATTLEPASS_TYPE_PAID_REGULAR_SHORT_TITLE"
+msgstr "額外獎勵"
+
+msgid "IDS_SUBST_BATTLEPASS_CURRENT_LEVEL"
+msgstr "戰鬥通行證已達等級 %(_level)s "
+
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE"
+msgstr "「巨大聖誕禮物」貨櫃"
+
+msgid "IDS_12_MONTHS_JANUARY"
+msgstr "一月同志"
+
+msgid "IDS_12_MONTHS_MARCH"
+msgstr "三月同志"
+
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE"
+msgstr "「聖誕禮物」貨櫃"
