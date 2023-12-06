@@ -126801,3 +126801,9 @@ msgstr "「聖誕禮物」貨櫃"
 
 msgid "IDS_BATTLEPASS_LEVEL_STATUS_LOCKED"
 msgstr "尚未達到該等級"
+
+msgid "IDS_SUBST_BATTLEPASS_FREE_TOOLTIP_TEXT"
+msgstr "免費通行證已達等級 %(_level)s"
+
+msgid "IDS_SUBST_BATTLEPASS_PAID_TOOLTIP_TEXT"
+msgstr "加值通行證已達等級 %(_level)s"
