@@ -92057,13 +92057,13 @@ msgid "IDS_PRSB103_YEAR"
 msgstr "1907"
 
 msgid "IDS_PRSB104"
-msgstr "甘古特"
+msgstr "沙皇"
 
 msgid "IDS_PRSB104_DESCR"
 msgstr "1907 年底，在確定新主力艦的需求規格後，造船與採購局邀請蘇聯和外國的造船公司參與投標，並從 23 項計畫中選出 9 項，其中的最佳計畫來自波羅的造船廠。Poltava、Petropavlovsk、Sevastopol 和 Gangut 這四艘新主力艦的建造工程從 1909 年進行至 1911 年。後者在蘇聯海軍中服役至 1950 年代末。"
 
 msgid "IDS_PRSB104_FULL"
-msgstr "甘古特"
+msgstr "沙皇"
 
 msgid "IDS_PRSB104_NUMBER"
 msgstr "4"
