@@ -126807,3 +126807,72 @@ msgstr "免費通行證已達等級 %(_level)s"
 
 msgid "IDS_SUBST_BATTLEPASS_PAID_TOOLTIP_TEXT"
 msgstr "加值通行證已達等級 %(_level)s"
+
+msgid "IDS_DOGTAG_PCNB419_DESCRIPTION"
+msgstr "恭喜您獲得 2022 年所有驅逐艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB419_NAME"
+msgstr "2022 年最佳驅逐艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB420_DESCRIPTION"
+msgstr "恭喜您獲得 2022 年所有巡洋艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB420_NAME"
+msgstr "2022 年最佳巡洋艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB421_DESCRIPTION"
+msgstr "恭喜您獲得 2022 年所有主力艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB421_NAME"
+msgstr "2022 年最佳戰艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB422_DESCRIPTION"
+msgstr "恭喜您獲得 2022 年所有航空母艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB422_NAME"
+msgstr "2022 年最佳航空母艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB423_DESCRIPTION"
+msgstr "恭喜您獲得 2023 年所有驅逐艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB423_NAME"
+msgstr "2023 年最佳驅逐艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB424_DESCRIPTION"
+msgstr "恭喜您獲得 2023 年所有巡洋艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB424_NAME"
+msgstr "2023 年最佳巡洋艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB425_DESCRIPTION"
+msgstr "恭喜您獲得 2023 年所有主力艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB425_NAME"
+msgstr "2023 年最佳戰艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB426_DESCRIPTION"
+msgstr "恭喜您獲得 2023 年所有航空母艦戰鬥結果的最佳成績！"
+
+msgid "IDS_DOGTAG_PCNB426_NAME"
+msgstr "2023 年最佳航空母艦指揮官"
+
+msgid "IDS_DOGTAG_PCNB427_DESCRIPTION"
+msgstr "斯摩棱斯克市歷史悠久的市徽自 17 世紀以來就廣為人知。 矗立在綠色的平原和銀色的田野上是一門漆黑的大砲，裝在金色的砲架上，一隻俄羅斯民間傳說中的預言鳥 「先知鳥」 站在炮尾。"
+
+msgid "IDS_DOGTAG_PCNB427_NAME"
+msgstr "斯摩棱斯克"
+
+msgid "IDS_DOGTAG_PCNB428_DESCRIPTION"
+msgstr ""
+"該徽章的擁有者有機會贏得一把來自ARIA樂團親筆簽名的吉他\n"
+"\n"
+"收集《金屬與此鍛造！》收集品的獎勵。"
+
+msgid "IDS_DOGTAG_PCNB428_NAME"
+msgstr "金屬於此鍛造！"
+
+msgid "IDS_DOGTAG_PCNB430_DESCRIPTION"
+msgstr "В честь Всемирного дня домашних животных."
+
+msgid "IDS_DOGTAG_PCNB430_NAME"
+msgstr "Кот-командир"
