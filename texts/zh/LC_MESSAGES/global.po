@@ -126872,7 +126872,13 @@ msgid "IDS_DOGTAG_PCNB428_NAME"
 msgstr "金屬於此鍛造！"
 
 msgid "IDS_DOGTAG_PCNB430_DESCRIPTION"
-msgstr "В честь Всемирного дня домашних животных."
+msgstr "為紀念世界寵物日"
 
 msgid "IDS_DOGTAG_PCNB430_NAME"
-msgstr "Кот-командир"
+msgstr "指揮喵"
+
+msgid "IDS_PCEE660_ST_ANDREW_FLAG"
+msgstr "聖·安德魯的旗幟"
+
+msgid "IDS_PCEE660_ST_ANDREW_FLAG_DESCRIPTION"
+msgstr "白色底色上有聖·安德魯一世藍色十字架的旗幟，於1865年成為俄羅斯帝國海軍的軍艦旗。"
