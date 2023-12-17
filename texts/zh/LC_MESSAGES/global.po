@@ -126882,3 +126882,31 @@ msgstr "聖·安德魯的旗幟"
 
 msgid "IDS_PCEE660_ST_ANDREW_FLAG_DESCRIPTION"
 msgstr "白色底色上有聖·安德魯一世藍色十字架的旗幟，於1865年成為俄羅斯帝國海軍的軍艦旗。"
+
+msgid "IDS_PCEE658_12_MONTHS_FLAG"
+msgstr "冬日故事"
+
+msgid "IDS_PCEE658_12_MONTHS_FLAG_DESCRIPTION"
+msgstr "樹枝不再因霜凍而劈啪作響。大片而柔軟的雪花落在地上，舖成一層厚雪"
+
+msgid "IDS_PCEE658_12_MONTHS_FLAG_EXTRA_DESCRIPTION"
+msgstr "慶祝新年的旗幟"
+
+msgid "IDS_PASB710"
+msgstr "新罕布夏"
+
+msgid "IDS_PASB710_DESCR"
+msgstr ""
+"新罕布夏號曾將成為第四艘蒙大拿級戰艦。 但隨著第二次世界大戰的爆發，建造工作暫停，後更被取消。\n"
+"至戰爭中期，戰艦作為艦隊主力的角色已明顯被航空母艦取代，於是出現了將戰艦改造成護衛航空母艦用途之想法。\n"
+"其中一個方案是在兩艘愛荷華級戰艦的主炮上安裝高速 203 毫米火砲。\n"
+"如果蒙大拿級戰艦按照類似的項目完成， 203 毫米主炮的總數將達到16門。"
+
+msgid "IDS_PASB710_FULL"
+msgstr "New Hampshire"
+
+msgid "IDS_PASB710_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASB710_YEAR"
+msgstr "1953 年."
