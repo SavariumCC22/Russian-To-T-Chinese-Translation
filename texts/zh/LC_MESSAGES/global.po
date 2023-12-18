@@ -126689,7 +126689,7 @@ msgid "IDS_PARAMS_MODIFIER_AAMAXHP"
 msgstr "對空防禦存活性"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXHP"
-msgstr "Живучесть установок ПМК"
+msgstr "副炮存活性"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHREGENPERCENT"
 msgstr "每秒恢復的船隻生命值"
@@ -126910,3 +126910,11 @@ msgstr "1"
 
 msgid "IDS_PASB710_YEAR"
 msgstr "1953 年."
+
+msgid "IDS_TITLE_PCM073_ADDITIONALCONSUMABLECV_MOD_I"
+msgstr "變態修改型航空中隊 1"
+
+msgid "IDS_DESC_PCM073_ADDITIONALCONSUMABLECV_MOD_I"
+msgstr ""
+"變態化修改增加了飛機的尺寸 \n"
+"使他們可以攜帶更多消耗品"
