@@ -126333,6 +126333,18 @@ msgstr "你確定要鹹菜隊友嗎?"
 msgid "IDS_PRSB529"
 msgstr "蘇維埃俄羅斯"
 
+msgid "IDS_PRSB529_DESCR"
+msgstr "「蘇維埃俄羅斯號」是一艘23型戰艦（蘇聯型），於1940年7月在莫洛托夫斯克奠基；為了建造該艦，建造了蘇聯最大的有頂船庫。 建設工作一再拖延，並於 1941 年 7 月因國防委員會的一項法令而停止。 1945年10月，有人提議完成這艘戰艦，但一個特別委員會得出的結論是，戰前建造的戰艦在戰鬥質量方面將遜色於外國艦艇。((機翻)"
+
+msgid "IDS_PRSB529_FULL"
+msgstr "蘇維埃俄羅斯"
+
+msgid "IDS_PRSB529_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSB529_YEAR"
+msgstr "1939 年"
+
 msgid "IDS_PARAMS_MODIFIER_DISTSEAMINE"
 msgstr "水雷偵測能力"
 
@@ -126530,7 +126542,7 @@ msgid "IDS_PJSA206_DESCR"
 msgstr ""
 "Японский флот рассматривал планы быстрого увеличения количества авианесущих кораблей путём перестройки уже имеющихся судов. Zuihō был заложен под именем Takasaki как плавбаза подводных лодок, а достраивался уже как авианосец. В сентябре 1941 г. Zuihō стал флагманом 3-й дивизии авианосцев, во главе которой прикрывал атаку на Пёрл-Харбор. В дальнейшем корабль участвовал в крупнейших сражениях Тихоокеанского театра Второй мировой войны. 25 октября 1944 г. у мыса Энганьо Zuihō затонул в результате авиационной атаки соединения адмирала Хэлси.\n"
 "\n"
-"日本海軍為了要能在戰時迅速改造成航空母艦的計劃。瑞鳳原以潛艇母艦的身份「高崎」建造，後改以航空母艦竣工。在1941年的9月，瑞鳳編入第一艦隊第三航空戰隊成爲旗艦，帶領襲擊珍珠港。 隨後，該艦參與了二戰太平洋戰區規模最大的戰役，中途島海戰。於1944年10月25日，因受到哈爾賽上將帶領的航空中隊攻擊而沉沒"
+"日本海軍正在考慮透過重建現有艦艇來快速增加航空母艦數量的計畫。 瑞鳳號以潛水艇母艦以「高崎號」建造，最後成為航空母艦。 1941年9月，瑞鳳號成為第3航空母艦師的旗艦，領導偷襲珍珠港。 隨後，該艦參與了二戰太平洋戰區規模最大的戰役。 1944 年 10 月 25 日，瑞鳳號在恩加諾海角附近因哈爾西海軍上將編隊的空襲而沉沒。 (機翻)"
 
 msgid "IDS_PJSA206_FULL"
 msgstr "瑞鳳"
@@ -126545,7 +126557,7 @@ msgid "IDS_PJSA210"
 msgstr "大鳳"
 
 msgid "IDS_PJSA210_DESCR"
-msgstr "「改良型翔鶴」級艦艇的原始設計起初屬於 1939 計畫，它在初始設計階段經歷大幅度改動後變得與於原始設計大不相同。其最終設計很先進，並不同於日本海軍的一貫特性。她的裝甲飛行甲板集成到艦身，且艦艏為封閉式，成為其極具辨識度的獨特元素。大鳳 於 1941 年安放龍骨，投入服役後便成為帝國海軍第一航空戰隊的旗艦。她在參與馬里亞納群島戰役期間，受到潛水艦 USS Albacore 魚雷的致命一擊。"
+msgstr "「改良型翔鶴」級艦艇的原始設計起初屬於 1939 計畫，它在初始設計階段經歷大幅度改動後變得與於原始設計大不相同。其最終設計先進，並不同於日本海軍的一貫特性。她的裝甲飛行甲板集成到艦身，且艦艏為封閉式，成為其極具辨識度的獨特元素。大鳳 於 1941 年安放龍骨，投入服役後便成為帝國海軍第一航空戰隊的旗艦。她在參與馬里亞納群島戰役期間，受到潛水艦 USS Albacore 魚雷的致命一擊。"
 
 msgid "IDS_PJSA210_FULL"
 msgstr "大鳳"
@@ -126563,43 +126575,43 @@ msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_MINEFIELD_INACTIVE"
 msgstr "即將啟動的雷區"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER"
-msgstr "注意敵方水雷轟炸機！"
+msgstr "注意敵方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "注意敵方水雷轟炸機！"
+msgstr "注意敵方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER"
-msgstr "護衛友方水雷轟炸機！"
+msgstr "護衛友方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "護衛友方水雷轟炸機！"
+msgstr "護衛友方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "敵方水雷轟炸機！"
+msgstr "敵方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "敵方水雷轟炸機！"
+msgstr "敵方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "友方水雷轟炸機!"
+msgstr "友方佈雷機!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "友方水雷轟炸機!"
+msgstr "友方佈雷機!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "友方水雷轟炸機！"
+msgstr "友方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "友方水雷轟炸機！"
+msgstr "友方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "敵方水雷轟炸機！"
+msgstr "敵方佈雷機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "敵方水雷轟炸機！"
+msgstr "敵方佈雷機！"
 
 msgid "IDS_MINEBOMBER"
-msgstr "水雷轟炸機"
+msgstr "佈雷機"
 
 msgid "IDS_MINES"
 msgstr "水雷"
@@ -126611,11 +126623,11 @@ msgid "IDS_MINES_SPENT"
 msgstr "消耗水雷數量"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINEBOMBER"
-msgstr "水雷轟炸機"
+msgstr "佈雷機"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINEBOMBER_DESCRIPTION"
 msgstr ""
-"水雷轟炸機能在戰場上投放水雷\n"
+"佈雷機能在戰場上投放水雷\n"
 "當水雷與艦艇接觸時會爆炸，可破壞船隻機件並導致進水\n"
 "將地雷投放在島嶼之間以誘導敵艦墜入陷阱"
 
@@ -126638,22 +126650,22 @@ msgid "IDS_PVSB509_YEAR"
 msgstr "1918"
 
 msgid "IDS_ACHIEVEMENT_CRUISER_BOOK"
-msgstr "Морские легенды: крейсеры"
+msgstr "海軍傳奇：巡洋艦"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_BOOK"
-msgstr "Стать обладателем книги «Морские легенды: крейсеры»."
+msgstr "成為《海軍傳奇：巡洋艦》一書的擁有者。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_ARIA_COMPLETED"
-msgstr "Собрать коллекцию «Здесь куют металл»."
+msgstr "完成《金屬於此鍛造！》收藏。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_PRORYV"
-msgstr "Победить в турнире «Прорыв»."
+msgstr "贏得“突破”錦標賽。"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_ARIA_COMPLETED"
-msgstr "金屬與此鍛造！"
+msgstr "金屬於此鍛造！"
 
 msgid "IDS_ACHIEVEMENT_PRORYV"
-msgstr "Прорыв"
+msgstr "突破"
 
 msgid "IDS_FOG_OF_WAR"
 msgstr "敵艦訊息尚未揭露"
@@ -126668,10 +126680,10 @@ msgid "IDS_FOG_OF_WAR_TIPS"
 msgstr "在未偵測敵艦前將無法得知其訊息"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER"
-msgstr "%(_cmd)s  再按一次以升空水雷轟炸機"
+msgstr "%(_cmd)s  再按一次以升空佈雷機"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER_NOT_ENOUGH"
-msgstr "無法起飛  水雷轟炸機數量不足"
+msgstr "無法起飛  佈雷機數量不足"
 
 msgid "IDS_CAUSED_MINES_HINT"
 msgstr "水雷造成的命中次數和損害"
@@ -126866,7 +126878,7 @@ msgid "IDS_DOGTAG_PCNB428_DESCRIPTION"
 msgstr ""
 "該徽章的擁有者有機會贏得一把來自ARIA樂團親筆簽名的吉他\n"
 "\n"
-"收集《金屬與此鍛造！》收集品的獎勵。"
+"收集《金屬於此鍛造！》收集品的獎勵。"
 
 msgid "IDS_DOGTAG_PCNB428_NAME"
 msgstr "金屬於此鍛造！"
