@@ -19538,13 +19538,16 @@ msgid "IDS_DESC_PCM012_SECONDARYGUN_MOD_II"
 msgstr " "
 
 msgid "IDS_DESC_PCM013_MAINGUN_MOD_III"
-msgstr " "
+msgstr " 透過讓船員長出四隻手 加快他們的裝填速度"
 
 msgid "IDS_DESC_PCM014_TORPEDO_MOD_III"
 msgstr " "
 
 msgid "IDS_DESC_PCM015_FIRECONTROL_MOD_II"
-msgstr " "
+msgstr ""
+" 30公里是正常距離 22公里是前線 20公里是近戰 \n"
+"\n"
+"什麼？15公里 天吶快倒船 要撞上去了哼哼恩啊啊啊啊啊"
 
 msgid "IDS_DESC_PCM016_FLIGHTCONTROL_MOD_II"
 msgstr " "
@@ -20677,10 +20680,10 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREW_LIMITED_PREMIUM"
 msgstr "槍斃一位政委同志解決所有問題 請注意 我們的政委同志是有限的"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREWPREMIUM"
-msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
+msgstr "用泡麵和膠水製成的 《通用性對艦維修方案》 可以讓您的艦艇在受到輕微傷害後恢復戰鬥能力"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_EHEAL_PREMIUM"
-msgstr "船被燒掉再造一艘不就好了？。"
+msgstr "船被燒掉再造一艘不就好了？"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_LONG"
 msgstr "顯著恢復艦艇血量。維修需時較長。"
@@ -20689,7 +20692,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY011_AIRDEFENSEDISPPREMIUM"
 msgstr "為敵方駕駛員提神 讓充滿硝煙的戰場上有那麼幾分歡樂"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY012_FIGHTERPREMIUM"
-msgstr "跟隨著艦艇並會自動攻擊敵方飛機。"
+msgstr "飛行員將帶領旅客環遊您的艦艇約60秒 然後返回到船上繼續海戰體驗"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_JAP_BC"
 msgstr ""
@@ -20698,7 +20701,7 @@ msgstr ""
 "作用時間較短。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERPREMIUM"
-msgstr "延伸主炮組的射程。"
+msgstr "使用反物質裝藥產生更強的爆炸 延長你的主砲射程 讓你當個更驕傲的亞服玩家"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTER_CIRCLE_PREMIUM"
 msgstr ""
@@ -20737,7 +20740,7 @@ msgstr ""
 "作用時間較短。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCHPREMIUM"
-msgstr "擴大對敵方艦艇與魚雷的絕對捕獲範圍，包括身處於煙幕內的對象。"
+msgstr "俗話說 只有開水聽的人會吃雷 至少這個消耗品可以讓你提前知道自己是怎麼死的"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCH_SHORT_PREMIUM"
 msgstr ""
@@ -21265,7 +21268,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY009_CRASHCREW_LIMITED_PREMIUM"
 msgstr "政委"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREWPREMIUM"
-msgstr "維修小組"
+msgstr "OK繃"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREWPREMIUM_ALT"
 msgstr "消耗品裝載數已增加"
@@ -21283,13 +21286,13 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY011_AIRDEFENSEDISPPREMIUM"
 msgstr "節慶煙花"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY012_FIGHTERPREMIUM"
-msgstr "戰鬥機"
+msgstr "觀光飛機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_JAP_BC"
 msgstr "配備高精度光學鏡的偵察機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTERPREMIUM"
-msgstr "偵察機"
+msgstr "禁忌魔法：反物質裝藥"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTER_CIRCLE_PREMIUM"
 msgstr "快速起飛偵察機"
@@ -21301,7 +21304,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY014_SMOKEGENERATOROIL_PREMIUM"
 msgstr "全速航行發煙機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY014_SMOKEGENERATORPREMIUM"
-msgstr "空氣污染"
+msgstr "北京市空氣模擬系統"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY014_SMOKEGENERATOR_CYCLE_PREMIUM"
 msgstr "短發式空氣污染"
@@ -21313,7 +21316,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY015_SPEEDBOOSTER_IMP_PREMIUM"
 msgstr "緊急引擎功率"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY016_SONARSEARCHPREMIUM"
-msgstr "吃雷倒數表"
+msgstr "吃雷未來視"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY016_SONARSEARCH_SHORT_PREMIUM"
 msgstr "短程水底搜索"
@@ -30703,7 +30706,7 @@ msgid "IDS_HELP_CONSUME_DESCRIPTION_RLSSEARCH"
 msgstr "愛麗絲會幫你找到範圍內其他的小學生！全速逮捕她們吧"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SMOKEGENERATOR"
-msgstr "在艦艇後方施放煙幕來降低被敵人發現的風險。"
+msgstr "想體驗一下能見度低於200奈米的感覺嗎？按他就對了"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SONARSEARCH"
 msgstr "魚雷好吃每天吃"
@@ -44793,7 +44796,7 @@ msgid "IDS_PARAMS_MODIFIER_PMDETONATIONPROB"
 msgstr "自身艦艇彈藥庫爆炸的機率"
 
 msgid "IDS_PARAMS_MODIFIER_PM_NO_DETONATION"
-msgstr "完全消除船艦彈藥庫爆炸的機率"
+msgstr "火藥都進水了就爆不起來了吧 是不是聰明"
 
 msgid "IDS_PARAMS_MODIFIER_PREPARATIONTIME"
 msgstr "消耗品準備時間"
@@ -60433,7 +60436,7 @@ msgid "IDS_PCEF009_JY2_SIGNALFLAG_DESCRIPTION"
 msgstr "進水已受到控制。"
 
 msgid "IDS_PCEF010_JC_SIGNALFLAG"
-msgstr "Juliet Charlie"
+msgstr "進水火藥修改型 I"
 
 msgid "IDS_PCEF010_JC_SIGNALFLAG_DESCRIPTION"
 msgstr "不會有爆炸的危險。"
@@ -89606,6 +89609,9 @@ msgid "IDS_PRAL901_A_NAKHIMOV_STOCK"
 msgstr "Kochyerigin OPB (M-82)"
 
 msgid "IDS_PRAL902_A_NAKHIMOV_TOP"
+msgstr "Sukhoi Su-6 (AM-42)"
+
+msgid "IDS_PRAL903_SEVEROMORSK_TOP"
 msgstr "Sukhoi Su-6 (AM-42)"
 
 msgid "IDS_PRAL904_ORLOV_TOP"
@@ -122929,13 +122935,13 @@ msgid "IDS_TITLE_PCM012_SECONDARYGUN_MOD_II"
 msgstr "副炮組修改型 1"
 
 msgid "IDS_TITLE_PCM013_MAINGUN_MOD_III"
-msgstr "主炮組修改型 3"
+msgstr "裝填水\"手修改型\" 3"
 
 msgid "IDS_TITLE_PCM014_TORPEDO_MOD_III"
 msgstr "魚雷發射管修改型 2"
 
 msgid "IDS_TITLE_PCM015_FIRECONTROL_MOD_II"
-msgstr "艦炮射控系統修改型 2"
+msgstr "亞服玩家腦迴路修改型 2"
 
 msgid "IDS_TITLE_PCM016_FLIGHTCONTROL_MOD_II"
 msgstr "飛航控制修改型 2"
@@ -122962,7 +122968,7 @@ msgid "IDS_TITLE_PCM023_DAMAGECONTROL_MOD_II"
 msgstr "損害控制系統修改型 2"
 
 msgid "IDS_TITLE_PCM024_ENGINE_MOD_II"
-msgstr "推進系統修改型 1"
+msgstr "彈射起步"
 
 msgid "IDS_TITLE_PCM025_STEERINGGEAR_MOD_II"
 msgstr "操舵裝置修改型 1"
@@ -127011,3 +127017,78 @@ msgstr "210-мм Spr.Gr. L/4.7"
 
 msgid "IDS_PJPA146_210MM_AP_T11"
 msgstr "210-мм Spr.Gr. L/4.4"
+
+msgid "IDS_PJGM208_21CM_60_SK_C34_DRL_C_40"
+msgstr "210-мм/60 SK C/34 (Drh LC/40炮座)"
+
+msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
+msgstr "406 mm HE Model 1928"
+
+msgid "IDS_PRPA209_406MM_AP_SEVEROMORSK"
+msgstr "406 mm AP Model 1928"
+
+msgid "IDS_PAPA161_203MM_HE_N_HAMPSHIRE"
+msgstr "203-мм HE/HC Mk25"
+
+msgid "IDS_PAPA162_203MM_AP_N_HAMPSHIRE"
+msgstr "203-мм AP Mk19"
+
+msgid "IDS_PJAF214_ZUIHO_TOP"
+msgstr "Mitsubishi J2M3"
+
+msgid "IDS_PJAM206_ZUIHO_TOP"
+msgstr "Mitsubishi B5M1"
+
+msgid "IDS_PJAF209_HIRYU_TOP"
+msgstr "Kawanishi J6K1"
+
+msgid "IDS_PJAD209_HIRYU_TOP"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJAM208_HIRYU_TOP"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJAF211_TAIHO_TOP"
+msgstr "Kyūshū J7W1 A"
+
+msgid "IDS_PJAD211_TAIHO_TOP"
+msgstr "Yokosuka P1Y1"
+
+msgid "IDS_PJAM210_TAIHO_TOP"
+msgstr "Yokosuka P1Y1"
+
+msgid "IDS_PJPR214_ZUIHO_TOP"
+msgstr "Type 3 No. 4 Mod. 27 Mk. 1"
+
+msgid "IDS_PJPB213_ZUIHO_TOP"
+msgstr "Type 99 No. 25"
+
+msgid "IDS_PJPM206_ZUIHO_TOP"
+msgstr "Type JI Mod. 1"
+
+msgid "IDS_SHIP_PARAM_MINEFIELD_RADIUS"
+msgstr "最大雷區半徑"
+
+msgid "IDS_SHIP_PARAM_MINEFIELD_ACTIVATION_TIME"
+msgstr "佈雷後雷區啟動需時"
+
+msgid "IDS_SHIP_PARAM_MINEFIELD_LIFE_TIME"
+msgstr "雷區有效時間"
+
+msgid "IDS_PJPR209_HIRYU_TOP"
+msgstr "Type 3 No. 5 Mod. 27 Mk. 1"
+
+msgid "IDS_PJPB209_HIRYU_TOP"
+msgstr "No. 25 Mod. 2"
+
+msgid "IDS_PJPM208_HIRYU_TOP"
+msgstr "Type JI Mod. 2"
+
+msgid "IDS_PJPR211_TAIHO_TOP"
+msgstr "Type 3 No. 6 Mod. 27 Mk. 1"
+
+msgid "IDS_PJPB211_TAIHO_TOP"
+msgstr "No. 50 Mod. 2"
+
+msgid "IDS_PJPM210_TAIHO_TOP"
+msgstr "Type JJ"
