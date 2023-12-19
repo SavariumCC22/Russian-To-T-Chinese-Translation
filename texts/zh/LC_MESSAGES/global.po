@@ -126960,3 +126960,21 @@ msgstr "恢復生命值"
 
 msgid "IDS_SHIP_MODIFIER_PXOM070_BRAWL_SPEED_APPLIED"
 msgstr "航速增加"
+
+msgid "IDS_PJSC111"
+msgstr "仙丈"
+
+msgid "IDS_PJSC111_DESCR"
+msgstr ""
+" 日本重巡洋艦的進一步發展，裝備了12管210毫米德國火砲\"\n"
+"\"德國和日本之間的技術合作使得兩國分享前瞻性的設備與武器模型的圖紙\"\n"
+"\"前身是 1941年重巡洋艦計劃 的仙丈以更強的裝甲和防空武器突出\""
+
+msgid "IDS_PJSC111_FULL"
+msgstr "Senjo"
+
+msgid "IDS_PJSC111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC111_YEAR"
+msgstr "1945年."
