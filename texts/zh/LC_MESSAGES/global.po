@@ -29986,7 +29986,7 @@ msgid "IDS_GUIDING_TIP_274_HEADER"
 msgstr "已佔據領地"
 
 msgid "IDS_GUIDING_TIP_275_DESC"
-msgstr "在所選戰鬥類型中，艦艇具有不同的戰鬥特性和外觀。"
+msgstr "在所選戰鬥類型中，艦艇具有不同的戰鬥特性。"
 
 msgid "IDS_GUIDING_TIP_275_HEADER"
 msgstr "艦艇已升級"
@@ -127005,3 +127005,9 @@ msgstr "1"
 
 msgid "IDS_PRSB520_YEAR"
 msgstr "1938 年."
+
+msgid "IDS_PJPA145_210MM_HE_T11"
+msgstr "210-мм Spr.Gr. L/4.7"
+
+msgid "IDS_PJPA146_210MM_AP_T11"
+msgstr "210-мм Spr.Gr. L/4.4"
