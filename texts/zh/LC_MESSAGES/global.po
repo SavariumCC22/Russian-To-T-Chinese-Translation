@@ -18754,16 +18754,16 @@ msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
 msgstr "「歐洲驅逐艦」活動的暫時性資源"
 
 msgid "IDS_CURRENCY_EVENTUM_8"
-msgstr "夏季代幣"
+msgstr "冬季代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_8_GET_DESCRIPTION"
-msgstr "獲取方式包括達成戰鬥通行證等級；在 12.5 版本更新的限定期間購買含有達布隆的特定組合包時附贈；以及在 12.5 至 12.7 版本更新的限定期間從軍械庫的組合包中獲取。"
+msgstr "用於在更新 12.11 結束之前完成新年嘉年華活動的任務，以及在更新 12.11 和 13.0 的活動期間從軍械庫中獲取包裹。"
 
 msgid "IDS_CURRENCY_EVENTUM_8_SPEND_DESCRIPTION"
-msgstr "在 12.5 版本更新的限定期間，可在軍械庫的活動類別中用以兌換可開出 V 至 IX 階加值艦艇的貨櫃，以及獨特消耗性經濟加成。您也可在 12.5 至 12.7 版本更新的限定期間，以夏季代幣兌換「千里遠航」和「艦長圓筒包」加值貨櫃，以及「海邊野餐」貨櫃。"
+msgstr "適用於「加值貨櫃 八階船」和「Far Journeys」補給箱，以及在更新 12.11 和 13.0 活動期間使用高級帳戶的禮包鍊"
 
 msgid "IDS_CURRENCY_EVENTUM_8_STATUS"
-msgstr "「夏季慶典」活動的暫時性資源"
+msgstr "臨時資源"
 
 msgid "IDS_CURRENCY_EVENTUM_9"
 msgstr "航海家代幣"
@@ -127097,3 +127097,153 @@ msgstr "No. 50 Mod. 2"
 
 msgid "IDS_PJPM210_TAIHO_TOP"
 msgstr "Type JJ"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_CASUAL"
+msgstr "神秘的紳士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_HARD"
+msgstr "神秘的紳士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_MIDDLE"
+msgstr "神秘的紳士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_CASUAL"
+msgstr "神秘的紳士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_HARD"
+msgstr "神秘的紳士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_MIDDLE"
+msgstr "神秘的紳士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_CASUAL"
+msgstr "神秘的女士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_HARD"
+msgstr "神秘的女士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_MIDDLE"
+msgstr "神秘的女士"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_START"
+msgstr "慶典主持人"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL"
+msgstr "讓我們開始比賽吧，祝優秀的隊伍獲勝！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL_COMPLETED"
+msgstr "你贏得了一場公平的競賽！ 我以組織有趣打鬧活動的經驗擔保：你不該小看他們，勝利就是在這裡鍛造的"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD"
+msgstr "比賽最困難的部分就在眼前。 最優秀的人會贏，但我們都會玩得很開心！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD_COMPLETED"
+msgstr "太棒了，你做得很好，但我們的比賽已經結束了。 某天我的部隊逼近了距敵首都十五俄里的地方，但我們停止了進攻。 務必記得：明智的指揮官必須了解哪些戰鬥值得打，哪些戰鬥最好避免。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE"
+msgstr "就算你現在放棄與我爭鬥也不會因此而蒙羞！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE_COMPLETED"
+msgstr "坦白說，我不是海軍爭霸中墊底的人，所以你可以相信我：你是個優秀的對手！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL"
+msgstr "你很快就會後悔沒有寧願留在豪宅裡享受甜點！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL_COMPLETED"
+msgstr "嫉妒的人都說我是新郎的兒子，根本不是貴族。 但如果他們認為你可以在另一場比賽中擊敗我，那他們就押錯了賭注......"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD"
+msgstr "你覺得你能打敗我嗎？ 好吧，我不會否認讓你失望的快樂！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD_COMPLETED"
+msgstr "你很幸運，我是一個誠實的貴族，懂得如何失敗。 但記住：我有足夠的金幣讓裁判重新審視比賽結果…"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE"
+msgstr "閒談就到此為止吧  讓我們開始認真的比賽。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE_COMPLETED"
+msgstr "我的一位英國朋友曾兩次當選議會議員，但在這段時間裡，他只提出了一項倡議：他要求關閉徵兵的渠道。 少說話，多行動，期待下次比賽見到你！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL"
+msgstr "別以為我會屈服！ 我不只一次參加軍事行動，而我也從中學到了一些東西。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL_COMPLETED"
+msgstr "恭喜你，你在這場小小的比賽中表現出色。 準備好真正戰鬥了嗎？ 我警告你：我可不會投降！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD"
+msgstr "今晚的盛宴即將結束。 你準備好給予你的全部了嗎？"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD_COMPLETED"
+msgstr "感激今晚有一場精彩的比賽！ 某天有人專門介紹了給我一份訂單。 可惜我沒有同樣的能力來獎勵你…"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE"
+msgstr "一次又一次，你表現出驚人的毅力。 不過這次你可不會這麼輕易就脫身了！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE_COMPLETED"
+msgstr "你以為我是故意讓你贏的？ 我知道如何對付任性、脾氣暴躁的軍事領導人。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START"
+msgstr "先和我戰鬥，證明你配得上這場比賽！ 第一個測試很簡單，讓我們先來熱熱身吧..."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_START_COMPLETED"
+msgstr "你做得很棒，我的三名愛將正在等你！ 選擇先與誰競爭。"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_CASUAL"
+msgstr "西奧多·阿爾漢格爾斯基"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_HARD"
+msgstr "西奧多·阿爾漢格爾斯基"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_MIDDLE"
+msgstr "西奧多·阿爾漢格爾斯基"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_CASUAL"
+msgstr "亞歷山大·皮羅戈夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_HARD"
+msgstr "亞歷山大·皮羅戈夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_MIDDLE"
+msgstr "亞歷山大·皮羅戈夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_CASUAL"
+msgstr "瑪爾塔·瓦西里耶娃"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_HARD"
+msgstr "瑪爾塔·瓦西里耶娃"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_MIDDLE"
+msgstr "瑪爾塔·瓦西里耶娃"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_START"
+msgstr "彼得·米哈伊洛夫"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_CASUAL"
+msgstr "西側"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_HARD"
+msgstr "東側"
+
+msgid "IDS_TERRITORY_TITLE_CENTER_MIDDLE"
+msgstr "中央"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_CASUAL"
+msgstr "西北"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_HARD"
+msgstr "東北"
+
+msgid "IDS_TERRITORY_TITLE_NORTH_MIDDLE"
+msgstr "北"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_CASUAL"
+msgstr "西南"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_HARD"
+msgstr "東南"
+
+msgid "IDS_TERRITORY_TITLE_SOUTH_MIDDLE"
+msgstr "南"
+
+msgid "IDS_TERRITORY_TITLE_START"
+msgstr "入場試煉"
