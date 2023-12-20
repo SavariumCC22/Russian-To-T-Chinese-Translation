@@ -20683,7 +20683,10 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREWPREMIUM"
 msgstr "用泡麵和膠水製成的 《通用性對艦維修方案》 可以讓您的艦艇在受到輕微傷害後恢復戰鬥能力"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_EHEAL_PREMIUM"
-msgstr "船被燒掉再造一艘不就好了？"
+msgstr ""
+"/effect give @s instant_health 20 114514\n"
+"/give @s worldofwarships:steel 99999\n"
+"/playsound 做的不錯! main  @a"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_LONG"
 msgstr "顯著恢復艦艇血量。維修需時較長。"
@@ -20701,7 +20704,7 @@ msgstr ""
 "作用時間較短。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERPREMIUM"
-msgstr "使用反物質裝藥產生更強的爆炸 延長你的主砲射程 讓你當個更驕傲的亞服玩家"
+msgstr "參考古代飛鴿傳書科技 一台可以抓著砲彈丟去更遠的飛機"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTER_CIRCLE_PREMIUM"
 msgstr ""
@@ -20752,10 +20755,12 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY017_TORPEDORELOADER"
 msgstr "縮短魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY018_TORPEDORELOADERPREMIUM"
-msgstr "縮短魚雷發射管裝填時間。"
+msgstr "我們有一些船員不見了 你有頭緒嗎? "
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY019_RLSSEARCH"
-msgstr "愛麗絲會幫你找到範圍內其他的小學生！全速逮捕她們吧。"
+msgstr ""
+"逮捕一定範圍內所有的小學生 \n"
+"警告 使用次數過多可能導致機能暫時失效"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY020_RLSSEARCHPREMIUM"
 msgstr "愛麗絲會幫你找到範圍內其他的小學生！全速逮捕她們吧。"
@@ -21274,7 +21279,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREWPREMIUM_ALT"
 msgstr "消耗品裝載數已增加"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREW_EHEAL_PREMIUM"
-msgstr "海上造船廠"
+msgstr "創造模式"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY010_REGENCREW_EHEAL_PREMIUM_ALT"
 msgstr "消耗品裝載數已增加"
@@ -21292,7 +21297,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY013_JAP_BC"
 msgstr "配備高精度光學鏡的偵察機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTERPREMIUM"
-msgstr "禁忌魔法：反物質裝藥"
+msgstr "依苟"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTER_CIRCLE_PREMIUM"
 msgstr "快速起飛偵察機"
@@ -21325,10 +21330,10 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY017_TORPEDORELOADER"
 msgstr "魚雷裝填助推器"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY018_TORPEDORELOADERPREMIUM"
-msgstr "魚雷裝填助推器"
+msgstr "備用有機魚雷"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY019_RLSSEARCH"
-msgstr "光よ！"
+msgstr "胯下雷達"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY020_RLSSEARCHPREMIUM"
 msgstr "光よ！"
@@ -92036,7 +92041,7 @@ msgid "IDS_PRSB001"
 msgstr "沙皇尼古拉一世"
 
 msgid "IDS_PRSB001_DESCR"
-msgstr "第一次世界大戰期間，為了避免黑海艦隊在對戰土耳其艦隊時處於劣勢，蘇聯在 1914 年於米科萊夫市開始建造黑海艦隊的第 4 艘無畏艦 — Imperator Nikolai I。為了加快建造，修改了艦艇的初始武器配置 — 計劃在主力艦上安裝 305 毫米火炮，而非 356 毫米火炮。此艦艇在 1916 年下水；但由於缺乏所需機械和設備，而無法進一步建造。蘇聯當局在 1920 年代更新了此主力艦的完工計畫，但最終未能實現。"
+msgstr "第一次世界大戰期間，為了避免黑海艦隊在對戰土耳其艦隊時處於劣勢，俄罗斯帝国在 1914 年於米科萊夫市開始建造黑海艦隊的第 4 艘無畏艦 — Imperator Nikolai I。為了加快建造，修改了艦艇的初始武器配置 — 計劃在主力艦上安裝 305 毫米火炮，而非 356 毫米火炮。此艦艇在 1916 年下水；但由於缺乏所需機械和設備，而無法進一步建造。蘇聯當局在 1920 年代更新了此主力艦的完工計畫，但最終未能實現。"
 
 msgid "IDS_PRSB001_FULL"
 msgstr "沙皇尼古拉一世"
@@ -92051,7 +92056,7 @@ msgid "IDS_PRSB103"
 msgstr "蘇沃洛夫公爵"
 
 msgid "IDS_PRSB103_DESCR"
-msgstr "在日俄戰爭中失去多艘主力艦後，蘇聯海軍急需新的戰艦。蘇聯海軍部在 1906 年得知當時還在建造的主力艦 Dreadnought 和 Michigan 的特性，因此考慮建造在火力方面能與之匹敵的艦艇，並在 1907 年 9 月開發了一項有著 22,000 噸排水量的裝甲艦計畫初始設計。此艦艇裝備有十門 305 毫米火炮（置於五座雙聯裝炮塔）、十四門 120 毫米副炮、203 毫米厚的主要裝甲帶，還具有 22 節的巡航速度。"
+msgstr "在日俄戰爭中失去多艘主力艦後，俄羅斯帝國海軍急需新的戰艦。俄羅斯帝國海軍部在 1906 年得知當時還在建造的主力艦 Dreadnought 和 Michigan 的特性，因此考慮建造在火力方面能與之匹敵的艦艇，並在 1907 年 9 月開發了一項有著 22,000 噸排水量的裝甲艦計畫初始設計。此艦艇裝備有十門 305 毫米火炮（置於五座雙聯裝炮塔）、十四門 120 毫米副炮、203 毫米厚的主要裝甲帶，還具有 22 節的巡航速度。"
 
 msgid "IDS_PRSB103_FULL"
 msgstr "蘇沃洛夫公爵"
@@ -92066,7 +92071,7 @@ msgid "IDS_PRSB104"
 msgstr "沙皇尼古拉一世"
 
 msgid "IDS_PRSB104_DESCR"
-msgstr "1907 年底，在確定新主力艦的需求規格後，造船與採購局邀請蘇聯和外國的造船公司參與投標，並從 23 項計畫中選出 9 項，其中的最佳計畫來自波羅的造船廠。Poltava、Petropavlovsk、Sevastopol 和 Gangut 這四艘新主力艦的建造工程從 1909 年進行至 1911 年。後者在蘇聯海軍中服役至 1950 年代末。"
+msgstr "1907 年底，在確定新主力艦的需求規格後，沙皇俄國海軍於一次大戰前開始建造第一種無畏艦，造船與採購局邀請外國的造船公司參與投標，並從 23 項計畫中選出 9 項，其中的最佳計畫來自波羅的造船廠。Poltava、Petropavlovsk、Sevastopol 和 Gangut 這四艘新主力艦的建造工程從 1909 年進行至 1911 年。後者在蘇聯海軍中服役至 1950 年代末。"
 
 msgid "IDS_PRSB104_FULL"
 msgstr "沙皇尼古拉一世"
