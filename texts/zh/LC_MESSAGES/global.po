@@ -26699,7 +26699,7 @@ msgid "IDS_EVENTUM_7_COLON"
 msgstr "歐洲代幣："
 
 msgid "IDS_EVENTUM_8_COLON"
-msgstr "夏季代幣："
+msgstr "冬季代幣："
 
 msgid "IDS_EVENTUM_9_COLON"
 msgstr "航海家代幣："
@@ -106711,7 +106711,7 @@ msgid "IDS_REWARD_EVENTUM_7_TITLE"
 msgstr "歐洲代幣"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
-msgstr "夏季代幣"
+msgstr "冬季代幣"
 
 msgid "IDS_REWARD_EVENTUM_9_TITLE"
 msgstr "航海家代幣"
@@ -119879,7 +119879,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
 msgstr "已購買歐洲代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
-msgstr "已購買夏季代幣"
+msgstr "已購買冬季代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
 msgstr "已購買航海家代幣"
@@ -120345,7 +120345,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
 msgstr "已獲得歐洲代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
-msgstr "已獲得夏季代幣"
+msgstr "已獲得冬季代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
 msgstr "已獲得航海家代幣"
@@ -120731,7 +120731,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
 msgstr "歐洲代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
-msgstr "夏季代幣已移除"
+msgstr "冬季代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
 msgstr "航海家代幣已移除"
@@ -127247,3 +127247,60 @@ msgstr "南"
 
 msgid "IDS_TERRITORY_TITLE_START"
 msgstr "入場試煉"
+
+msgid "IDS_STRATEGIC_ACTIONS_TASK_CURRENT"
+msgstr "目前任務"
+
+msgid "IDS_STRATEGIC_ACTIONS_TASK_NEXT"
+msgstr "下一個任務"
+
+msgid "IDS_PZSS508"
+msgstr "帕索帕蒂"
+
+msgid "IDS_PZSS508_DESCR"
+msgstr "S-79是一艘蘇聯613型潛艦，被轉移到印尼海軍並更名為帕索帕蒂。 1961–62 年 該潛艇參加了印尼吞併新幾內亞島西部地區的「特里科拉」行動。 1994年，帕索帕蒂號從艦隊名單中刪除，並作為博物館船安置在泗水。"
+
+msgid "IDS_PZSS508_FULL"
+msgstr "Pasopati"
+
+msgid "IDS_PZSS508_NUMBER"
+msgstr "236"
+
+msgid "IDS_PZSS508_YEAR"
+msgstr "1954年"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_TUBE_COUNT"
+msgstr "魚雷發射管數量"
+
+msgid "IDS_PZPT053_533MM_PASOPATI"
+msgstr "53-38"
+
+msgid "IDS_PZPT054_533MM_PASOPATI_MZ"
+msgstr "53-38 MZ"
+
+msgid "IDS_PZGT000_INVISIBLE_TA"
+msgstr "533-мм"
+
+msgid "IDS_PASD517"
+msgstr "梅奧"
+
+msgid "IDS_PASD517_DESCR"
+msgstr "USS Mayo DD-422 是一艘班森級驅逐艦。 1941年7月，作為中立巡邏隊的一員，他參加了對冰島的佔領。 1942 年，他在 1943-44 年期間陪同大西洋船隊。 參加了義大利戰役。 1944年1月24日觸雷，後在紐約修復。 1945年，該驅逐艦參加了前往沖繩的護航任務。"
+
+msgid "IDS_PASD517_FULL"
+msgstr "Mayo"
+
+msgid "IDS_PASD517_NUMBER"
+msgstr "30"
+
+msgid "IDS_PASD517_YEAR"
+msgstr "1940 年."
+
+msgid "IDS_PAPA206_127MM_HE_MAYO"
+msgstr "127-мм HE Mk32"
+
+msgid "IDS_PAPA207_127MM_AP_MAYO"
+msgstr "127-мм AP/SC Mk38"
+
+msgid "IDS_PAPT061_MAYO"
+msgstr "Mk15 mod. 3"
