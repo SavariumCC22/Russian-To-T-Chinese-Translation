@@ -79796,7 +79796,7 @@ msgid "IDS_PISB106_YEAR"
 msgstr "1916"
 
 msgid "IDS_PISB107"
-msgstr "弗朗切斯科·卡拉喬洛"
+msgstr "F·卡拉喬洛"
 
 msgid "IDS_PISB107_DESCR"
 msgstr "1913 年的艦隊補充計畫規定要建造四艘高速主力艦，這些主力艦也應符合英國 Queen Elizabeth 級艦艇的特性。領艦 Francesco Caracciolo 於 1914 年安放龍骨，但由於缺乏材料和優先順序的改變而暫停建造。"
@@ -80203,7 +80203,7 @@ msgid "IDS_PISC510_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISC517"
-msgstr "弗朗切斯科·費魯喬"
+msgstr "F·費魯喬"
 
 msgid "IDS_PISC517_DESCR"
 msgstr "義大利海軍為在印度洋進行各種行動而建造數十艘各種類型艦艇，「遠程輕型巡洋艦」計畫便是在此背景下開發的。其中一份早期草圖是一艘 8,000 噸巡洋艦，其外觀不尋常，在四聯裝炮塔中裝備有 152 毫米火炮。她的其他特點還包括作戰範圍較大（超過 27,000 公里），以及設計於 1939 年的 90 毫米高平兩用炮。"
@@ -80314,7 +80314,7 @@ msgid "IDS_PISD104_DESCR"
 msgstr "Turbine 級驅逐艦是由先前的 Sauro 級進一步發展而來，更強大的機械裝置使其航速及航程增加。領艦於 1936 年到 1937 年間投入西班牙內戰。第二次世界大戰期間，她參與了巡邏和護衛任務，護衛船團前往非洲。1943 年，德國擄獲了 Turbine 並以「TA-14」之名將其編入德國戰爭海軍一員。1944 年 9 月 16 日，此驅逐艦遭美國轟炸機擊沉。"
 
 msgid "IDS_PISD104_FULL"
-msgstr "渦輪"
+msgstr "Turbine"
 
 msgid "IDS_PISD104_NUMBER"
 msgstr "8"
