@@ -4,8 +4,9 @@
 2. notepad++ 內使用Ctrl F 至 Mark 界面, 輸入msgid 然後點Mark all
 3. 使用算式 (?-s)msgid.*\R\K.*\R 搜尋模式改成Regular Expression, 點Mark All
 4. 上方工具欄 Search > Bookmark > Removed non-booked marked lines. 
-5. 上方工具欄 錄製Macro: ↓ ↓ Enter 儲存, 
-6. 同樣Marco工具欄, 點 Run a marco multiple times > Run until the end of file.
+5. 刪掉上面一大串和翻譯無關的東西.
+6. 上方工具欄 錄製Macro: ↓ ↓ Enter 儲存, 
+7. 同樣Marco工具欄, 點 Run a marco multiple times > Run until the end of file.
 
 則可得到所有包含msgid差異及其下一行 (msgstr) 的條目.
 
