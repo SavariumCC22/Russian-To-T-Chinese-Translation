@@ -8,7 +8,7 @@ Welcome！歡迎來到俄服繁體中文翻譯基地 目前該翻譯檔案由東
 
 global.mo檔案地址：https://github.com/SavariumCC22/Russian-To-T-Chinese-Translation/blob/main/texts/zh/LC_MESSAGES/global.mo
 
-當遊戲版本更新時，只需將上個版本內的翻譯文件 ( texts 文件夾 和 locale_config ) 複製到遊戲新版的res_mods資料夾即可
+
 
 
 
@@ -17,6 +17,7 @@ global.mo檔案地址：https://github.com/SavariumCC22/Russian-To-T-Chinese-Tra
 ![image](https://github.com/SavariumCC22/-/assets/151144873/7648ff2e-7e31-441d-a501-bb5c8ae92286)
 
 
+當遊戲版本更新時，只需將上個版本內的翻譯文件 ( texts 文件夾 和 locale_config ) 複製到遊戲新版的res_mods資料夾即可
 
 須知：此翻譯包內有一些圈內笑話/彩蛋 並非面向大眾的正式翻譯. 與Lesta / Wargaming 官方無關.
 
