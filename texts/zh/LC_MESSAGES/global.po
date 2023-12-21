@@ -127012,13 +127012,13 @@ msgid "IDS_PRSB520_YEAR"
 msgstr "1938 年."
 
 msgid "IDS_PJPA145_210MM_HE_T11"
-msgstr "210-мм Spr.Gr. L/4.7"
+msgstr "210 毫米 Spr.Gr. L/4.7"
 
 msgid "IDS_PJPA146_210MM_AP_T11"
-msgstr "210-мм Spr.Gr. L/4.4"
+msgstr "210 毫米 Spr.Gr. L/4.4"
 
 msgid "IDS_PJGM208_21CM_60_SK_C34_DRL_C_40"
-msgstr "210-мм/60 SK C/34 (Drh LC/40炮座)"
+msgstr "210 毫米/60 SK C/34 (Drh LC/40炮座)"
 
 msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
 msgstr "406 mm HE Model 1928"
@@ -127027,10 +127027,10 @@ msgid "IDS_PRPA209_406MM_AP_SEVEROMORSK"
 msgstr "406 mm AP Model 1928"
 
 msgid "IDS_PAPA161_203MM_HE_N_HAMPSHIRE"
-msgstr "203-мм HE/HC Mk25"
+msgstr "203 毫米 HE/HC Mk25"
 
 msgid "IDS_PAPA162_203MM_AP_N_HAMPSHIRE"
-msgstr "203-мм AP Mk19"
+msgstr "203 毫米 AP Mk19"
 
 msgid "IDS_PJAF214_ZUIHO_TOP"
 msgstr "Mitsubishi J2M3"
@@ -127273,13 +127273,13 @@ msgid "IDS_PZPT054_533MM_PASOPATI_MZ"
 msgstr "53-38 MZ"
 
 msgid "IDS_PZGT000_INVISIBLE_TA"
-msgstr "533-мм"
+msgstr "533 毫米"
 
 msgid "IDS_PASD517"
 msgstr "梅奧"
 
 msgid "IDS_PASD517_DESCR"
-msgstr "USS Mayo DD-422 是一艘班森級驅逐艦。 1941年7月，作為中立巡邏隊的一員，他參加了對冰島的佔領。 1942 年，他在 1943-44 年期間陪同大西洋船隊。 參加了義大利戰役。 1944年1月24日觸雷，後在紐約修復。 1945年，該驅逐艦參加了前往沖繩的護航任務。"
+msgstr "梅奧號驅逐艦 (DD-422) 是美國海軍於第二次世界大戰期間建造的一艘班森級驅逐艦，艦名取自在坦皮科事件中擔當重要角色的亨利·托馬斯·梅奧海軍上將。 1941年7月，作為中立巡邏隊的一員，他參加了對冰島的佔領。 1942 年，他在 1943-44 年期間陪同大西洋船隊。 參加了義大利戰役。 1944年1月24日觸雷，後在紐約修復。 1945年，該驅逐艦參加了前往沖繩的護航任務。1946年3月18日，梅奧號退出現役，隨後被轉移至奧蘭治封存。1971年12月1日，梅奧號驅逐艦自美國海軍除籍，隨後於1972年5月8日出售拆解"
 
 msgid "IDS_PASD517_FULL"
 msgstr "Mayo"
@@ -127291,10 +127291,22 @@ msgid "IDS_PASD517_YEAR"
 msgstr "1940 年."
 
 msgid "IDS_PAPA206_127MM_HE_MAYO"
-msgstr "127-мм HE Mk32"
+msgstr "127 毫米 HE Mk32"
 
 msgid "IDS_PAPA207_127MM_AP_MAYO"
-msgstr "127-мм AP/SC Mk38"
+msgstr "127 毫米 AP/SC Mk38"
 
 msgid "IDS_PAPT061_MAYO"
 msgstr "Mk15 mod. 3"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_MINE_SEAMINE"
+msgstr ""
+"在標記區域投放水雷\n"
+"當水雷與艦艇接觸時會爆炸，可破壞船隻機件並導致進水\n"
+"將地雷投放在島嶼之間以誘導敵艦墜入陷阱"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_MINE_SEAMINE_ALT"
+msgstr ""
+"在標記區域投放水雷\n"
+"當水雷與艦艇接觸時會爆炸，可破壞船隻機件並導致進水\n"
+"將地雷投放在島嶼之間以誘導敵艦墜入陷阱"
