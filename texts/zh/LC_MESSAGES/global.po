@@ -127310,3 +127310,6 @@ msgstr ""
 "在標記區域投放水雷\n"
 "當水雷與艦艇接觸時會爆炸，可破壞船隻機件並導致進水\n"
 "將地雷投放在島嶼之間以誘導敵艦墜入陷阱"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_MAIN_ATBA_FULL"
+msgstr "用你的主砲和副砲造成盡可能多的傷害"
