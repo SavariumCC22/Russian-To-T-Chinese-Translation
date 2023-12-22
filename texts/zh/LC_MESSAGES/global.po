@@ -122925,7 +122925,7 @@ msgid "IDS_TITLE_PCM005_SECONDARYGUN_MOD_I"
 msgstr "副炮組修改型 1"
 
 msgid "IDS_TITLE_PCM006_MAINGUN_MOD_II"
-msgstr "主炮組修改型 2"
+msgstr "改良型 WD-40 配方 2"
 
 msgid "IDS_TITLE_PCM007_TORPEDO_MOD_II"
 msgstr "魚雷發射管修改型 2"
@@ -122943,7 +122943,7 @@ msgid "IDS_TITLE_PCM011_AIRDEFENSE_MOD_II"
 msgstr "防空炮修改型 2"
 
 msgid "IDS_TITLE_PCM012_SECONDARYGUN_MOD_II"
-msgstr "副炮組修改型 1"
+msgstr "配備了納米依苟的副炮組"
 
 msgid "IDS_TITLE_PCM013_MAINGUN_MOD_III"
 msgstr "裝填水手修改型 3"
@@ -122961,7 +122961,7 @@ msgid "IDS_TITLE_PCM017_AIRPLANES_MOD_III"
 msgstr "航空大隊修改型 2"
 
 msgid "IDS_TITLE_PCM018_AIRDEFENSE_MOD_III"
-msgstr "防空炮修改型 1"
+msgstr "快速煙花裝填修改型 1"
 
 msgid "IDS_TITLE_PCM019_SECONDARYGUN_MOD_III"
 msgstr "副炮組修改型 2"
@@ -122982,13 +122982,13 @@ msgid "IDS_TITLE_PCM024_ENGINE_MOD_II"
 msgstr "彈射起步"
 
 msgid "IDS_TITLE_PCM025_STEERINGGEAR_MOD_II"
-msgstr "操舵裝置修改型 1"
+msgstr "AE86 修改型 1"
 
 msgid "IDS_TITLE_PCM026_LOOKOUTSTATION_MOD_I"
-msgstr "魚雷監視系統"
+msgstr "被動型水下依苟"
 
 msgid "IDS_TITLE_PCM027_CONCEALMENTMEASURES_MOD_I"
-msgstr "隱蔽系統修改型 1"
+msgstr "約翰·希南修改型 1"
 
 msgid "IDS_TITLE_PCM028_FIRECONTROL_MOD_I_US"
 msgstr "火炮描繪室修改型 1"
@@ -123012,7 +123012,7 @@ msgid "IDS_TITLE_PCM034_GUIDANCE_MOD_0"
 msgstr "瞄準系統修改型 0"
 
 msgid "IDS_TITLE_PCM035_STEERINGGEAR_MOD_III"
-msgstr "操舵裝置修改型 2"
+msgstr "AE86 修改型 2"
 
 msgid "IDS_TITLE_PCM036_SPEEDBOOSTER_MOD_I"
 msgstr "引擎增壓修改型 1"
@@ -123123,7 +123123,7 @@ msgid "IDS_TITLE_PCM071_TORPEDOBOMBS_MOD_I"
 msgstr "航空魚雷修改型 1"
 
 msgid "IDS_TITLE_PCM072_ABILITYWORKTIMEBOOST_MOD_I"
-msgstr "艦艇消耗品修改型 1"
+msgstr "時間膨脹艦艇消耗品試作型 XI"
 
 msgid "IDS_TITLE_PCM073_ABILITYWORKTIMEBOOSTCV_MOD_I"
 msgstr "航空中隊消耗品修改型 1"
