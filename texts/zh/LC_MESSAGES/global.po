@@ -125934,7 +125934,7 @@ msgid "IDS_WORKTIME"
 msgstr "啟用"
 
 msgid "IDS_WORLD_OF_WARSHIPS"
-msgstr "《戰艦世界》"
+msgstr "《ГУЛАГ》"
 
 msgid "IDS_WOWONIANG_FRANCE"
 msgstr "Wo Wo Niang"
