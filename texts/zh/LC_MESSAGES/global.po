@@ -539,7 +539,7 @@ msgstr ""
 "#-#-#-#-#  TRAINING_ROOM.po (World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8)  #-#-#-#-#\n"
 "#-#-#-#-#  TUTORIAL.po (World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8)  #-#-#-#-#\n"
 "#-#-#-#-#  WEATHERS.po (World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8)  #-#-#-#-#\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "#PluralForms"
 msgstr "nplurals=1; plural=0;"
@@ -71129,13 +71129,13 @@ msgid "IDS_PFSB107_YEAR"
 msgstr "1913"
 
 msgid "IDS_PFSB108"
-msgstr "黎希留"
+msgstr "黎胥留"
 
 msgid "IDS_PFSB108_DESCR"
 msgstr "Richelieu 級是法國對義大利 Littorio 級的回應。這個最終計畫本質上是 Dunkerque 的擴大版，並且改良了對空防禦。建造期間，Richelieu 被撤離到非洲，但此艦艇稍後便投入了第二次世界大戰。"
 
 msgid "IDS_PFSB108_FULL"
-msgstr "黎希留"
+msgstr "黎胥留"
 
 msgid "IDS_PFSB108_NUMBER"
 msgstr "2"
@@ -74924,13 +74924,13 @@ msgid "IDS_PGSA598_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA610"
-msgstr "殷麥曼"
+msgstr "英麥曼"
 
 msgid "IDS_PGSA610_DESCR"
 msgstr "此設計是作為航空母艦完工的 H-39 級主力艦的可能版本之一。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。此類航空母艦本應成為全歐洲最大型的艦艇。"
 
 msgid "IDS_PGSA610_FULL"
-msgstr "馬克斯·殷麥曼"
+msgstr "Max Immelmann"
 
 msgid "IDS_PGSA610_NUMBER"
 msgstr "1"
@@ -127332,3 +127332,51 @@ msgstr ""
 "改造的依苟巡航時間大不如前 \n"
 "且某些依苟會拒絕被改造的基因\n"
 "因此僅能裝備在少部分艦艇上"
+
+msgid "IDS_PZPT055_533_BEN_MA"
+msgstr "Mk16 mod. 1"
+
+msgid "IDS_PZSD529"
+msgstr "Ben Ma"
+
+msgid "IDS_PZSD529_DESCR"
+msgstr ""
+
+msgid "IDS_PZSD529_FULL"
+msgstr "Ben Ma"
+
+msgid "IDS_PZSD529_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSD529_YEAR"
+msgstr "1945 年."
+
+msgid "IDS_PZUA808_ART_BEN_MA"
+msgstr "135毫米/45 Model 1938 於 Model 1938 炮座"
+
+msgid "IDS_PZUE808_ENG_BEN_MA"
+msgstr "100,000 匹馬力"
+
+msgid "IDS_PZUH810_HULL_BEN_MA"
+msgstr "Ben Ma"
+
+msgid "IDS_PZUS810_SUO_BEN_MA"
+msgstr "Mk IX mod. 1"
+
+msgid "IDS_PZUT805_TORP_BEN_MA"
+msgstr "533毫米 Si 270 H2"
+
+msgid "IDS_PIES420_TSARMOREY2023"
+msgstr "瓦蘭吉船"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR"
+msgstr "佔領所需數量的領域即可獲得新年狂歡活動的最終獎勵。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR_FULL"
+msgstr "在新年嘉年華活動中控制所有領土。"
+
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR"
+msgstr "新年狂歡"
+
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR_FULL"
+msgstr "新年狂歡：稱霸大海"
