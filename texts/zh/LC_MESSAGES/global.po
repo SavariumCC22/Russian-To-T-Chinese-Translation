@@ -127445,10 +127445,10 @@ msgid "IDS_FEAT_MINEFIELD_DESC"
 msgstr "Устанавливается в отмеченной области. Мины наносят значительный потенциальный урон и имеют высокую вероятность вызова затопления."
 
 msgid "IDS_FORM_DIVISION"
-msgstr "Собрать отряд"
+msgstr "組成分艦隊"
 
 msgid "IDS_IN_PCVE020"
-msgstr "в Асимметричном бою"
+msgstr "在非對稱戰鬥中"
 
 msgid "IDS_KARMA_COLON"
 msgstr "Карма:"
