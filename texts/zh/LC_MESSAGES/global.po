@@ -127442,7 +127442,7 @@ msgid "IDS_FEAT_MINEFIELD"
 msgstr "水雷陣地"
 
 msgid "IDS_FEAT_MINEFIELD_DESC"
-msgstr "Устанавливается в отмеченной области. Мины наносят значительный потенциальный урон и имеют высокую вероятность вызова затопления."
+msgstr "佈置在指定區域內。 水雷可造成嚴重損傷，並較可能引致進水"
 
 msgid "IDS_FORM_DIVISION"
 msgstr "組成分艦隊"
@@ -127451,46 +127451,46 @@ msgid "IDS_IN_PCVE020"
 msgstr "在非對稱戰鬥中"
 
 msgid "IDS_KARMA_COLON"
-msgstr "Карма:"
+msgstr "業力:"
 
 msgid "IDS_MAIN_AIRSMOKES"
-msgstr "Доступно снаряжение «Авиационный дымогенератор»"
+msgstr "可使用 “航空煙幕發煙機” 消耗品"
 
 msgid "IDS_MAIN_MINEBOMBERS"
-msgstr "Доступны постановщики мин"
+msgstr "可使用佈雷機"
 
 msgid "IDS_MAIN_NO_T_BOMBERS"
-msgstr "Нет торпедоносцев"
+msgstr "無魚雷轟炸機"
 
 msgid "IDS_MINIMAP_OPTIONS_MINIMAPVISIBILITYSHIPENABLED"
-msgstr "Обнаружение союзного корабля"
+msgstr "友軍“被偵測”狀態指示器"
 
 msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY"
-msgstr "Обнаружение союзного корабля противником"
+msgstr "敵方發現友軍艦艇"
 
 msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY_DESCRIPTION"
-msgstr "Отображать индикатор обнаружения союзного корабля противником."
+msgstr "用於辨別友軍是否被敵方發現的指示器"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_MINE_BOMBERS"
-msgstr "Постановщики мин"
+msgstr "佈雷機"
 
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSISINTERCEPTOR"
 msgstr "[HIDDEN]Вард перестает светить корабли и не может быть атакован другим вардом"
 
 msgid "IDS_PARAMS_MODIFIER_POTENTIALDAMAGESHIFT_RAGEMODE"
-msgstr "Количество потенциального урона для прогресса"
+msgstr "完成進度所需的潛在傷害值"
 
 msgid "IDS_PARAMS_MODIFIER_SPEEDBOOSTERSADDITIONALCONSUMABLES"
-msgstr "Количество снаряжения «Форсаж»"
+msgstr "“引擎增壓“的數量"
 
 msgid "IDS_PCEE657_FAREAST_FLAG"
-msgstr "Флаг наместника Его Императорского Величества на Дальнем Востоке"
+msgstr "遠東帝國總督陛下旗幟"
 
 msgid "IDS_PCEE657_FAREAST_FLAG_DESCRIPTION"
 msgstr ""
 
 msgid "IDS_PCEE662_JAP_AIRCRAFT_FLAG"
-msgstr "Японские авианосцы"
+msgstr "日本航空母艦"
 
 msgid "IDS_PCEE662_JAP_AIRCRAFT_FLAG_DESCRIPTION"
 msgstr ""
@@ -127514,10 +127514,10 @@ msgid "IDS_PGSS111_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSS111_YEAR"
-msgstr "1943 г."
+msgstr "1943年."
 
 msgid "IDS_PGUE914_S11_ENG_STOCK"
-msgstr "ЭУ 15 000 л.с."
+msgstr "15 000匹馬力"
 
 msgid "IDS_PGUH914_S11_HULL_STOCK"
 msgstr "U-796"
@@ -127544,10 +127544,10 @@ msgid "IDS_PIPR529_DELAWARE_TEST"
 msgstr "127-мм HVAR"
 
 msgid "IDS_PISB529"
-msgstr "Delaware Test"
+msgstr "德拉華 測試"
 
 msgid "IDS_PISB529_DESCR"
-msgstr "Корабль для тестирования."
+msgstr "測試船."
 
 msgid "IDS_PISB529_FULL"
 msgstr "Delaware Test"
@@ -127556,13 +127556,13 @@ msgid "IDS_PISB529_NUMBER"
 msgstr "1"
 
 msgid "IDS_PISB529_YEAR"
-msgstr "1942 г."
+msgstr "1942 年."
 
 msgid "IDS_PIUA808_DELAWARE_TEST"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406-мм/50 Mk.7 裝於砲塔內"
 
 msgid "IDS_PIUE808_ENG_DELAWARE_TEST"
-msgstr "ЭУ 212 000 л.с."
+msgstr "212 000匹馬力"
 
 msgid "IDS_PIUF801_FC_DELAWARE_TEST"
 msgstr "Mk9 mod. 1"
@@ -127577,16 +127577,16 @@ msgid "IDS_PIUS811_SUO_DELAWARE_TEST"
 msgstr "SDT 9"
 
 msgid "IDS_PJES201_HIRYU_AMATERASU"
-msgstr "Парящий дракон"
+msgstr "龍騰"
 
 msgid "IDS_PJES202_TAIHO_AMATERASU"
-msgstr "Богиня Солнца"
+msgstr "太陽女神"
 
 msgid "IDS_PRAD704_SEVEROMORSK_TOP"
 msgstr "Сухой Су-2"
 
 msgid "IDS_PRES436_DMITRY_DONSKOY"
-msgstr "Цусимское сражение"
+msgstr "對馬島海戰"
 
 msgid "IDS_PRPT066_533MM_SUB_T11"
 msgstr "53-38У"
@@ -127613,7 +127613,7 @@ msgid "IDS_PRUD920_DB_SEVEROMORSK"
 msgstr "Сухой Су-2"
 
 msgid "IDS_PRUE921_S11_ENG_STOCK"
-msgstr "ЭУ 6 000 л.с."
+msgstr "6 000匹馬力"
 
 msgid "IDS_PRUH921_S11_HULL_STOCK"
 msgstr "Б-4"
@@ -127637,19 +127637,19 @@ msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "戰艦"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Patagonia"
+msgstr "巴塔哥尼亞"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Patagonia"
+msgstr "巴塔哥尼亞"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "加值戰艦"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Корабль"
+msgstr "戰艦"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127658,19 +127658,19 @@ msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE"
-msgstr "Премиум контейнер «Эскадра Пан-Америки»"
+msgstr "加值貨櫃 泛美中隊"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE_SHORT"
-msgstr "Эскадра Пан-Америки"
+msgstr "泛美中隊"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_EFFECTIVE_SMOKES"
-msgstr "Прикрыть корабль союзника дымовой завесой"
+msgstr "成功用煙幕覆蓋友方艦艇"
 
 msgid "IDS_RIBBON_RIBBON_EFFECTIVE_SMOKES"
-msgstr "Прикрыл"
+msgstr "遮蔽"
 
 msgid "IDS_SCENARIO_ASYMM_COOP_SPECIAL"
-msgstr "Асимметричный бой — Превосходство"
+msgstr "非對稱戰鬥 • 制海權"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM071_ASYMMCOOP_BATTLESHIP_DAMAGE"
 msgstr " "
@@ -127691,76 +127691,76 @@ msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM076_ASYMMCOOP_VULNERABILITYALL"
 msgstr " "
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM071_ASYMMCOOP_BATTLESHIP_DAMAGE"
-msgstr "Увеличение урона"
+msgstr "傷害提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM072_ASYMMCOOP_CRUISER_DAMAGE"
-msgstr "Увеличение урона"
+msgstr "傷害提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM073_ASYMMCOOP_DESTROYER_DAMAGE"
-msgstr "Увеличение урона"
+msgstr "傷害提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM074_ASYMMCOOP_REGENERATION"
-msgstr "Восстановление боеспособности"
+msgstr "正在恢復生命值"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM075_ASYMMCOOP_BATTLESHIP_REGENERATION"
-msgstr "Восстановление боеспособности"
+msgstr "正在恢復生命值"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM076_ASYMMCOOP_VULNERABILITYALL"
-msgstr "Сопротивление урону"
+msgstr "傷害抗性"
 
 msgid "IDS_SHIP_MODIFIER_PXOM071_ASYMMCOOP_BATTLESHIP_DAMAGE_APPLIED"
-msgstr "Увеличение урона"
+msgstr "傷害提升"
 
 msgid "IDS_SHIP_MODIFIER_PXOM072_ASYMMCOOP_CRUISER_DAMAGE_APPLIED"
-msgstr "Увеличение урона"
+msgstr "傷害提升"
 
 msgid "IDS_SHIP_MODIFIER_PXOM073_ASYMMCOOP_DESTROYER_DAMAGE_APPLIED"
-msgstr "Увеличение урона"
+msgstr "傷害提升"
 
 msgid "IDS_SHIP_MODIFIER_PXOM074_ASYMMCOOP_REGENERATION_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在恢復生命值"
 
 msgid "IDS_SHIP_MODIFIER_PXOM075_ASYMMCOOP_BATTLESHIP_REGENERATION_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在恢復生命值"
 
 msgid "IDS_SHIP_MODIFIER_PXOM076_ASYMMCOOP_VULNERABILITYALL_APPLIED"
-msgstr "Сопротивление урону"
+msgstr "傷害抗性"
 
 msgid "IDS_SUBMARINES_LEGENDARY"
-msgstr "Суперподлодки"
+msgstr "超級潛艇"
 
 msgid "IDS_SUBMARINE_LEGENDARY"
-msgstr "Суперподлодка"
+msgstr "超級潛艇"
 
 msgid "IDS_TITLE_PCM099_SPECIAL_MOD_I_ELBING"
-msgstr "Форсированная энергетическая установка"
+msgstr "自動火炮與燃料系統"
 
 msgid "IDS_TOOLTIP_BATTLE_BONUS_TAG_DESCRIPTION"
-msgstr "Награда за победу в любом типе боя."
+msgstr "於任何類型戰鬥中取得勝利的獎勵."
 
 msgid "IDS_UNLOCKS_24"
-msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+msgstr "與你的團隊一起對抗波特完成任務."
 
 msgid "IDS_UNLOCKS_3103"
-msgstr "Сражайтесь против реальных игроков."
+msgstr "與玩家對戰."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
-msgstr "В Операциях вашей команде необходимо выполнять различные задания, сражаясь с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+msgstr "在行動中，您的團隊需要在與機器人作戰的同時完成各種任務。 每個行動都有獨特的情節元素。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
-msgstr "Достигните основной цели, чтобы одержать победу. Выполнение дополнительных задач увеличит количество заработанных за бой ресурсов."
+msgstr "完成主要目標以獲勝。 完成額外的任務將會增加回報。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
-msgstr "Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+msgstr "行動的難易度取決於團隊中艦艇的階級和艦種"
 
 msgid "IDS_UNLOCKS_LOCATION_24"
-msgstr "Доступно на экране выбора типа боя."
+msgstr "可於戰鬥類型畫面上選擇。"
 
 msgid "IDS_UNLOCKS_LOCATION_3103"
-msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+msgstr "戰鬥類型的選擇位於「戰鬥！」按鈕旁。."
 
 msgid "IDS_UNLOCKS_TITLE_24"
-msgstr "Операции"
+msgstr "行動"
 
 msgid "IDS_UNLOCKS_TITLE_3103"
-msgstr "Случайные бои"
+msgstr "坐牢模式"
