@@ -127382,64 +127382,64 @@ msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR_FULL"
 msgstr "新年狂歡：稱霸大海"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSSO_JAPANESE_WAR"
-msgstr "Разгромить силы японского флота в Асимметричном бою."
+msgstr "在非對稱戰鬥中擊敗日本海軍。"
 
 msgid "IDS_ACHIEVEMENT_RUSSO_JAPANESE_WAR"
-msgstr "Асимметричный бой: Русско-японская война"
+msgstr "非對稱戰鬥：日俄戰爭"
 
 msgid "IDS_ASYMM_COOP_SPECIAL"
-msgstr "Асимметричный бой — Превосходство"
+msgstr "非對稱戰鬥 ：霸權"
 
 msgid "IDS_BUFF_IMPROVEMENT"
-msgstr "Улучшение"
+msgstr "改良"
 
 msgid "IDS_DEBUFF"
-msgstr "Ухудшение"
+msgstr "改良"
 
 msgid "IDS_DESC_PCM099_SPECIAL_MOD_I_ELBING"
-msgstr "Изменяет тактическую роль корабля, позволяя кратковременно повышать манёвренность и быстро переключаться между целями."
+msgstr "改變艦艇的戰術角色，可於短時間内增加機動性 並改良炮臺旋轉速度以達到快速切換目標."
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE"
-msgstr "Оперативная подготовка эскадрилий"
+msgstr "航空中隊行動訓練"
 
 msgid "IDS_DOGTAG_PCNB429_DESCRIPTION"
-msgstr "Офицеров — участников обороны Порт-Артура награждали серебряным нагрудным крестом. В центре медали на белой эмали был изображён силуэт эскадренного броненосца."
+msgstr "參與保衛亞瑟港的軍官被授予銀胸十字勳章。 獎章中央的白色琺瑯上繪有一艘中隊戰艦的輪廓。"
 
 msgid "IDS_DOGTAG_PCNB429_NAME"
-msgstr "Крест «За Порт-Артур»"
+msgstr "克羅斯  \"為了亞瑟港\""
 
 msgid "IDS_FEAT_BAD_LOW_DAMAGE_PER_BOMB"
-msgstr "Каждая бомба наносит малый урон"
+msgstr "單顆炸彈的傷害較低"
 
 msgid "IDS_FEAT_BAD_NO_T_BOMBERS"
-msgstr "Нет торпедоносцев"
+msgstr "無魚雷轟炸機"
 
 msgid "IDS_FEAT_FIGHTERS_UPGRADE"
-msgstr "Доступны перехватчики"
+msgstr "可使用截擊機"
 
 msgid "IDS_FEAT_FIGHTERS_UPGRADE_DESC"
-msgstr "Не обнаруживают корабли противника, но имеют больший радиус патрулирования и уменьшенную задержку перед атакой."
+msgstr "截擊機無法發現敵方船隻 但有較大的巡航半徑和較短的攻擊延遲時間"
 
 msgid "IDS_FEAT_GOOD_AIRSMOKES"
-msgstr "Доступно снаряжение «Авиационный дымогенератор»"
+msgstr "可使用 \"航空烟幕發烟機\" 消耗品"
 
 msgid "IDS_FEAT_GOOD_AIRSMOKES_DESC"
-msgstr "Создаёт дымовую завесу на поверхности, уменьшающую вероятность обнаружения противником союзных кораблей."
+msgstr "於戰場上佈下烟幕 減少友軍被發現的可能性"
 
 msgid "IDS_FEAT_GOOD_MANY_PLANES"
-msgstr "Большое количество самолётов на палубе"
+msgstr "大量飛機可用"
 
 msgid "IDS_FEAT_GOOD_PLANE_REGEN"
-msgstr "Быстрая подготовка самолётов"
+msgstr "飛機預備時間較短"
 
 msgid "IDS_FEAT_IS_TACTICAL"
-msgstr "Тактическая эскадрилья"
+msgstr "是戰術中隊"
 
 msgid "IDS_FEAT_IS_TACTICAL_DESC"
-msgstr "Состоит из одного звена. После атаки эскадрилья не возвращается на палубу, самолёты подготавливаются на корабле сразу всем звеном."
+msgstr "只含一個中隊 攻擊後飛機不會返回機庫 整個航空中隊均會同時準備完成"
 
 msgid "IDS_FEAT_MINEFIELD"
-msgstr "Минное заграждение"
+msgstr "水雷陣地"
 
 msgid "IDS_FEAT_MINEFIELD_DESC"
 msgstr "Устанавливается в отмеченной области. Мины наносят значительный потенциальный урон и имеют высокую вероятность вызова затопления."
