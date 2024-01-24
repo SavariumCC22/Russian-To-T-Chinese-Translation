@@ -18615,19 +18615,19 @@ msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
 msgstr "「聖誕禮物」活動的暫時性資源。"
 
 msgid "IDS_CURRENCY_EVENTUM_11"
-msgstr "水晶"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_11_GET_DESCRIPTION"
-msgstr "在 12.10 版本更新結束之前，於軍械庫的活動類別中以達布隆兌換。"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_11_SPEND_DESCRIPTION"
-msgstr "在 12.10 版本更新結束之前，可用以參與在軍械庫同名類別中開放的「英雄之域」活動。一個水晶可獲取一個格子的獎勵。"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_11_STATUS"
-msgstr "暫時性資源"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_12"
-msgstr " "
+msgstr " Киножетоны"
 
 msgid "IDS_CURRENCY_EVENTUM_12_GET_DESCRIPTION"
 msgstr " "
@@ -18672,33 +18672,31 @@ msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
 msgstr "「黑色星期五」活動的暫時性資源"
 
 msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr "日本代幣"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
-msgstr "獲取方式包括在 12.9 版本更新結束之前達成「個人挑戰」活動的戰鬥任務，以及在 12.10 版本更新結束之前從隨機組合包中獲得。"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "在 12.10 版本更新結束之前，可用以兌換依序組合包，內容包括 VIII 至 IX 階搶先體驗艦艇、「闇淤加美神」和「蛟龍」主題永久迷彩、VIII 階主力艦 Yumihari 的加成包，以及其他物品。在獲得所有以日本代幣兌換的依序組合包後，您將能以達布隆獲取 X 階主力艦 Bungo。您也能以日本代幣兌換組合包，內容包括 IX 階加值艦艇 Tsurugi 的永久迷彩、IX 至 X 階搶先體驗艦艇的經濟加成，以及其他物品。"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr "「日本主力艦」活動的暫時性資源。"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "節慶代幣"
+msgstr "日本代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_3_DESCRIPTION"
 msgstr ""
-"「平行世界」活動的暫時性資源。\n"
-"在 12.8 版本更新結束之前，您可在軍械庫的活動類別中，以節慶代幣購買 VIII 階加值艦艇 Bayard、可用於特定 VIII 階加值艦艇的折價券、Zieten 的「穿越維度」永久迷彩、「復古浪潮」貨櫃、超級貨櫃，以及其他物品。您也可在拍賣中花費節慶代幣。在 12.8 版本更新結束之前，您可透過獲取節慶獎勵和達成免費通行證的最終等級，來獲取節慶代幣。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "獲取方式為在 12.8 版本更新結束之前，透過獲取節慶獎勵和達成免費通行證的最終等級。"
+msgstr "在更新 13.0 結束之前完成戰鬥任務並達到戰鬥通行證等級，以及在更新 13.1 結束之前從軍械庫中的禮包鏈中獲得。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "在 12.8 版本更新結束之前，可在軍械庫的活動類別中用以兌換 VIII 階加值艦艇 Bayard、可用於特定 VIII 階加值艦艇的折價券、Zieten 的「穿越維度」永久迷彩、「復古浪潮」貨櫃、超級貨櫃，以及其他物品。您也可在拍賣中花費節慶代幣。"
+msgstr "用於搶先體驗的 VI 瑞鳳、VIII 飛龍和 X 大鳳日本航空母艦 ，瑞鳳和飛龍的經濟套裝，以及飛龍和大鳳的永久迷彩，直到版本 13.1 結束。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "「平行世界」活動的暫時性資源"
+msgstr "「日本航空母艦」活動的臨時資源。 隨著 13.2 更新的發布，代幣將清空而無任何補償"
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr " "
@@ -18725,21 +18723,19 @@ msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
 msgstr " "
 
 msgid "IDS_CURRENCY_EVENTUM_6"
-msgstr "北極代幣"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_6_DESCRIPTION"
 msgstr ""
-"「北極之旅」活動的暫時性資源。\n"
-"在 12.8 至 12.10 版本更新的限定期間，您可在軍械庫的活動類別中以北極代幣兌換貨櫃和其他物品。北極代幣的獲取方式包括在 12.8 至 12.10 版本更新的限定期間達成戰鬥任務，以及在 12.9 版本更新結束之前達成加值戰鬥通行證的最終等級。"
 
 msgid "IDS_CURRENCY_EVENTUM_6_GET_DESCRIPTION"
-msgstr "獲取方式包括在 12.8 至 12.10 版本更新的限定期間達成戰鬥任務，以及在 12.9 版本更新結束之前達成加值戰鬥通行證的最終等級。"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_6_SPEND_DESCRIPTION"
-msgstr "可在 12.8 至 12.10 版本更新的限定期間，於軍械庫的活動類別中用以兌換貨櫃和其他物品。"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
-msgstr "「北極之旅」活動的暫時性資源"
+msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_7"
 msgstr "歐洲代幣"
@@ -127732,6 +127728,9 @@ msgstr "超級潛艇"
 msgid "IDS_SUBMARINE_LEGENDARY"
 msgstr "超級潛艇"
 
+msgid "IDS_TITLE_PCM098_SPECIAL_MOD_I_GOUDEN_LEEUW"
+msgstr "攻擊中隊控制系統"
+
 msgid "IDS_TITLE_PCM099_SPECIAL_MOD_I_ELBING"
 msgstr "自動火炮與燃料系統"
 
@@ -127742,7 +127741,7 @@ msgid "IDS_UNLOCKS_24"
 msgstr "與你的團隊一起對抗波特完成任務."
 
 msgid "IDS_UNLOCKS_3103"
-msgstr "與玩家對戰."
+msgstr "與玩家對戰"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
 msgstr "在行動中，您的團隊需要在與機器人作戰的同時完成各種任務。 每個行動都有獨特的情節元素。"
@@ -127754,13 +127753,19 @@ msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
 msgstr "行動的難易度取決於團隊中艦艇的階級和艦種"
 
 msgid "IDS_UNLOCKS_LOCATION_24"
-msgstr "可於戰鬥類型畫面上選擇。"
+msgstr "可於戰鬥類型畫面上選擇"
 
 msgid "IDS_UNLOCKS_LOCATION_3103"
-msgstr "戰鬥類型的選擇位於「戰鬥！」按鈕旁。."
+msgstr "戰鬥類型的選擇位於「戰鬥！」按鈕旁"
 
 msgid "IDS_UNLOCKS_TITLE_24"
 msgstr "行動"
 
 msgid "IDS_UNLOCKS_TITLE_3103"
 msgstr "坐牢模式"
+
+msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE"
+msgstr "佈雷機"
+
+msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE_ALT"
+msgstr "佈雷機"
