@@ -127787,3 +127787,14 @@ msgstr "水雷障礙"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_MINE"
 msgstr "水雷與船隻接觸時會爆炸。 可造成嚴重傷害，並導致進水和機件損毀。"
+
+msgid "IDS_AI_LEVEL_10"
+msgstr "捲"
+
+msgid "IDS_AI_LEVEL_2"
+msgstr "東鹹"
+
+msgid "IDS_BRAWL_BATTLE_INFORMER_SOLO_WITH_FOG_OF_WAR"
+msgstr ""
+"分艦隊不允許參加戰鬥\n"
+"敵軍的陣容未知"
