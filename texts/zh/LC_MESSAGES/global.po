@@ -127781,3 +127781,9 @@ msgstr "40毫米/56 OQF MK.1/2安裝於RP MK.II中"
 
 msgid "IDS_PJSA208_FULL"
 msgstr "飛龍"
+
+msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_MINE"
+msgstr "水雷障礙"
+
+msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_MINE"
+msgstr "水雷與船隻接觸時會爆炸。 可造成嚴重傷害，並導致進水和機件損毀。"
