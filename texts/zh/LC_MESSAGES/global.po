@@ -127771,19 +127771,13 @@ msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE_ALT"
 msgstr "佈雷機"
 
 msgid "IDS_PVGM060_16IN50_MK7"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406-мм/50 Mk.7 安裝於砲塔中"
 
 msgid "IDS_PVGS061_5_25IN_50_QF_MKI_MKII"
-msgstr "133-мм/50 QF Mk.I в установке Mk.II"
+msgstr "133毫米/50 QF MK.I安裝MK.II砲塔中"
 
 msgid "IDS_PVGA062_40MM_BOFORS_MK2"
-msgstr "40-мм/56 OQF Mk.1/2 в установке RP Mk.II"
-
-msgid "IDS_PVGS061_5_25IN_50_QF_MKI_MKII"
-msgstr "133-мм/50 QF Mk.I в установке Mk.II"
+msgstr "40毫米/56 OQF MK.1/2安裝於RP MK.II中"
 
 msgid "IDS_PJSA208_FULL"
-msgstr "Hiryū"
-
-msgid "IDS_PJSA210_FULL"
-msgstr "Taihō"
+msgstr "飛龍"
