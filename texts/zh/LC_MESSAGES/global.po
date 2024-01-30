@@ -52476,19 +52476,27 @@ msgid "IDS_PBSA108_YEAR"
 msgstr "1945"
 
 msgid "IDS_PBSA111"
-msgstr "鷹"
+msgstr "伊苟 (拒絕)"
 
 msgid "IDS_PBSA111_DESCR"
-msgstr "原先以 HMS Audacious 之名安放龍骨的航空母艦，隨後在建造過程中進行升級以搭載噴射機，最終以 HMS Eagle 之名投入服役。1954 年至 1955 年，此航空母艦在地中海短暫服役後進行了第二次整修，安裝了小型且傾斜的飛行甲板。此艦艇參加了蘇伊士危機。這艘艦艇在 1959 年至 1964 年再次進行了重大翻修，她獲得了角度增加的傾斜飛行甲板，以及防空飛彈系統。總排水量因此超過了 54,000 噸。"
+msgstr ""
+"大鷹帝國於 1954 年開始著手研發的次 Audacious 級航空母艦 原先以HMS Eagle之名安放龍骨\n"
+"但原計劃一直未能達到海軍需求的武力 計劃面臨廢除 。1955年冬 海軍軍官伊苟提交的方案受到海軍高層注意\n"
+"其計劃搭載1x1 89.64英寸 SB-1型聲波爆能武器 可於全球範圍内對敵軍造成心理傷害的威力尤其亮眼\n"
+"於1989年完成可行性研究 並在1997年造出原型. 並與2023年安裝於原HMS Eagle上 同年完成落水儀式並成功完成短/長程實戰測試\n"
+"對位於數百公里外台灣南部 以及數千公里外澳洲悉尼的測試目標造成重大傷害\n"
+"落水時 伊苟曾言: \"The sheer power of this carrier, is enough to reject all threats towards The Great Eagle Union\" \n"
+"於是該艦改名成為 R-class 航空母艦旗艦 HMS Rejected. 以紀念伊苟軍官對研發該級航空母艦的重大貢獻 .\n"
+"其姐妹艦 HMS Resentment 和 HMS Refused 亦正在建造中."
 
 msgid "IDS_PBSA111_FULL"
-msgstr "鷹"
+msgstr "HMS Rejected"
 
 msgid "IDS_PBSA111_NUMBER"
-msgstr "1"
+msgstr "3"
 
 msgid "IDS_PBSA111_YEAR"
-msgstr "1951"
+msgstr "2023"
 
 msgid "IDS_PBSA204"
 msgstr "競技神"
