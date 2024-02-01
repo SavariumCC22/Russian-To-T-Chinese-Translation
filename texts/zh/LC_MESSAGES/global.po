@@ -127809,3 +127809,15 @@ msgstr ""
 
 msgid "IDS_INFO_CARRIER_SQUADRON_READY_MINE"
 msgstr "佈雷機已準備好起飛"
+
+msgid "IDS_PVPA037_406MM_HE_PATAGONIA"
+msgstr "406-мм HE/HC Mk13"
+
+msgid "IDS_PVPA038_406MM_AP_PATAGONIA"
+msgstr "406-мм AP Mk8"
+
+msgid "IDS_SHIP_MANAGEMENT_MINE_ALT_SUBBLOCK_DESCR"
+msgstr "佈雷機的武器和消耗品"
+
+msgid "IDS_SHIP_MANAGEMENT_MINE_SUBBLOCK_DESCR"
+msgstr "佈雷機的武器和消耗品"
