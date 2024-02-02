@@ -127821,3 +127821,6 @@ msgstr "佈雷機的武器和消耗品"
 
 msgid "IDS_SHIP_MANAGEMENT_MINE_SUBBLOCK_DESCR"
 msgstr "佈雷機的武器和消耗品"
+
+msgid "IDS_PJUH729_CV8_HULL_TOP"
+msgstr "Hiryū (B)"
