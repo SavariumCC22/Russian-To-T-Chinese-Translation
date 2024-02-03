@@ -127490,9 +127490,6 @@ msgstr "“引擎增壓“的數量"
 msgid "IDS_PCEE657_FAREAST_FLAG"
 msgstr "遠東帝國總督陛下旗幟"
 
-msgid "IDS_PCEE657_FAREAST_FLAG_DESCRIPTION"
-msgstr ""
-
 msgid "IDS_PCEE662_JAP_AIRCRAFT_FLAG"
 msgstr "日本航空母艦"
 
@@ -127824,3 +127821,33 @@ msgstr "佈雷機的武器和消耗品"
 
 msgid "IDS_PJUH729_CV8_HULL_TOP"
 msgstr "Hiryū (B)"
+
+msgid "IDS_PCEE657_FAREAST_FLAG_DESCRIPTION"
+msgstr "遠東總督府設立後 總督一職從1903年到1905年一直存在，唯一的總督是葉夫根尼·伊萬諾維奇·阿列克謝耶夫。 他掌握遠東陸軍和海軍的指揮權，包括 1904 年至 1905 年的日俄戰爭期間。 國旗中央是俄羅斯帝國的小徽章。"
+
+msgid "IDS_PJAD214_ZUIHO_TOP"
+msgstr "Mitsubishi B5M1"
+
+msgid "IDS_PJUH507_CV6_HULL_STOCK"
+msgstr "Zuihō (A)"
+
+msgid "IDS_PJUH508_CV6_HULL_TOP"
+msgstr "Zuihō (B)"
+
+msgid "IDS_MODULE_TYPE_MINEBOMBER"
+msgstr "佈雷機"
+
+msgid "IDS_PJUE508_CV6_ENG_STOCK"
+msgstr "52 000匹馬力"
+
+msgid "IDS_PJUH728_CV8_HULL_STOCK"
+msgstr "Hiryū (A)"
+
+msgid "IDS_PJUE718_CV8_ENG_STOCK"
+msgstr "152 000匹馬力"
+
+msgid "IDS_PJUH913_CV10_HULL_STOCK"
+msgstr "Taihō"
+
+msgid "IDS_PJUE910_CV10_ENG_STOCK"
+msgstr " 160 000匹馬力"
