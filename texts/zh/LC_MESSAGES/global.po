@@ -52483,11 +52483,14 @@ msgstr ""
 "大鷹帝國於 1954 年開始著手研發的次 Audacious 級航空母艦 原先以HMS Eagle之名安放龍骨\n"
 "但原計劃一直未能達到海軍需求的武力 計劃面臨廢除 。1955年冬 海軍軍官伊苟提交的方案受到海軍高層注意\n"
 "其計劃搭載1x1 89.64英寸 SB-1型聲波爆能武器 可於全球範圍内對敵軍造成心理傷害的威力尤其亮眼\n"
-"於1989年完成可行性研究 並在1997年造出原型. 並與2023年安裝於原HMS Eagle上 同年完成落水儀式並成功完成短/長程實戰測試\n"
+"1989年完成可行性研究 1997年造出原型. 於2023年安裝於原HMS Eagle上 同年完成落水儀式並成功完成短/長程實戰測試\n"
 "對位於數百公里外台灣南部 以及數千公里外澳洲悉尼的測試目標造成重大傷害\n"
 "落水時 伊苟曾言: \"The sheer power of this carrier, is enough to reject all threats towards The Great Eagle Union\" \n"
 "於是該艦改名成為 R-class 航空母艦旗艦 HMS Rejected. 以紀念伊苟軍官對研發該級航空母艦的重大貢獻 .\n"
-"其姐妹艦 HMS Resentment 和 HMS Refused 亦正在建造中."
+"其姐妹艦 HMS Resentment 和 HMS Refused 亦計劃建造中.\n"
+"2024年2月 姐妹艦的建造工程因為伊茍的突然拒絕戛然停止\n"
+"負責造船的東鹹船業周轉不靈破產 龍骨遂被報廢 \n"
+"只有HMS Refused的銘牌得以保留"
 
 msgid "IDS_PBSA111_FULL"
 msgstr "HMS Rejected"
@@ -127851,3 +127854,21 @@ msgstr "Taihō"
 
 msgid "IDS_PJUE910_CV10_ENG_STOCK"
 msgstr " 160 000匹馬力"
+
+msgid "IDS_TITLE_PCM101_MINEBOMBER_MOD_I"
+msgstr "佈雷機修改型 I"
+
+msgid "IDS_DESC_PCM101_MINEBOMBER_MOD_I"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_MINEBOMBERHEALTH"
+msgstr "佈雷機生命值"
+
+msgid "IDS_TITLE_PCM100_MINEFIELD_MOD_I"
+msgstr "水雷修改型 I"
+
+msgid "IDS_DESC_PCM100_MINEFIELD_MOD_I"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_MINEFIELDLIFETIMECOEFF"
+msgstr "水雷區持續時間"
