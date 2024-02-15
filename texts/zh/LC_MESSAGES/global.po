@@ -111293,7 +111293,7 @@ msgid "IDS_RIBBON_SSE_BURN"
 msgstr "引發火災"
 
 msgid "IDS_RIBBON_SSE_CITADEL"
-msgstr "命中裝甲區"
+msgstr "中出"
 
 msgid "IDS_RIBBON_SSE_CRIT"
 msgstr "失去作用"
@@ -111410,7 +111410,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳彈！"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "聖誕快樂！ 同志們 現在可以為蘇聯母親獻上你的祝福了。Россия-мать！Ура！"
+msgstr "你說的對 但是我可以用日本代幣買三國的船 "
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
