@@ -5258,16 +5258,16 @@ msgid "IDS_ARC_EVENT_CHANGE_SIDE_IN_NEXT_SPRINT"
 msgstr "您將可在下個階段切換隊伍"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_DESCRIPTION"
-msgstr "兩支聖誕老人隊伍比賽以最快速度遞送禮物。哪方能夠最快完成任務？加入競賽吧！"
+msgstr "三個王國正在爭奪中國的控制權。加入其中一個王國的對抗吧！"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_0"
-msgstr "加入「傳統北極星」隊伍"
+msgstr "加入魏國"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_1"
-msgstr "加入「不羈南極星」隊伍"
+msgstr "加入蜀國"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_2"
-msgstr "加入「克萊德班克」隊伍"
+msgstr "加入吳國"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_RULES_LINK_HINT"
 msgstr "更多關於活動的詳情"
@@ -5276,37 +5276,37 @@ msgid "IDS_ARC_EVENT_CHOOSE_SIDE_RULES_LINK_TEXT"
 msgstr "活動介紹"
 
 msgid "IDS_ARC_EVENT_COMMON_EVENT_TITLE"
-msgstr "頌歌對決"
+msgstr "三國爭霸"
 
 msgid "IDS_ARC_EVENT_COMMON_LEADERBOARD_BOTTOM"
 msgstr "您未能進入前 50% 玩家的行列"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_0"
-msgstr "傳統北極星"
+msgstr "魏"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_1"
-msgstr "不羈南極星"
+msgstr "蜀"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_2"
-msgstr "克萊德班克"
+msgstr "吳"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_3"
 msgstr "箭與閃電"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_0"
-msgstr "歡度新年的關鍵在於遵守所有傳統！"
+msgstr "北魏的創始人是軍事領袖和政治家曹操，他實際上統治著漢帝國的衰落"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_1"
-msgstr "我們的主要目標是要在一眨眼間全部完成！"
+msgstr "\"劉備，中國西部蜀國的創建者，聲稱與漢朝有血緣關係，並稱自己為合法繼承人"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_2"
-msgstr "克萊德班克造船廠建造了享譽全球的各類型戰艦，包括驅逐艦和主力艦。"
+msgstr "在中國的東部和南部是吳國，由孫權統治，孫權是一位年輕的領導人，被認為是《孫子兵法》作者的後裔"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_3"
 msgstr "此隊伍所有艦艇的名稱從義大利語翻譯過來的意思是「箭」或「閃電」。"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_NONE"
-msgstr "無"
+msgstr "你已經證明自己是真正熟練的指揮官！"
 
 msgid "IDS_ARC_EVENT_COMMON_STATUS_CALCULATING_EVENT_RESULTS"
 msgstr "成績計算中"
@@ -5350,7 +5350,7 @@ msgid "IDS_ARC_EVENT_INTRO_MODAL_CHOICE_CANCEL"
 msgstr "略過"
 
 msgid "IDS_ARC_EVENT_INTRO_SUBHEADER"
-msgstr "來自北極和南極的聖誕老人比賽遞送禮物，營造節日氣氛。"
+msgstr "傳奇與歷史交織在一起：三位偉大的統帥在戰鬥中發生衝突，改變了中國的命運"
 
 msgid "IDS_ARC_EVENT_INVITATION_TO_SIDE_0"
 msgstr "Eagles隊想要你！"
@@ -5538,7 +5538,7 @@ msgid_plural "IDS_ARC_EVENT_POINTS_LEFT"
 msgstr[0] "剩餘%(points)s點"
 
 msgid "IDS_ARC_EVENT_PORT_BANNER_TOOLTIP_HINT"
-msgstr "前往「頌歌對決」活動畫面"
+msgstr "前往「三國爭霸」活動畫面"
 
 msgid "IDS_ARC_EVENT_PORT_NOTIFICATION_CHOOSE_SIDE"
 msgstr "您已加入「%(_sideName)s」隊伍"
@@ -18600,7 +18600,7 @@ msgid "IDS_CURRENCY_ELITE_XP_COLON"
 msgstr "精英指揮官經驗："
 
 msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "黑色星期五代幣"
+msgstr "節日代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_10"
 msgstr "新年證書"
@@ -18663,25 +18663,35 @@ msgid "IDS_CURRENCY_EVENTUM_14_STATUS"
 msgstr "暫時性資源"
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "獲取方式包括完成黑色星期五系列任務或於軍械庫購買箱子"
+msgstr ""
+"於更新13.1中的有限時段中完成「同志，萬歲！」活動的戰鬥任務\n"
+"亦可於“保衛祖國”加值貨櫃中 或 軍械庫中的禮包鏈中獲得，直到13.1更新結束”"
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "在 12.10 版本更新結束之前，可在軍械庫中兌換 斯摩棱斯克 B , 黑色星期五箱子 和銀幣"
+msgstr ""
+"可用於購買 IX 階加值艦艇 “納瓦林”和其他周邊\n"
+"直至更新13.1版本結束"
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "「黑色星期五」活動的暫時性資源"
+msgstr "暫時性資源 於更新13.2將會被清空而不作任何補償"
 
 msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr ""
+msgstr "三國代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
 msgstr ""
+"取得方法包括在13.1版本結束前完成“三國”活動目標和 達到加值戰鬥通行證的等級”\n"
+"以及於活動期間 (13.1 - 13.2版本) 軍械庫中的禮包鏈”"
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
 msgstr ""
+"於更新13.1 - 13.2活動期間中可用於購買 IX 階加值艦艇 Lou Chuan, Meng Chong 和 奔馬\n"
+"亦可用於購買西遊記貨櫃 和其他周邊"
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr ""
+"「三國爭霸」活動的臨時資源。 隨著更新13.3的發布”\n"
+"代幣將被清除而不獲任何補償"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
 msgstr "日本代幣"
@@ -26678,10 +26688,10 @@ msgid "IDS_EVENTUM_14_COLON"
 msgstr "聖誕代幣："
 
 msgid "IDS_EVENTUM_1_COLON"
-msgstr "黑色星期五代幣："
+msgstr "節慶代幣："
 
 msgid "IDS_EVENTUM_2_COLON"
-msgstr "日本代幣："
+msgstr "三國代幣："
 
 msgid "IDS_EVENTUM_3_COLON"
 msgstr "節慶代幣："
@@ -36169,31 +36179,31 @@ msgid "IDS_MODAL_WINDOW_ALMANAC_HEADER"
 msgstr "每日獎勵"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_HEADER"
-msgstr "聖誕老人們如何比賽遞送禮物"
+msgstr "三國時代"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_1"
-msgstr "聖誕城位於北極，是聖誕老人軍團聚首的所在，大家在此為期待已久的佳節準備遞送禮物。"
+msgstr "在公元三世紀，中國分裂為魏、蜀、吳三個國家。每個國家的統治者都稱自己為皇帝，並聲稱擁有​​全中國的權力。這一時期被載入史冊，稱為'三國' "
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_2"
-msgstr "今年的準備工作如常按照計畫進行，但萬萬沒想到，聖誕老人必需遞送多一千倍的禮物量，遠超乎預期。"
+msgstr "幾十年來，漢朝的力量日漸衰弱，而地方統治者和軍事首領的地位則加強。由於漢武帝死後的權力鬥爭，年輕的獻帝繼承了王位。皇位，被迫離開滿目瘡痍的都城。這意味著中央政權的垮台"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_1"
-msgstr "由於無法獨力應付如此艱鉅的任務，因此聖誕老人軍團決定將此任務交付給聖誕大學「傳統北極星」學院的兩位同名畢業生 — 來自西班牙和美洲大陸的 Papá Noel。若他們取得成功，就能加入聖誕老人軍團。"
+msgstr "經過一段時期的內亂，三位領導人在中國崛起，領導自己的王國：曹操、劉備和孫權"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_2"
-msgstr "去年剛加入聖誕老人軍團的海盜聖誕老人強力反對這個決定。這樣的機會，只落在聖誕大學的優秀學生身上，實在是太不公平了！他親身經歷過，對於那些不是在聖誕城長大的人來說，要在聖誕老人軍團中佔有一席之地是多麼困難，因此他想把此機會提供給來自南極的老相識 — Scrooge Nicholson（吝嗇鬼尼克遜）。"
+msgstr "魏國位於中國北部。國家的創始人是漢帝國的政治家曹操，他實際上在年輕的獻帝統治下統治著這個國家"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_1"
-msgstr "他們一起組成了「不羈南極星」隊伍，由 Nicholson 領導，矢志要比由泛美的 Papá Noel 所領導的「傳統北極星」隊伍更快地遞送禮物。"
+msgstr "208年冬天——西元209年，傳說中的赤壁之戰發生了，曹操集結了大軍，奪取江南土地，他的戰士們沒有水戰經驗，曹操把船隻拴在一起以防搖晃。吳蜀聯軍在孫權、劉備的率領下，兵力不如曹軍，但憑藉狡猾而獲勝：聯軍宣布投降後，又派船載滿油料前往曹軍。並點燃他們的軍隊。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_2"
-msgstr "誰將守護節日精神：是謹守傳統的隊伍，還是不循常規的組合呢？誰的戰略更勝一籌，誰的獲勝信念更加堅定呢？"
+msgstr "曹操船隊被燒毀，但蜀吳軍隊因敵方數量優勢而無法展開攻勢，劉備與孫權的對抗階段開始了"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_1"
-msgstr "聖誕城騷動"
+msgstr "漢朝的衰落"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_2"
-msgstr "如何守護節日精神？"
+msgstr "赤壁之戰"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_3"
 msgstr "競賽開始！"
@@ -36205,10 +36215,15 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_HEADER"
 msgstr "特色"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "在「頌歌對決」競賽中，2 支隊伍進行 3 個階段的戰鬥。每個階段為期一週。參與競賽以獲取代幣和獨特獎勵（視您在各階段所加入之隊伍而定）。此外，參與活動還可獲得紀念成就；該成就只能獲得 1 次。"
+msgstr ""
+"三國爭霸是一場競賽\n"
+"3個國家，比賽持續4 個階段。 每階段持續一週。 參與其中則可獲得《三個王國》代幣，以及獨特的獎勵，具\n"
+"體獎勵取決於您在該階段為哪位諸侯效忠而戰。 此外，您亦能獲得一項令人難忘的成就。”"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "此活動以 V 階或以上的艦艇，於聯合作戰、坐牢模式和排名戰中進行。"
+msgstr ""
+"此活動以 V 階或以上的艦艇，於聯合作戰、坐牢模式、排名戰以及行動中進行。\n"
+"（於行動模式中 某些任務只會計算其一半結果作為進度）"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
 msgstr "隊伍進度"
@@ -36388,7 +36403,7 @@ msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_7"
 msgstr "升級品將免費拆卸。"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
-msgstr "指揮官將被送回預備隊。"
+msgstr "艦艇的經驗將轉移至 I 階船中"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_2_HEADER"
 msgstr "獲得戰鬥表現獎勵"
@@ -127872,3 +127887,492 @@ msgstr " "
 
 msgid "IDS_PARAMS_MODIFIER_MINEFIELDLIFETIMECOEFF"
 msgstr "水雷區持續時間"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS"
+msgstr "積極參與「三國爭霸」。"
+
+msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS"
+msgstr "三國爭霸"
+
+msgid "IDS_BOT_WARNING"
+msgstr "瓦是波特 ≽^•⩊•^≼"
+
+msgid "IDS_CHAT_PLAYER_PRAISED_CHAT"
+msgstr "你因良好的言行品德而受到稱讚。"
+
+msgid "IDS_CHAT_PLAYER_PRAISED_PLAY"
+msgstr "你因在遊戲中表現優異而受到稱讚 （玩的不錯）"
+
+msgid "IDS_CONTEXT_TUTORIAL_MOVEMENT"
+msgstr " "
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_HITS"
+msgstr "運行修復措施"
+
+msgid "IDS_DOGTAG_PCNB433_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_DOGTAG_PCNB433_NAME"
+msgstr "魏國"
+
+msgid "IDS_DOGTAG_PCNB434_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_DOGTAG_PCNB434_NAME"
+msgstr "蜀國"
+
+msgid "IDS_DOGTAG_PCNB435_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_DOGTAG_PCNB435_NAME"
+msgstr "吳國"
+
+msgid "IDS_DOGTAG_PCNB436_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_DOGTAG_PCNB436_NAME"
+msgstr "玉璽"
+
+msgid "IDS_DOGTAG_PCNB438_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_DOGTAG_PCNB438_NAME"
+msgstr "國際貓咪日"
+
+msgid "IDS_FEAT_DEEPWATERTORP_BB_CRUISER_CV_DESC"
+msgstr "深水魚雷的隱蔽優良 但只可以對巡洋艦，戰艦或航空母艦造成傷害"
+
+msgid "IDS_FEAT_GOOD_MC_AP_SUPER_OVERMATCH"
+msgstr "穿甲彈不會跳彈"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_3"
+msgstr "蜀國位於中國西部。 劉備是這個王國的創建者，聲稱自己與漢朝有血緣關係，自稱是合法的繼承人。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
+msgstr "吳國位於中國的東部和南部。 據認為，該國的統治者孫權是著名的《孫子兵法》作者孫子的後裔。 孫權稱帝，繼承了兄長的土地，成為三國時代三大名將中最年輕的一位。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
+msgstr "曹操死後，吳國由其子曹丕繼承，曹丕逼迫獻帝退位，自己即位。 劉備、孫秋燕不承認曹丕為帝，三國之爭進入新階段。 這段時期，魏國的實權逐漸落入軍事領袖、政治家司馬懿的手中，司馬懿家族成為事實上的統治王朝。 他的兒子征服了蜀國，他的孫子司馬炎廢黜了曹國的最後一位統治者，成為新晉王朝的第一個皇帝。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
+msgstr ""
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_3"
+msgstr "三國時期是中國歷史上最血腥的時期之一。 這個時代在中國和其他東亞國家的許多文化作品中都有體現。"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_4"
+msgstr "新一代王朝"
+
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_ATBA_HITS"
+msgstr "每使用副砲命中 8 次的進度"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYMINE"
+msgstr "來自水雷的傷害"
+
+msgid "IDS_PCEC137_MASLENNICA_CAMO"
+msgstr "太陽"
+
+msgid "IDS_PCEE643_THREEKINGDOMS_FLAG"
+msgstr "魏國"
+
+msgid "IDS_PCEE643_THREEKINGDOMS_FLAG_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_PCEE667_23FEBRUARY_FLAG"
+msgstr "保衛祖國"
+
+msgid "IDS_PCEE667_23FEBRUARY_FLAG_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_PCEE668_KERCH_FLAG"
+msgstr "刻赤"
+
+msgid "IDS_PCEE668_KERCH_FLAG_DESCRIPTION"
+msgstr "刻赤的傳統紋章符號是一隻獅鷲，它掌握著通往亞速海和黑海的鑰匙。 這種長著鷹頭和獅子身體的神秘翅膀生物首次出現在博斯普魯斯王國的金幣和銀幣上，博斯普魯斯王國是位於刻赤海峽地區的古老國家。"
+
+msgid "IDS_PCEE669_CALLENBURGH_FLAG"
+msgstr ""
+"HNLMS Callenburgh\n"
+"荷蘭皇家海軍 卡倫堡號"
+
+msgid "IDS_PCEE669_CALLENBURGH_FLAG_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_PCEE670_CHANGZHENG_FLAG"
+msgstr "長征"
+
+msgid "IDS_PCEE670_CHANGZHENG_FLAG_DESCRIPTION"
+msgstr ""
+
+msgid "IDS_PHAD015_CALLENBURGH_AS"
+msgstr "Fokker T.V"
+
+msgid "IDS_PHPA025_240MM_HE_CALLENBURGH"
+msgstr "240-мм HE Brisantgranaat"
+
+msgid "IDS_PHPA026_240MM_AP_CALLENBURGH"
+msgstr "240-мм AP Pantsergranaat"
+
+msgid "IDS_PHPB025_CALLENBURGH_AS_HE"
+msgstr "P.u.W. 160 kg"
+
+msgid "IDS_PHSC710"
+msgstr ""
+"Callenburgh\n"
+"卡倫堡"
+
+msgid "IDS_PHSC710_DESCR"
+msgstr ""
+
+msgid "IDS_PHSC710_FULL"
+msgstr ""
+"Callenburgh\n"
+"卡倫堡"
+
+msgid "IDS_PHSC710_NUMBER"
+msgstr "1"
+
+msgid "IDS_PHSC710_YEAR"
+msgstr "1939年"
+
+msgid "IDS_PHUA904_ART_CALLENBURGH"
+msgstr "240-мм/55 QF 安裝於砲塔中"
+
+msgid "IDS_PHUE904_ENG_CALLENBURGH"
+msgstr "126 000 匹馬力"
+
+msgid "IDS_PHUH904_HULL_CALLENBURGH"
+msgstr "卡倫堡"
+
+msgid "IDS_PHUS904_SUO_CALLENBURGH"
+msgstr "SUO Mk 10 Mod. 1"
+
+msgid "IDS_PJES341_IZUMO_MASLENNICA"
+msgstr "謝肉節"
+
+msgid "IDS_PRES320_23FEBRUARY"
+msgstr "保衛祖國"
+
+msgid "IDS_PRGA187_37MM_66K"
+msgstr "37-мм 安裝於 66-К 型炮座中"
+
+msgid "IDS_PRGM204_152MM_53_M1929"
+msgstr "152mm/53 OTO 1929 安裝於 1929 型炮座中"
+
+msgid "IDS_PRGM205_152MM_53_M1929_RF_ITL"
+msgstr "152mm/53 OTO 1929 安裝於 1929 型炮座中"
+
+msgid "IDS_PRGM207_406MM_52_MK_5_16_QUADRUPLE"
+msgstr "406 mm/52 吋 安裝於 MK-5-16 炮座中"
+
+msgid "IDS_PRGM209_406_45_MK_2_16_TWIN"
+msgstr "406 mm/45 吋 安裝於 MK-2-16 炮座中"
+
+msgid "IDS_PRGM210_406_52_MK_3_16_TRIPLE"
+msgstr "406 mm/52 吋 安裝於 MK-3-16 炮座中"
+
+msgid "IDS_PRGT206_533MM_3_TUBE_ITL"
+msgstr "533-мм tubo lanciasiluri"
+
+msgid "IDS_PRPA210_152MM_HE_KERCH"
+msgstr "152-мм proiettili HE"
+
+msgid "IDS_PRPA211_152MM_AP_KERCH"
+msgstr "152-мм proiettili AP"
+
+msgid "IDS_PRPA212_406MM_HE_MOD1928"
+msgstr "406-мм HE. 1928年"
+
+msgid "IDS_PRPA213_406MM_AP_MOD1928"
+msgstr "406-мм AP 1928年"
+
+msgid "IDS_PRPA214_152MM_CS_KERCH"
+msgstr "152-мм proiettili CS 1926 mod.1"
+
+msgid "IDS_PRPT068_KERCH"
+msgstr "533-мм Si 270"
+
+msgid "IDS_PRSB207"
+msgstr "謝尼亞文上將"
+
+msgid "IDS_PRSB207_DESCR"
+msgstr ""
+
+msgid "IDS_PRSB207_FULL"
+msgstr "Адмирал Сенявин"
+
+msgid "IDS_PRSB207_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB207_YEAR"
+msgstr "1922年"
+
+msgid "IDS_PRSB208"
+msgstr "伊斯托明上將"
+
+msgid "IDS_PRSB208_DESCR"
+msgstr ""
+
+msgid "IDS_PRSB208_FULL"
+msgstr "Адмирал Истомин"
+
+msgid "IDS_PRSB208_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB208_YEAR"
+msgstr "1914 年"
+
+msgid "IDS_PRSB209"
+msgstr "科爾尼洛夫上將"
+
+msgid "IDS_PRSB209_DESCR"
+msgstr ""
+
+msgid "IDS_PRSB209_FULL"
+msgstr "Адмирал Корнилов"
+
+msgid "IDS_PRSB209_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB209_YEAR"
+msgstr "1914 年"
+
+msgid "IDS_PRSB210"
+msgstr "拉札列夫上將"
+
+msgid "IDS_PRSB210_DESCR"
+msgstr ""
+
+msgid "IDS_PRSB210_FULL"
+msgstr "Адмирал Лазарев"
+
+msgid "IDS_PRSB210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB210_YEAR"
+msgstr "1915 г."
+
+msgid "IDS_PRSC516"
+msgstr "刻赤"
+
+msgid "IDS_PRSC516_DESCR"
+msgstr ""
+
+msgid "IDS_PRSC516_FULL"
+msgstr "Керчь"
+
+msgid "IDS_PRSC516_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC516_YEAR"
+msgstr "1935年"
+
+msgid "IDS_PRUA505_ART_KERCH"
+msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+
+msgid "IDS_PRUA604_B7_ART_STOCK"
+msgstr "406-мм/45 в установке МК-2-16"
+
+msgid "IDS_PRUA713_B8_ART_STOCK"
+msgstr "406-мм/52 в установке МК-3-16"
+
+msgid "IDS_PRUA809_B9_ART_STOCK"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRUA920_B10_ART_STOCK"
+msgstr "406-мм/52 в установке МК-5-16"
+
+msgid "IDS_PRUE506_ENG_KERCH"
+msgstr " 128 000匹馬力"
+
+msgid "IDS_PRUE605_B7_ENG_STOCK"
+msgstr " 86 000 匹馬力"
+
+msgid "IDS_PRUE719_B8_ENG_STOCK"
+msgstr " 140 000 匹馬力"
+
+msgid "IDS_PRUE810_B9_ENG_STOCK"
+msgstr " 144 000 匹馬力"
+
+msgid "IDS_PRUE922_B10_ENG_STOCK"
+msgstr " 200 000 匹馬力"
+
+msgid "IDS_PRUH510_HULL_KERCH"
+msgstr "刻赤"
+
+msgid "IDS_PRUH608_B7_HULL_A"
+msgstr "Адмирал Сенявин (A)"
+
+msgid "IDS_PRUH609_B7_HULL_B"
+msgstr "Адмирал Сенявин (B)"
+
+msgid "IDS_PRUH728_B8_HULL_STOCK"
+msgstr "Адмирал Истомин (A)"
+
+msgid "IDS_PRUH729_B8_HULL_TOP"
+msgstr "Адмирал Истомин (B)"
+
+msgid "IDS_PRUH821_B9_HULL_A"
+msgstr "Адмирал Корнилов (A)"
+
+msgid "IDS_PRUH822_B9_HULL_B"
+msgstr "Адмирал Корнилов (B)"
+
+msgid "IDS_PRUH922_B10_HULL_STOCK"
+msgstr "Адмирал Лазарев"
+
+msgid "IDS_PRUS506_SUO_KERCH"
+msgstr "СУО VI мод. 1"
+
+msgid "IDS_PRUS606_B7_SUO_STOCK"
+msgstr "СУО VII мод. 1"
+
+msgid "IDS_PRUS607_B7_SUO_TOP"
+msgstr "СУО VII мод. 2"
+
+msgid "IDS_PRUS708_B8_SUO_STOCK"
+msgstr "СУО VIII мод. 1"
+
+msgid "IDS_PRUS709_B8_SUO_TOP"
+msgstr "СУО VII мод. 2"
+
+msgid "IDS_PRUS808_B9_SUO_STOCK"
+msgstr "СУО IX мод. 1"
+
+msgid "IDS_PRUS809_B9_SUO_TOP"
+msgstr "СУО IX мод. 2"
+
+msgid "IDS_PRUS918_B10_SUO_STOCK"
+msgstr "СУО X мод. 1"
+
+msgid "IDS_PRUT502_TORP_KERCH"
+msgstr "533-мм Si 270"
+
+msgid "IDS_PZAD910_ASW_T10"
+msgstr "Бериев Бе-6"
+
+msgid "IDS_PZES719_3KINGS_BENMA"
+msgstr "Воинственная черепаха"
+
+msgid "IDS_PZGM136_457MM_48"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
+
+msgid "IDS_PZGS159_152MM_57_MK_5"
+msgstr "152-мм/57 Б-38 в установке МK-5"
+
+msgid "IDS_PZGS160_130MM_BL_109A"
+msgstr "130-мм/60 в установке БЛ-109А"
+
+msgid "IDS_PZPA073_457MM_HE_CHANGZHENG"
+msgstr "457-мм ОФ обр. 1946 г."
+
+msgid "IDS_PZPA074_457MM_AP_CHANGZHENG"
+msgstr "457-мм ББ обр. 1946 г."
+
+msgid "IDS_PZPA075_130MM_HE_OF42_SG"
+msgstr "130-мм ОФ-42"
+
+msgid "IDS_PZSB610"
+msgstr "長征"
+
+msgid "IDS_PZSB610_DESCR"
+msgstr ""
+
+msgid "IDS_PZSB610_FULL"
+msgstr "Changzheng"
+
+msgid "IDS_PZSB610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB610_YEAR"
+msgstr "1949 年."
+
+msgid "IDS_PZUA904_ART_CHANGZHENG"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
+
+msgid "IDS_PZUE904_ENG_CHANGZHENG"
+msgstr " 158 200 匹馬力"
+
+msgid "IDS_PZUH904_CHANGZHENG"
+msgstr "Changzheng"
+
+msgid "IDS_PZUS904_SUO_CHANGZHENG"
+msgstr "СУО X мод. 1"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS"
+msgstr ""
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL"
+msgstr "戰艦"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "IX 階加值艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX 階"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特殊 X 階艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr " X 階"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "VII-VIII 階加值艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "VII-VIII 階"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE"
+msgstr "加值貨櫃“保衛祖國”"
+
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE_SHORT"
+msgstr "保衛祖國"
+
+msgid "IDS_RIBBON_SSE_EFFECTIVE_SMOKES"
+msgstr "遮蔽"
+
+msgid "IDS_RIBBON_SSE_MINE"
+msgstr "用水雷損壞一艘敵艦"
+
+msgid "IDS_SHIP_MAIN_MC_AP_SUPER_OVERMATCH_GOOD"
+msgstr "穿甲彈不會跳彈"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_CAOCAO"
+msgstr "曹操"
+
+msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_SUNQUAN"
+msgstr "孫權"
+
+msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
+msgstr "前往領地"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
+msgstr "領地獎賞"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SCORE"
+msgstr "領土點"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
+msgstr "選定的地區"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "你可以獲得 \"三國爭霸\" 代幣"
+
+msgid "IDS_FEAT_DEEPWATERTORP_BB_CV_DESC"
+msgstr "深水魚雷的隱蔽優良 但只可以對戰艦或航空母艦造成傷害\v（注意不可對巡洋艦造成傷害）"
