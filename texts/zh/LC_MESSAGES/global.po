@@ -127898,10 +127898,10 @@ msgid "IDS_BOT_WARNING"
 msgstr "瓦是波特 ≽^•⩊•^≼"
 
 msgid "IDS_CHAT_PLAYER_PRAISED_CHAT"
-msgstr "你因良好的言行品德而受到稱讚。"
+msgstr "你因歌頌蘇聯母親的偉大而受到稱讚。"
 
 msgid "IDS_CHAT_PLAYER_PRAISED_PLAY"
-msgstr "你因在遊戲中表現優異而受到稱讚 （玩的不錯）"
+msgstr "你因表現優異而躲過一顆7.62 "
 
 msgid "IDS_CONTEXT_TUTORIAL_MOVEMENT"
 msgstr " "
@@ -128379,3 +128379,6 @@ msgstr "你可以獲得 \"三國爭霸\" 代幣"
 
 msgid "IDS_FEAT_DEEPWATERTORP_BB_CV_DESC"
 msgstr "深水魚雷的隱蔽優良 但只可以對戰艦或航空母艦造成傷害\v（注意不可對巡洋艦造成傷害）"
+
+msgid "IDS_SSE_DETAILED_INFO_LINK_TOOLTIP"
+msgstr "在網站上了解更多信息"
