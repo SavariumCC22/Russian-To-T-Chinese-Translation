@@ -18694,7 +18694,7 @@ msgstr ""
 "代幣將被清除而不獲任何補償"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "日本代幣"
+msgstr "三國代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_3_DESCRIPTION"
 msgstr ""
@@ -29893,7 +29893,7 @@ msgid "IDS_GUIDING_TIP_258_DESC"
 msgstr "加入我們的節日競賽：選擇隊伍，完成任務並獲取獎勵！"
 
 msgid "IDS_GUIDING_TIP_258_HEADER"
-msgstr "頌歌對決"
+msgstr "三國爭霸"
 
 msgid "IDS_GUIDING_TIP_259_DESC"
 msgstr "選擇您想要加入的隊伍，達成任務並領取獎勵！"
@@ -36182,7 +36182,7 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_HEADER"
 msgstr "三國時代"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_1"
-msgstr "在公元三世紀，中國分裂為魏、蜀、吳三個國家。每個國家的統治者都稱自己為皇帝，並聲稱擁有​​全中國的權力。這一時期被載入史冊，稱為'三國' "
+msgstr "在公元三世紀，中國分裂為魏、蜀、吳三個國家。每個國家的統治者都稱自己為皇帝，並聲稱擁有​​全中國的權力。這一時期被載入史冊，稱為'三國'"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_2"
 msgstr "幾十年來，漢朝的力量日漸衰弱，而地方統治者和軍事首領的地位則加強。由於漢武帝死後的權力鬥爭，年輕的獻帝繼承了王位。皇位，被迫離開滿目瘡痍的都城。這意味著中央政權的垮台"
@@ -36203,10 +36203,10 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_1"
 msgstr "漢朝的衰落"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_2"
-msgstr "赤壁之戰"
+msgstr "三國崛起"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_3"
-msgstr "競賽開始！"
+msgstr "赤壁之戰"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_HEADER"
 msgstr "參與規則"
@@ -106721,7 +106721,7 @@ msgid "IDS_REWARD_EVENTUM_1_TITLE"
 msgstr "黑色星期五代幣"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
-msgstr "日本代幣"
+msgstr "三國代幣"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
 msgstr "節慶代幣"
@@ -111410,7 +111410,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳彈！"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "你說的對 但是我可以用日本代幣買三國的船 "
+msgstr "你說的對 但是我可以用三國代幣買三國的船 "
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
@@ -119889,7 +119889,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_14"
 msgstr "已購買聖誕代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
-msgstr "已購買日本代幣"
+msgstr "已購買三國代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
 msgstr "已購買節慶代幣"
@@ -120355,7 +120355,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_14"
 msgstr "已獲得聖誕代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
-msgstr "已獲得日本代幣"
+msgstr "已獲得三國代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
 msgstr "已獲得節慶代幣"
@@ -120741,7 +120741,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_14"
 msgstr "聖誕代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
-msgstr "日本代幣已移除"
+msgstr "三國代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
 msgstr "節慶代幣已移除"
@@ -127910,34 +127910,34 @@ msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_HITS"
 msgstr "運行修復措施"
 
 msgid "IDS_DOGTAG_PCNB433_DESCRIPTION"
-msgstr ""
+msgstr "魏國是三國時期爭奪中國控制權的三國時代國家之一。位於北方。與蛇纏繞的玄龜被認為是傳統中國神話中的北方的守護神動物"
 
 msgid "IDS_DOGTAG_PCNB433_NAME"
 msgstr "魏國"
 
 msgid "IDS_DOGTAG_PCNB434_DESCRIPTION"
-msgstr ""
+msgstr "蜀國是三國時期爭奪中國控制權的三國時代國家之一。它位於西方。白虎在中國神話中傳統上被認為是西方的守護神"
 
 msgid "IDS_DOGTAG_PCNB434_NAME"
 msgstr "蜀國"
 
 msgid "IDS_DOGTAG_PCNB435_DESCRIPTION"
-msgstr ""
+msgstr "吳國是三國時期爭奪中國控制權的三國時代的國家之一。它位於東部和南部。青龍在中文傳統上被認為是東方的守護神"
 
 msgid "IDS_DOGTAG_PCNB435_NAME"
 msgstr "吳國"
 
 msgid "IDS_DOGTAG_PCNB436_DESCRIPTION"
-msgstr ""
+msgstr "這個皇權的象徵出現在西元前221年。 人們相信玉璽的擁有者有「天命」來統治整個中國。 玉璽在長達一千年的時間裡一直是皇權的象徵，直到十世紀才失去。"
 
 msgid "IDS_DOGTAG_PCNB436_NAME"
 msgstr "玉璽"
 
 msgid "IDS_DOGTAG_PCNB438_DESCRIPTION"
-msgstr ""
+msgstr "在現代俄羅斯，有在 3 月 1 日慶祝貓日的傳統。通常，在春天的第一天，該國的不同城市都會舉辦專門針對貓的展覽、比賽和慈善活動"
 
 msgid "IDS_DOGTAG_PCNB438_NAME"
-msgstr "國際貓咪日"
+msgstr "貓節日"
 
 msgid "IDS_FEAT_DEEPWATERTORP_BB_CRUISER_CV_DESC"
 msgstr "深水魚雷的隱蔽優良 但只可以對巡洋艦，戰艦或航空母艦造成傷害"
@@ -127955,7 +127955,7 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
 msgstr "曹操死後，吳國由其子曹丕繼承，曹丕逼迫獻帝退位，自己即位。 劉備、孫秋燕不承認曹丕為帝，三國之爭進入新階段。 這段時期，魏國的實權逐漸落入軍事領袖、政治家司馬懿的手中，司馬懿家族成為事實上的統治王朝。 他的兒子征服了蜀國，他的孫子司馬炎廢黜了曹國的最後一位統治者，成為新晉王朝的第一個皇帝。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
-msgstr ""
+msgstr "280年發起晉滅吳之戰，滅亡孫吳，統一中國。至此三國時期結束，進入晉朝"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_3"
 msgstr "三國時期是中國歷史上最血腥的時期之一。 這個時代在中國和其他東亞國家的許多文化作品中都有體現。"
@@ -127977,12 +127977,15 @@ msgstr "魏國"
 
 msgid "IDS_PCEE643_THREEKINGDOMS_FLAG_DESCRIPTION"
 msgstr ""
+"魏國是三國時期爭奪中國控制權的三國時代國家之一。它位於北方。\n"
+"該國的創始人是曹操，一位實際在漢朝末期統治漢朝 （挾天子以令諸侯) 的政治家\n"
+"漢朝滅亡時 賜曹操 田地十城，為魏國"
 
 msgid "IDS_PCEE667_23FEBRUARY_FLAG"
 msgstr "保衛祖國"
 
 msgid "IDS_PCEE667_23FEBRUARY_FLAG_DESCRIPTION"
-msgstr ""
+msgstr "在蘇聯解體後的許多前蘇聯國家，2 月 23 日慶祝祖國保衛者日。 這個節日於1922年設立，作為紅軍組建的周年紀念日：據信，正是在1918年的這一天，紅軍開始組建，擊退了在前俄羅斯帝國的領土恢復進攻的德國和奧匈帝國軍隊。"
 
 msgid "IDS_PCEE668_KERCH_FLAG"
 msgstr "刻赤"
@@ -127996,13 +127999,13 @@ msgstr ""
 "荷蘭皇家海軍 卡倫堡號"
 
 msgid "IDS_PCEE669_CALLENBURGH_FLAG_DESCRIPTION"
-msgstr ""
+msgstr "傑拉德·卡倫堡 (Gerard Callenburg) 是 17 世紀荷蘭海軍的海軍上將。 卡倫堡在西弗里斯蘭海軍部擔任海軍上將期間，在維戈灣海戰和馬拉加海戰中贏得了他最輝煌和最著名的勝利"
 
 msgid "IDS_PCEE670_CHANGZHENG_FLAG"
 msgstr "長征"
 
 msgid "IDS_PCEE670_CHANGZHENG_FLAG_DESCRIPTION"
-msgstr ""
+msgstr "中國工農紅軍旗幟，從1934年使用直至其解散。 在這面旗幟下，軍隊進行了長徵——戰略撤退到陝西省。 以毛澤東為首的中國共產黨，長途跋涉數千公里，與國民黨軍隊作戰，損失慘重。 在中國，長徵象徵著毅力和不顧一切困難取得成就的能力。"
 
 msgid "IDS_PHAD015_CALLENBURGH_AS"
 msgstr "Fokker T.V"
@@ -128022,7 +128025,7 @@ msgstr ""
 "卡倫堡"
 
 msgid "IDS_PHSC710_DESCR"
-msgstr ""
+msgstr "在1930年代末期國際情勢惡化的背景下。 荷蘭艦隊領導階層決定建造大型戰艦。 新項目的選擇之一包括增加排水量、配備九門240毫米火砲和三軸動力裝置。 這個速度可以讓這艘船避免與戰列巡洋艦相撞，而且由於武器和裝甲的增強，它根本不懼怕與兩艘重巡洋艦直接相撞。”"
 
 msgid "IDS_PHSC710_FULL"
 msgstr ""
@@ -128096,7 +128099,7 @@ msgid "IDS_PRSB207"
 msgstr "謝尼亞文上將"
 
 msgid "IDS_PRSB207_DESCR"
-msgstr ""
+msgstr "1921-22 年 為未完成的伊茲梅爾型戰列巡洋艦金伯恩進行現代化改造而開發了多個版本。 計劃根據第一次世界大戰的經驗對該艦的設計進行改進。 與最初項目的主要區別是安裝了配備 406 毫米火砲的兩門砲塔；一些選項還包括增強裝甲。"
 
 msgid "IDS_PRSB207_FULL"
 msgstr "Адмирал Сенявин"
@@ -128111,7 +128114,7 @@ msgid "IDS_PRSB208"
 msgstr "伊斯托明上將"
 
 msgid "IDS_PRSB208_DESCR"
-msgstr ""
+msgstr "為了應對新的大型戰艦建造計劃，俄羅斯和德國工程師於 1914 年共同開發了一系列項目。 這些艦艇與當時在德國開發的巴伐利亞級艦艇具有共同的特徵。 4號工程在三砲砲塔中裝備了12門406mm火砲，砲塔縱向佈置。"
 
 msgid "IDS_PRSB208_FULL"
 msgstr "Адмирал Истомин"
@@ -128126,7 +128129,7 @@ msgid "IDS_PRSB209"
 msgstr "科爾尼洛夫上將"
 
 msgid "IDS_PRSB209_DESCR"
-msgstr ""
+msgstr "1914年2月，普蒂洛夫造船廠設計局與德國Blohm & Voss公司的工程師合作，本著德國設計學院的精神，開發了一系列戰艦設計。 這些艦艇具有德國開發的巴伐利亞級戰艦的特徵。 9號工程擁有三座四砲砲塔，配備406毫米火砲，縱向佈置。"
 
 msgid "IDS_PRSB209_FULL"
 msgstr "Адмирал Корнилов"
@@ -128141,7 +128144,7 @@ msgid "IDS_PRSB210"
 msgstr "拉札列夫上將"
 
 msgid "IDS_PRSB210_DESCR"
-msgstr ""
+msgstr "1914 年，海軍部根據造船總局的發展提出了新型戰艦的建議。 普蒂洛夫造船廠的工程師開發了該專案的多個版本。 從結構上來說，這艘戰艦是伊茲梅爾號的擴大船體。 八號計劃選項配備了 12 門 406 毫米火砲，分佈在以線性升高的方式排列的三個砲塔中"
 
 msgid "IDS_PRSB210_FULL"
 msgstr "Адмирал Лазарев"
@@ -128156,7 +128159,7 @@ msgid "IDS_PRSC516"
 msgstr "刻赤"
 
 msgid "IDS_PRSC516_DESCR"
-msgstr ""
+msgstr "作為賠償的一部分，義大利巡洋艦 Duca d'Aosta 於 1949 年被轉移到蘇聯，代號為 Z-11。 在蘇聯海軍中，該艦首先更名為「史達林格勒號」，然後更名為「刻赤號」。 該巡洋艦在以奧爾忠尼啟則命名的塞瓦斯托波爾海軍陸戰隊工廠進行了現代化改造，接收了蘇聯設備。 該船主要用於訓練目的。"
 
 msgid "IDS_PRSC516_FULL"
 msgstr "Керчь"
@@ -128273,10 +128276,10 @@ msgid "IDS_PZPA075_130MM_HE_OF42_SG"
 msgstr "130-мм ОФ-42"
 
 msgid "IDS_PZSB610"
-msgstr "長征"
+msgstr "烙幹"
 
 msgid "IDS_PZSB610_DESCR"
-msgstr ""
+msgstr "一個假設的大和級戰艦現代化項目，在戰後提出並轉移給中國艦隊。 作為蘇聯和中華人民共和國之間存在的科學和技術援助計劃的一部分，蘇聯專家可能參與該計畫的工作。 使得這艘戰艦將接收蘇聯的武器和電子設備。"
 
 msgid "IDS_PZSB610_FULL"
 msgstr "Changzheng"
@@ -128300,7 +128303,7 @@ msgid "IDS_PZUS904_SUO_CHANGZHENG"
 msgstr "СУО X мод. 1"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS"
-msgstr ""
+msgstr "用副砲擊中敵艦，以增加進度"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
