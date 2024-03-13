@@ -128382,3 +128382,650 @@ msgstr "深水魚雷的隱蔽優良 但只可以對戰艦或航空母艦造成�
 
 msgid "IDS_SSE_DETAILED_INFO_LINK_TOOLTIP"
 msgstr "在網站上了解更多信息"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TOP_LEAGUE_CLAN_SEASON_25"
+msgstr "在公會戰第二十五賽季進入【颶風】聯賽"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TOP_LEAGUE_CLAN_SEASON_26"
+msgstr "在公會戰第二十六賽季進入【颶風】聯賽"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TOP_LEAGUE_CLAN_SEASON_27"
+msgstr "在公會戰第二十七賽季進入【颶風】聯賽"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TOP_LEAGUE_CLAN_SEASON_28"
+msgstr "在公會戰第二十八賽季進入【颶風】聯賽"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_25"
+msgstr "在公會戰第二十五賽季中獲得第一名"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_26"
+msgstr "在公會戰第二十六賽季中獲得第一名"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_27"
+msgstr "在公會戰第二十七賽季中獲得第一名"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_28"
+msgstr "在公會戰第二十八賽季中獲得第一名"
+
+msgid "IDS_ACHIEVEMENT_TOP_LEAGUE_CLAN_SEASON_25"
+msgstr "颶風 · 北極熊"
+
+msgid "IDS_ACHIEVEMENT_TOP_LEAGUE_CLAN_SEASON_26"
+msgstr "颶風 · 卡許飛鷹"
+
+msgid "IDS_ACHIEVEMENT_TOP_LEAGUE_CLAN_SEASON_27"
+msgstr "颶風 · 眼睛蛇"
+
+msgid "IDS_ACHIEVEMENT_TOP_LEAGUE_CLAN_SEASON_28"
+msgstr "颶風 ·海鷗"
+
+msgid "IDS_ACHIEVEMENT_WINNER_CLAN_SEASON_25"
+msgstr "北極熊"
+
+msgid "IDS_ACHIEVEMENT_WINNER_CLAN_SEASON_26"
+msgstr "卡許飛鷹"
+
+msgid "IDS_ACHIEVEMENT_WINNER_CLAN_SEASON_27"
+msgstr "眼睛蛇"
+
+msgid "IDS_ACHIEVEMENT_WINNER_CLAN_SEASON_28"
+msgstr "海鷗"
+
+msgid "IDS_ALLY_START_CAPTURE_EPICENTER_CP"
+msgstr "盟國"
+
+msgid "IDS_BOTS"
+msgstr "波特"
+
+msgid "IDS_CAROUSEL_PCVE026_FILTER"
+msgstr "僅顯示可參加「隱蔽機動戰」活動的艦艇"
+
+msgid "IDS_CHATLANIN_PATSAK"
+msgstr "Уэф 和 Би"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE026"
+msgstr "選擇“隱蔽機動戰”"
+
+msgid "IDS_COMMANDERS_MANAGEMENT_ENABLED"
+msgstr "分艦隊指揮官可以邀請玩家"
+
+msgid "IDS_DOGTAG_PCNB432_DESCRIPTION"
+msgstr "鯊魚與鱷魚搏鬥的形象代表了印尼人民反抗殖民主義者的鬥爭，同時也是泗水市的象徵。 1959-64 年就在這裡。 這裡曾經是蘇聯海軍特遣隊在印尼的主要海軍基地，現在博物館船KRI Pasopati於此作為紀念。 一艘前蘇聯潛艇S-79，轉移到印尼並參加了吞併新幾內亞島西部的「特里科拉」行動。"
+
+msgid "IDS_DOGTAG_PCNB432_NAME"
+msgstr "特里科拉行動"
+
+msgid "IDS_DOGTAG_PCNB437_DESCRIPTION"
+msgstr "在疼痛中！"
+
+msgid "IDS_DOGTAG_PCNB437_NAME"
+msgstr "萊赫 Sn1p3r90"
+
+msgid "IDS_DOGTAG_PCNB442_DESCRIPTION"
+msgstr "沙漠 - 一片只有沙的大海"
+
+msgid "IDS_DOGTAG_PCNB442_NAME"
+msgstr "卡拉庫姆沙漠"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE"
+msgstr "獎金"
+
+msgid "IDS_FEAT_BAD_TORP_RELOAD"
+msgstr "魚雷裝填緩慢"
+
+msgid "IDS_FEAT_BAD_WAVE_DURATION"
+msgstr "聲納標記的持續時間較短"
+
+msgid "IDS_FEAT_GOOD_HANGAR_LOWHP"
+msgstr "飛機機庫受到攻擊時造成的損壞較少。\v（低模塊血量）"
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_SEVEROMORSK"
+msgstr "作戰指令“中隊作戰訓練”"
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_SEVEROMORSK_DESC"
+msgstr "顯著加快飛機準備和消耗品冷卻速度。 達成條件為受到一定數量的潛在傷害。"
+
+msgid "IDS_FEAT_HYBRID_BOMBERS_SKIPBOMBERS"
+msgstr "是混合艦艇 可使用轟炸機和彈跳轟炸機"
+
+msgid "IDS_GAMEMODE_MAP_COMBINED"
+msgstr "%(_gameMode)s / %(_map)s"
+
+msgid "IDS_GUIDING_TIP_280_DESC"
+msgstr "是時候測試你的新船了！"
+
+msgid "IDS_GUIDING_TIP_280_HEADER"
+msgstr "加入戰鬥"
+
+msgid "IDS_GUIDING_TIP_281_DESC"
+msgstr "是時候測試你的新船了！"
+
+msgid "IDS_GUIDING_TIP_281_HEADER"
+msgstr "加入戰鬥"
+
+msgid "IDS_GUIDING_TIP_282_DESC"
+msgstr "按一下「安裝推薦」按鈕即可安裝所選艦艇的推薦訊號旗。"
+
+msgid "IDS_GUIDING_TIP_282_HEADER"
+msgstr "設定訊號旗"
+
+msgid "IDS_GUIDING_TIP_283_DESC"
+msgstr "按一下「安裝推薦」按鈕即可安裝所選艦艇的推薦訊號旗。"
+
+msgid "IDS_GUIDING_TIP_283_HEADER"
+msgstr "設定訊號旗"
+
+msgid "IDS_GUIDING_TIP_284_DESC"
+msgstr "您可以從貨櫃中取得各種物品。"
+
+msgid "IDS_GUIDING_TIP_284_HEADER"
+msgstr "日常貨櫃"
+
+msgid "IDS_GUIDING_TIP_285_DESC"
+msgstr "您可以從貨櫃中取得各種物品。"
+
+msgid "IDS_GUIDING_TIP_285_HEADER"
+msgstr "日常貨櫃"
+
+msgid "IDS_GUIDING_TIP_286_DESC"
+msgstr "當你有點數時，你可以用它們來學習指揮官技能。 確保這些技能適合您的艦艇。"
+
+msgid "IDS_GUIDING_TIP_286_HEADER"
+msgstr "指揮官技能點"
+
+msgid "IDS_GUIDING_TIP_287_DESC"
+msgstr "當你有點數時，你可以用它們來學習指揮官技能。 確保這些技能適合您的艦艇。"
+
+msgid "IDS_GUIDING_TIP_287_HEADER"
+msgstr "指揮官技能點"
+
+msgid "IDS_GUIDING_TIP_288_DESC"
+msgstr "你的預備隊中有一名指揮官，你可以將他指派到你的船上。"
+
+msgid "IDS_GUIDING_TIP_288_HEADER"
+msgstr "任命指揮官"
+
+msgid "IDS_GUIDING_TIP_289_DESC"
+msgstr "你的預備隊中有一名指揮官，你可以將他分配到你的船上。"
+
+msgid "IDS_GUIDING_TIP_289_HEADER"
+msgstr "任命指揮官"
+
+msgid "IDS_GUIDING_TIP_290_DESC"
+msgstr "招募一名新指揮官將他分配到你的船上。"
+
+msgid "IDS_GUIDING_TIP_290_HEADER"
+msgstr "新指揮官"
+
+msgid "IDS_GUIDING_TIP_291_DESC"
+msgstr "招募一名新指揮官將他分配到你的船上。"
+
+msgid "IDS_GUIDING_TIP_291_HEADER"
+msgstr "新指揮官"
+
+msgid "IDS_GUIDING_TIP_292_DESC"
+msgstr "每次安裝升級品都會改善艦艇的某些特性。 艦艇的階級越高，您可以在其上安裝的升級品就越多。"
+
+msgid "IDS_GUIDING_TIP_292_HEADER"
+msgstr "安裝升級品"
+
+msgid "IDS_GUIDING_TIP_293_DESC"
+msgstr "每次安裝升級品都會改善艦艇的某些特性。 艦艇的階級越高，您可以在其上安裝的升級品就越多。"
+
+msgid "IDS_GUIDING_TIP_293_HEADER"
+msgstr "安裝升級品"
+
+msgid "IDS_HINT_LEFT_CLICK_TO_GET_DETAILED_SHIP_INFO"
+msgstr "詳細信息"
+
+msgid "IDS_HINT_LEFT_CLICK_TO_HIDE_DETAILED_SHIP_INFO"
+msgstr "隱藏詳細訊息"
+
+msgid "IDS_IN_PCVE026"
+msgstr "在隱蔽機動戰中"
+
+msgid "IDS_IN_TRAININGBATTLE"
+msgstr "在訓練戰中"
+
+msgid "IDS_MODAL_EXCLUDE_BOT_OUT_OF_TEAM_OF_TRAINING_ROOM"
+msgstr "從隊伍中刪除所有波特？"
+
+msgid "IDS_MODAL_WINDOW_PCVE026_RULES_HEADER"
+msgstr "隱蔽機動戰"
+
+msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_HEADER"
+msgstr "戰鬥特點"
+
+msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "本次隱蔽機動戰改動包括 調整艦艇的空中隱蔽數據 防空砲的攻擊範圍及航空母艦飛機的準備時間"
+
+msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_2_HEADER"
+msgstr "參與需知"
+
+msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "您可以單獨參加戰鬥，也可以組成最多 3 名玩家的分艦隊參加戰鬥。"
+
+msgid "IDS_NEUTRAL_BUFF"
+msgstr "恆定特性"
+
+msgid "IDS_PAPA163_152MM_HE_CHESAPEAKE"
+msgstr "152-мм HE Mk39"
+
+msgid "IDS_PAPA164_152MM_AP_CHESAPEAKE"
+msgstr "152-мм AP Mk35"
+
+msgid "IDS_PAPT911_BALAO_TEST"
+msgstr "Mk29"
+
+msgid "IDS_PAPT912_BALAO_TEST_MZ"
+msgstr "Mk29 MIE"
+
+msgid "IDS_PARAMS_MODIFIER_AAAURAADDITIONALBASEMAXDISTANCE"
+msgstr "防空炮攻擊距離"
+
+msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYPLANEPOSTBONUS"
+msgstr "空隱"
+
+msgid "IDS_PASC620"
+msgstr "乞沙比克"
+
+msgid "IDS_PASC620_DESCR"
+msgstr "造船局於 1941 年 10 月 18 日提出的防空巡洋艦專案的假設發展。該方案涉及將 152 毫米火砲的兩砲通用砲架替換為三砲砲架。"
+
+msgid "IDS_PASC620_FULL"
+msgstr "Chesapeake"
+
+msgid "IDS_PASC620_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASC620_YEAR"
+msgstr "1941 年."
+
+msgid "IDS_PASS910"
+msgstr "Balao Test"
+
+msgid "IDS_PASS910_DESCR"
+msgstr "用於測試的戰艦複製品。"
+
+msgid "IDS_PASS910_FULL"
+msgstr "Balao Test"
+
+msgid "IDS_PASS910_NUMBER"
+msgstr "77"
+
+msgid "IDS_PASS910_YEAR"
+msgstr "1941 г."
+
+msgid "IDS_PAUA915_ART_CHESAPEAKE"
+msgstr "152-мм/47 DP Mk.17 安裝於炮座上"
+
+msgid "IDS_PAUE925_ENG_CHESAPEAKE"
+msgstr "135 000 匹馬力"
+
+msgid "IDS_PAUE926_ENG_BALAO_TEST"
+msgstr "5 400 匹馬力"
+
+msgid "IDS_PAUH920_HULL_CHESAPEAKE"
+msgstr "Chesapeake"
+
+msgid "IDS_PAUH923_HULL_BALAO_TEST"
+msgstr "Balao Test"
+
+msgid "IDS_PAUQ904_SONAR_BALAO_TEST"
+msgstr "Mk10 mod. 1"
+
+msgid "IDS_PAUS917_SUO_CHESAPEAKE"
+msgstr "Mk10 mod. 1"
+
+msgid "IDS_PAUT913_TORP_BALAO_TEST"
+msgstr "Mk29 и Mk29 MIE"
+
+msgid "IDS_PCEE671_SUBMARINERS_FLAG"
+msgstr "優秀海軍軍官"
+
+msgid "IDS_PCEE671_SUBMARINERS_FLAG_DESCRIPTION"
+msgstr "自1957年起，蘇聯潛艇艇員被授予“優秀海軍”徽章，而不是以前的“優秀潛艇員”和“優秀魚雷手”徽章。"
+
+msgid "IDS_PCEE672_YELLOW_PANTS_FLAG"
+msgstr "黃色褲子"
+
+msgid "IDS_PCEE672_YELLOW_PANTS_FLAG_DESCRIPTION"
+msgstr "如果我有一點CC，我就有權利穿黃褲子，而我面前的傢伙必須蹲不是一次，而是兩次。"
+
+msgid "IDS_PCEE673_CRIMSON_PANTS_FLAG"
+msgstr "覆盆子褲"
+
+msgid "IDS_PCEE673_CRIMSON_PANTS_FLAG_DESCRIPTION"
+msgstr "如果我有很多CC，我就有權利穿深紅色的褲子，而我面前的傢伙必須蹲兩下，查特蘭寧必須叫喚著“酷”，艾西洛普沒有權利在晚上打我……永遠不會！.."
+
+msgid "IDS_PCEE674_NIKOLAY_I_FLAG"
+msgstr "沙皇尼古拉一世"
+
+msgid "IDS_PCEE674_NIKOLAY_I_FLAG_DESCRIPTION"
+msgstr "自19世紀初以來，在服役中表現出色並受到皇帝信任的陸軍和海軍將軍、海軍上將和軍官。 組成了他的隨從並擁有特殊的隨從頭銜。 在尼古拉一世統治期間，各級近衛軍在其隨從和聯合武器製服上的主要顯著標誌是肩章上的皇帝字母組合。"
+
+msgid "IDS_PCEE677_PFALZ_FLAG"
+msgstr "普法爾茨"
+
+msgid "IDS_PCEE677_PFALZ_FLAG_DESCRIPTION"
+msgstr "普法爾茨選侯國的旗幟結合了統治普法爾茨的兩個王朝霍亨施陶芬王朝和維特爾斯巴赫王​​朝的祖先符號。 霍亨施陶芬家族的標誌－獅子－成為普法爾茨的象徵，而旗幟上出現的藍白菱形圖案，後來成為巴伐利亞的象徵，則與維特爾斯巴赫王​​朝有關。"
+
+msgid "IDS_PCEE678_CHESAPEAKE_FLAG"
+msgstr "USS Chesapeake 乞沙比克"
+
+msgid "IDS_PCEE678_CHESAPEAKE_FLAG_DESCRIPTION"
+msgstr "1781年，切薩皮克灣發生了一場決定美國獨立戰爭命運的海戰。 差不多一年後，美國歷史上第一個軍事獎項——軍事功勳章誕生了，該勳章頒發給在戰鬥中表現特別出色的大陸軍士兵。"
+
+msgid "IDS_PCVE026"
+msgstr "隱蔽機動戰"
+
+msgid "IDS_PCVE026_DESCRIPTION"
+msgstr "在戰鬥中體驗改動後的航空和防空特性。"
+
+msgid "IDS_PCVE026_MATCHMAKER_DESCRIPTION"
+msgstr "在戰鬥中體驗改動後的航空和防空特性。"
+
+msgid "IDS_PGGT142_600MM_INVISIBLE_TA"
+msgstr "600-мм"
+
+msgid "IDS_PGPA146_283MM_HE_PFALZ"
+msgstr "283-мм Spr.Gr. L/4.5 Kz."
+
+msgid "IDS_PGPA147_283MM_AP_PFALZ"
+msgstr "283-мм P.Spr.Gr. L/4.4"
+
+msgid "IDS_PGPT061_PFALZ"
+msgstr "H8"
+
+msgid "IDS_PGSB537"
+msgstr "普法爾茨"
+
+msgid "IDS_PGSB537_DESCR"
+msgstr "假設的拜仁級戰艦現代化計畫。 此選項涉及將兩門 380 毫米火砲安裝座替換為三門 283 毫米火砲"
+
+msgid "IDS_PGSB537_FULL"
+msgstr "Pfalz"
+
+msgid "IDS_PGSB537_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB537_YEAR"
+msgstr "1935年"
+
+msgid "IDS_PGUA609_ART_PFALZ"
+msgstr "283-мм/54.5 SK C/34 в установке Drh LC/34"
+
+msgid "IDS_PGUE609_ENG_PFALZ"
+msgstr "75 000 匹馬力"
+
+msgid "IDS_PGUH616_HULL_PFALZ"
+msgstr "Pfalz"
+
+msgid "IDS_PGUS616_SUO_PFALZ"
+msgstr "FKS Typ 7"
+
+msgid "IDS_PGUT613_TORP_PFALZ"
+msgstr "J9"
+
+msgid "IDS_PIAF529_TRANCLUCATOR"
+msgstr "TB2D Skypirate"
+
+msgid "IDS_PIES329_TRANCLUCATOR_PEPELATS"
+msgstr "普柳坎斯基"
+
+msgid "IDS_PIGA113_3IN50_TWIN_MARK_33"
+msgstr "76,2-мм/50 Mk.22 安裝在 Mk.33 炮座內"
+
+msgid "IDS_PIGA114_20MM_OERLIKON_MK20_TWIN"
+msgstr "20-мм 歐瑞康 安裝在 Mk.24 炮座中"
+
+msgid "IDS_PIGM115_16IN50_MK7"
+msgstr "406-мм/50 Mk.7 安裝於砲台中"
+
+msgid "IDS_PIGM116_16IN50_MK7_TWIN"
+msgstr "406-мм/50 Mk.7 安裝於砲台中"
+
+msgid "IDS_PIGS111_5IN38_MK32_MOD12"
+msgstr "127-мм/38 Mk.12 安裝於 Mk.32 砲座中"
+
+msgid "IDS_PIPR529_TRANCLUCATOR"
+msgstr "127-мм HVAR"
+
+msgid "IDS_PORT_KINDZADZA"
+msgstr "Плюк"
+
+msgid "IDS_PORT_KINDZADZA_TOOLTIP"
+msgstr ""
+"Плюк （不作翻譯 是一個科幻片裡的虛構星球）\n"
+"\n"
+"https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8E%D0%BA"
+
+msgid "IDS_PRES120_NAKHIMOV_PEPELATS"
+msgstr "普柳坎斯基"
+
+msgid "IDS_PRES310_SEVEROMORSK_CEREMONIAL"
+msgstr "正面"
+
+msgid "IDS_PRPA216_203MM_55_AP_TOGLIATTI"
+msgstr "203-мм proiettili AP 1924 mod.2"
+
+msgid "IDS_PRPT069_TOGLIATTI"
+msgstr "53-38"
+
+msgid "IDS_PRSC529"
+msgstr "陶裡亞蒂"
+
+msgid "IDS_PRSC529_DESCR"
+msgstr "義大利安薩爾多公司為西班牙開發的重型巡洋艦計畫的假設發展。 此選項結合了Anteprojecto preliminar VIII-203專案（四座203毫米火砲裝置）和Anteprojecto preliminar XII-152專案（四座152mm三聯裝火砲裝置）的特性。 如果這些船曾被義大利艦隊建造出來，那麼二戰後它就會作為賠款轉移給蘇聯。"
+
+msgid "IDS_PRSC529_FULL"
+msgstr "Тольятти"
+
+msgid "IDS_PRSC529_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC529_YEAR"
+msgstr "1941 年."
+
+msgid "IDS_PRUA810_ART_TOGLIATTI"
+msgstr "203-мм/55 Model 1934 安裝於砲台中"
+
+msgid "IDS_PRUE814_ENG_TOGLIATTI"
+msgstr "220 000 匹馬力"
+
+msgid "IDS_PRUH823_HULL_TOGLIATTI"
+msgstr "Тольятти"
+
+msgid "IDS_PRUS810_SUO_TOGLIATTI"
+msgstr "СУО IX"
+
+msgid "IDS_PRUT812_TORP_TOGLIATTI"
+msgstr "53-38"
+
+msgid "IDS_PZES528_PASOPATI_SUBMARINERS"
+msgstr "За верность долгу"
+
+msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_OBSERVER"
+msgstr "等待訓練室組織者開始戰鬥。"
+
+msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_OWNER_IN_TRAINING"
+msgstr "你不在團隊中。 加入其中一支隊伍，即可開始訓練戰。"
+
+msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_OWNER_NOT_IN_TRAINING"
+msgstr "您是訓練室的組織者。 返回房間以便開始戰鬥。"
+
+msgid "IDS_REMOVE_ALL_BOTS"
+msgstr "刪除所有機器人"
+
+msgid "IDS_RETURN_TO_TRAINING_ROOM"
+msgstr "返回房間"
+
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "永久迷彩"
+
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "偽裝"
+
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE"
+msgstr "加值貨櫃“Etsikh”"
+
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE_SHORT"
+msgstr "Эцих"
+
+msgid "IDS_REWARD_UNLOCK_KINDZADZA_PORT"
+msgstr "Плюк 港"
+
+msgid "IDS_REWARD_UNLOCK_KINDZADZA_PORT_DESCRIPTION"
+msgstr "可以選擇 Плюк 港口"
+
+msgid "IDS_SCENARIO_PCVE026_AIR_BARRIERS"
+msgstr "隱蔽機動戰"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM077_AIRBARRIER3_VISIBILITY_BATTLESHIP_CARRIER"
+msgstr ""
+"在所選的戰鬥類型中，此參數具有固定值，無法使用模組、升級、訊號旗和指揮官技能進行變更。\n"
+"若防空範圍內有敵機而未有關閉防空炮，則能見度等於防空射程。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM078_AIRBARRIER3_VISIBILITY_CRUISER"
+msgstr ""
+"在所選的戰鬥類型中，此參數具有固定值，無法使用模組、升級、訊號旗和指揮官技能進行變更。\n"
+"若防空範圍內有敵機而未有關閉防空炮，則能見度等於防空射程。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM079_AIRBARRIER3_VISIBILITY_DESTROYER"
+msgstr ""
+"在所選的戰鬥類型中，此參數具有固定值，無法使用模組、升級、訊號旗和指揮官技能進行變更。\n"
+"若防空範圍內有敵機而未有關閉防空炮，則能見度等於防空射程。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM080_AIRBARRIER3_PLANES"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM081_AIRBARRIER3_VISIBILITY_SUBMARINES"
+msgstr ""
+"在所選的戰鬥類型中，此參數具有固定值，無法使用模組、升級、訊號旗和指揮官技能進行變更。\n"
+"若防空範圍內有敵機而未有關閉防空炮，則能見度等於防空射程。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM082_AIRBARRIER3_AAA_BATTLESHIP_CARRIER"
+msgstr "在所選的戰鬥類型中，此參數具有固定值，無法使用模組、升級、訊號旗和指揮官技能進行變更。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM083_AIRBARRIER3_AAA_CRUISER"
+msgstr "在所選的戰鬥類型中，此參數具有固定值，無法使用模組、升級、訊號旗和指揮官技能進行變更。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM084_AIRBARRIER3_AAA_DESTROYER"
+msgstr "在所選的戰鬥類型中，此參數具有固定值，無法使用模組、升級、訊號旗和指揮官技能進行變更。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM085_BRAWL_ATBA_BATTLESHIP_NERF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM077_AIRBARRIER3_VISIBILITY_BATTLESHIP_CARRIER"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM078_AIRBARRIER3_VISIBILITY_CRUISER"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM079_AIRBARRIER3_VISIBILITY_DESTROYER"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM080_AIRBARRIER3_PLANES"
+msgstr "加速飛機準備"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM081_AIRBARRIER3_VISIBILITY_SUBMARINES"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM082_AIRBARRIER3_AAA_BATTLESHIP_CARRIER"
+msgstr "防空砲的攻擊範圍"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM083_AIRBARRIER3_AAA_CRUISER"
+msgstr "防空砲的攻擊範圍"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM084_AIRBARRIER3_AAA_DESTROYER"
+msgstr "防空砲的攻擊範圍"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM085_BRAWL_ATBA_BATTLESHIP_NERF"
+msgstr "傷害減免"
+
+msgid "IDS_SHIP_MODIFIER_PXOM077_AIRBARRIER3_VISIBILITY_BATTLESHIP_CARRIER_APPLIED"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PXOM078_AIRBARRIER3_VISIBILITY_CRUISER_APPLIED"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PXOM079_AIRBARRIER3_VISIBILITY_DESTROYER"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PXOM080_AIRBARRIER3_PLANES_APPLIED"
+msgstr "飛機準備時間"
+
+msgid "IDS_SHIP_MODIFIER_PXOM081_AIRBARRIER3_VISIBILITY_SUBMARINES_APPLIED"
+msgstr "空隱"
+
+msgid "IDS_SHIP_MODIFIER_PXOM082_AIRBARRIER3_AAA_BATTLESHIP_CARRIER_APPLIED"
+msgstr "防空砲的攻擊範圍"
+
+msgid "IDS_SHIP_MODIFIER_PXOM083_AIRBARRIER3_AAA_CRUISER_APPLIED"
+msgstr "防空砲的攻擊範圍"
+
+msgid "IDS_SHIP_MODIFIER_PXOM084_AIRBARRIER3_AAA_DESTROYER_APPLIED"
+msgstr "防空砲的攻擊範圍"
+
+msgid "IDS_SHIP_MODIFIER_PXOM085_BRAWL_ATBA_BATTLESHIP_NERF_APPLIED"
+msgstr "傷害減免"
+
+msgid "IDS_SOUND_MOD_KINDZADZA_CHATLANIN_PATSAK"
+msgstr "Уэф 和 Би"
+
+msgid "IDS_SOUND_MOD_KINDZADZA_VOVA_SKRIPACH"
+msgstr "沃瓦叔叔和小提琴家"
+
+msgid "IDS_START_BATTLE_DENY_REASON_NOT_READY_IN_TRAINING_ROOM"
+msgstr "選擇合適的艦艇並按下「準備」按鈕，即可開始訓練戰鬥。"
+
+msgid "IDS_SUBST_SSE_DAILY_RESET_IN_TOOLTIP"
+msgstr "該任務將在 %(timeLeft)s 後更新"
+
+msgid "IDS_SYS_MSG_KICKED_FROM_TRAINING_ROOM"
+msgstr "您被訓練房依苟了"
+
+msgid "IDS_SYS_MSG_RANK_REMAINING_REWARDS"
+msgstr "剩餘的獎勵已送到"
+
+msgid "IDS_TOOLTIP_CHARS_LEFT"
+msgstr "剩餘字元數"
+
+msgid "IDS_TOOLTIP_TRAINING_ORGANIZER"
+msgstr "房主："
+
+msgid "IDS_TRAINING_ROOM_BOT_REMOVE_ZONE"
+msgstr "將機器人移至此處進行刪除"
+
+msgid "IDS_TRAINING_ROOM_DESCRIPTION_PLACEHOLDER"
+msgstr "輸入描述"
+
+msgid "IDS_TRAINING_ROOM_INPUT_PASSWORD_INFO"
+msgstr "不超過 8 個字元。 密碼只能包含拉丁字母、數字和底線。"
+
+msgid "IDS_TRAINING_ROOM_MANAGEMENT_HINT"
+msgstr "更改艦艇配置"
+
+msgid "IDS_TRAINING_ROOM_PLAYER_STATE_COMMANDER"
+msgstr "隊長"
+
+msgid "IDS_TRAINING_ROOM_PLAYER_STATE_DEFAULT"
+msgstr "隊員"
+
+msgid "IDS_TRAINING_ROOM_PLAYER_STATE_NEUTRAL"
+msgstr "未分發"
+
+msgid "IDS_TRAINING_ROOM_PLAYER_STATE_OBSERVER"
+msgstr "旁觀者"
+
+msgid "IDS_TRAINING_ROOM_SPECTATORS_IS_ENABLED"
+msgstr "允許觀察者"
+
+msgid "IDS_VOVA_SKRIPACH"
+msgstr "沃瓦叔叔和小提琴家"
