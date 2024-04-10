@@ -129030,177 +129030,190 @@ msgstr "沃瓦叔叔和小提琴家"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_1STPLACE"
 msgstr ""
+"佔領\n"
+"在 «邁向卓越的新高度» 競賽中取得第一名"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_2NDPLACE"
 msgstr ""
+"佔領\n"
+"在 «邁向卓越的新高度» 競賽中取得第二名"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_3RDPLACE"
 msgstr ""
+"佔領\n"
+"在 «邁向卓越的新高度» 競賽中取得第三名"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_LEGEND"
-msgstr ""
+msgstr "在 «邁向卓越的新高度» 競賽的所有測試中奪得第一"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_SPACEMAN"
-msgstr "Пройти любое испытание состязания «К высотам мастерства» в первый раз."
+msgstr "首次完成精通挑戰中的任何挑戰"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_1STPLACE"
-msgstr "Первая космическая"
+msgstr "第一宇宙速度"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_2NDPLACE"
-msgstr "На подступах к орбите"
+msgstr "趨近軌道"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_3RDPLACE"
-msgstr "Через тернии — к бронзе"
+msgstr ""
+"Через тернии — к бронзе\n"
+" （電影名稱）\n"
+"披荊斬棘 直至繁星滿天"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_LEGEND"
-msgstr "Покоритель космических высот"
+msgstr "浩瀚宇宙的征服者"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_SPACEMAN"
-msgstr "Поехали!"
+msgstr "前進 同志！"
 
 msgid "IDS_BATTLE_CHALLENGES_DESCRIPTION"
 msgstr ""
+"通過所有測試並取得勝利！\n"
+"（積分榜第一名）"
 
 msgid "IDS_BATTLE_CHALLENGES_TITLE"
-msgstr "К высотам мастерства"
+msgstr "邁向卓越的新高度"
 
 msgid "IDS_BEST_RESULT_IN_ROUND"
-msgstr "ЛУЧШИЙ РЕЗУЛЬТАТ"
+msgstr "本回合的最佳結果"
 
 msgid "IDS_CAROUSEL_PCVE022_FILTER"
-msgstr "Фильтр кораблей, подходящих для участия в состязании «К высотам мастерства»"
+msgstr "可用於 «邁向卓越的新高度» 競賽的艦艇"
 
 msgid "IDS_CHALLENGES_BATTLE_RESULTS_MODAL_HEADER"
-msgstr "Турнирная таблица"
+msgstr "比賽輪次"
 
 msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_HEADER"
-msgstr "Брифинг"
+msgstr "簡要"
 
 msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_TEXT"
-msgstr ""
+msgstr "在每一輪中，參與者完成隨機選擇的挑戰。3分鐘後，得分最低的玩家將被淘汰。"
 
 msgid "IDS_CHALLENGE_BATTLE_ENDED"
-msgstr "%(_position)s-Е МЕСТО"
+msgstr "第 %(_position)s 名"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE022"
-msgstr "Выбрать состязание «К высотам мастерства»"
+msgstr "參加 «邁向卓越的新高度»  競賽"
 
 msgid "IDS_CITADELS_OUTSIDER_HINT"
-msgstr "Чтобы попасть в цитадель, цельтесь в борт корабля в области ватерлинии."
+msgstr "若想擊中裝甲區 最好的方法是瞄準舷側水線的區域"
 
 msgid "IDS_CIT_ROLE01"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CIT_ROLE02"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CIT_ROLE03"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CIT_ROLE04"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CIT_ROLE05"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CIT_ROLE06"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CIT_ROLE07"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CIT_ROLE08"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
 msgstr ""
+"建造 —\\n\n"
+"%(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_ADDITIONAL_INFO"
-msgstr "За каждую неиспользованную конструкцию после ремонта корабля вы получите одну заготовку соответствующего уровня."
+msgstr "完成修復艦艇後的每個未被使用的艦艇部件將會兌換成一個相應級別的艦艇材料。"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
-msgstr "Можно приобрести в Адмиралтействе или получить за участие в различных событиях."
+msgstr "可在軍械庫購買或透過參加各種活動獲得"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
-msgstr "Конструкции"
+msgstr "建造"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
-msgstr "Ремонт соответствующего корабля в Ремонтном доке."
+msgstr "在碼頭修理相應的艦艇。"
 
 msgid "IDS_CURRENCY_SHIPMATERIAL"
-msgstr "Заготовки — %(_shipLevel)s"
+msgstr "材料 — %(_shipLevel)s"
 
 msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
-msgstr "Можно приобрести в Адмиралтействе или получить за участие в различных событиях."
+msgstr "可在軍械庫購買或透過參加各種活動獲得"
 
 msgid "IDS_CURRENCY_SHIPMATERIAL_SPEND_DESCRIPTION"
-msgstr "Создание недостающих конструкций при ремонте корабля соответствующего уровня в Ремонтном доке."
+msgstr "用於在碼頭修理適當艦艇時建造缺少的部件。"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "В этом испытании нельзя пользоваться орудиями вспомогательного калибра."
+msgstr "本次挑戰中不可使用小口徑艦艇"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "В этом испытании нельзя пользоваться снаряжением."
+msgstr "本次挑戰中不可使用任何消耗品。"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Вашей команде временно недоступно снаряжение."
+msgstr "您的隊伍暫時無法取得消耗品。"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "В этом испытании нельзя изменять скорость и направление движения."
+msgstr "本次挑戰中不可更改航速或方向"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "В этом испытании нельзя пользоваться вооружением."
+msgstr "本次挑戰中不可使用任何武器。"
 
 msgid "IDS_DISCIPLINES"
-msgstr "Испытания"
+msgstr "試煉"
 
 msgid "IDS_DISCIPLINE_CITADELS"
-msgstr "МЕТКОСТЬ СТРЕЛЬБЫ"
+msgstr "射擊精度"
 
 msgid "IDS_DISCIPLINE_CITADELS_DESCRIPTION"
-msgstr "Попадайте в цитадели"
+msgstr "爆   黑   牌"
 
 msgid "IDS_DISCIPLINE_CITADELS_FULL_DESCRIPTION"
-msgstr "Попадите в цитадель кораблей-целей как можно больше раз"
+msgstr "盡可能地擊中目標艦艇的裝甲區"
 
 msgid "IDS_DISCIPLINE_DAMAGE"
-msgstr "ОГНЕВАЯ МОЩЬ"
+msgstr "火力"
 
 msgid "IDS_DISCIPLINE_DAMAGE_DESCRIPTION"
-msgstr "Наносите урон"
+msgstr "在支那論壇洗8964"
 
 msgid "IDS_DISCIPLINE_DAMAGE_FULL_DESCRIPTION"
-msgstr "Нанесите как можно больше урона кораблям-целям"
+msgstr "對目標艦船造成盡可能多的傷害"
 
 msgid "IDS_DISCIPLINE_FRAGS"
-msgstr "ЛИКВИДАЦИЯ ЦЕЛЕЙ"
+msgstr "摧毀目標"
 
 msgid "IDS_DISCIPLINE_FRAGS_DESCRIPTION"
-msgstr "Уничтожайте корабли"
+msgstr "逮捕邪惡的資本主義者"
 
 msgid "IDS_DISCIPLINE_FRAGS_FULL_DESCRIPTION"
-msgstr "Уничтожьте как можно больше кораблей-целей"
+msgstr "摧毀盡可能多的目標艦艇"
 
 msgid "IDS_DISCIPLINE_REGATTA"
-msgstr "СКОРОСТНЫЕ МАНЁВРЫ"
+msgstr "133年船舶檢驗員、船舶駕駛考驗員檢定"
 
 msgid "IDS_DISCIPLINE_REGATTA_DESCRIPTION"
-msgstr "Проходите маршрут"
+msgstr "遵循路線"
 
 msgid "IDS_DISCIPLINE_REGATTA_FULL_DESCRIPTION"
-msgstr "Наберите как можно больше очков, проходя участки маршрута"
+msgstr "透過完成路線的各個部分獲得盡可能多的分數"
 
 msgid "IDS_DISCIPLINE_SURVIVAL"
-msgstr "БОЕВАЯ СТОЙКОСТЬ"
+msgstr "戰鬥存活率"
 
 msgid "IDS_DISCIPLINE_SURVIVAL_DESCRIPTION"
-msgstr "Сохраняйте боеспособность"
+msgstr "俄服裡的小亞服"
 
 msgid "IDS_DISCIPLINE_SURVIVAL_FULL_DESCRIPTION"
-msgstr "Сохраняйте боеспособность корабля, уклоняясь от атак противника"
+msgstr "維持艦艇的戰鬥能力，同時躲避敵人的攻擊\v"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK"
-msgstr "Ремонтный док"
+msgstr "維修碼頭"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_READY_SHIPS"
 msgstr "Корабли, готовые к ремонту"
