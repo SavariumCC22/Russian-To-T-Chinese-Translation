@@ -129129,7 +129129,7 @@ msgstr ""
 "%(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_ADDITIONAL_INFO"
-msgstr "完成修復艦艇後的每個未被使用的艦艇部件將會兌換成一個相應級別的艦艇材料。"
+msgstr "完成修復艦艇後的每個未被使用的設計圖紙將會兌換成一個相應級別的空白圖紙。"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
 msgstr "可在軍械庫購買或透過參加各種活動獲得"
@@ -129216,247 +129216,263 @@ msgid "IDS_DOCK_BANNER_REPAIR_DOCK"
 msgstr "維修碼頭"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_READY_SHIPS"
-msgstr "Корабли, готовые к ремонту"
+msgstr "艦艇已準備好維修"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_STATUS"
-msgstr "Вы можете отремонтировать корабль"
+msgstr "你可維修該艦艇"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_TOTAL_SHIPS"
-msgstr "Корабли, подлежащие ремонту"
+msgstr "等候維修的艦艇"
 
 msgid "IDS_DOGTAG_PCNB439_DESCRIPTION"
-msgstr "В честь Международного дня варки картофеля."
+msgstr "為紀念國際馬鈴薯日"
 
 msgid "IDS_DOGTAG_PCNB439_NAME"
-msgstr "К-АРРРРРРР-ТОФЕЛЬ!"
+msgstr "馬AAAAAAA鈴薯SSSSSSSSSS"
 
 msgid "IDS_DOGTAG_PCNB440_DESCRIPTION"
-msgstr "В благодарность ветеранам Великой Отечественной войны."
+msgstr "為紀念偉大衛國戰爭中的退伍軍人（東方戰線）"
 
 msgid "IDS_DOGTAG_PCNB440_NAME"
-msgstr "Красная гвоздика"
+msgstr "紅花三葉草"
 
 msgid "IDS_DOGTAG_PCNB441_DESCRIPTION"
 msgstr ""
+"蘇聯餐廳首次於1932年於每個週五引進“小斋”\n"
+"1970年增加成在某些星期四會進行抽獎 "
 
 msgid "IDS_DOGTAG_PCNB441_NAME"
-msgstr "Рыбный четверг"
+msgstr "星期四小斋"
 
 msgid "IDS_EV_SPACE2024"
-msgstr "К высотам мастерства"
+msgstr "邁向卓越的新高度"
 
 msgid "IDS_FEAT_BAD_DUR_BELT_CIT"
-msgstr "Цитадель особенно уязвима для попаданий бронебойными снарядами в борт корабля"
+msgstr "側邊裝甲防護較弱 容易被擊穿裝甲區"
 
 msgid "IDS_FEAT_BAD_SAP_ONLY"
-msgstr "Доступны только полубронебойные снаряды"
+msgstr "只可使用 SAP (半穿甲彈) "
 
 msgid "IDS_FEAT_GOOD_AIRSTRIKE_RELOAD"
-msgstr "Быстрая подготовка авиаудара"
+msgstr "空襲準備時間較短"
 
 msgid "IDS_FEEDBACK_RAGE_MODE_USELESS"
-msgstr "Использование не требуется"
+msgstr "無需使用"
 
 msgid "IDS_GO_TO_PROFILE_MOUSE_INSTRUCTION"
-msgstr "Перейти к экрану «Профиль»"
+msgstr "前往 \"個人資料\" 頁面"
 
 msgid "IDS_GO_TO_REPAIR_DOCK_MOUSE_INSTRUCTION"
-msgstr "Перейти к экрану «Ремонтный док» "
+msgstr "前往 \"維修碼頭\" 頁面"
 
 msgid "IDS_GUIDING_TIP_294_DESC"
-msgstr "В Ремонтном доке новые корабли! Отремонтируйте их, чтобы они появились в вашем Порту."
+msgstr ""
+"維修碼頭有新的艦艇可供維修！\n"
+"修復後他們將出現在你的港口"
 
 msgid "IDS_GUIDING_TIP_294_HEADER"
-msgstr "Ремонтный док"
+msgstr "維修碼頭"
 
 msgid "IDS_GUIDING_TIP_295_DESC"
-msgstr "При получении конструкций соответствующий корабль появится в вашем Ремонтном доке. Вы не можете выходить на нём в бой, пока не отремонтируете его."
+msgstr ""
+"當你收到設計時 相對應的艦艇將會在你的維修港口出現\n"
+"在艦艇未修復前不可出戰"
 
 msgid "IDS_GUIDING_TIP_295_HEADER"
-msgstr "Корабль подлежит ремонту"
+msgstr "需要維修的艦艇"
 
 msgid "IDS_GUIDING_TIP_296_DESC"
 msgstr ""
+"若要維修艦艇您需要100張設計圖紙 如果你有至少50張設計圖紙\n"
+"餘下的可用同階級的空白圖紙填補"
 
 msgid "IDS_GUIDING_TIP_296_HEADER"
-msgstr "Ремонт"
+msgstr "維修"
 
 msgid "IDS_GUIDING_TIP_297_DESC"
-msgstr "Здесь можно посмотреть, сколько у вас есть конструкций и заготовок."
+msgstr "您可在此查看你有多少設計圖紙和空白圖紙"
 
 msgid "IDS_GUIDING_TIP_297_HEADER"
-msgstr "Ремонтные материалы"
+msgstr "維修物料"
 
 msgid "IDS_GUIDING_TIP_298_DESC"
-msgstr "У вас достаточно материалов, чтобы отремонтировать корабль!"
+msgstr "你有足夠資源維修該艦艇！"
 
 msgid "IDS_GUIDING_TIP_298_HEADER"
-msgstr "Отремонтируйте корабль"
+msgstr "維修艦艇"
 
 msgid "IDS_GUIDING_TIP_299_DESC"
-msgstr "Выберите корабль, который готов к ремонту."
+msgstr "選擇一艘可被維修的艦艇"
 
 msgid "IDS_GUIDING_TIP_299_HEADER"
-msgstr "Готов к ремонту"
+msgstr "準備維修"
 
 msgid "IDS_GUIDING_TIP_300_DESC"
-msgstr "Нажмите «Отремонтировать», чтобы корабль появился в вашему Порту."
+msgstr "點擊“維修”。艦艇則會在港口中出現"
 
 msgid "IDS_GUIDING_TIP_300_HEADER"
-msgstr "Ремонт"
+msgstr "維修"
 
 msgid "IDS_IN_PCVE022"
-msgstr "в состязании «К высотам мастерства»"
+msgstr "正在挑戰  «邁向卓越的新高度»"
 
 msgid "IDS_JUST_GOAL"
-msgstr "Задача"
+msgstr "任務"
 
 msgid "IDS_MARKER_NEW"
-msgstr "НОВОЕ"
+msgstr "新"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_HEADER"
-msgstr "К высотам мастерства"
+msgstr "«邁向卓越的新高度»"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戰鬥特性"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_1"
-msgstr ""
+msgstr "你會在持續5回合中的競賽與其他玩家競爭"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "В каждом раунде вы примете участие в одном из испытаний, выбранном случайным образом: «Боевая стойкость», «Скоростные манёвры», «Огневая мощь», «Ликвидация целей» и «Меткость стельбы»."
+msgstr ""
+"在每回合中 你將會隨機獲得下列其中一項挑戰：\n"
+"射擊精度/火力/摧毀目標/遵循路線/戰鬥存活率"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
-msgstr "В разных испытаниях к характеристикам вашего корабля будут применены определённые изменения и ограничения. На протяжении всего состязания вы не сможете пользоваться снаряжением."
+msgstr ""
+"在不同試煉中 你的艦艇會收到某些特性更動或限制\n"
+"比賽全程中不得使用消耗品"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_4"
-msgstr "По итогам каждого раунда обновляется турнирная таблица, и игрок с самым низким результатом выбывает из состязания. Из двух игроков с одинаковым результатом более высокое место в таблице достанется тому, который первым достиг этого результата."
+msgstr ""
+"基於每回合後的成績 對戰表將會更新 得分最低的玩家將會被淘汰\n"
+"若有兩名玩家獲得相同分數 先達到該分數者將會成為更高名次的選手"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_HEADER"
-msgstr "Условия участия"
+msgstr "參與細則"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_TEXT_1"
-msgstr ""
+msgstr "你可以單獨參與戰鬥或組成最多含三位玩家的分艦隊"
 
 msgid "IDS_NAME11"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME12"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME13"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME14"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME21"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME22"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME23"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME24"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME31"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME32"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME33"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAME34"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAMEA1"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAMEA2"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAMEA3"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_NAMEA4"
-msgstr "Корабль-цель"
+msgstr "目標船隻"
 
 msgid "IDS_PAPA159_406MM_HE_T11"
-msgstr ""
+msgstr "406-мм HE/HC Mk13"
 
 msgid "IDS_PAPA160_406MM_AP_T11"
-msgstr ""
+msgstr "406-мм AP Mk8"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_AIRCARRIER"
-msgstr "Урон ПМК"
+msgstr "副砲傷害"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_BATTLESHIP"
-msgstr "Урон ПМК"
+msgstr "副砲傷害"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_CRUISER"
-msgstr "Урон ПМК"
+msgstr "副砲傷害"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_AIRCARRIER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "副砲射程"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_BATTLESHIP"
-msgstr "Дальность стрельбы ПМК"
+msgstr "副砲射程"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_CRUISER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "副砲射程"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_DESTROYER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "副砲射程"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_SUBMARINE"
-msgstr "Дальность стрельбы ПМК"
+msgstr "副砲射程"
 
 msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYSHIPPOSTBONUS"
-msgstr "Заметность с кораблей"
+msgstr "副砲射程"
 
 msgid "IDS_PARTICIPANTS"
-msgstr "УЧАСТНИКИ"
+msgstr "選手"
 
 msgid "IDS_PAUA933_B11_ART_STOCK"
-msgstr ""
+msgstr "406-мм/50 Mk.7 安裝於砲台內\""
 
 msgid "IDS_PAUE932_B11_ENG_STOCK"
-msgstr ""
+msgstr "221 000 匹馬力"
 
 msgid "IDS_PAUH933_B11_HULL_STOCK"
-msgstr ""
+msgstr "緬因"
 
 msgid "IDS_PAUS933_B11_SUO_STOCK"
-msgstr ""
+msgstr "Mk11 mod. 1"
 
 msgid "IDS_PBGA167_4IN45_QF_MK_XIX"
-msgstr "102-мм/45 QF Mk.XVI* в установке Mk.XIX"
+msgstr "102-мм/45 QF Mk.XVI* 安裝與 Mk.XIX 砲台內"
 
 msgid "IDS_PCEC140_SPACEDAY_BRO"
-msgstr "Космический кадет"
+msgstr "宇航學員"
 
 msgid "IDS_PCEC141_SPACEDAY_NOT_BRO"
-msgstr "Огонь соперничества"
+msgstr "競爭的烈焰"
 
 msgid "IDS_PCEE675_PIRATE_POTATO_FLAG"
-msgstr "К-АРРРРРРР-ТОФЕЛЬ!"
+msgstr "為了馬AAAAAAA鈴薯SSSSSSSS!!!"
 
 msgid "IDS_PCEE675_PIRATE_POTATO_FLAG_DESCRIPTION"
-msgstr "В честь Международного дня варки картофеля."
+msgstr "為慶祝國際薯仔日。"
 
 msgid "IDS_PCEE676_SOV_BB_EA_FLAG"
-msgstr "Советские линкоры"
+msgstr "蘇聯戰艦"
 
 msgid "IDS_PCEE676_SOV_BB_EA_FLAG_DESCRIPTION"
-msgstr ""
+msgstr "於1938-1950年的蘇聯海軍政委旗 "
 
 msgid "IDS_PCEE676_SOV_BB_EA_FLAG_EXTRA_DESCRIPTION"
 msgstr ""
+"為了紀念在更新中發布新的蘇聯戰艦進入搶先體驗”\n"
+"“13.3。”"
 
 msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG"
 msgstr "Красная гвоздика"
