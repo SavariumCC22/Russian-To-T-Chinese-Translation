@@ -11147,7 +11147,7 @@ msgid "IDS_COLLECT_TOWER_PARTS_END_S"
 msgstr "您已收集了高塔的最後一塊碎片。最高程度的傷害抵禦能力已啟用！"
 
 msgid "IDS_COLLISION"
-msgstr "碰撞"
+msgstr "誒白痴三寶喔會不會開船啦蛤？ 駕照哪裡買的"
 
 msgid "IDS_COLLISION_AUTOPILOT"
 msgstr "防撞系統"
@@ -111423,7 +111423,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳彈！"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "維維維維維維維維維維維修工"
+msgstr "你說的對 但是我可以用日本代幣買蘇聯戰艦再順便把柴犬送太空."
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
@@ -129193,7 +129193,7 @@ msgid "IDS_DISCIPLINE_DAMAGE"
 msgstr "火力"
 
 msgid "IDS_DISCIPLINE_DAMAGE_DESCRIPTION"
-msgstr "在支那論壇洗8964"
+msgstr "同志 看見天安門了嗎？我不想看見"
 
 msgid "IDS_DISCIPLINE_DAMAGE_FULL_DESCRIPTION"
 msgstr "對目標艦船造成盡可能多的傷害"
@@ -129494,7 +129494,7 @@ msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG_DESCRIPTION"
 msgstr "為紀念偉大衛國戰爭中的退伍軍人"
 
 msgid "IDS_PCVE022"
-msgstr "«邁向卓越的新高度» "
+msgstr "邁向卓越的新高度"
 
 msgid "IDS_PCVE022_DESCRIPTION"
 msgstr "完成五項挑戰 在淘汰賽中與其他玩家競賽"
@@ -129867,7 +129867,7 @@ msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
 msgstr "試煉規則"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_10"
-msgstr "第%(_wonPosition)名"
+msgstr "第 %(_wonPosition) 名"
 
 msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
 msgstr "獲得的設計圖紙"
@@ -129901,3 +129901,12 @@ msgstr "你現可遊玩 行動"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3103"
 msgstr "你現可遊玩 坐牢模式"
+
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE"
+msgstr "加值貨櫃 \"萊斯塔遊戲\""
+
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE_SHORT"
+msgstr "萊斯塔遊戲"
+
+msgid "IDS_PROGRESS_IN_CAPTURE_CONTROL"
+msgstr "正在佔領！"
