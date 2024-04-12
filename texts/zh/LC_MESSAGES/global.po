@@ -129475,130 +129475,130 @@ msgstr ""
 "“13.3。”"
 
 msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG"
-msgstr "Красная гвоздика"
+msgstr "紅花三葉草"
 
 msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG_DESCRIPTION"
-msgstr "В благодарность ветеранам Великой Отечественной войны."
+msgstr "為紀念偉大衛國戰爭中的退伍軍人"
 
 msgid "IDS_PCVE022"
-msgstr "К высотам мастерства"
+msgstr "«邁向卓越的新高度» "
 
 msgid "IDS_PCVE022_DESCRIPTION"
-msgstr "Пройдите пять испытаний, соревнуясь с другими игроками на выбывание."
+msgstr "完成五項挑戰 在淘汰賽中與其他玩家競賽"
 
 msgid "IDS_PCVE022_MATCHMAKER_DESCRIPTION"
-msgstr "Пройдите пять испытаний, соревнуясь с другими игроками на выбывание."
+msgstr "完成五項挑戰 在淘汰賽中與其他玩家競賽"
 
 msgid "IDS_PHES420_CALLENBURG_SPACE"
-msgstr "Неутомимый исследователь"
+msgstr "不倦的探索者"
 
 msgid "IDS_PLAYER_0_01"
-msgstr "Олимпиец"
+msgstr "奧運選手"
 
 msgid "IDS_PLAYER_0_02"
-msgstr "Многоборец"
+msgstr "全能運動員"
 
 msgid "IDS_PLAYER_0_03"
-msgstr "Знаменосец"
+msgstr "掌旗手"
 
 msgid "IDS_PLAYER_0_04"
-msgstr "Марафонец"
+msgstr "馬拉松選手"
 
 msgid "IDS_PLAYER_0_11"
-msgstr "Олимпиец"
+msgstr "奧運選手"
 
 msgid "IDS_PLAYER_0_12"
-msgstr "Многоборец"
+msgstr "全能運動員"
 
 msgid "IDS_PLAYER_0_13"
-msgstr "Знаменосец"
+msgstr "掌旗手"
 
 msgid "IDS_PLAYER_0_14"
-msgstr "Марафонец"
+msgstr "馬拉松選手"
 
 msgid "IDS_PLAYER_0_21"
-msgstr "Олимпиец"
+msgstr "奧運選手"
 
 msgid "IDS_PLAYER_0_22"
-msgstr "Многоборец"
+msgstr "全能運動員"
 
 msgid "IDS_PLAYER_0_23"
-msgstr "Знаменосец"
+msgstr "掌旗手"
 
 msgid "IDS_PLAYER_0_24"
-msgstr "Марафонец"
+msgstr "馬拉松選手"
 
 msgid "IDS_PLAYER_0_31"
-msgstr "Олимпиец"
+msgstr "奧運選手"
 
 msgid "IDS_PLAYER_0_32"
-msgstr "Многоборец"
+msgstr "全能運動員"
 
 msgid "IDS_PLAYER_0_33"
-msgstr "Знаменосец"
+msgstr "掌旗手"
 
 msgid "IDS_PLAYER_0_34"
-msgstr "Марафонец"
+msgstr "馬拉松選手"
 
 msgid "IDS_PLAYER_0_41"
-msgstr "Олимпиец"
+msgstr "奧運選手"
 
 msgid "IDS_PLAYER_0_42"
-msgstr "Многоборец"
+msgstr "全能運動員"
 
 msgid "IDS_PLAYER_0_43"
-msgstr "Знаменосец"
+msgstr "掌旗手"
 
 msgid "IDS_PLAYER_0_44"
-msgstr "Марафонец"
+msgstr "馬拉松選手"
 
 msgid "IDS_PLAYER_0_51"
-msgstr "Олимпиец"
+msgstr "奧運選手"
 
 msgid "IDS_PLAYER_0_52"
-msgstr "Многоборец"
+msgstr "全能運動員"
 
 msgid "IDS_PLAYER_0_53"
-msgstr "Знаменосец"
+msgstr "掌旗手"
 
 msgid "IDS_PLAYER_0_54"
-msgstr "Марафонец"
+msgstr "馬拉松選手"
 
 msgid "IDS_PORT_VLADIVOSTOK"
-msgstr "Владивосток"
+msgstr "弗拉迪沃斯克"
 
 msgid "IDS_PORT_VLADIVOSTOK_TOOLTIP"
-msgstr "Порт Владивосток"
+msgstr "弗拉迪沃斯克港"
 
 msgid "IDS_PREP414_PERMO_KERCH"
-msgstr "Победоносный"
+msgstr "凱旋而歸"
 
 msgid "IDS_PRES330_LENIN_VICTORY"
-msgstr "Краснознамённый"
+msgstr "榮譽紅旗勳章 "
 
 msgid "IDS_PRES331_ADMIRAL_ISTOMIN"
-msgstr "Адмиральский"
+msgstr "屬於海軍上將的"
 
 msgid "IDS_PRES332_ADMIRAL_KORNILOV"
-msgstr "Адмиральский"
+msgstr "屬於海軍上將的"
 
 msgid "IDS_PRES333_ADMIRAL_LAZAREV"
-msgstr "Адмиральский"
+msgstr "屬於海軍上將的"
 
 msgid "IDS_PRGA213_85MM52_92K1"
-msgstr "85-мм/52 обр. 1939 г. в установке 92-К"
+msgstr "85-мм/52 mod. 1939 安裝於 92-К 砲台上"
 
 msgid "IDS_PWGA109_4IN_45_MK_V"
-msgstr "102-мм/45 QF Mk.V в установке HA Mk.III"
+msgstr "102-мм/45 QF Mk.V 安裝於 HA Mk.III 上"
 
 msgid "IDS_REGATTA_OUTSIDER_HINT"
-msgstr "Не забывайте, соперника можно использовать как щит!"
+msgstr "不要忘記你的對手可以使用護盾"
 
 msgid "IDS_REGATTA_RESPAWN_HINT"
-msgstr "Не сдавайтесь! За повторное прохождение участков маршрута вы тоже получите победные очки!"
+msgstr "不要放棄！就算是重複路段仍可獲得分數"
 
 msgid "IDS_REPAIR_DOCK_TITLE"
-msgstr "Ремонтный док"
+msgstr "維修港口"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -129607,46 +129607,46 @@ msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль VIII уровня"
+msgstr "T8 金船"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "VIII уровень"
+msgstr "八階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE"
-msgstr "Премиум контейнер «9 Мая»"
+msgstr "加值貨櫃 \"五月9日\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE_SHORT"
-msgstr "9 Мая"
+msgstr "五月九日"
 
 msgid "IDS_ROUND_NUMBER"
-msgstr "%(_round)s-Й РАУНД"
+msgstr "%(_round)s-回合"
 
 msgid "IDS_ROUND_NUMBER_ENDED"
-msgstr "%(_round)s-Й РАУНД ЗАВЕРШЁН"
+msgstr "已完成%(_round)s回合"
 
 msgid "IDS_SCENARIO_EV_SPACE2024"
-msgstr "К высотам мастерства"
+msgstr "«邁向卓越的新高度»"
 
 msgid "IDS_SHIPCOMPONENT_SHORT_TITLE"
-msgstr "Конструкции"
+msgstr "建造"
 
 msgid "IDS_SHIPMATERIAL"
-msgstr "%(shipLevel)s уровень"
+msgstr "%(shipLevel)s 階級"
 
 msgid "IDS_SHIPMATERIAL_NONE"
-msgstr "У вас нет заготовок для ремонта кораблей."
+msgstr "你沒有任何可用於維修改艦艇的圖紙"
 
 msgid "IDS_SHIPMATERIAL_SHORT_TITLE"
-msgstr "Заготовки"
+msgstr "空白圖紙"
 
 msgid "IDS_SHIPMATERIAL_WITH_LEVEL_TITLE"
-msgstr "%(shipLevel)s уровень"
+msgstr "%(shipLevel)s 等級"
 
 msgid "IDS_SHIPSHARDS_PROGRESS_STATUS_DONE"
-msgstr "Готов к ремонту"
+msgstr "已準備好翻新"
 
 msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
-msgstr "Готовность к ремонту"
+msgstr "已準備好維修"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM086_RANKED_REGENERATION_BATTLESHIP"
 msgstr " "
@@ -129688,199 +129688,203 @@ msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM098_EV_SPACEAPRIL24_REGENERATION"
 msgstr " "
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM086_RANKED_REGENERATION_BATTLESHIP"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM087_RANKED_REGENERATION_CRUISER"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM088_RANKED_REGENERATION_DESTROYER"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM089_BRAWL_REGENERATION_BATTLESHIP_FIX"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM090_BRAWL_REGENERATION_CRUISER_FIX"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM091_BRAWL_REGENERATION_DESTROYER_FIX"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM092_BRAWL_VISIBILITY_CRUISER_FIX"
-msgstr "Заметность с кораблей"
+msgstr "艦艇的隱蔽值"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM093_VULNERABILITYALL_SPACEAPRIL2024"
-msgstr "Сопротивление урону"
+msgstr "傷害減免"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM094_ENGINEBOOST_SPACEAPRIL2024"
-msgstr "Повышение скорости"
+msgstr "引擎增壓"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM095_EV_SPACEAPRIL24_DAMAGERESIST"
-msgstr "Сопротивление урону"
+msgstr "傷害減免"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM096_EV_SPACEAPRIL24_SHOTDELAY"
-msgstr "Ускорение перезарядки"
+msgstr "裝填速度增加"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM097_EV_SPACEAPRIL24_ENGINEBOOST"
-msgstr "Повышение скорости"
+msgstr "引擎增壓"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM098_EV_SPACEAPRIL24_REGENERATION"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM087_RANKED_REGENERATION_CRUISER_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM088_RANKED_REGENERATION_DESTROYER_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM089_BRAWL_REGENERATION_BATTLESHIP_FIX_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM090_BRAWL_REGENERATION_CRUISER_FIX_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM091_BRAWL_REGENERATION_DESTROYER_FIX_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM092_BRAWL_VISIBILITY_CRUISER_FIX_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM086_RANKED_REGENERATION_BATTLESHIP_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_MODIFIER_PXOM093_VULNERABILITYALL_SPACEAPRIL2024_APPLIED"
-msgstr "Сопротивление урону"
+msgstr "傷害減免"
 
 msgid "IDS_SHIP_MODIFIER_PXOM094_ENGINEBOOST_SPACEAPRIL2024_APPLIED"
-msgstr "Повышение скорости"
+msgstr "引擎增壓"
 
 msgid "IDS_SHIP_MODIFIER_PXOM095_EV_SPACEAPRIL24_DAMAGERESIST_APPLIED"
-msgstr "Сопротивление урону"
+msgstr "傷害減免"
 
 msgid "IDS_SHIP_MODIFIER_PXOM096_EV_SPACEAPRIL24_SHOTDELAY_APPLIED"
-msgstr "Ускорение перезарядки"
+msgstr "裝填速度增加"
 
 msgid "IDS_SHIP_MODIFIER_PXOM097_EV_SPACEAPRIL24_ENGINEBOOST_APPLIED"
-msgstr "Повышение скорости"
+msgstr "引擎增壓"
 
 msgid "IDS_SHIP_MODIFIER_PXOM098_EV_SPACEAPRIL24_REGENERATION_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "正在回复血量"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "ПМК недоступен"
+msgstr "不可使用副炮"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "Снаряжение недоступно"
+msgstr "不可使用消耗品"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Генератор помех"
+msgstr "你的消耗品被依苟了！"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "Манёвренность ограничена"
+msgstr "移動受限"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "Вооружение недоступно"
+msgstr "不可使用任何武器"
 
 msgid "IDS_SHIP_SHARDS_COMMON_TITLE"
-msgstr "Ремонтные материалы"
+msgstr "維修材料"
 
 msgid "IDS_SHIP_SHARDS_REPAIR_QUESTION"
-msgstr "Отремонтировать за"
+msgstr "用於維修？"
 
 msgid "IDS_SHIP_SHARDS_SHIP_REPAIR_HEADER"
-msgstr "Ремонт корабля"
+msgstr "艦艇維修"
 
 msgid "IDS_SHIP_SHARDS_TOOLTIP_CONVERT_RATE_TEXT"
-msgstr "Расход заготовок на конструкции"
+msgstr "空白圖紙兌換艦艇圖紙的比率："
 
 msgid "IDS_SHIP_SHARDS_TOOLTIP_TITLE"
-msgstr "Все заготовки"
+msgstr "空白圖紙"
 
 msgid "IDS_SHIP_SHARDS_TTX_BUTTON_REPAIR"
-msgstr "Отремонтировать"
+msgstr "維修"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT"
 msgstr ""
+"若想維修該艦艇 你需要100張設計圖紙 當你擁有至少50張設計圖紙時\n"
+"剩下的設計圖紙可用對應階級的空白圖紙完成 兌換率為1：10"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_1"
-msgstr "Вы уже можете отремонтировать корабль"
+msgstr "現可維修該艦艇"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_2"
-msgstr "с помощью"
+msgstr "使用"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_3"
-msgstr "или собрать ещё"
+msgstr "或取得更多"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_1"
-msgstr "Для ремонта корабля"
+msgstr "用於維修艦艇"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_2"
-msgstr "нужно ещё"
+msgstr "需要更多"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_1"
 msgstr ""
+"若要維修%(_shipName)s 你必須建造至少 \"\n"
+"%(_shipComponentsCount)s 個結構 "
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_1"
-msgstr "Недостающие конструкции могут быть созданы"
+msgstr "缺失的設計可被創造"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_2"
-msgstr "из заготовок — %(_shipLevel)s при ремонте."
+msgstr "來自在維修 — %(_shipLevel)s 艦艇時的鑄造廠"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TITLE"
-msgstr "Ремонтные материалы"
+msgstr "維修材料"
 
 msgid "IDS_SPACES/E12_APRIL_2024"
-msgstr "Проксима Центавра"
+msgstr "比鄰星"
 
 msgid "IDS_SPACES/E12_APRIL_2024_DESCR"
-msgstr "Проксима Центавра"
+msgstr "比鄰星"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "Правило испытания"
+msgstr "試煉規則"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "Правило испытания"
+msgstr "試煉規則"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Эффект снаряжения противника"
+msgstr "敵方消耗品效果"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "Правило испытания"
+msgstr "試煉規則"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "Правило испытания"
+msgstr "試煉規則"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_10"
-msgstr "%(_wonPosition)d-е место"
+msgstr "第%(_wonPosition)名"
 
 msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
-msgstr "Получены конструкции"
+msgstr "獲得的設計圖紙"
 
 msgid "IDS_SYS_MSG_RECEIVED_SHIP_MATERIAL"
-msgstr "Получены заготовки"
+msgstr "獲得的空白圖紙"
 
 msgid "IDS_SYS_MSG_SHIP_CRAFTED"
-msgstr "Корабль отремонтирован"
+msgstr "該艦艇已被維修"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_COMPONENT"
-msgstr "Списаны конструкции"
+msgstr "消耗的設計圖紙："
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_MATERIAL"
-msgstr "Списаны заготовки"
+msgstr "消耗的空白圖紙："
 
 msgid "IDS_TOOLTIP_KARMA_DESCRIPTION"
-msgstr "Совокупность ваших положительных и отрицательных действий."
+msgstr "記錄了你的總和正面和負面遊戲行為"
 
 msgid "IDS_TOOLTIP_KARMA_HEADER"
-msgstr "Карма"
+msgstr "業力"
 
 msgid "IDS_TOOLTIP_PROFILE"
-msgstr "Здесь доступна сводка ваших боевых результатов за всё время, достижения, коллекции и другое."
+msgstr "在這裡你可以看到你的整體戰鬥結果、成就、收藏等的摘要。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
-msgstr ""
+msgstr "與真實玩家對戰。 對戰玩家組成是隨機的"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_24"
-msgstr ""
+msgstr "你現可遊玩 行動"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3103"
-msgstr ""
+msgstr "你現可遊玩 坐牢模式"
