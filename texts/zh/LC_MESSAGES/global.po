@@ -18694,43 +18694,53 @@ msgstr ""
 "代幣將被清除而不獲任何補償"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "三國代幣"
+msgstr "蘇聯代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_3_DESCRIPTION"
 msgstr ""
+"完成個人挑戰活動的戰鬥任務、達到戰鬥通行證等級並完成通行證中包含的戰鬥任務，直至更新13.3結束”\n"
+"亦可從軍械庫中的的禮包鍊購買，直到更新13.4"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "在更新 13.0 結束之前完成戰鬥任務並達到戰鬥通行證等級，以及在更新 13.1 結束之前從軍械庫中的禮包鏈中獲得。"
+msgstr ""
+"完成個人挑戰活動的戰鬥任務、達到戰鬥通行證等級並完成通行證中包含的戰鬥任務，直至更新13.3結束”\n"
+"亦可從軍械庫中的的禮包鍊購買，直到更新13.4"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "用於搶先體驗的 VI 瑞鳳、VIII 飛龍和 X 大鳳日本航空母艦 ，瑞鳳和飛龍的經濟套裝，以及飛龍和大鳳的永久迷彩，直到版本 13.1 結束。"
+msgstr "用於搶先體驗的蘇聯戰列巡洋艦和永久加成包 及活動的其他物品 直至更新13.4"
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "「日本航空母艦」活動的臨時資源。 隨著 13.2 更新的發布，代幣將清空而無任何補償"
+msgstr "蘇聯戰列巡洋艦 活動的臨時資源。隨著更新13.5消失”"
 
 msgid "IDS_CURRENCY_EVENTUM_4"
-msgstr " "
+msgstr "КЦ "
 
 msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
-msgstr " "
+msgstr "獲得方法為在更新13.2-13.3的活動期間軍械庫中的戰鬥任務和禮包鍊"
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr " "
+msgstr ""
+"可用於購買 九階主力艦 \"TRANSCLUCATOR\" \n"
+"猩紅下著 旗幟 和 Etsikh 加值貨櫃 \n"
+"擁有11點技能的指揮官 和其他於更新13.2-13.3中的獎品"
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr " "
+msgstr "「Kin-dza-dza！」活動的臨時資源。 隨著更新13.4消失"
 
 msgid "IDS_CURRENCY_EVENTUM_5"
-msgstr " "
+msgstr "紀念幣"
 
 msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
-msgstr " "
+msgstr "用於完成“帶來勝利的戰艦”活動的戰鬥任務以及更新13.3-13.4軍械庫中的禮包鍊”"
 
 msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
-msgstr " "
+msgstr ""
+"可在兌換鍊中取得\n"
+"VIII 級主力艦“列寧\" 永久迷彩“紅旗”，和 \"加值貨櫃 - 六階艦艇\"\n"
+"“加值貨櫃 - 5 月 9 日”和“加值貨櫃 - 蘇聯”，以及活動期間的其他物品”"
 
 msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
-msgstr " "
+msgstr "「帶來勝利的戰艦」活動的臨時資源。 隨著更新13.5消失"
 
 msgid "IDS_CURRENCY_EVENTUM_6"
 msgstr ""
@@ -18748,16 +18758,19 @@ msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
 msgstr ""
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "歐洲代幣"
+msgstr "太空代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "獲取方式包括在 12.4 版本更新結束之前達成戰鬥任務和達到免費通行證的最終等級，以及從軍械庫中開放至 12.5 版本更新結束為止的組合包中獲取。"
+msgstr "獲得方法為在更新13.3的活動期間軍械庫中的戰鬥任務和禮包鍊"
 
 msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "依序組合包，內容包括搶先體驗 V 至 VII 階艦艇 Muavenet、Stord 和 Grom；搶先體驗 VIII 至 X 階艦艇 Split、Lambros Katsonis 和 Gdańsk 的永久迷彩；以及 VII 階驅逐艦 Grom 和 VIII 階驅逐艦 Split 的加成包。這些代幣還可在軍械庫的活動類別中用以兌換其他物品。在獲得所有以歐洲代幣兌換的依序組合包後，您將能以達布隆獲取 X 階驅逐艦 Gdańsk。"
+msgstr ""
+"可用於購買 十階巡洋艦 “卡倫堡”\n"
+"永久迷彩 “不倦的冒險家”\n"
+"擁有12點技能的指揮官ASTRA 和其他於更新13.3中的獎品"
 
 msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "「歐洲驅逐艦」活動的暫時性資源"
+msgstr "暫時性資源 於更新13.4消失"
 
 msgid "IDS_CURRENCY_EVENTUM_8"
 msgstr "冬季代幣"
@@ -111410,7 +111423,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳彈！"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "你說的對 但是我可以用三國代幣買三國的船 "
+msgstr "維維維維維維維維維維維修工"
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
