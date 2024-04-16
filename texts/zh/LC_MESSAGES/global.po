@@ -5294,7 +5294,7 @@ msgid "IDS_ARC_EVENT_COMMON_SIDE_3"
 msgstr "箭與閃電"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_0"
-msgstr "北魏的創始人是軍事領袖和政治家曹操，他實際上統治著漢帝國的衰落"
+msgstr "北魏的創始人是軍事領袖和政治家曹賊，他實際上統治著漢帝國的衰落"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_1"
 msgstr "\"劉備，中國西部蜀國的創建者，聲稱與漢朝有血緣關係，並稱自己為合法繼承人"
@@ -8609,7 +8609,7 @@ msgid "IDS_CANTIMETER"
 msgstr "公分"
 
 msgid "IDS_CAOCAO"
-msgstr "曹操"
+msgstr "曹賊"
 
 msgid "IDS_CAPT"
 msgstr "Cap"
@@ -36201,16 +36201,16 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_2"
 msgstr "幾十年來，漢朝的力量日漸衰弱，而地方統治者和軍事首領的地位則加強。由於漢武帝死後的權力鬥爭，年輕的獻帝繼承了王位。皇位，被迫離開滿目瘡痍的都城。這意味著中央政權的垮台"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_1"
-msgstr "經過一段時期的內亂，三位領導人在中國崛起，領導自己的王國：曹操、劉備和孫權"
+msgstr "經過一段時期的內亂，三位領導人在中國崛起，領導自己的王國：曹賊、劉備和孫權"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_2"
-msgstr "魏國位於中國北部。國家的創始人是漢帝國的政治家曹操，他實際上在年輕的獻帝統治下統治著這個國家"
+msgstr "魏國位於中國北部。國家的創始人是漢帝國的政治家曹賊，他實際上在年輕的獻帝統治下統治著這個國家"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_1"
-msgstr "208年冬天——西元209年，傳說中的赤壁之戰發生了，曹操集結了大軍，奪取江南土地，他的戰士們沒有水戰經驗，曹操把船隻拴在一起以防搖晃。吳蜀聯軍在孫權、劉備的率領下，兵力不如曹軍，但憑藉狡猾而獲勝：聯軍宣布投降後，又派船載滿油料前往曹軍。並點燃他們的軍隊。"
+msgstr "208年冬天——西元209年，傳說中的赤壁之戰發生了，曹賊集結了大軍，奪取江南土地，他的戰士們沒有水戰經驗，曹賊把船隻拴在一起以防搖晃。吳蜀聯軍在孫權、劉備的率領下，兵力不如曹軍，但憑藉狡猾而獲勝：聯軍宣布投降後，又派船載滿油料前往曹軍。並點燃他們的軍隊。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_2"
-msgstr "曹操船隊被燒毀，但蜀吳軍隊因敵方數量優勢而無法展開攻勢，劉備與孫權的對抗階段開始了"
+msgstr "曹賊船隊被燒毀，但蜀吳軍隊因敵方數量優勢而無法展開攻勢，劉備與孫權的對抗階段開始了"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_1"
 msgstr "漢朝的衰落"
@@ -60294,13 +60294,13 @@ msgid "IDS_PCEE641_THREEKINGDOMS_FLAG"
 msgstr "樓船"
 
 msgid "IDS_PCEE641_THREEKINGDOMS_FLAG_DESCRIPTION"
-msgstr "公元 208 年至 209 年，東漢丞相曹操（他也是北方政權曹魏的奠基者）派遣水軍南下長江，意圖一統天下。儘管曹軍兵力雄厚，但士兵們多數不習慣水戰。在赤壁之戰中，孫權與劉備聯軍對抗曹操的水軍並取得勝利。"
+msgstr "公元 208 年至 209 年，東漢丞相曹賊（他也是北方政權曹魏的奠基者）派遣水軍南下長江，意圖一統天下。儘管曹軍兵力雄厚，但士兵們多數不習慣水戰。在赤壁之戰中，孫權與劉備聯軍對抗曹賊的水軍並取得勝利。"
 
 msgid "IDS_PCEE642_THREEKINGDOMS_FLAG"
 msgstr "蒙衝"
 
 msgid "IDS_PCEE642_THREEKINGDOMS_FLAG_DESCRIPTION"
-msgstr "在赤壁之戰（公元 208 年至 209 年）中，孫權與劉備聯軍對抗曹操的軍隊。為了解決戰船在海上顛簸不定導致士兵暈船不適的問題，曹操下令用鐵鏈將戰船首尾相連以增加穩定性。戰鬥中聯軍用計，開出數十艘滿載易燃物的戰船駛向曹軍。在首批戰船著火後，火勢迅速向整支船隊蔓延，曹軍大敗。"
+msgstr "在赤壁之戰（公元 208 年至 209 年）中，孫權與劉備聯軍對抗曹賊的軍隊。為了解決戰船在海上顛簸不定導致士兵暈船不適的問題，曹賊下令用鐵鏈將戰船首尾相連以增加穩定性。戰鬥中聯軍用計，開出數十艘滿載易燃物的戰船駛向曹軍。在首批戰船著火後，火勢迅速向整支船隊蔓延，曹軍大敗。"
 
 msgid "IDS_PCEE644_HISTORY_FLAG"
 msgstr "美國海軍學會"
@@ -117645,7 +117645,7 @@ msgid "IDS_SOUND_MOD_STEAMCHAN_STEAM_CHAN_USA"
 msgstr "美國 Steam-chan"
 
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_CAOCAO"
-msgstr "曹操"
+msgstr "曹賊"
 
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_LIUBEI"
 msgstr "劉備"
@@ -127962,7 +127962,7 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
 msgstr "吳國位於中國的東部和南部。 據認為，該國的統治者孫權是著名的《孫子兵法》作者孫子的後裔。 孫權稱帝，繼承了兄長的土地，成為三國時代三大名將中最年輕的一位。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
-msgstr "曹操死後，吳國由其子曹丕繼承，曹丕逼迫獻帝退位，自己即位。 劉備、孫秋燕不承認曹丕為帝，三國之爭進入新階段。 這段時期，魏國的實權逐漸落入軍事領袖、政治家司馬懿的手中，司馬懿家族成為事實上的統治王朝。 他的兒子征服了蜀國，他的孫子司馬炎廢黜了曹國的最後一位統治者，成為新晉王朝的第一個皇帝。"
+msgstr "曹賊死後，吳國由其子曹丕繼承，曹丕逼迫獻帝退位，自己即位。 劉備、孫秋燕不承認曹丕為帝，三國之爭進入新階段。 這段時期，魏國的實權逐漸落入軍事領袖、政治家司馬懿的手中，司馬懿家族成為事實上的統治王朝。 他的兒子征服了蜀國，他的孫子司馬炎廢黜了曹國的最後一位統治者，成為新晉王朝的第一個皇帝。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
 msgstr "280年發起晉滅吳之戰，滅亡孫吳，統一中國。至此三國時期結束，進入晉朝"
@@ -127988,8 +127988,8 @@ msgstr "魏國"
 msgid "IDS_PCEE643_THREEKINGDOMS_FLAG_DESCRIPTION"
 msgstr ""
 "魏國是三國時期爭奪中國控制權的三國時代國家之一。它位於北方。\n"
-"該國的創始人是曹操，一位實際在漢朝末期統治漢朝 （挾天子以令諸侯) 的政治家\n"
-"漢朝滅亡時 賜曹操 田地十城，為魏國"
+"該國的創始人是曹賊，一位實際在漢朝末期統治漢朝 （挾天子以令諸侯) 的政治家\n"
+"漢朝滅亡時 賜曹賊 田地十城，為魏國"
 
 msgid "IDS_PCEE667_23FEBRUARY_FLAG"
 msgstr "保衛祖國"
@@ -128365,7 +128365,7 @@ msgid "IDS_SHIP_MAIN_MC_AP_SUPER_OVERMATCH_GOOD"
 msgstr "穿甲彈不會跳彈"
 
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_CAOCAO"
-msgstr "曹操"
+msgstr "曹賊"
 
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_SUNQUAN"
 msgstr "孫權"
@@ -129916,3 +129916,6 @@ msgstr "包含額外獎勵和季度加成。"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_ENHANCED_SHORT_TITLE"
 msgstr "加值通行證 + 季節加成"
+
+msgid "IDS_PIES421_MICHELANGELO_CEREMONIAL"
+msgstr "正門"
