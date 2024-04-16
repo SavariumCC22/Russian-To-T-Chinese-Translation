@@ -26701,13 +26701,13 @@ msgid "IDS_EVENTUM_14_COLON"
 msgstr "聖誕代幣："
 
 msgid "IDS_EVENTUM_1_COLON"
-msgstr "節慶代幣："
+msgstr "蘇聯代幣："
 
 msgid "IDS_EVENTUM_2_COLON"
 msgstr "三國代幣："
 
 msgid "IDS_EVENTUM_3_COLON"
-msgstr "節慶代幣："
+msgstr "蘇聯代幣："
 
 msgid "IDS_EVENTUM_4_COLON"
 msgstr " "
@@ -106737,7 +106737,7 @@ msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "三國代幣"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "節慶代幣"
+msgstr "蘇聯代幣"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr " "
@@ -109026,7 +109026,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT
 msgstr "迷彩"
 
 msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_TITLE"
-msgstr "「蘇聯」貨櫃"
+msgstr "我們的貨櫃"
 
 msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_TITLE_SHORT"
 msgstr "蘇聯"
@@ -119905,7 +119905,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "已購買三國代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "已購買節慶代幣"
+msgstr "已購買蘇聯代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr " "
@@ -120371,7 +120371,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "已獲得三國代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "已獲得節慶代幣"
+msgstr "已獲得蘇聯代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr " "
@@ -120757,7 +120757,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
 msgstr "三國代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "節慶代幣已移除"
+msgstr "蘇聯代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr " "
@@ -127560,9 +127560,6 @@ msgstr "Typ 11 Mod. A"
 msgid "IDS_PGUT911_S11_TORP_STOCK"
 msgstr "G7a T1"
 
-msgid "IDS_PIAF529_DELAWARE_TEST"
-msgstr "TB2D Skypirate"
-
 msgid "IDS_PIPA087_406MM_HE_TEST"
 msgstr "406-мм HE/HC Mk13"
 
@@ -127572,17 +127569,17 @@ msgstr "406-мм AP Mk8"
 msgid "IDS_PIPA090_127MM_CS_MK_32"
 msgstr "127-мм SC Mk38"
 
-msgid "IDS_PIPR529_DELAWARE_TEST"
-msgstr "127-мм HVAR"
-
 msgid "IDS_PISB529"
-msgstr "德拉華 測試"
+msgstr "轉譯器 Tranclucator"
 
 msgid "IDS_PISB529_DESCR"
-msgstr "測試船."
+msgstr ""
+"轉譯器是Плюк, Хануд ,других行星和Кин-дза-дза宇宙裡居民所使用的多用途武器。轉譯器可以有不同的形態，小至手槍、步槍， 大至反坦克榴彈發射器。例如，哨站巡邏人員使用的重型步槍。\n"
+"在查特蘭人和帕特薩人裡有一個 \"tranquillize\" (無效化) 的概念，靠轉譯器的幫助摧毀任何東西！\n"
+"“如果你認為這小小無害的東西不是轉錄器。那麼這將是你那查特蘭腦子裡最後一個想法！”"
 
 msgid "IDS_PISB529_FULL"
-msgstr "Delaware Test"
+msgstr "轉譯器 Tranclucator"
 
 msgid "IDS_PISB529_NUMBER"
 msgstr "1"
@@ -127590,22 +127587,22 @@ msgstr "1"
 msgid "IDS_PISB529_YEAR"
 msgstr "1942 年."
 
-msgid "IDS_PIUA808_DELAWARE_TEST"
+msgid "IDS_PIUA808_TRANCLUCATOR"
 msgstr "406-мм/50 Mk.7 裝於砲塔內"
 
-msgid "IDS_PIUE808_ENG_DELAWARE_TEST"
+msgid "IDS_PIUE808_ENG_TRANCLUCATOR"
 msgstr "212 000匹馬力"
 
-msgid "IDS_PIUF801_FC_DELAWARE_TEST"
+msgid "IDS_PIUF801_FC_TRANCLUCATOR"
 msgstr "Mk9 mod. 1"
 
-msgid "IDS_PIUH811_HULL_DELAWARE_TEST"
+msgid "IDS_PIUH811_HULL_TRANCLUCATOR"
 msgstr "Delaware Test"
 
-msgid "IDS_PIUI801_F_DELAWARE_TEST"
+msgid "IDS_PIUI801_F_TRANCLUCATOR"
 msgstr "TB2D Skypirate"
 
-msgid "IDS_PIUS811_SUO_DELAWARE_TEST"
+msgid "IDS_PIUS811_SUO_TRANCLUCATOR"
 msgstr "SDT 9"
 
 msgid "IDS_PJES201_HIRYU_AMATERASU"
@@ -128353,7 +128350,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE"
-msgstr "加值貨櫃“保衛祖國”"
+msgstr "我們的貨櫃“保衛祖國”"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE_SHORT"
 msgstr "保衛祖國"
@@ -129910,3 +129907,12 @@ msgstr "萊斯塔遊戲"
 
 msgid "IDS_PROGRESS_IN_CAPTURE_CONTROL"
 msgstr "正在佔領！"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_REWARDS"
+msgstr "你可獲得更多資源:"
+
+msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_ENHANCED_RECEIVED"
+msgstr "包含額外獎勵和季度加成。"
+
+msgid "IDS_BATTLEPASS_TYPE_PAID_ENHANCED_SHORT_TITLE"
+msgstr "加值通行證 + 季節加成"
