@@ -46356,7 +46356,7 @@ msgid "IDS_PASB802_DESCR"
 msgstr "用於入門任務的主力艦 Michigan"
 
 msgid "IDS_PASB808"
-msgstr "南卡羅萊納 CLR"
+msgstr "北卡羅萊納 CLR"
 
 msgid "IDS_PASB808_DESCR"
 msgstr "美國海軍最初根據合約開發出一艘配備 356 毫米火炮的主力艦，但後來由於日本拒絕接受限制，所以將其口徑改為 406 毫米。第二次世界大戰期間，USS North Carolina 負責護送船團並參加了瓜達爾卡納爾島戰役、東索羅門群島戰役、吉爾伯特-馬紹爾群島戰役、馬里亞納群島戰役、菲律賓海海戰、登陸菲律賓、 登陸沖繩島。戰爭期間，此艦艇獲頒了 12 枚戰鬥之星。"
@@ -111422,7 +111422,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳彈！"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "你說的對 但是我可以用日本代幣買蘇聯戰艦再順便把柴犬送太空."
+msgstr "海裡沒有一滴水 全都是- aec8 進水了RRRRRRRRRRRRRR"
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
