@@ -539,7 +539,7 @@ msgstr ""
 "#-#-#-#-#  TRAINING_ROOM.po (World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8)  #-#-#-#-#\n"
 "#-#-#-#-#  TUTORIAL.po (World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8)  #-#-#-#-#\n"
 "#-#-#-#-#  WEATHERS.po (World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8)  #-#-#-#-#\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgid "#PluralForms"
 msgstr "nplurals=1; plural=0;"
@@ -129919,3 +129919,765 @@ msgstr "加值通行證 + 季節加成"
 
 msgid "IDS_PIES421_MICHELANGELO_CEREMONIAL"
 msgstr "正門"
+
+msgid "IDS_ARTILLERY_RELOAD"
+msgstr "重新裝填主口徑火砲"
+
+msgid "IDS_ARTILLERY_RELOAD_PREF_TOOLTIP_DESCRIPTION"
+msgstr "以替代射擊模式「一系列齊射」重新裝載主口徑火砲。"
+
+msgid "IDS_BANNED_FOR_CHAT_SPAM"
+msgstr "靠北灌水仔別再洗頻了"
+
+msgid "IDS_CAT_SCIENTIST"
+msgstr "IDS_凱特"
+
+msgid "IDS_CLOUDS_QUALITY"
+msgstr "體積雲的渲染品質"
+
+msgid "IDS_CLOUDS_QUALITY_DESCRIPTION"
+msgstr "啟用顯示體積雲的技術並設定其渲染品質。僅當 海面細節 設定為「非常高」或更高時才有效"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
+msgstr "建材 — %(_shipName)s"
+
+msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT_TOOLTIP"
+msgstr "每個隊伍都被分配了一名指揮官，可以控製該隊的玩家"
+
+msgid "IDS_DISABLE_VIEW_SHIP_INFO"
+msgstr "隱藏敵方船隻資料"
+
+msgid "IDS_DISABLE_VIEW_SHIP_INFO_TOOLTIP"
+msgstr "敵方艦艇資料無論是否被發現均為隱藏"
+
+msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM"
+msgstr "允許主砲於短時間內進行多次齊射。每次系列齊射後，都需要長時間重新裝彈"
+
+msgid "IDS_DOCK_FIRE_MODE_TITLE_DRUM"
+msgstr "一系列齊射"
+
+msgid "IDS_DOGTAG_PARAM_COUNTSHIPS"
+msgstr "艦艇數量："
+
+msgid "IDS_ENABLE_SPECTATORS_TOOLTIP"
+msgstr "啟用觀察者隊伍"
+
+msgid "IDS_FEAT_BAD_ALTTORP_DAMAGE"
+msgstr "替代魚雷的傷害較低"
+
+msgid "IDS_FEAT_BAD_ALTTORP_SLOW_SPEED"
+msgstr "替代魚雷的速度較慢"
+
+msgid "IDS_FEAT_BAD_MC_PEN"
+msgstr "砲彈穿深較低"
+
+msgid "IDS_FEAT_BAD_MOVE_SPEED_SURFACE"
+msgstr "水面航速較慢"
+
+msgid "IDS_FEAT_BAD_NO_REGENCREW"
+msgstr "無 【維修小組】 消耗品"
+
+msgid "IDS_FEAT_GOOD_ACOUSTICTORP_DAMAGE"
+msgstr "聲導魚雷造成嚴重傷害"
+
+msgid "IDS_FEAT_GOOD_ATBARANGEDAMAGE"
+msgstr "副砲擁有高傷害及射程"
+
+msgid "IDS_FEAT_GOOD_MANYTORPLAUNCHERS"
+msgstr "裝備大量魚雷"
+
+msgid "IDS_FEAT_GOOD_MOVE_EFORSAGE_SPEED_DURATION_COOLDOWN_CHARGES_DESC"
+msgstr "只能在水面和潛望鏡深度使用；在水下時，消耗品會立即停用並。艦艇的最大航速、消耗品運行時間和消耗品數量的加成已被提升 冷卻時間減少"
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG"
+msgstr "戰鬥指令「二百里不換肩的堅韌」"
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG_DESC"
+msgstr "恢復艦艇的血量 用副砲擊中敵艦以獲得進度"
+
+msgid "IDS_FEAT_GOOD_TORP_TUBES_ALL_CAN_LOAD_SAME_TIME"
+msgstr "魚雷發射管可同時重新裝填"
+
+msgid "IDS_FEAT_TORP_FASTRELOAD_FEWLOADERS"
+msgstr "魚雷裝填快 但數量較少"
+
+msgid "IDS_FOG_OF_WAR_AND_VIEW_SHIP_INFO_DISABLED"
+msgstr "敵方艦艇的裝備資訊是隱藏的，僅有艦種、等級和名稱會在其被發現時候揭露"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING"
+msgstr "不會得知敵人的艦艇配置 （戰爭迷霧）"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_DISABLED"
+msgstr "停用"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_ENABLED"
+msgstr "啟用"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_TOOLTIP"
+msgstr "有關敵方船隻的資訊將被隱藏，直到它們被發現或被摧毀為止"
+
+msgid "IDS_GUIDING_TIP_301_DESC"
+msgstr "您已收到可用於修理船舶的空白結構！當您擁有適當的結構時，第一艘船將出現在您的修理碼頭中"
+
+msgid "IDS_GUIDING_TIP_301_HEADER"
+msgstr "修復底座"
+
+msgid "IDS_GUIDING_TIP_302_DESC"
+msgstr "在這裡你可以看到你有多少個結構和空白零件。"
+
+msgid "IDS_GUIDING_TIP_302_HEADER"
+msgstr "修復材料"
+
+msgid "IDS_GUIDING_TIP_303_DESC"
+msgstr ""
+"若要維修艦艇您需要100張設計圖紙 如果你有至少50張設計圖紙\n"
+"餘下的可用同階級的空白圖紙填補"
+
+msgid "IDS_GUIDING_TIP_303_HEADER"
+msgstr "船舶修理"
+
+msgid "IDS_GUIDING_TIP_304_DESC"
+msgstr "透過適當的經濟加成，你將能夠在每次戰鬥中獲得更多的淫幣、艦船經驗、指揮官經驗和自由經驗。"
+
+msgid "IDS_GUIDING_TIP_304_HEADER"
+msgstr "經濟加成"
+
+msgid "IDS_GUIDING_TIP_305_DESC"
+msgstr "透過適當的經濟加成，你將能夠在每次戰鬥中獲得更多的淫幣、艦船經驗、指揮官經驗和自由經驗。"
+
+msgid "IDS_GUIDING_TIP_305_HEADER"
+msgstr "經濟加成"
+
+msgid "IDS_HIDE_ENEMY_SHIPS_TOOLTIP"
+msgstr "玩家將無法在訓練室中看到敵軍陣容"
+
+msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_MODERNIZATION"
+msgstr "等待艦艇從從戰鬥中返回 以更改升級品"
+
+msgid "IDS_MAIN_SPEEDBOOST_GOOD"
+msgstr "可使用 【引擎增壓】消耗品"
+
+msgid "IDS_MAKE_TRAINING_ROOM_CLOSED_TOOLTIP"
+msgstr "僅限密碼或邀請才能進入訓練室"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_HEADER"
+msgstr "狼群"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_1_HEADER"
+msgstr "戰鬥功能"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "一支載有戰略貨物的敵方車隊正在突破中立水域。一支戰鬥中隊正在趕赴援助。你的任務是在增援部隊到達之前突破守衛並摧毀所有運輸工具"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_2_HEADER"
+msgstr "參與條件"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "您可單獨參與戰鬥 或與最多6名其他玩家一起加入"
+
+msgid "IDS_OPEN_ALL_LOOTBOXES_CONFIRM"
+msgstr "打開所有貨櫃？"
+
+msgid "IDS_PAGM228_5IN_51_MK14_TWIN_TURRET"
+msgstr "127-мм/51 Mk.14 於雙聯裝砲塔內"
+
+msgid "IDS_PAGM229_5IN_70_MK44_TWIN"
+msgstr "127-мм/70 Mk.44 в 安裝與砲塔內"
+
+msgid "IDS_PAGT230_21IN_MK14_SIX_TUBES"
+msgstr "533-мм 6-трубный"
+
+msgid "IDS_PAPA208_127MM_HE_MK44"
+msgstr "127-мм HE/HC Mk44"
+
+msgid "IDS_PAPA209_127MM_AP_MK44"
+msgstr "127-мм AP Mk44"
+
+msgid "IDS_PAPT062_533_MK15"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT063_HOGG"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT064_MAFFITT"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT065_FARRAND"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PASD207"
+msgstr "法蘭德"
+
+msgid "IDS_PASD207_DESCR"
+msgstr ""
+"在開發驅逐艦領艦的過程中 \n"
+"美國工程師提供了幾種方案。 在1932年的三月 \n"
+"提出了採用六座單聯裝或雙聯裝主口徑火砲的設計。 艦艇人員還考慮了三座雙聯裝/51倍徑的替代方案"
+
+msgid "IDS_PASD207_FULL"
+msgstr "Farrand"
+
+msgid "IDS_PASD207_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD207_YEAR"
+msgstr "1932年"
+
+msgid "IDS_PASD208"
+msgstr "霍格"
+
+msgid "IDS_PASD208_DESCR"
+msgstr ""
+"照計劃 原應於1934年建造多兩艘驅逐艦領艦 然而因為設計更動的確定\n"
+"建造這些艦艇的計劃被推遲 其中一個替代方案便是將短管/38倍徑炮改成127mm/51倍徑主砲. \n"
+"而為這些領艦研發的新型鍋爐將會裝在馬漢上"
+
+msgid "IDS_PASD208_FULL"
+msgstr "Hogg"
+
+msgid "IDS_PASD208_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD208_YEAR"
+msgstr "1933年"
+
+msgid "IDS_PASD209"
+msgstr "馬菲特"
+
+msgid "IDS_PASD209_DESCR"
+msgstr ""
+"一種替代輕型防空巡洋艦如亞特蘭大的方案便是更便宜和通用的驅逐艦領艦. \n"
+"在1939年,美國海軍設計部分開始初步研發一種 \"巡洋-驅逐\" 類3000-3500噸排水量，裝載152毫米主砲的艦艇\n"
+"若計劃於1940年代成功引入 那麼最有效的武裝將會是127mm/70倍徑主砲"
+
+msgid "IDS_PASD209_FULL"
+msgstr "Maffitt"
+
+msgid "IDS_PASD209_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD209_YEAR"
+msgstr "1939年"
+
+msgid "IDS_PASD210"
+msgstr "林奇"
+
+msgid "IDS_PASD210_DESCR"
+msgstr ""
+"於30年代末 美國海軍正考慮以驅逐艦領艦取代防空輕巡的可能性\n"
+"這項始於1939年9月12日的計劃搭載了四座雙聯裝152毫米的主砲和3500噸排水量 翌年三月\n"
+"搭載127或152毫米的3400噸計劃更受青睞. 若該艦艇於40年代末被建造 那長倍徑的127毫米主砲會是她們的最佳選擇."
+
+msgid "IDS_PASD210_FULL"
+msgstr "Lynch"
+
+msgid "IDS_PASD210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD210_YEAR"
+msgstr "1940 г."
+
+msgid "IDS_PAUA613_D7_ART_STOCK"
+msgstr "127-мм/51 Mk.14 於雙聯裝內"
+
+msgid "IDS_PAUA719_D8_ART_STOCK"
+msgstr "127-мм/51 Mk.14 於雙聯裝內"
+
+msgid "IDS_PAUA816_D9_ART_STOCK"
+msgstr "127-мм/70 Mk.44 於砲塔內"
+
+msgid "IDS_PAUA916_D10_ART_STOCK"
+msgstr "127-мм/70 Mk.44 於砲塔內"
+
+msgid "IDS_PAUE614_D7_ENG_STOCK"
+msgstr " 50 000匹馬力"
+
+msgid "IDS_PAUE726_D8_ENG_STOCK"
+msgstr " 52 000 匹馬力"
+
+msgid "IDS_PAUE815_D9_ENG_STOCK"
+msgstr " 75 000匹馬力"
+
+msgid "IDS_PAUE927_D10_ENG_STOCK"
+msgstr " 80 000匹馬力"
+
+msgid "IDS_PAUH617_D7_HULL_STOCK"
+msgstr "Farrand (A)"
+
+msgid "IDS_PAUH618_D7_HULL_TOP"
+msgstr "Farrand (B)"
+
+msgid "IDS_PAUH738_D8_HULL_STOCK"
+msgstr "Hogg (A)"
+
+msgid "IDS_PAUH739_D8_HULL_TOP"
+msgstr "Hogg (B)"
+
+msgid "IDS_PAUH820_D9_HULL_STOCK"
+msgstr "Maffitt (A)"
+
+msgid "IDS_PAUH824_D9_HULL_TOP"
+msgstr "Maffitt (B)"
+
+msgid "IDS_PAUH924_D10_HULL_STOCK"
+msgstr "Lynch"
+
+msgid "IDS_PAUS614_D7_SUO_STOCK"
+msgstr "Mk7 mod. 1"
+
+msgid "IDS_PAUS615_D7_SUO_TOP"
+msgstr "Mk7 mod. 2"
+
+msgid "IDS_PAUS723_D8_SUO_STOCK"
+msgstr "Mk8 mod. 1"
+
+msgid "IDS_PAUS724_D8_SUO_TOP"
+msgstr "Mk8 mod. 2"
+
+msgid "IDS_PAUS820_D9_SUO_STOCK"
+msgstr "Mk9 mod. 1"
+
+msgid "IDS_PAUS823_D9_SUO_TOP"
+msgstr "Mk9 mod. 2"
+
+msgid "IDS_PAUS918_D10_SUO_STOCK"
+msgstr "Mk10"
+
+msgid "IDS_PAUT605_D7_TORP_STOCK"
+msgstr "Mk15 mod. 0"
+
+msgid "IDS_PAUT709_D8_TORP_STOCK"
+msgstr "Mk16 mod. 1"
+
+msgid "IDS_PAUT808_D9_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAUT914_D10_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG"
+msgstr "安達露西亞 CLR"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_DESCRIPTION"
+msgstr "安達盧西亞是西班牙最南端的地區，由直布羅陀海峽與北非隔開。安達盧西亞的國徽上有赫拉克勒斯之柱的象徵圖像 - 構成海峽入口的高地。在柱子之間赫拉克勒斯站在那裡馴服兩隻獅子"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "為了紀念耀眼而明亮的艦艇亮相於船舶世界"
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG"
+msgstr "施里芬 CLR"
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_DESCRIPTION"
+msgstr "施利芬家族是來自波美拉尼亞的德國貴族家族；人們首次提及他們可以追溯到 14 世紀。 這個家族最著名的代表之一是指揮官兼軍事戰略家阿爾弗雷德·馮·施利芬（Alfred von Schlieffen，1833-1913 年)"
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "為了紀念耀眼而明亮的艦艇亮相於船舶世界"
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG"
+msgstr "盧科莫耶"
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG_DESCRIPTION"
+msgstr ""
+"盧科莫耶有一棵綠色的橡樹\n"
+"橡樹上掛著一條金鍊\n"
+"不論白天或黑夜，那隻貓都是名科學家\n"
+"一切均是環環相扣 周而復始\n"
+"他向右跨出了一首歌曲\n"
+"他向左走出一篇故事"
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG_EXTRA_DESCRIPTION"
+msgstr "為了紀念海洋之王錦標賽"
+
+msgid "IDS_PCEE685_CONQUISTADOR_FLAG"
+msgstr "Conquistador （征服者)"
+
+msgid "IDS_PCEE685_CONQUISTADOR_FLAG_DESCRIPTION"
+msgstr "當擁有勃艮地公爵頭銜的哈布斯堡王朝登上王位時，勃艮地十字成為西班牙帝國象徵的一部分。 在征服者時代，它被用在西班牙在新世界屬地的旗幟上，以及西班牙陸軍和海軍的旗幟上。"
+
+msgid "IDS_PCEE686_CHATEAURENAULT_FLAG"
+msgstr "Châteaurenault"
+
+msgid "IDS_PCEE686_CHATEAURENAULT_FLAG_DESCRIPTION"
+msgstr "法國 Châteaurenault 船的徽章。 法國艦隊的艦艇傳統上以弗朗索瓦·路易·魯塞萊·德·雷諾堡海軍中將的名字命名，他在 17 世紀末至 18 世紀初的戰爭和海戰中表現出色。"
+
+msgid "IDS_PCEE687_SCHERBAKOV_FLAG"
+msgstr "Щербаков (謝爾巴科夫)"
+
+msgid "IDS_PCEE687_SCHERBAKOV_FLAG_DESCRIPTION"
+msgstr ""
+"亞歷山大·謝爾蓋耶維奇·謝爾巴科夫（Alexander Sergeevich Shcherbakov，1901-1945） - 蘇聯政治家和黨的領導人，在偉大衛國戰爭期間，他領導了蘇聯情報局和紅軍主要政治局，並擔任蘇聯國防副人民委員。\n"
+"1945年 曾任最高委員會代表。"
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG"
+msgstr "秋月 CLR"
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_DESCRIPTION"
+msgstr "在日文裡面 秋月的意思是『秋天的月亮』。在中秋節，日本會慶祝一個專門針對月亮的節日：在這些日子裡，人們習慣於欣賞夜晚的星星、裝飾房屋並準備特別的美食"
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "為了紀念耀眼而明亮的艦艇亮相於船舶世界"
+
+msgid "IDS_PFGA145_57MM_60_2_25"
+msgstr "57-мм/60 Mle 1951 в установке ACAD Mle 1948"
+
+msgid "IDS_PFGM148_105_MM_SKC_37"
+msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+
+msgid "IDS_PFGT146_550MM_3TUBE_KT50"
+msgstr "550-мм tube lance-torpilles"
+
+msgid "IDS_PFPA095_105MM_CS_CHATEAURENAULT"
+msgstr "105-мм Spr.Gr. BDz m.Hb"
+
+msgid "IDS_PFPA096_105MM_AP_CHATEAURENAULT"
+msgstr "105-мм P.Spr.Gr."
+
+msgid "IDS_PFPT021_550MM_CHATEAURENAULT"
+msgstr "550-мм K2"
+
+msgid "IDS_PFSD610"
+msgstr "沙托雷諾"
+
+msgid "IDS_PFSD610_DESCR"
+msgstr ""
+"二戰後 義大利輕巡洋艦\n"
+"阿蒂利奧·雷戈洛（Attilio Regolo）作為賠償被轉移到法國，並更名為\n"
+"沙托雷諾。 1951-54 年 該艦進行了現代化改造，同時被重新歸類為驅逐艦。 1950年代末 沙托雷諾 被改裝成一艘控制船，承載著艦隊的司令部。 1961 年，沙托雷諾被納入後備，直到 1969 年 作為海軍燧發槍手學校之用"
+
+msgid "IDS_PFSD610_FULL"
+msgstr "Châteaurenault"
+
+msgid "IDS_PFSD610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSD610_YEAR"
+msgstr "1942年"
+
+msgid "IDS_PFUA907_ART_CHATEAURENAULT"
+msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+
+msgid "IDS_PFUE906_ENG_CHATEAURENAULT"
+msgstr " 110 000匹馬力"
+
+msgid "IDS_PFUH906_HULL_CHATEAURENAULT"
+msgstr "Châteaurenault"
+
+msgid "IDS_PFUS906_SUO_CHATEAURENAULT"
+msgstr "PCA n°10"
+
+msgid "IDS_PFUT904_TORP_CHATEAURENAULT"
+msgstr "550-мм K2"
+
+msgid "IDS_PGES330_SCHLIEFFEN_COLORFUL"
+msgstr "Пурпурный град"
+
+msgid "IDS_PGES610_GSS_U_796"
+msgstr "Океанский монстр"
+
+msgid "IDS_PGSB810"
+msgstr "施里芬 CLR"
+
+msgid "IDS_PGSB810_DESCR"
+msgstr "高速主力艦計畫，配備四座主炮塔，排水量 50,000 噸。她的艦身長度比其前輩多出 30 公尺，使其成為 1918 年德國海軍總部工程部構想的設計草案中最大的一艘。直到 1940 年代初 H 級主力艦出現為止，此計畫是德國主力艦中尺寸最大、火力最強的代表艦艇。"
+
+msgid "IDS_PGSB810_FULL"
+msgstr "Schlieffen CLR"
+
+msgid "IDS_PGSB810_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB810_YEAR"
+msgstr "1944年"
+
+msgid "IDS_PGUA911_ART_COLORFUL_SCHLIEFFEN"
+msgstr "420-мм/50 SK L/50 в установке Drh LC/1918"
+
+msgid "IDS_PGUE915_ENG_COLORFUL_SCHLIEFFEN"
+msgstr " 200 000 л.с."
+
+msgid "IDS_PGUH915_HULL_COLORFUL_SCHLIEFFEN"
+msgstr "Schlieffen CLR"
+
+msgid "IDS_PGUS912_SUO_COLORFUL_SCHLIEFFEN"
+msgstr "FKS Typ 10"
+
+msgid "IDS_PGUT912_TORP_COLORFUL_SCHLIEFFEN"
+msgstr "G7a T1"
+
+msgid "IDS_PJES450_KITAKAMI_DEMON"
+msgstr "Победный ветер"
+
+msgid "IDS_PJES568_AKIZUKI_COLORFUL"
+msgstr "Изумрудная комета"
+
+msgid "IDS_PJSD808"
+msgstr "彩月 (秋月 CLR)"
+
+msgid "IDS_PJSD808_DESCR"
+msgstr "Akizuki 級驅逐艦是設計用於護衛快速航空母艦編隊的防空艦艇。她們的主炮為八門 100 毫米 65 倍徑火炮。此艦級驅逐艦一共下訂了 13 艘，最後建造了 12 艘。Akizuki 於 1942 年 6 月投入服役後，參加了東索羅門群島戰役、瓜達康納爾海戰、菲律賓海海戰和雷伊泰灣海戰。此驅逐艦在恩加尼奧角海戰中遭擊沉。"
+
+msgid "IDS_PJSD808_FULL"
+msgstr "Akizuki CLR"
+
+msgid "IDS_PJSD808_NUMBER"
+msgstr "13"
+
+msgid "IDS_PJSD808_YEAR"
+msgstr "1942 г."
+
+msgid "IDS_PJUA716_ART_COLORFUL_AKIZUKI"
+msgstr "100-мм/65 Type 98 в установке Model A"
+
+msgid "IDS_PJUE719_ENG_COLORFUL_AKIZUKI"
+msgstr " 52 000 л.с."
+
+msgid "IDS_PJUH730_HULL_COLORFUL_AKIZUKI"
+msgstr "Akizuki CLR"
+
+msgid "IDS_PJUS709_SUO_COLORFUL_AKIZUKI"
+msgstr "Type8"
+
+msgid "IDS_PJUT716_TORP_COLORFUL_AKIZUKI"
+msgstr "Type93 mod. 2"
+
+msgid "IDS_PRES328_TSARMOREY_LUKOMOR"
+msgstr "Лукоморье"
+
+msgid "IDS_PRES610_CHELYABINSKY_KOMSOMOLETS"
+msgstr "Челябинский комсомолец"
+
+msgid "IDS_PRGM212_203MM55_BARRELS_3_ITL"
+msgstr "203-мм/55 Model 1934 於砲塔內"
+
+msgid "IDS_PRGS211_100MM_70_BL_127_QUAD"
+msgstr "100-мм/70 в установке БЛ-127"
+
+msgid "IDS_PRPA152_152MM_OFU35_SCHERBAKOV"
+msgstr "ОФУ-35"
+
+msgid "IDS_PRPA153_152MM_B35_SCHERBAKOV"
+msgstr "Б-35"
+
+msgid "IDS_PRPA217_152MM_CS_SCHERBAKOV"
+msgstr "ПБ-35"
+
+msgid "IDS_PRSC519"
+msgstr "謝爾巴科夫"
+
+msgid "IDS_PRSC519_DESCR"
+msgstr "1954 年，一項項目獲得批准，為仍在船台上的 68-BIS 巡洋艦重新裝備新的四聯 45 毫米砲座。 同時，計畫在其上安裝25毫米炮裝置，改進電子和雷達設備，並增加船體強度。 第一艘即將完工的是謝爾巴科夫號，它於 1951 年在列寧格勒奠基，並於 1954 年 3 月下水。 領導層改變了對大型火砲作用的看法，改進項目的巡洋艦沒有完成。"
+
+msgid "IDS_PRSC519_FULL"
+msgstr "Щербаков"
+
+msgid "IDS_PRSC519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC519_YEAR"
+msgstr "1954 年"
+
+msgid "IDS_PRUA816_ART_SCHERBAKOV"
+msgstr "152-мм/57 Б-38 в установке МК-5-бис"
+
+msgid "IDS_PRUE815_ENG_SCHERBAKOV"
+msgstr " 124 000 л.с."
+
+msgid "IDS_PRUH824_SCHERBAKOV"
+msgstr "Щербаков"
+
+msgid "IDS_PRUS823_SUO_SCHERBAKOV"
+msgstr "СУО IX мод. 1"
+
+msgid "IDS_PRUT813_TORP_SCHERBAKOV"
+msgstr "53-38"
+
+msgid "IDS_PSES419_ANDALUCIA_COLORFUL"
+msgstr "Янтарная волна"
+
+msgid "IDS_PSGM059_381MM_50_QUAD_OTTO"
+msgstr "381-мм/50 Model 1934 於砲塔內"
+
+msgid "IDS_PSGS053_152MM55_BARRELS_3_M1936_L"
+msgstr "152-мм/55 Model 1936 в установке Model 1936"
+
+msgid "IDS_PSGS060_105_MM_SKC_37"
+msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+
+msgid "IDS_PSPA027_152MM_55_1936_HE"
+msgstr "152-мм proiettili HE"
+
+msgid "IDS_PSPA028_105MM_HE_HE_33LBS"
+msgstr "105-мм Spr.Gr. Kz."
+
+msgid "IDS_PSPA029_381MM_HE_CONQUISTADOR"
+msgstr "381-мм proiettili HE"
+
+msgid "IDS_PSPA030_381MM_AP_CONQUISTADOR"
+msgstr "381-мм proiettili AP"
+
+msgid "IDS_PSSB510"
+msgstr "征服者 Conquistador"
+
+msgid "IDS_PSSB510_DESCR"
+msgstr "贏得內戰後，佛朗哥政府加強了與義大利的聯繫。 在 20 世紀 30 年代末和 1940 年代初。 西班牙正在考慮根據義大利設計建造一艘戰艦。 當時義大利戰艦最現代的設計是安薩爾多公司在1930年代中期開發的標準排水量42,000噸的艦艇設計。"
+
+msgid "IDS_PSSB510_FULL"
+msgstr "Conquistador"
+
+msgid "IDS_PSSB510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSB510_YEAR"
+msgstr "1943年"
+
+msgid "IDS_PSSC809"
+msgstr "安達露西亞 CLR"
+
+msgid "IDS_PSSC809_DESCR"
+msgstr "在為海軍建造並修復艦艇的同時，Franco 執政下的西班牙也忙於設計新艦艇。1938 年共有 5 項驅逐艦計畫和數項巡洋艦計畫產出，排水量介於 7,920 至 19,000 噸之間。其中最大型的為「36 節航速巡洋艦」的 138 計畫，提供了數種主炮配置的選擇。其中一個選項是建造一艘配備主力艦 España 炮塔的巡洋艦。但大多數選項計劃採用的是 203 至 254 毫米口徑火炮的三座三聯裝炮塔。"
+
+msgid "IDS_PSSC809_FULL"
+msgstr "Andalucía CLR"
+
+msgid "IDS_PSSC809_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSC809_YEAR"
+msgstr "1938 г."
+
+msgid "IDS_PSUA802_ART_COLORFUL_ANDALUCIA"
+msgstr "234-мм/50 Mk.XII 於砲塔內"
+
+msgid "IDS_PSUA903_ART_CONQUISTADOR"
+msgstr "381-мм/50 Model 1934 於砲塔內"
+
+msgid "IDS_PSUE802_ENG_COLORFUL_ANDALUCIA"
+msgstr " 170 000匹馬力"
+
+msgid "IDS_PSUE903_ENG_CONQUISTADOR"
+msgstr " 160 000匹馬力"
+
+msgid "IDS_PSUH803_HULL_COLORFUL_ANDALUCIA"
+msgstr "Andalucía CLR"
+
+msgid "IDS_PSUH903_HULL_CONQUISTADOR"
+msgstr "Conquistador"
+
+msgid "IDS_PSUS803_SUO_COLORFUL_ANDALUCIA"
+msgstr "SCI Mk IX"
+
+msgid "IDS_PSUS903_SUO_CONQUISTADOR"
+msgstr "SCI Mk X"
+
+msgid "IDS_PSUT802_TORP_COLORFUL_ANDALUCIA"
+msgstr "533-мм Mk VIII ES"
+
+msgid "IDS_PUSHKIN"
+msgstr "亞歷山大‧普希金\""
+
+msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_HIDDEN_SHIPS_NEUTRAL_TEAM"
+msgstr "等待房主將您分配到一個隊伍"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "VIII-X級"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII-X級"
+
+msgid "IDS_REWARD_PORTAL_DESCRIPTION"
+msgstr "因在「海軍卓越」類別的戰鬥任務中取得優異成績而獲獎。 總結活動結果後自動記入得獎者名下"
+
+msgid "IDS_REWARD_PORTAL_TITLE"
+msgstr "特別獎"
+
+msgid "IDS_REWARD_STREAM_PRM_BIG_DESCRIPTION"
+msgstr "在串流平台上觀看「MNP KORABLI」遊戲的直播可以獲得獎勵。內容清單可以在網站上找到"
+
+msgid "IDS_REWARD_STREAM_PRM_BIG_TITLE"
+msgstr "大禮包"
+
+msgid "IDS_REWARD_STREAM_PRM_MYSTERY_DESCRIPTION"
+msgstr "在串流平台上觀看「MNP KORABLI」遊戲的直播可以獲得獎勵。內容清單可以在網站上找到"
+
+msgid "IDS_REWARD_STREAM_PRM_MYSTERY_TITLE"
+msgstr "神秘獎勵"
+
+msgid "IDS_REWARD_STREAM_PRM_SMALL_DESCRIPTION"
+msgstr ""
+"在圖奇平台上觀看MNP KORABLI官方頻道播出的獎勵 \n"
+"內容清單可以在網站上找到。"
+
+msgid "IDS_REWARD_STREAM_PRM_SMALL_TITLE"
+msgstr "小禮包"
+
+msgid "IDS_SCENARIO_CVC_ARMSRACE"
+msgstr "公會戰 · 軍備競賽"
+
+msgid "IDS_SERVICE_SHIP_TO_OPERATE_MODERNIZATION"
+msgstr "船舶需要維修以更改升級品"
+
+msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
+msgstr "現為準備狀態 若要更該艦艇配置 請取消準備"
+
+msgid "IDS_SHIP_INFO_HIDDEN_IN_TRAINING"
+msgstr "敵方艦艇裝備已隱藏"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM099_BRAWL_ENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM100_BRAWL_DDANERF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM101_BRAWL_TORPEDOBIT"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM099_BRAWL_ENGINEBOOST"
+msgstr "增加艦艇靈活度"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM100_BRAWL_DDANERF"
+msgstr "造成傷害減少"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM101_BRAWL_TORPEDOBIT"
+msgstr "增加魚雷的裝填速度"
+
+msgid "IDS_SHIP_MODIFIER_PXOM099_BRAWL_ENGINEBOOST_APPLIED"
+msgstr "增加艦艇靈活度"
+
+msgid "IDS_SHIP_MODIFIER_PXOM100_BRAWL_DDANERF_APPLIED"
+msgstr "造成傷害減少"
+
+msgid "IDS_SHIP_MODIFIER_PXOM101_BRAWL_TORPEDOBIT_APPLIED"
+msgstr "增加魚雷的裝填速度"
+
+msgid "IDS_SOUND_MOD_PUSHKIN"
+msgstr "亞歷山大‧普希金"
+
+msgid "IDS_SOUND_MOD_PUSHKINTALES_CAT_SCIENTIST"
+msgstr "IDS_凱特"
+
+msgid "IDS_SOUND_MOD_PUSHKINTALES_CHERNOMOR"
+msgstr "切爾諾莫爾 Черномор"
+
+msgid "IDS_SPACES/56_KAMCHATKA"
+msgstr "堪察加半島 Камчатка"
+
+msgid "IDS_SPACES/56_KAMCHATKA_DESCR"
+msgstr "堪察加半島 Камчатка"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_COMMON_SUBTITLE"
+msgstr "一般結果"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_REWARDS_SUBTITLE"
+msgstr "收到獎勵"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TASKS"
+msgstr "任務已完成"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
+msgstr "領土已控制"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TITLE"
+msgstr "新年狂歡活動已經結束"
+
+msgid "IDS_VIEW_SHIP_INFO_DISABLED"
+msgstr "敵艦裝備的資訊被隱藏"
